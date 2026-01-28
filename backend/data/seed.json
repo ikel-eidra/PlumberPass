@@ -1,0 +1,49 @@
+{
+  "topics": [
+    {
+      "name": "Plumbing Fundamentals",
+      "subtopics": ["Codes & Standards", "Tools", "Safety"]
+    },
+    {
+      "name": "Water Supply",
+      "subtopics": ["Pipe Sizing", "Pressure", "Valves"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-001",
+      "topic": "Plumbing Fundamentals",
+      "subtopic": "Codes & Standards",
+      "difficulty": "Easy",
+      "prompt": "Which document outlines the minimum safety standards for plumbing installations?",
+      "choices": [
+        {"label": "A", "text": "National Electrical Code"},
+        {"label": "B", "text": "National Plumbing Code"},
+        {"label": "C", "text": "Building Energy Code"},
+        {"label": "D", "text": "Fire Safety Manual"},
+        {"label": "E", "text": "Stormwater Handbook"}
+      ],
+      "answer_key": "B",
+      "explanation_short": "The National Plumbing Code sets minimum safety and installation standards.",
+      "explanation_long": "Plumbing installations follow the National Plumbing Code (or local adaptation) to ensure safe materials, sizing, and installation practices.",
+      "tags": ["codes", "safety"]
+    },
+    {
+      "id": "q-002",
+      "topic": "Water Supply",
+      "subtopic": "Pipe Sizing",
+      "difficulty": "Medium",
+      "prompt": "What is the primary goal of correct pipe sizing in water supply systems?",
+      "choices": [
+        {"label": "A", "text": "Reduce fixture count"},
+        {"label": "B", "text": "Eliminate all valves"},
+        {"label": "C", "text": "Maintain adequate flow and pressure"},
+        {"label": "D", "text": "Increase water temperature"}
+      ],
+      "answer_key": "C",
+      "explanation_short": "Proper sizing ensures fixtures receive the needed flow and pressure.",
+      "explanation_long": "Pipe sizing balances pressure loss and flow demand so multiple fixtures can operate without pressure drops.",
+      "tags": ["sizing", "pressure"]
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "QID": "MOCK1-051",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Distances",
+    "QuestionText": "What is the minimum horizontal distance required between a septic tank and a tree?",
+    "Choices": {
+      "A": "1.5 m",
+      "B": "3.0 m",
+      "C": "4.5 m",
+      "D": "6.0 m"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "3.0 meters.",
+    "ExplanationLong": "According to Table B-1 (Location of Sewage Disposal System), a 3.0-meter distance is required between a septic tank and trees to prevent root intrusion.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 9.pdf | Table B-1",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-052",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Valves",
+    "QuestionText": "Which type of valve is best suited for throttling or regulating flow?",
+    "Choices": {
+      "A": "Gate Valve",
+      "B": "Globe Valve",
+      "C": "Check Valve",
+      "D": "Foot Valve"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Globe Valve.",
+    "ExplanationLong": "Globe valves force the fluid to change direction, creating resistance that makes them effective for throttling, unlike gate valves which are for on/off service.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 2.pdf | Q#38",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-053",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Pipe Color Codes",
+    "QuestionText": "According to the National Building Code (Rule X), what is the color code for High Pressure Steam?",
+    "Choices": {
+      "A": "Buff",
+      "B": "White",
+      "C": "Black",
+      "D": "Gray"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "White.",
+    "ExplanationLong": "High Pressure Steam is White. Exhaust systems are Buff. (Note: This is specific to NBC Rule X).",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 2.pdf | Q#22",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-054",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Safety",
+    "QuestionText": "What is the maximum length allowed for a single portable ladder?",
+    "Choices": {
+      "A": "20 ft",
+      "B": "30 ft",
+      "C": "40 ft",
+      "D": "60 ft"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "20 ft.",
+    "ExplanationLong": "Single portable ladders shall not exceed 20 feet. Extension ladders can go up to 60 feet.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 3.pdf | Q#35",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-055",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Storm Drainage",
+    "QuestionText": "What is the minimum gauge for a galvanized sheet metal rainwater downspout located on the exterior?",
+    "Choices": {
+      "A": "GA 22",
+      "B": "GA 24",
+      "C": "GA 26",
+      "D": "GA 28"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "GA 26.",
+    "ExplanationLong": "Exterior downspouts must be at least Gauge 26 galvanized sheet metal.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#16",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-056",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Geometry",
+    "QuestionText": "How many degrees are in 2π radians?",
+    "Choices": {
+      "A": "90",
+      "B": "180",
+      "C": "270",
+      "D": "360"
+    },
+    "AnswerKey": "D",
+    "ExplanationShort": "360 degrees.",
+    "ExplanationLong": "2π radians represents a full circle, which is 360 degrees.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 10.pdf | Q#23",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-057",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Traps",
+    "QuestionText": "Experienced plumbers typically specify a floor drain trap size not less than:",
+    "Choices": {
+      "A": "38 mm",
+      "B": "51 mm",
+      "C": "75 mm",
+      "D": "100 mm"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "75 mm (3 inches).",
+    "ExplanationLong": "While code might allow smaller, experienced practice recommends 75mm (3 inches) for underground floor drains to reduce clogging risks.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 7.pdf | Q#11",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-058",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Color Codes",
+    "QuestionText": "Under ANSI/ASME A13, which material is identified by 'White text on Blue background'?",
+    "Choices": {
+      "A": "Potable Water",
+      "B": "Compressed Air",
+      "C": "Steam",
+      "D": "Oil"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Compressed Air.",
+    "ExplanationLong": "ANSI uses Blue for Compressed Air. (Note: NBC Philippines uses Blue for Potable Water. Be careful with the standard specified in the question).",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 1.pdf | Q#30",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-059",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Venting",
+    "QuestionText": "A vent opening must terminate at least how many meters horizontally from an openable window?",
+    "Choices": {
+      "A": "0.9 m",
+      "B": "1.5 m",
+      "C": "3.0 m",
+      "D": "4.5 m"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "3.0 meters.",
+    "ExplanationLong": "Vent termination must be at least 3.0 meters away horizontally from a window, or 0.9 meters above it.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#19",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-060",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Fixtures",
+    "QuestionText": "Wall-hung water closets must be capable of supporting a load of:",
+    "Choices": {
+      "A": "250 lbs",
+      "B": "300 lbs",
+      "C": "400 lbs",
+      "D": "500 lbs"
+    },
+    "AnswerKey": "D",
+    "ExplanationShort": "500 lbs.",
+    "ExplanationLong": "To ensure safety, wall-hung fixtures must be rigidly supported to withstand a 500 lb load.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 5.pdf | Q#45",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-061",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Definitions",
+    "QuestionText": "In a ratio, the first term is called the:",
+    "Choices": {
+      "A": "Antecedent",
+      "B": "Consequent",
+      "C": "Precedent",
+      "D": "Incident"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "Antecedent.",
+    "ExplanationLong": "The first term is the Antecedent; the second is the Consequent.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 10.pdf | Q#15",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-062",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Fittings",
+    "QuestionText": "Horizontal drainage lines connecting with other horizontal lines should use:",
+    "Choices": {
+      "A": "Sanitary Tee",
+      "B": "45-degree Wye",
+      "C": "Quarter Bend",
+      "D": "Double Tapped Tee"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "45-degree Wye.",
+    "ExplanationLong": "Horizontal-to-horizontal changes in direction require a 45-degree Wye or Combination Wye & 1/8 Bend.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 6.pdf | Q#15",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-063",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Fire Protection",
+    "QuestionText": "What is the symbol shape for Class A fires (Ordinary Combustibles)?",
+    "Choices": {
+      "A": "Circle",
+      "B": "Square",
+      "C": "Triangle",
+      "D": "Star"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Triangle.",
+    "ExplanationLong": "Class A fires are represented by a Triangle (usually green). Class B is a Square. Class C is a Circle.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 1.pdf | Q#12",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-064",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Pumps",
+    "QuestionText": "Which type of pump uses an impeller mounted on a rotating shaft?",
+    "Choices": {
+      "A": "Piston Pump",
+      "B": "Centrifugal Pump",
+      "C": "Reciprocating Pump",
+      "D": "Diaphragm Pump"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Centrifugal Pump.",
+    "ExplanationLong": "Centrifugal pumps use a rotating impeller to increase fluid velocity.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 3.pdf | Q#23",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-065",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Physics",
+    "QuestionText": "The density of water is approximately:",
+    "Choices": {
+      "A": "100 kg/m3",
+      "B": "1000 kg/m3",
+      "C": "62.4 kg/m3",
+      "D": "1 g/m3"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1000 kg/m3.",
+    "ExplanationLong": "Water density is 1000 kg/m3 or 1 g/cm3 or 62.4 lbs/ft3.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 1.pdf | Q#20",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-066",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Definitions",
+    "QuestionText": "A public sewerage system is defined as a system serving how many persons or more?",
+    "Choices": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "50"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "25 persons.",
+    "ExplanationLong": "PD 856 defines a public sewerage system as serving 25 persons or more.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 8.pdf | Q#31",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-067",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Maintenance",
+    "QuestionText": "What is the most common repair required for faucets?",
+    "Choices": {
+      "A": "Stem replacement",
+      "B": "Handle replacement",
+      "C": "Replacement of washer",
+      "D": "Aerator cleaning"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Replacement of washer.",
+    "ExplanationLong": "Worn washers are the most frequent cause of leaky faucets.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 5.pdf | Q#37",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-068",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Plastic Pipe",
+    "QuestionText": "CPVC water pipe may be used for hot and cold water distribution only if:",
+    "Choices": {
+      "A": "Underground",
+      "B": "Within a building",
+      "C": "For industrial use",
+      "D": "Outside the building"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Within a building.",
+    "ExplanationLong": "Code restricts CPVC for hot/cold water use to 'within a building'.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 5.pdf | Q#31",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-069",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Interceptors",
+    "QuestionText": "What is the storage factor for a fully equipped commercial kitchen operating 24 hours?",
+    "Choices": {
+      "A": "1.5",
+      "B": "2.0",
+      "C": "3.0",
+      "D": "4.0"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "3.0",
+    "ExplanationLong": "8 hours = 1; 16 hours = 2; 24 hours = 3.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 2.pdf | Q#9",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-070",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Venting",
+    "QuestionText": "No more than what fraction of the total permitted length of a vent may be installed horizontally?",
+    "Choices": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "2/3"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1/3.",
+    "ExplanationLong": "Horizontal vents are less effective; code limits them to 1/3 of the total developed length.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 6.pdf | Q#20",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-071",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Tools",
+    "QuestionText": "Which tool is sometimes referred to as a 'plumber's friend'?",
+    "Choices": {
+      "A": "Pipe Wrench",
+      "B": "Force Cup (Plunger)",
+      "C": "Basin Wrench",
+      "D": "Auger"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Force Cup (Plunger).",
+    "ExplanationLong": "The Force Cup or Plunger is colloquially known as the plumber's friend for clearing simple clogs.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 4.pdf | Q#30",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-072",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Conversion",
+    "QuestionText": "How many hectares are in 10,291,996 square meters?",
+    "Choices": {
+      "A": "102.9 ha",
+      "B": "1,029.2 ha",
+      "C": "10,291 ha",
+      "D": "102,919 ha"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1,029.2 hectares.",
+    "ExplanationLong": "1 hectare = 10,000 sqm. 10,291,996 / 10,000 = 1,029.1996.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 10.pdf | Q#36",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-073",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Materials",
+    "QuestionText": "Metallic shower sub-pans must be built up with how many layers of 6.8kg asphalt felt?",
+    "Choices": {
+      "A": "1 layer",
+      "B": "2 layers",
+      "C": "3 layers",
+      "D": "4 layers"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "3 layers.",
+    "ExplanationLong": "The code requires not less than 3 layers of standard grade 6.8kg asphalt-impregnated roofing felt.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 7.pdf | Q#27",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-074",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Tools",
+    "QuestionText": "Which tool is best for heavy and dense root stoppages in pipes?",
+    "Choices": {
+      "A": "Funnel Auger",
+      "B": "Drophead Auger",
+      "C": "Hook Auger",
+      "D": "Straight Auger"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Hook Auger.",
+    "ExplanationLong": "A Hook Auger is designed to hook and break up heavy, dense root stoppages.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 3.pdf | Q#34",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-075",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Fire Protection",
+    "QuestionText": "What is the color coding for a Foam Fire Extinguisher?",
+    "Choices": {
+      "A": "Blue",
+      "B": "Cream",
+      "C": "Black",
+      "D": "Red"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Cream.",
+    "ExplanationLong": "Foam extinguishers are Cream. Water is Red. Dry Powder is Blue. CO2 is Black.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 1.pdf | Q#11",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-076",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Definitions",
+    "QuestionText": "Which pipe conveys discharge from inside the walls to the building sewer?",
+    "Choices": {
+      "A": "House Drain (Building Drain)",
+      "B": "Soil Stack",
+      "C": "Waste Pipe",
+      "D": "Fixture Branch"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "House Drain (Building Drain).",
+    "ExplanationLong": "The House Drain is the lowest horizontal piping receiving discharge from inside and conveying it to the sewer (starting 0.6m outside).",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 4.pdf | Q#2",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-077",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Physics",
+    "QuestionText": "A car accelerates from rest to 20 m/s over 15m. What is its acceleration?",
+    "Choices": {
+      "A": "1.3 m/s2",
+      "B": "13.33 m/s2",
+      "C": "20 m/s2",
+      "D": "300 m/s2"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "13.33 m/s2.",
+    "ExplanationLong": "Use kinematic eq: v^2 = u^2 + 2as. 400 = 0 + 2a(15). 400 = 30a. a = 13.33.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 10.pdf | Q#43",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-078",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Materials",
+    "QuestionText": "What is the minimum thickness of copper pans or liners?",
+    "Choices": {
+      "A": "0.5 mm",
+      "B": "0.8 mm",
+      "C": "1.0 mm",
+      "D": "1.6 mm"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "0.5 mm.",
+    "ExplanationLong": "Copper pans must be at least Gauge No. 24 B&S or 0.5 mm thick.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 2.pdf | Q#4",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-079",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Venting",
+    "QuestionText": "The size of a yoke vent shall not be less than:",
+    "Choices": {
+      "A": "The soil stack",
+      "B": "The vent stack",
+      "C": "The smaller of the soil or vent stack",
+      "D": "The larger of the soil or vent stack"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "The smaller of the soil or vent stack.",
+    "ExplanationLong": "Code requires yoke vents to be sized based on the smaller of the two stacks it connects.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#31",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-080",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Joints",
+    "QuestionText": "To ensure tight connections in galvanized steel pipes, the threads should be:",
+    "Choices": {
+      "A": "Straight",
+      "B": "Tapered",
+      "C": "Lubricated only",
+      "D": "Coarse"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Tapered.",
+    "ExplanationLong": "Tapered threads (NPT) allow for a wedging action that creates a tight metal-to-metal seal.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 7.pdf | Q#3",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-081",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Fixtures",
+    "QuestionText": "What is the maximum height of a water closet for juvenile use?",
+    "Choices": {
+      "A": "10 inches",
+      "B": "12 inches",
+      "C": "14 inches",
+      "D": "15 inches"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "10 inches.",
+    "ExplanationLong": "Juvenile WCs are typically 10 inches high. Standard is 14-15 inches.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 2.pdf | Q#25",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-082",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Calculations",
+    "QuestionText": "Calculate board feet for 35 pcs of lumber: 2\" x 8\" x 8'.",
+    "Choices": {
+      "A": "233",
+      "B": "333",
+      "C": "373",
+      "D": "473"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "373 board feet.",
+    "ExplanationLong": "1 pc = (2*8*8)/12 = 10.66 bdft. 35 * 10.66 = 373.33.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 10.pdf | Q#25",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-083",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Septic Abandonment",
+    "QuestionText": "An abandoned septic tank must be filled within how many days of connecting to the public sewer?",
+    "Choices": {
+      "A": "7 days",
+      "B": "15 days",
+      "C": "30 days",
+      "D": "60 days"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "30 days.",
+    "ExplanationLong": "The code requires filling abandoned disposal facilities within 30 days.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 9.pdf | Q#23",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-084",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Standards",
+    "QuestionText": "ASTM A123 covers the specification for:",
+    "Choices": {
+      "A": "PVC Pipe",
+      "B": "Zinc (Hot-Dipped Galvanized) Coatings",
+      "C": "Copper Tube",
+      "D": "Cast Iron"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Zinc (Hot-Dipped Galvanized) Coatings.",
+    "ExplanationLong": "ASTM A123 is the standard for zinc coatings on iron and steel.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 1.pdf | Q#5",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-085",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Safety",
+    "QuestionText": "According to OSHA, the safe oxygen level in a confined space is between:",
+    "Choices": {
+      "A": "15% - 20%",
+      "B": "19.5% - 23.5%",
+      "C": "25% - 30%",
+      "D": "10% - 15%"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "19.5% and 23.5%.",
+    "ExplanationLong": "Levels below 19.5% are oxygen-deficient; above 23.5% are oxygen-enriched (fire hazard).",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 8.pdf | Q#46",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-086",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Corrosion",
+    "QuestionText": "Corrosion characterized by a uniform rate of breakdown over the entire surface is called:",
+    "Choices": {
+      "A": "Localized Corrosion",
+      "B": "General (Uniform) Corrosion",
+      "C": "Pitting",
+      "D": "Galvanic Corrosion"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "General (Uniform) Corrosion.",
+    "ExplanationLong": "This is the most common form where the material thins uniformly.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 8.pdf | Q#13",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-087",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Pumps",
+    "QuestionText": "If a jet pump has 3 Water HP and 3.4 Brake HP, what is the motor efficiency?",
+    "Choices": {
+      "A": "85%",
+      "B": "88.24%",
+      "C": "90%",
+      "D": "92%"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "88.24%.",
+    "ExplanationLong": "Efficiency = Output/Input = 3 / 3.4 = 0.88235...",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 3.pdf | Q#39",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-088",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Valves",
+    "QuestionText": "Which valve is considered an adaptation of the ball valve?",
+    "Choices": {
+      "A": "Plug Valve",
+      "B": "Globe Valve",
+      "C": "Gate Valve",
+      "D": "Butterfly Valve"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "Plug Valve.",
+    "ExplanationLong": "A plug valve uses a tapered/cylindrical plug, similar in operation to a ball in a ball valve.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 5.pdf | Q#39",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-089",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Fixtures",
+    "QuestionText": "When urinals are provided, one WC can be subtracted for each urinal, but the WC count cannot be reduced to less than:",
+    "Choices": {
+      "A": "1/2 of required",
+      "B": "2/3 of required",
+      "C": "3/4 of required",
+      "D": "1/3 of required"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "2/3 of the minimum requirement.",
+    "ExplanationLong": "You can substitute urinals for WCs, but must maintain at least 2/3 of the required WCs.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 4.pdf | Q#14",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-090",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Thermodynamics",
+    "QuestionText": "What is the specific heat capacity of water?",
+    "Choices": {
+      "A": "1.0 J/gC",
+      "B": "2.5 J/gC",
+      "C": "4.184 J/gC",
+      "D": "100 J/gC"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "4.184 J/gC.",
+    "ExplanationLong": "Water has a specific heat capacity of approx 4.18 J/gC (or 1 calorie/gC).",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 8.pdf | Q#28",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-091",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Special Wastes",
+    "QuestionText": "A 'Sacrarium' sink in a church must discharge:",
+    "Choices": {
+      "A": "Into the sanitary sewer",
+      "B": "Into a grease trap",
+      "C": "Directly to the ground",
+      "D": "Into a storm drain"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Directly to the ground.",
+    "ExplanationLong": "Sacrarium (holy water) sinks must discharge to the ground (dry well), not the sanitary sewer.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#7",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-092",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Piping",
+    "QuestionText": "Which pipe is sufficiently flexible to follow ground contours and snake around obstacles?",
+    "Choices": {
+      "A": "PVC",
+      "B": "PE (Polyethylene)",
+      "C": "Cast Iron",
+      "D": "Vitrified Clay"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "PE (Polyethylene).",
+    "ExplanationLong": "PE pipe is known for its flexibility in trenching.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 5.pdf | Q#3",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-093",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Dimensions",
+    "QuestionText": "The approximate height of a kitchen sink above the floor is:",
+    "Choices": {
+      "A": "30 inches",
+      "B": "34 inches",
+      "C": "36 inches",
+      "D": "40 inches"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "36 inches (91 cm).",
+    "ExplanationLong": "Standard kitchen sink rim height is 36 inches.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 1.pdf | Q#10",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-094",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Storm Drain",
+    "QuestionText": "Rain surface water may be discharged into the excreta drainage system.",
+    "Choices": {
+      "A": "True, always",
+      "B": "False, unless approved by Authority",
+      "C": "True, if the pipe is 6 inches or larger",
+      "D": "False, never allowed under any circumstance"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "False, unless approved.",
+    "ExplanationLong": "General rule is separation, unless the Administrative Authority specifically approves a combined system.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 6.pdf | Q#27",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-095",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Soldering",
+    "QuestionText": "A soldered joint uses alloys which melt at a temperature:",
+    "Choices": {
+      "A": "Below 427°C",
+      "B": "Above 449°C",
+      "C": "Above 800°C",
+      "D": "Below 100°C"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "Below 427°C.",
+    "ExplanationLong": "Soldering occurs below 427°C (800°F). Brazing occurs above this temperature.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 7.pdf | Q#33",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-096",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Tools",
+    "QuestionText": "Which tool is used for installing No-Hub Cast Iron soil pipes?",
+    "Choices": {
+      "A": "Pipe Wrench",
+      "B": "Torque Wrench",
+      "C": "Basin Wrench",
+      "D": "Chain Wrench"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Torque Wrench.",
+    "ExplanationLong": "A torque wrench is required to tighten the bands on no-hub couplings to the specific torque rating.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 3.pdf | Q#29",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-097",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Fluid Mechanics",
+    "QuestionText": "Water flows at 8 m/s through a 4m diameter pipe. If the diameter increases to 5m, what is the new velocity? (A1V1 = A2V2)",
+    "Choices": {
+      "A": "4.95 m/s",
+      "B": "5.12 m/s",
+      "C": "6.40 m/s",
+      "D": "10.0 m/s"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "5.12 m/s.",
+    "ExplanationLong": "A1 = 12.56, A2 = 19.63. (12.56 * 8) / 19.63 = 5.12.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 3.pdf | Q#48",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-098",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Water Quality",
+    "QuestionText": "Water hardness classified as 'Very Hard' is:",
+    "Choices": {
+      "A": "0-75 mg/L",
+      "B": "76-150 mg/L",
+      "C": "151-300 mg/L",
+      "D": "Over 300 mg/L"
+    },
+    "AnswerKey": "D",
+    "ExplanationShort": "Over 300 mg/L.",
+    "ExplanationLong": "0-75 Soft, 76-150 Moderate, 151-300 Hard, >300 Very Hard.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 1.pdf | Q#13",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-099",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Valves",
+    "QuestionText": "A Sluice Valve is another name for a:",
+    "Choices": {
+      "A": "Butterfly Valve",
+      "B": "Gate Valve",
+      "C": "Check Valve",
+      "D": "Globe Valve"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Gate Valve.",
+    "ExplanationLong": "Gate valves are often called Sluice Valves in waterworks applications.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 8.pdf | Q#23",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-100",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Safety",
+    "QuestionText": "What does MSDS stand for?",
+    "Choices": {
+      "A": "Material Standard Delivery Sheet",
+      "B": "Material Safety Data Sheet",
+      "C": "Metric System Data Sheet",
+      "D": "Mechanical Safety Design Sheet"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Material Safety Data Sheet.",
+    "ExplanationLong": "MSDS (now SDS) lists hazards and safety info for chemicals.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 4.pdf | Q#4",
+    "QualityFlag": "OK"
+  }
+]
