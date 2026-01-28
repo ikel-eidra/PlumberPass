@@ -3,10 +3,12 @@ from __future__ import annotations
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from .models import Flashcard, HealthResponse, IdentificationItem, Question, Topic
+from .models import Flashcard, HealthResponse, IdentificationItem, MockQuestion, Question, Topic
 from .storage import (
     load_flashcards,
     load_identification_items,
+    load_mock_exam1_part_a,
+    load_mock_exam1_part_b,
     load_questions,
     load_topics,
 )
@@ -45,3 +47,13 @@ async def list_flashcards() -> list[Flashcard]:
 @app.get("/identification", response_model=list[IdentificationItem])
 async def list_identification_items() -> list[IdentificationItem]:
     return load_identification_items()
+
+
+@app.get("/mock-exams/1/part-a", response_model=list[MockQuestion])
+async def list_mock_exam1_part_a() -> list[MockQuestion]:
+    return load_mock_exam1_part_a()
+
+
+@app.get("/mock-exams/1/part-b", response_model=list[MockQuestion])
+async def list_mock_exam1_part_b() -> list[MockQuestion]:
+    return load_mock_exam1_part_b()

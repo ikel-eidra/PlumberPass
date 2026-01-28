@@ -49,6 +49,18 @@ class IdentificationItem(BaseModel):
     quality_flag: str
 
 
+class MockQuestion(BaseModel):
+    id: str
+    topic: str
+    subtopic: str
+    prompt: str
+    choices: list[Choice]
+    answer_key: str = Field(..., min_length=1, max_length=1)
+    explanation_short: str
+    explanation_long: str
+    difficulty: int
+    source_ref: str
+    quality_flag: str
 class Topic(BaseModel):
     name: str
     subtopics: list[str]
