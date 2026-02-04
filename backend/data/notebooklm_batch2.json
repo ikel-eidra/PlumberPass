@@ -1,0 +1,814 @@
+{
+  "flashcards": [
+    {
+      "id": "FC-WH-001",
+      "topic": "Water Systems",
+      "subtopic": "Water Hammer",
+      "front": "What causes water hammer?",
+      "back": "Sudden stoppage or rapid change of water flow in a pipe, causing a pressure surge.",
+      "explanation_short": "Water hammer is caused by a sudden change in water flow.",
+      "explanation_long": "The term water hammer describes the shock wave created when flowing water is abruptly stopped or rapidly changed in direction, leading to a pressure surge in the piping system.",
+      "tags": ["water-hammer", "pressure"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-WH-002",
+      "topic": "Water Systems",
+      "subtopic": "Water Hammer",
+      "front": "What is a common effect of water hammer?",
+      "back": "It can cause damage to pipes, valves, and joints.",
+      "explanation_short": "Water hammer can damage plumbing components.",
+      "explanation_long": "The high-pressure surge from water hammer can strain and damage pipes, valves, joints, and related plumbing components.",
+      "tags": ["water-hammer", "damage"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-WH-003",
+      "topic": "Water Systems",
+      "subtopic": "Water Hammer",
+      "front": "What is a main way to prevent water hammer?",
+      "back": "Install air chambers or water hammer arrestors.",
+      "explanation_short": "Air chambers or arrestors help absorb shock.",
+      "explanation_long": "Air chambers or mechanical water hammer arrestors cushion sudden pressure changes, reducing shock in the piping system.",
+      "tags": ["water-hammer", "prevention"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-HYD-001",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "front": "What is the difference between static and dynamic pressure?",
+      "back": "Static pressure is pressure at rest, while dynamic pressure occurs when water is flowing.",
+      "explanation_short": "Static is at rest; dynamic is during flow.",
+      "explanation_long": "Static pressure exists in a system when water is not moving. Dynamic pressure is measured when water is in motion, and it accounts for flow-related effects.",
+      "tags": ["pressure", "hydraulics"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-HYD-002",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "front": "How is pressure related to head?",
+      "back": "Pressure (in psi) = Head (ft) × 0.433.",
+      "explanation_short": "Use 0.433 psi per foot of head.",
+      "explanation_long": "Water pressure in pounds per square inch can be calculated by multiplying the head in feet by 0.433.",
+      "tags": ["pressure", "head"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-HYD-003",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "front": "What is meant by \"head\" in plumbing?",
+      "back": "The vertical distance between water supply level and the point of use.",
+      "explanation_short": "Head is the vertical distance that creates pressure.",
+      "explanation_long": "In plumbing, head refers to the vertical distance between the water source (supply level) and the point of use, which determines pressure.",
+      "tags": ["pressure", "head"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-HYD-004",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "front": "How is friction loss characterized in a piping system?",
+      "back": "Loss of pressure due to pipe length, diameter, and fittings.",
+      "explanation_short": "Friction loss depends on length, diameter, and fittings.",
+      "explanation_long": "As water moves through a system, pressure is lost due to friction with pipe walls and turbulence from fittings, with greater loss in longer or smaller-diameter pipes.",
+      "tags": ["friction-loss", "hydraulics"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-HYD-005",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "front": "What is \"residual pressure\" in plumbing?",
+      "back": "The pressure remaining in a system while water is flowing.",
+      "explanation_short": "Residual pressure is the remaining pressure during flow.",
+      "explanation_long": "Residual pressure is measured when water is flowing; it reflects the pressure that remains after accounting for losses.",
+      "tags": ["pressure", "residual-pressure"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-FH-001",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "front": "What is the minimum pressure at a fire hydrant during flow?",
+      "back": "20 psi.",
+      "explanation_short": "Minimum flowing hydrant pressure is 20 psi.",
+      "explanation_long": "Fire hydrants must maintain at least 20 psi residual pressure during flow to ensure adequate firefighting capacity.",
+      "tags": ["fire-hydrant", "pressure"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-FH-002",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "front": "What is the standard flow requirement for a fire hydrant?",
+      "back": "1,000 gallons per minute (gpm) for at least 2 hours.",
+      "explanation_short": "Hydrants must supply 1,000 gpm for 2 hours.",
+      "explanation_long": "A typical requirement is that a fire hydrant can deliver 1,000 gpm continuously for a minimum of 2 hours.",
+      "tags": ["fire-hydrant", "flow"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-FH-003",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "front": "What is the usual distance between fire hydrants in urban areas?",
+      "back": "Not more than 150 meters apart.",
+      "explanation_short": "Urban hydrants are spaced up to 150 m apart.",
+      "explanation_long": "In urban settings, fire hydrants are typically located no more than 150 meters apart to ensure coverage.",
+      "tags": ["fire-hydrant", "spacing"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-FH-004",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "front": "What is the minimum size of a fire hydrant branch line?",
+      "back": "6 inches (150 mm).",
+      "explanation_short": "Hydrant branch lines must be at least 6 inches.",
+      "explanation_long": "To supply adequate flow, the branch line feeding a fire hydrant should be a minimum of 6 inches (150 mm) in diameter.",
+      "tags": ["fire-hydrant", "pipe-size"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-FH-005",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "front": "What is the recommended color of fire hydrants?",
+      "back": "Bright red or yellow.",
+      "explanation_short": "Hydrants should be easily visible.",
+      "explanation_long": "Fire hydrants are typically painted bright red or yellow to ensure visibility in emergencies.",
+      "tags": ["fire-hydrant", "visibility"],
+      "difficulty": 1,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-FH-006",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "front": "What is a typical pressure range in public water mains?",
+      "back": "40–60 psi.",
+      "explanation_short": "Public mains usually operate at 40–60 psi.",
+      "explanation_long": "Standard public water main pressures are generally maintained between 40 and 60 psi.",
+      "tags": ["water-mains", "pressure"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "FC-HYD-006",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "front": "Why is water pressure sometimes insufficient on upper floors of tall buildings?",
+      "back": "Because head loss due to elevation reduces pressure.",
+      "explanation_short": "Elevation causes head loss, reducing pressure.",
+      "explanation_long": "As elevation increases, pressure drops due to head loss, which is why upper floors can experience reduced water pressure.",
+      "tags": ["pressure", "elevation"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-WH-001",
+      "topic": "Water Systems",
+      "subtopic": "Water Hammer",
+      "question_text": "Water hammer is caused by:",
+      "choices": {
+        "A": "Friction loss",
+        "B": "Sudden stoppage of water flow",
+        "C": "Pipe corrosion",
+        "D": "Low pressure",
+        "E": "Air leaks"
+      },
+      "answer_key": "B",
+      "explanation_short": "Water hammer results from sudden stoppage of flow.",
+      "explanation_long": "When moving water is abruptly stopped, a shock wave forms, known as water hammer.",
+      "tags": ["water-hammer"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-WH-002",
+      "topic": "Water Systems",
+      "subtopic": "Water Hammer",
+      "question_text": "Which device is used to prevent water hammer?",
+      "choices": {
+        "A": "Check valve",
+        "B": "Air chamber",
+        "C": "Gate valve",
+        "D": "Globe valve",
+        "E": "Foot valve"
+      },
+      "answer_key": "B",
+      "explanation_short": "Air chambers cushion shock.",
+      "explanation_long": "Air chambers (or arrestors) absorb the shock wave that causes water hammer.",
+      "tags": ["water-hammer", "prevention"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-HYD-001",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "question_text": "Static pressure is defined as:",
+      "choices": {
+        "A": "Pressure when water is flowing",
+        "B": "Pressure when water is at rest",
+        "C": "Loss of pressure due to friction",
+        "D": "Pressure in fire hydrants",
+        "E": "Pressure in pipes above 50 psi"
+      },
+      "answer_key": "B",
+      "explanation_short": "Static pressure is at rest.",
+      "explanation_long": "Static pressure exists when the water is not moving.",
+      "tags": ["pressure"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-HYD-002",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "question_text": "Dynamic pressure is:",
+      "choices": {
+        "A": "Pressure at rest",
+        "B": "Pressure when water is flowing",
+        "C": "Atmospheric pressure",
+        "D": "Residual pressure",
+        "E": "Water hammer"
+      },
+      "answer_key": "B",
+      "explanation_short": "Dynamic pressure occurs during flow.",
+      "explanation_long": "Dynamic pressure is measured while water is in motion.",
+      "tags": ["pressure"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-HYD-003",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "question_text": "Pressure (psi) can be calculated from head (ft) by:",
+      "choices": {
+        "A": "Head × 0.433",
+        "B": "Head ÷ 0.433",
+        "C": "Head × 2.31",
+        "D": "Head ÷ 2.31",
+        "E": "Head × 1.0"
+      },
+      "answer_key": "A",
+      "explanation_short": "Multiply head by 0.433.",
+      "explanation_long": "Each foot of head equals 0.433 psi.",
+      "tags": ["pressure", "head"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-HYD-004",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "question_text": "Head refers to:",
+      "choices": {
+        "A": "Pipe diameter",
+        "B": "Vertical distance between water level and outlet",
+        "C": "Flow velocity",
+        "D": "Friction loss",
+        "E": "Pipe length"
+      },
+      "answer_key": "B",
+      "explanation_short": "Head is vertical distance.",
+      "explanation_long": "Head is the vertical distance that provides water pressure.",
+      "tags": ["pressure", "head"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-HYD-005",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "question_text": "Friction loss depends on:",
+      "choices": {
+        "A": "Pipe length and diameter",
+        "B": "Water color",
+        "C": "Air temperature",
+        "D": "Pipe material only",
+        "E": "Pressure at hydrant"
+      },
+      "answer_key": "A",
+      "explanation_short": "Friction loss increases with length and smaller diameter.",
+      "explanation_long": "Longer pipes and smaller diameters create more friction loss.",
+      "tags": ["friction-loss"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-HYD-006",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "question_text": "Residual pressure is:",
+      "choices": {
+        "A": "Pressure at rest",
+        "B": "Pressure while water is flowing",
+        "C": "Pressure at atmosphere",
+        "D": "Zero pressure",
+        "E": "Water hammer"
+      },
+      "answer_key": "B",
+      "explanation_short": "Residual pressure is during flow.",
+      "explanation_long": "Residual pressure is the remaining pressure while water is flowing.",
+      "tags": ["pressure", "residual-pressure"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-HYD-007",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "question_text": "What causes low water pressure on upper floors?",
+      "choices": {
+        "A": "Excessive pipe diameter",
+        "B": "Head loss due to elevation",
+        "C": "High residual pressure",
+        "D": "Water hammer",
+        "E": "Air chambers"
+      },
+      "answer_key": "B",
+      "explanation_short": "Elevation causes head loss.",
+      "explanation_long": "Pressure decreases with elevation, leading to lower pressure on upper floors.",
+      "tags": ["pressure", "elevation"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-FH-001",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "question_text": "Minimum residual pressure at a fire hydrant is:",
+      "choices": {
+        "A": "10 psi",
+        "B": "15 psi",
+        "C": "20 psi",
+        "D": "25 psi",
+        "E": "30 psi"
+      },
+      "answer_key": "C",
+      "explanation_short": "Minimum residual pressure is 20 psi.",
+      "explanation_long": "Fire hydrants must maintain at least 20 psi while flowing.",
+      "tags": ["fire-hydrant", "pressure"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-FH-002",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "question_text": "Standard fire hydrant flow is:",
+      "choices": {
+        "A": "500 gpm",
+        "B": "750 gpm",
+        "C": "1,000 gpm",
+        "D": "1,500 gpm",
+        "E": "2,000 gpm"
+      },
+      "answer_key": "C",
+      "explanation_short": "Standard flow is 1,000 gpm.",
+      "explanation_long": "Fire hydrants are typically required to supply 1,000 gpm.",
+      "tags": ["fire-hydrant", "flow"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-FH-003",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "question_text": "Standard flow duration for hydrants is:",
+      "choices": {
+        "A": "30 minutes",
+        "B": "1 hour",
+        "C": "2 hours",
+        "D": "3 hours",
+        "E": "4 hours"
+      },
+      "answer_key": "C",
+      "explanation_short": "Hydrants should supply 1,000 gpm for 2 hours.",
+      "explanation_long": "The requirement includes sustaining flow for at least 2 hours.",
+      "tags": ["fire-hydrant", "flow"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-FH-004",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "question_text": "Maximum distance between hydrants in urban areas is:",
+      "choices": {
+        "A": "50 m",
+        "B": "100 m",
+        "C": "150 m",
+        "D": "200 m",
+        "E": "300 m"
+      },
+      "answer_key": "C",
+      "explanation_short": "Urban hydrants are within 150 m.",
+      "explanation_long": "Urban spacing is typically limited to 150 meters.",
+      "tags": ["fire-hydrant", "spacing"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-FH-005",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "question_text": "Minimum size of hydrant branch line is:",
+      "choices": {
+        "A": "4 inches",
+        "B": "5 inches",
+        "C": "6 inches",
+        "D": "8 inches",
+        "E": "10 inches"
+      },
+      "answer_key": "C",
+      "explanation_short": "Minimum is 6 inches.",
+      "explanation_long": "Hydrant branch lines must be at least 6 inches in diameter.",
+      "tags": ["fire-hydrant", "pipe-size"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-FH-006",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "question_text": "Fire hydrants are usually painted:",
+      "choices": {
+        "A": "Black",
+        "B": "Blue",
+        "C": "Bright red or yellow",
+        "D": "Green",
+        "E": "White"
+      },
+      "answer_key": "C",
+      "explanation_short": "Hydrants are bright red or yellow.",
+      "explanation_long": "Hydrants are painted in bright, visible colors.",
+      "tags": ["fire-hydrant", "visibility"],
+      "difficulty": 1
+    },
+    {
+      "id": "MCQ-FH-007",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "question_text": "Normal pressure range in public water mains is:",
+      "choices": {
+        "A": "10–20 psi",
+        "B": "20–30 psi",
+        "C": "40–60 psi",
+        "D": "60–80 psi",
+        "E": "80–100 psi"
+      },
+      "answer_key": "C",
+      "explanation_short": "Public mains are 40–60 psi.",
+      "explanation_long": "Typical public water main pressures are maintained between 40 and 60 psi.",
+      "tags": ["water-mains", "pressure"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-001",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system is used to supply water directly from the main without storage?",
+      "choices": {
+        "A": "Gravity system",
+        "B": "Upfeed system",
+        "C": "Downfeed system",
+        "D": "Combined system",
+        "E": "Storage system"
+      },
+      "answer_key": "B",
+      "explanation_short": "Upfeed uses direct main pressure.",
+      "explanation_long": "In an upfeed system, water is supplied directly from the main without storage tanks.",
+      "tags": ["plumbing-system", "upfeed"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-002",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system uses elevated storage tanks to supply water by gravity?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Recirculating system",
+        "E": "Direct system"
+      },
+      "answer_key": "B",
+      "explanation_short": "Downfeed uses tanks and gravity.",
+      "explanation_long": "Downfeed systems store water in elevated tanks and deliver it by gravity.",
+      "tags": ["plumbing-system", "downfeed"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-003",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system combines both direct supply and storage?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Loop system",
+        "E": "Gravity system"
+      },
+      "answer_key": "C",
+      "explanation_short": "Combined uses both direct and storage.",
+      "explanation_long": "Combined systems use both direct supply and storage tanks.",
+      "tags": ["plumbing-system", "combined"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-004",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which plumbing system is best for high-rise buildings?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Single-storey system",
+        "E": "Gravity only"
+      },
+      "answer_key": "B",
+      "explanation_short": "Downfeed is best for high-rise.",
+      "explanation_long": "High-rise buildings typically use downfeed systems with storage tanks.",
+      "tags": ["plumbing-system", "high-rise"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-005",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system uses pumps to boost water to upper floors?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Gravity system",
+        "E": "Storage only"
+      },
+      "answer_key": "A",
+      "explanation_short": "Upfeed uses pumps.",
+      "explanation_long": "In upfeed systems, pumps are required to lift water to higher floors.",
+      "tags": ["plumbing-system", "upfeed"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-006",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system ensures continuous water supply even during main failure?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Direct system",
+        "E": "Gravity system"
+      },
+      "answer_key": "B",
+      "explanation_short": "Downfeed relies on stored water.",
+      "explanation_long": "Downfeed systems have storage tanks that can supply water even if the main fails.",
+      "tags": ["plumbing-system", "downfeed"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-007",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system requires the least initial cost?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Storage system",
+        "E": "Pressurized system"
+      },
+      "answer_key": "A",
+      "explanation_short": "Upfeed is cheapest initially.",
+      "explanation_long": "Upfeed systems are simpler and require less initial cost compared to storage-based systems.",
+      "tags": ["plumbing-system", "cost"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-008",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system is most reliable during low pressure in public mains?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Direct system",
+        "E": "Gravity system"
+      },
+      "answer_key": "B",
+      "explanation_short": "Downfeed stores water.",
+      "explanation_long": "Downfeed systems use stored water, making them reliable during low main pressure.",
+      "tags": ["plumbing-system", "reliability"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-009",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system is most energy intensive?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Gravity system",
+        "E": "Storage system"
+      },
+      "answer_key": "A",
+      "explanation_short": "Upfeed uses pumps continuously.",
+      "explanation_long": "Upfeed systems require pumps for distribution, making them more energy intensive.",
+      "tags": ["plumbing-system", "energy"],
+      "difficulty": 2
+    },
+    {
+      "id": "MCQ-PLUMB-010",
+      "topic": "Water Systems",
+      "subtopic": "Plumbing Systems",
+      "question_text": "Which system provides the most stable pressure to fixtures?",
+      "choices": {
+        "A": "Upfeed system",
+        "B": "Downfeed system",
+        "C": "Combined system",
+        "D": "Gravity system",
+        "E": "Direct system"
+      },
+      "answer_key": "B",
+      "explanation_short": "Downfeed provides steady pressure.",
+      "explanation_long": "Downfeed systems maintain consistent pressure through gravity-fed storage.",
+      "tags": ["plumbing-system", "pressure"],
+      "difficulty": 2
+    }
+  ],
+  "identification": [
+    {
+      "id": "ID-WH-001",
+      "topic": "Water Systems",
+      "subtopic": "Water Hammer",
+      "prompt": "What is the term for the pressure surge caused by sudden stoppage of flow?",
+      "accepted_answers": ["Water hammer"],
+      "explanation_short": "Water hammer.",
+      "explanation_long": "A pressure surge from sudden flow stoppage is known as water hammer.",
+      "tags": ["water-hammer"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-WH-002",
+      "topic": "Water Systems",
+      "subtopic": "Water Hammer",
+      "prompt": "Name one common device used to prevent water hammer.",
+      "accepted_answers": ["Air chamber", "Water hammer arrestor", "Arrestor"],
+      "explanation_short": "Air chamber or arrestor.",
+      "explanation_long": "Air chambers and water hammer arrestors cushion shock waves in pipes.",
+      "tags": ["water-hammer", "prevention"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-HYD-001",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "prompt": "What is the vertical distance between water source and outlet called?",
+      "accepted_answers": ["Head", "Head pressure"],
+      "explanation_short": "Head.",
+      "explanation_long": "Head is the vertical distance that determines water pressure.",
+      "tags": ["pressure", "head"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-HYD-002",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "prompt": "What is the formula for pressure from head?",
+      "accepted_answers": ["Pressure (psi) = Head (ft) × 0.433"],
+      "explanation_short": "Pressure equals head times 0.433.",
+      "explanation_long": "A foot of head equals 0.433 psi, so multiply head by 0.433.",
+      "tags": ["pressure", "head"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-HYD-003",
+      "topic": "Water Systems",
+      "subtopic": "Pressure & Head",
+      "prompt": "What is the pressure remaining during flow called?",
+      "accepted_answers": ["Residual pressure"],
+      "explanation_short": "Residual pressure.",
+      "explanation_long": "Residual pressure is the remaining pressure while water is flowing.",
+      "tags": ["pressure", "residual-pressure"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-FH-001",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "prompt": "What is the minimum residual pressure required at a fire hydrant?",
+      "accepted_answers": ["20 psi"],
+      "explanation_short": "20 psi.",
+      "explanation_long": "Fire hydrants must maintain at least 20 psi during flow.",
+      "tags": ["fire-hydrant", "pressure"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-FH-002",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "prompt": "How much water flow should a hydrant deliver?",
+      "accepted_answers": ["1,000 gpm", "1000 gpm"],
+      "explanation_short": "1,000 gpm.",
+      "explanation_long": "Standard hydrant capacity is 1,000 gallons per minute.",
+      "tags": ["fire-hydrant", "flow"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-FH-003",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "prompt": "What is the maximum distance between hydrants in urban areas?",
+      "accepted_answers": ["150 meters", "150 m"],
+      "explanation_short": "150 meters.",
+      "explanation_long": "Urban hydrants are spaced no more than 150 meters apart.",
+      "tags": ["fire-hydrant", "spacing"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-FH-004",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "prompt": "What is the minimum branch line size for a fire hydrant?",
+      "accepted_answers": ["6 inches", "150 mm"],
+      "explanation_short": "6 inches.",
+      "explanation_long": "Branch lines must be at least 6 inches (150 mm).",
+      "tags": ["fire-hydrant", "pipe-size"],
+      "difficulty": 2,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    },
+    {
+      "id": "ID-FH-005",
+      "topic": "Fire Protection",
+      "subtopic": "Fire Hydrants",
+      "prompt": "What colors are fire hydrants usually painted?",
+      "accepted_answers": ["Bright red", "Yellow", "Bright red or yellow"],
+      "explanation_short": "Bright red or yellow.",
+      "explanation_long": "Hydrants are painted bright red or yellow for visibility.",
+      "tags": ["fire-hydrant", "visibility"],
+      "difficulty": 1,
+      "source_ref": "Week 7 Lecture",
+      "quality_flag": "OK"
+    }
+  ],
+  "qa_summary": {
+    "batch": 2,
+    "total_items": 50,
+    "flashcards": 15,
+    "mcq": 25,
+    "identification": 10,
+    "notes": [
+      "Coverage: water hammer, pressure/head concepts, friction loss, residual pressure",
+      "Coverage: fire hydrant requirements (pressure, flow, spacing, size, visibility)",
+      "Coverage: plumbing systems (upfeed, downfeed, combined)",
+      "Quality flags: all OK"
+    ]
+  }
+}

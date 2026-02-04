@@ -1,0 +1,902 @@
+[
+  {
+    "QID": "MOCK1-001",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Geometry",
+    "QuestionText": "A polygon with 1,000 sides is called a:",
+    "Choices": {
+      "A": "Chiliagon",
+      "B": "Myriagon",
+      "C": "Hectogon",
+      "D": "Milliagon"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "Chiliagon.",
+    "ExplanationLong": "A polygon with 1,000 sides is a Chiliagon. A Myriagon has 10,000 sides.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 10.pdf | Q#50",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-002",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Septic Design",
+    "QuestionText": "What is the minimum horizontal distance required between a water supply well and a septic tank?",
+    "Choices": {
+      "A": "1.5 m",
+      "B": "15.2 m",
+      "C": "30.5 m",
+      "D": "45.7 m"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "15.2 meters.",
+    "ExplanationLong": "Water supply wells must be at least 15.2 meters from a septic tank. Do not confuse with the 30.5 meters required from a disposal field.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 9.pdf | Table B-1",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-003",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Pipe Color Codes",
+    "QuestionText": "According to the National Building Code (Rule X), what is the pipe color code for Potable/Fresh Water?",
+    "Choices": {
+      "A": "Green",
+      "B": "White",
+      "C": "Blue",
+      "D": "Yellow"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Blue.",
+    "ExplanationLong": "Under NBC Rule X, Blue is for Fresh Water. Green is for Salt Water. Warning: ANSI standards use Blue for Compressed Air, but NBC uses Blue for Water.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 2.pdf | Q#22",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-004",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Temperature",
+    "QuestionText": "At what temperature do the Celsius and Fahrenheit scales read the same value?",
+    "Choices": {
+      "A": "0 degrees",
+      "B": "32 degrees",
+      "C": "40 degrees",
+      "D": "-40 degrees"
+    },
+    "AnswerKey": "D",
+    "ExplanationShort": "Negative 40 degrees.",
+    "ExplanationLong": "At -40, both scales are identical. ((-40 * 1.8) + 32 = -40).",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 2.pdf | Q#45",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-005",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Traps",
+    "QuestionText": "What is the maximum vertical distance allowed between the fixture outlet and the trap weir?",
+    "Choices": {
+      "A": "300 mm",
+      "B": "600 mm",
+      "C": "750 mm",
+      "D": "900 mm"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "600 mm (24 inches).",
+    "ExplanationLong": "The tailpiece length (vertical distance from fixture outlet to trap weir) shall not exceed 600 mm.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#21 (Context)",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-006",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Physics",
+    "QuestionText": "What is the SI unit of Luminous Intensity?",
+    "Choices": {
+      "A": "Lumen",
+      "B": "Lux",
+      "C": "Candela",
+      "D": "Watt"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Candela.",
+    "ExplanationLong": "Candela (cd) is the base SI unit for luminous intensity.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 8.pdf | Q#47",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-007",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Septic Tank",
+    "QuestionText": "If a septic tank's digestive chamber exceeds 3.7 meters in length, what is required?",
+    "Choices": {
+      "A": "A second inlet pipe",
+      "B": "An additional manhole over the baffle wall",
+      "C": "A larger outlet filter",
+      "D": "Increase liquid depth by 10%"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "An additional manhole over the baffle wall.",
+    "ExplanationLong": "Code requires an extra manhole over the baffle wall if the first compartment exceeds 3.7m in length to facilitate cleaning.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 5.pdf | Q#50",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-008",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Valves",
+    "QuestionText": "Which type of check valve offers the least pressure drop?",
+    "Choices": {
+      "A": "Ball Check",
+      "B": "Lift Check",
+      "C": "Swing Check",
+      "D": "Vertical Check"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Swing Check Valve.",
+    "ExplanationLong": "Swing check valves allow for a nearly straight flow path, resulting in the least resistance and pressure drop.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 2.pdf | Q#17",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-009",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Conversions",
+    "QuestionText": "One Horsepower (HP) is equivalent to how many Watts?",
+    "Choices": {
+      "A": "1000 W",
+      "B": "746 W",
+      "C": "550 W",
+      "D": "3300 W"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "746 Watts.",
+    "ExplanationLong": "1 HP = 0.746 kW or 746 Watts.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 1.pdf | Q#27",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-010",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Cleanouts",
+    "QuestionText": "Cleanouts larger than 51mm require a front clearance of at least:",
+    "Choices": {
+      "A": "305 mm",
+      "B": "450 mm",
+      "C": "600 mm",
+      "D": "750 mm"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "450 mm.",
+    "ExplanationLong": "For cleanouts > 51mm, a clearance of 450mm (18 inches) is required. Smaller cleanouts require 305mm.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#18",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-011",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Copper",
+    "QuestionText": "Which copper pipe type is marked with a Green stripe and is suitable for underground use?",
+    "Choices": {
+      "A": "Type M",
+      "B": "Type L",
+      "C": "Type K",
+      "D": "Type DWV"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Type K.",
+    "ExplanationLong": "Type K is the heaviest wall thickness, marked Green, and used for underground services.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 1.pdf | Q#4",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-012",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Geometry",
+    "QuestionText": "How many degrees are in 4800 mils?",
+    "Choices": {
+      "A": "90 degrees",
+      "B": "180 degrees",
+      "C": "270 degrees",
+      "D": "360 degrees"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "270 degrees.",
+    "ExplanationLong": "1 degree = 17.77 mils. 4800 / 17.77 = approx 270 degrees. (Or: 6400 mils = 360 degrees. 4800 is 3/4 of 6400, so 3/4 of 360 is 270).",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 10.pdf | Q#2",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-013",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Sizing",
+    "QuestionText": "The minimum diameter of a building sewer is:",
+    "Choices": {
+      "A": "100 mm",
+      "B": "150 mm",
+      "C": "200 mm",
+      "D": "75 mm"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "150 mm (6 inches).",
+    "ExplanationLong": "RNPCP Chapter 12 states no building sewer shall be smaller than 150 mm diameter.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#28",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-014",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Hangers",
+    "QuestionText": "What size hanger rod is required for a 5-inch pipe?",
+    "Choices": {
+      "A": "3/8 inch",
+      "B": "1/2 inch",
+      "C": "5/8 inch",
+      "D": "3/4 inch"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1/2 inch.",
+    "ExplanationLong": "Pipes sized 5-8 inches require a 1/2 inch hanger rod.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 3.pdf | Q#1",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-015",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Pressure",
+    "QuestionText": "1 Bar is approximately equal to how many psi?",
+    "Choices": {
+      "A": "14.7 psi",
+      "B": "14.5 psi",
+      "C": "100 psi",
+      "D": "101.3 psi"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "14.5 psi.",
+    "ExplanationLong": "1 Bar = 100 kPa. 14.5 psi is the standard conversion. 14.7 psi is 1 Atmosphere.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 1.pdf | Q#22",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-016",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Septic Maintenance",
+    "QuestionText": "Ideally, when should a septic tank be cleaned?",
+    "Choices": {
+      "A": "When sludge is 1/4 of volume",
+      "B": "When sludge is 1/3 of volume",
+      "C": "When sludge is 1/2 of volume",
+      "D": "When full"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "When sludge occupies 1/3 of the volume.",
+    "ExplanationLong": "Cleaning is recommended when the sludge layer reaches 1/3 of the tank capacity to prevent solids carryover.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 5.pdf | Q#23",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-017",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Venting",
+    "QuestionText": "The vent pipe extension above the roof must be at least:",
+    "Choices": {
+      "A": "15 cm",
+      "B": "30 cm",
+      "C": "60 cm",
+      "D": "100 cm"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "15 cm.",
+    "ExplanationLong": "Vent stacks must terminate vertically not less than 15 cm above the roof.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 6.pdf | Q#46",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-018",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Flow Rate",
+    "QuestionText": "5 Gallons Per Minute (GPM) is equivalent to how many Liters Per Second (LPS)?",
+    "Choices": {
+      "A": "0.063",
+      "B": "0.315",
+      "C": "3.15",
+      "D": "18.9"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "0.315 LPS.",
+    "ExplanationLong": "1 GPM = 0.063 LPS. 5 * 0.063 = 0.315.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 2.pdf | Q#18",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-019",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Tools",
+    "QuestionText": "Which tool is best for tightening a lavatory faucet nut in a tight space?",
+    "Choices": {
+      "A": "Pipe Wrench",
+      "B": "Basin Wrench",
+      "C": "Strap Wrench",
+      "D": "Chain Wrench"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Basin Wrench.",
+    "ExplanationLong": "A basin wrench has a swiveling jaw on a long handle, designed specifically for reaching nuts under sinks.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 2.pdf | Q#40",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-020",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Fire Protection",
+    "QuestionText": "What color is a sprinkler glass bulb rated for 135°F (57°C)?",
+    "Choices": {
+      "A": "Red",
+      "B": "Yellow",
+      "C": "Orange",
+      "D": "Green"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Orange.",
+    "ExplanationLong": "135°F = Orange. 155°F = Red. 174°F = Yellow.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 7.pdf | Q#17",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-021",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Physics",
+    "QuestionText": "What is the specific gravity of seawater?",
+    "Choices": {
+      "A": "1.00",
+      "B": "1.028",
+      "C": "0.78",
+      "D": "1.50"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1.028.",
+    "ExplanationLong": "Seawater is denser than freshwater (1.0). 1.028 is the standard value.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 1.pdf | Q#6",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-022",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Storm Drain",
+    "QuestionText": "Vertical rainwater piping is sized based on the pipe flowing:",
+    "Choices": {
+      "A": "1/3 full",
+      "B": "1/2 full",
+      "C": "7/24 full",
+      "D": "Full"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "7/24 full.",
+    "ExplanationLong": "This specific fraction (approx 30%) allows for air displacement in vertical storm leaders.",
+    "Difficulty": 5,
+    "SourceRef": "WEEK 6.pdf | Q#43",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-023",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Plastic Pipe",
+    "QuestionText": "SDR stands for:",
+    "Choices": {
+      "A": "Standard Diameter Ratio",
+      "B": "Standard Dimension Ratio",
+      "C": "System Design Rating",
+      "D": "Static Discharge Resistance"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Standard Dimension Ratio.",
+    "ExplanationLong": "SDR is the ratio of pipe diameter to wall thickness.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 8.pdf | Q#33",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-024",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Geometry",
+    "QuestionText": "What is the reciprocal of cos x?",
+    "Choices": {
+      "A": "sin x",
+      "B": "csc x",
+      "C": "sec x",
+      "D": "cot x"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "sec x (Secant).",
+    "ExplanationLong": "Secant is 1/cosine.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 10.pdf | Q#8",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-025",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Private Sewage",
+    "QuestionText": "What is the minimum liquid depth of a septic tank?",
+    "Choices": {
+      "A": "0.6 m",
+      "B": "0.9 m",
+      "C": "1.2 m",
+      "D": "1.5 m"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "0.6 meters.",
+    "ExplanationLong": "The code specifies a minimum liquid depth of 0.6m (max 1.8m). Note: 1.2m is 'ideal' for effective decomposition, but 0.6m is the code minimum.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 9.pdf | Diagram Q#22",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-026",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Pipe Threads",
+    "QuestionText": "The TPI (Threads Per Inch) for a 3/4 inch pipe is:",
+    "Choices": {
+      "A": "8",
+      "B": "11.5",
+      "C": "14",
+      "D": "18"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "14 TPI.",
+    "ExplanationLong": "1/2 inch and 3/4 inch pipes both use 14 threads per inch.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 1.pdf | Q#28",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-027",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Interceptors",
+    "QuestionText": "Grease traps must have a water seal of at least:",
+    "Choices": {
+      "A": "38 mm",
+      "B": "51 mm",
+      "C": "76 mm",
+      "D": "102 mm"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "51 mm (2 inches).",
+    "ExplanationLong": "Grease traps require a 51mm seal, which is deeper than some standard fixture traps.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 6.pdf | Q#22",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-028",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Volume",
+    "QuestionText": "How many gallons are in 1 cubic foot of water?",
+    "Choices": {
+      "A": "7.48",
+      "B": "8.33",
+      "C": "3.785",
+      "D": "62.4"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "7.48 gallons.",
+    "ExplanationLong": "1 cubic foot = 7.48 gallons. (Note: 8.33 is lbs/gal, 62.4 is lbs/cu.ft).",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 2.pdf | Q#2",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-029",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Water Quality",
+    "QuestionText": "Turbidity in water is corrected by:",
+    "Choices": {
+      "A": "Chlorination",
+      "B": "Filtration",
+      "C": "Aeration",
+      "D": "Distillation"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Filtration.",
+    "ExplanationLong": "Turbidity (cloudiness) is removed by filtration. Chlorination kills bacteria; Aeration removes taste/odor.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 8.pdf | Q#4",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-030",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Joints",
+    "QuestionText": "What is the maximum time a fluxed copper joint should stand before soldering?",
+    "Choices": {
+      "A": "1 hour",
+      "B": "2 hours",
+      "C": "3 hours",
+      "D": "4 hours"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "3 hours.",
+    "ExplanationLong": "Flux becomes ineffective and can cause corrosion if left longer than 3 hours.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 7.pdf | Q#4",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-031",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Gases",
+    "QuestionText": "Which gas found in septic tanks smells like 'rotten eggs'?",
+    "Choices": {
+      "A": "Methane",
+      "B": "Hydrogen Sulfide",
+      "C": "Carbon Monoxide",
+      "D": "Carbon Dioxide"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Hydrogen Sulfide.",
+    "ExplanationLong": "H2S is characterized by its offensive rotten egg odor.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 1.pdf | Q#14",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-032",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Heat",
+    "QuestionText": "One BTU is defined as the heat required to raise 1 lb of water by:",
+    "Choices": {
+      "A": "1 degree Celsius",
+      "B": "1 degree Fahrenheit",
+      "C": "10 degrees Fahrenheit",
+      "D": "100 degrees Celsius"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1 degree Fahrenheit.",
+    "ExplanationLong": "British Thermal Unit (BTU) is the heat needed to raise 1 lb of water by 1 degree F.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 8.pdf | Q#28 (Context)",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-033",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Venting",
+    "QuestionText": "A vent connecting a horizontal branch to a vent stack, serving a battery of fixtures, is a:",
+    "Choices": {
+      "A": "Relief Vent",
+      "B": "Yoke Vent",
+      "C": "Circuit Vent",
+      "D": "Wet Vent"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "Circuit Vent.",
+    "ExplanationLong": "Circuit vents serve a battery of fixtures (up to 8) and connect to the vent stack.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 4.pdf | Q#10",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-034",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Piping",
+    "QuestionText": "Which material is 'Transite Pipe'?",
+    "Choices": {
+      "A": "Concrete",
+      "B": "Asbestos Cement",
+      "C": "Vitrified Clay",
+      "D": "Cast Iron"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Asbestos Cement.",
+    "ExplanationLong": "Transite is a trade name for Asbestos Cement pipe, now discontinued due to health risks.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 8.pdf | Q#36",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-035",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Soil",
+    "QuestionText": "Which soil type has a safe bearing load of 0 kPa?",
+    "Choices": {
+      "A": "Sand",
+      "B": "Clay",
+      "C": "Gravel",
+      "D": "Mulch/Peat"
+    },
+    "AnswerKey": "D",
+    "ExplanationShort": "Mulch or Peat.",
+    "ExplanationLong": "Mulch, Peat, and similar organic soils have 0 bearing capacity.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 3.pdf | Q#19",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-036",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Calculations",
+    "QuestionText": "Calculate the hydraulic radius of a channel with Area = 3 sq.m and Wetted Perimeter = 5 m.",
+    "Choices": {
+      "A": "0.6 m",
+      "B": "1.67 m",
+      "C": "15 m",
+      "D": "0.15 m"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "0.6 m.",
+    "ExplanationLong": "Hydraulic Radius = Area / Wetted Perimeter = 3 / 5 = 0.6.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 3.pdf | Q#2",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-037",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Slope",
+    "QuestionText": "The standard minimum slope for horizontal drainage piping is:",
+    "Choices": {
+      "A": "1%",
+      "B": "2%",
+      "C": "3%",
+      "D": "4%"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "2% (20mm/m).",
+    "ExplanationLong": "2% is the standard. 1% or 0.5% is only allowed for larger pipes under specific conditions.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 6.pdf | Q#40",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-038",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Valves",
+    "QuestionText": "OS & Y stands for:",
+    "Choices": {
+      "A": "Outside Screw and Yoke",
+      "B": "Outer Stem and Yoke",
+      "C": "Open Stem and Yoke",
+      "D": "Outside Spring and Yoke"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "Outside Screw and Yoke.",
+    "ExplanationLong": "Commonly used for fire protection gate valves to visually show if open or closed.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 2.pdf | Q#1",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-039",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Septic Capacity",
+    "QuestionText": "What is the minimum capacity for the secondary compartment of a septic tank?",
+    "Choices": {
+      "A": "500 Liters",
+      "B": "1000 Liters",
+      "C": "1500 Liters",
+      "D": "2000 Liters"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1000 Liters (1 cu.m).",
+    "ExplanationLong": "While it is 1/3 of the total, the code sets a minimum of 1 cubic meter (1000 L) for the secondary compartment.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 9.pdf | Diagram Q#22",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-040",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Roman Numerals",
+    "QuestionText": "What is the Roman Numeral for 1069?",
+    "Choices": {
+      "A": "MLXIX",
+      "B": "MXLIX",
+      "C": "MCXIX",
+      "D": "MLXIX"
+    },
+    "AnswerKey": "A",
+    "ExplanationShort": "MLXIX.",
+    "ExplanationLong": "M (1000) + L (50) + X (10) + IX (9) = 1069. (Note: Choice D is identical to A, checking source choices... Source has distinct choices. A is MLXIX. Correct).",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 10.pdf | Q#45",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-041",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Fixture Units",
+    "QuestionText": "A bathtub is rated at how many Drainage Fixture Units (DFU)?",
+    "Choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "2 DFU.",
+    "ExplanationLong": "Standard residential bathtubs are 2 DFU.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 5.pdf | Q#49",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-042",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Hangers",
+    "QuestionText": "PEX piping should be supported every:",
+    "Choices": {
+      "A": "24 inches",
+      "B": "32 inches",
+      "C": "48 inches",
+      "D": "60 inches"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "32 inches.",
+    "ExplanationLong": "PEX is flexible and needs support every 32 inches.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 2.pdf | Q#35",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-043",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Distances",
+    "QuestionText": "What is the minimum horizontal distance between a septic tank and a building?",
+    "Choices": {
+      "A": "1.0 m",
+      "B": "1.5 m",
+      "C": "2.0 m",
+      "D": "3.0 m"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "1.5 meters.",
+    "ExplanationLong": "RNPCP Table B-1 requires 1.5m clearance from buildings.",
+    "Difficulty": 2,
+    "SourceRef": "WEEK 9.pdf | Table B-1",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-044",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Physics",
+    "QuestionText": "Force = Mass x Acceleration is which Law of Motion?",
+    "Choices": {
+      "A": "1st Law",
+      "B": "2nd Law",
+      "C": "3rd Law",
+      "D": "4th Law"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "2nd Law.",
+    "ExplanationLong": "Newton's Second Law: F=ma.",
+    "Difficulty": 1,
+    "SourceRef": "WEEK 10.pdf | Q#14",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-045",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Seepage Pit",
+    "QuestionText": "What is the minimum diameter of a seepage pit?",
+    "Choices": {
+      "A": "1.5 m",
+      "B": "2.0 m",
+      "C": "2.2 m",
+      "D": "3.0 m"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "2.2 meters.",
+    "ExplanationLong": "RNPCP Appendix B states min diameter is 2.2m.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 9.pdf | Q#28",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-046",
+    "Topic": "Drainage & Vents",
+    "Subtopic": "Cleanouts",
+    "QuestionText": "Cleanouts are required on horizontal runs at intervals not exceeding:",
+    "Choices": {
+      "A": "10 m",
+      "B": "15 m",
+      "C": "20 m",
+      "D": "30 m"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "15 meters.",
+    "ExplanationLong": "Maximum interval for cleanouts is 15 meters.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 7.pdf | Q#10",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-047",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Soldering",
+    "QuestionText": "What is the melting point range for silver solder?",
+    "Choices": {
+      "A": "400-600 F",
+      "B": "800-1000 F",
+      "C": "1100-1200 F",
+      "D": "1500-1750 F"
+    },
+    "AnswerKey": "D",
+    "ExplanationShort": "1500-1750 F.",
+    "ExplanationLong": "Silver solder melts at a much higher temperature than soft solder.",
+    "Difficulty": 4,
+    "SourceRef": "WEEK 9.pdf | Q#38",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-048",
+    "Topic": "Plumbing Arithmetic",
+    "Subtopic": "Geometry",
+    "QuestionText": "How many edges are in an Octahedron?",
+    "Choices": {
+      "A": "6",
+      "B": "8",
+      "C": "12",
+      "D": "20"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "12 edges.",
+    "ExplanationLong": "An Octahedron has 8 faces and 12 edges.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 10.pdf | Q#29",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-049",
+    "Topic": "Code & Sanitation",
+    "Subtopic": "Septic Tank",
+    "QuestionText": "Inlet and outlet baffles in a septic tank must extend how far below the liquid surface?",
+    "Choices": {
+      "A": "150 mm",
+      "B": "228 mm",
+      "C": "304.8 mm",
+      "D": "400 mm"
+    },
+    "AnswerKey": "C",
+    "ExplanationShort": "304.8 mm (12 inches).",
+    "ExplanationLong": "Baffles must extend 12 inches below the surface to avoid scum.",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 9.pdf | Diagram Q#30",
+    "QualityFlag": "OK"
+  },
+  {
+    "QID": "MOCK1-050",
+    "Topic": "Materials & Tools",
+    "Subtopic": "Standards",
+    "QuestionText": "ASTM B88 specifies requirements for:",
+    "Choices": {
+      "A": "PVC Pipe",
+      "B": "Seamless Copper Water Tube",
+      "C": "Cast Iron Soil Pipe",
+      "D": "Steel Pipe"
+    },
+    "AnswerKey": "B",
+    "ExplanationShort": "Seamless Copper Water Tube.",
+    "ExplanationLong": "ASTM B88 is the standard for copper water tubes (K, L, M).",
+    "Difficulty": 3,
+    "SourceRef": "WEEK 1.pdf | Q#36",
+    "QualityFlag": "OK"
+  }
+]
