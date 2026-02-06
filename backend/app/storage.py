@@ -69,6 +69,7 @@ def load_identification_items() -> list[IdentificationItem]:
         )
     return identification_items
 
+
 def load_mock_exam1_part_a() -> list[MockQuestion]:
     if not MOCK_EXAM1_PART_A_PATH.exists():
         return []

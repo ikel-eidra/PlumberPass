@@ -4,6 +4,9 @@ import MistakeLibrary from "./components/MistakeLibrary";
 import QuestionCard from "./components/QuestionCard";
 import TopicList from "./components/TopicList";
 import Dashboard from "./screens/Dashboard";
+import ActiveStudy from "./screens/ActiveStudy";
+import MasteryReport from "./screens/MasteryReport";
+import MistakeLibraryScreen from "./screens/MistakeLibraryScreen";
 import "./styles/app.css";
 
 export type Choice = {
@@ -49,7 +52,13 @@ const fallbackQuestion: Question = {
 
 const modes = ["Voice", "Screen", "Hybrid"] as const;
 export type Mode = (typeof modes)[number];
-type Screen = "Landing" | "Dashboard" | "Review";
+type Screen =
+  | "Landing"
+  | "Dashboard"
+  | "Review"
+  | "ActiveStudy"
+  | "MasteryReport"
+  | "MistakeLibrary";
 
 const fetchJson = async <T,>(path: string, fallback: T): Promise<T> => {
   try {
@@ -166,13 +175,23 @@ export default function App() {
     return (
       <div className="landing-shell">
         <div className="landing-bg" aria-hidden="true">
-          <span className="landing-orb orb-1" />
-          <span className="landing-orb orb-2" />
-          <span className="landing-orb orb-3" />
-          <span className="landing-lines" />
+          <div className="pipe-field">
+            <span className="pipe pipe-1" />
+            <span className="pipe pipe-2" />
+            <span className="pipe pipe-3" />
+            <span className="pipe pipe-4" />
+            <span className="pipe pipe-5" />
+          </div>
+          <span className="bubble bubble-1" />
+          <span className="bubble bubble-2" />
+          <span className="bubble bubble-3" />
+          <span className="flow-lines" />
         </div>
         <header className="landing-header">
-          <p className="landing-eyebrow">PlumberPass</p>
+          <div className="brand-lockup">
+            <span className="brand-dot" />
+            <p className="landing-eyebrow">PlumberPass</p>
+          </div>
           <div className="landing-nav">
             <button type="button" onClick={() => setScreen("Dashboard")}>
               Enter Dashboard
@@ -184,11 +203,12 @@ export default function App() {
         </header>
         <main className="landing-hero">
           <div className="landing-copy">
-            <h1>Train like a licensed pro with a living study flow.</h1>
+            <div className="landing-tag">Modern plumbing exam prep</div>
+            <h1>Simple, focused prep with a living flow of practice.</h1>
             <p>
-              PlumberPass blends voice-first practice with visual cues, so you can
-              learn codes, systems, and field instincts faster than flashcards
-              alone.
+              PlumberPass blends voice-first drills with on-screen guidance so you
+              can lock in codes, systems, and field instincts faster than static
+              flashcards.
             </p>
             <div className="landing-actions">
               <button type="button" onClick={() => setScreen("Dashboard")}>
@@ -202,32 +222,73 @@ export default function App() {
                 See review mode
               </button>
             </div>
+            <div className="landing-trust">
+              <div>
+                <strong>40+</strong>
+                <span>curated questions</span>
+              </div>
+              <div>
+                <strong>3</strong>
+                <span>study modes</span>
+              </div>
+              <div>
+                <strong>24/7</strong>
+                <span>on-demand review</span>
+              </div>
+            </div>
           </div>
-          <div className="landing-card">
-            <h2>What feels alive?</h2>
-            <ul>
-              <li>Animated flow backdrops inspired by water pressure.</li>
-              <li>Voice, screen, and hybrid review options.</li>
-              <li>Targeted practice for plumbing codes & systems.</li>
-            </ul>
-            <div className="landing-stats">
-              <div>
-                <span>40+</span>
-                <p>Curated questions</p>
+          <div className="landing-illustration">
+            <div className="illustration-card">
+              <div className="gauge">
+                <span>Live flow</span>
+                <strong>83%</strong>
               </div>
-              <div>
-                <span>3</span>
-                <p>Study modes</p>
+              <h2>Built for hands-on memory.</h2>
+              <p>
+                Track mistakes, repeat weak topics, and stay in a steady rhythm
+                with a voice-first loop.
+              </p>
+              <div className="pipe-strip">
+                <span />
+                <span />
+                <span />
               </div>
-              <div>
-                <span>24/7</span>
-                <p>On-demand practice</p>
-              </div>
+            </div>
+            <div className="illustration-panel">
+              <p>Plumbing-ready cues</p>
+              <h3>System map snapshots</h3>
+              <ul>
+                <li>Code highlights</li>
+                <li>Fixture flow checks</li>
+                <li>Safety reminders</li>
+              </ul>
             </div>
           </div>
         </main>
       </div>
     );
+  }
+
+  if (screen === "Dashboard") {
+    return (
+      <Dashboard
+        onStartSession={() => setScreen("ActiveStudy")}
+        onViewReport={() => setScreen("MasteryReport")}
+        onViewMistakes={() => setScreen("MistakeLibrary")}
+      />
+    );
+  }
+
+  if (screen === "ActiveStudy") {
+    return <ActiveStudy onBack={() => setScreen("Dashboard")} />;
+  }
+
+  if (screen === "MasteryReport") {
+    return <MasteryReport onBack={() => setScreen("Dashboard")} />;
+  }
+
+  if (screen === "MistakeLibrary") {
+    return <MistakeLibraryScreen onBack={() => setScreen("Dashboard")} />;
   }
 
   return (
@@ -261,11 +322,6 @@ export default function App() {
       </header>
 
       <main className="app-content">
-        {screen === "Dashboard" ? (
-          <section className="dashboard-shell">
-            <Dashboard />
-          </section>
-        ) : null}
         {screen === "Review" ? (
           <aside className="sidebar">
             <TopicList topics={topics} activeTopic={question.topic} />

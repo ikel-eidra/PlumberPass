@@ -1,6 +1,8 @@
 :root {
   color-scheme: light;
-  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+  font-family: "Noto Sans", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Newsreader", "Noto Sans", serif;
+  --font-sans: "Noto Sans", "Segoe UI", system-ui, sans-serif;
   background: #f4f5f7;
   color: #121826;
 }

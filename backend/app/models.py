@@ -61,6 +61,8 @@ class MockQuestion(BaseModel):
     difficulty: int
     source_ref: str
     quality_flag: str
+
+
 class Topic(BaseModel):
     name: str
     subtopics: list[str]
