@@ -1,0 +1,1606 @@
+{
+  "metadata": {
+    "source": "AR. Sean A. Dupaya Advance Q&A Week 1",
+    "date": "2025-04-23",
+    "total_questions": 50,
+    "version": "1.0",
+    "extracted_by": "PlumberPass Converter v2"
+  },
+  "questions": [
+    {
+      "id": "advance-week1-q001",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Water Treatment",
+      "difficulty": "Medium",
+      "prompt": "Theprim arypurposeofdisinfectingdrinking w ateristo",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Meetturbidityguidelines"
+        },
+        {
+          "label": "B",
+          "text": "Reduceh ardness"
+        },
+        {
+          "label": "C",
+          "text": "Killb acteri a"
+        },
+        {
+          "label": "D",
+          "text": "Reduceiron andm ang anesecontent"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "water-treatment"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q002",
+      "topic": "Mechanical Engineering Laws",
+      "subtopic": "Professional Regulation",
+      "difficulty": "Medium",
+      "prompt": "Mech anic al Workfor 2500 kwm aybesupervised by a",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CPM, ME, PME"
+        },
+        {
+          "label": "B",
+          "text": "ME, PME"
+        },
+        {
+          "label": "C",
+          "text": "CPM, PME"
+        },
+        {
+          "label": "D",
+          "text": "PME"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "professional-regulation"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q003",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "W h a t i s t h e m e a n i n g o f A N S I ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Americ an N ation al St and ards Institute"
+        },
+        {
+          "label": "B",
+          "text": "Americ ans N ation al St and ard Institute"
+        },
+        {
+          "label": "C",
+          "text": "Administr ationof New S anit ary Inst all ation"
+        },
+        {
+          "label": "D",
+          "text": "Administr ationof New S anit ation Inst all ation"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q004",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Copper Piping",
+      "difficulty": "Medium",
+      "prompt": "Thehe aviesttypeofcopperwhichissuit ablefor undergroundinst all ation",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type M"
+        },
+        {
+          "label": "B",
+          "text": "Type L"
+        },
+        {
+          "label": "C",
+          "text": "Type DWV"
+        },
+        {
+          "label": "D",
+          "text": "Type K"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "copper"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q005",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "St and ardspecific ationfor Zinc(Hot-dipped G alv anized) Co atingson Iron and Steel",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ASTMF 493"
+        },
+        {
+          "label": "B",
+          "text": "ASTM A 123"
+        },
+        {
+          "label": "C",
+          "text": "ASTMD 3309"
+        },
+        {
+          "label": "D",
+          "text": "ASTMF 714"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "astm"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q006",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "W h a t i s t h e s p e c i f i c g r a v i t y o f s e a w a t e r ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "0. 7"
+        },
+        {
+          "label": "C",
+          "text": "1. 028"
+        },
+        {
+          "label": "D",
+          "text": "0. 78"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q007",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "St and ardforthe N ation al Fuel G as Code",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NFP A 13"
+        },
+        {
+          "label": "B",
+          "text": "NFP A 14"
+        },
+        {
+          "label": "C",
+          "text": "NFP A 54"
+        },
+        {
+          "label": "D",
+          "text": "NFP A 170"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q008",
+      "topic": "Physics and Fundamentals",
+      "subtopic": "Pressure Units",
+      "difficulty": "Medium",
+      "prompt": "1 atm/ atmosphereisequ alsto",
+      "choices": [
+        {
+          "label": "A",
+          "text": "101, 325 P A"
+        },
+        {
+          "label": "B",
+          "text": "14. 7 psi"
+        },
+        {
+          "label": "C",
+          "text": "76 0 t o r r"
+        },
+        {
+          "label": "D",
+          "text": "Allofthe above"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "pressure"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q009",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Copper Piping",
+      "difficulty": "Medium",
+      "prompt": "Thechemic alsymbolof Copper",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ti"
+        },
+        {
+          "label": "B",
+          "text": "Sn"
+        },
+        {
+          "label": "C",
+          "text": "Co"
+        },
+        {
+          "label": "D",
+          "text": "Cu"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "copper"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q010",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Approxim ateheight abovefloorlevelof Kitchen sink",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 1 ”"
+        },
+        {
+          "label": "B",
+          "text": "3 6 ”"
+        },
+        {
+          "label": "C",
+          "text": "3 4 ”"
+        },
+        {
+          "label": "D",
+          "text": "1 6 ”"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q011",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "C o l o r C o d i n g f o r F o a m F i r e E x t i n g u i s h e r ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cre am"
+        },
+        {
+          "label": "B",
+          "text": "Blue"
+        },
+        {
+          "label": "C",
+          "text": "Bl ack"
+        },
+        {
+          "label": "D",
+          "text": "Ye l l o w"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q012",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Sh apefor Cl ass A-Ordin ary Combustible, accordingto R A 9514",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circle"
+        },
+        {
+          "label": "B",
+          "text": "Hex agon"
+        },
+        {
+          "label": "C",
+          "text": "Squ are"
+        },
+        {
+          "label": "D",
+          "text": "Tr i a n g l e"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q013",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "W a t e r H a r d n e s s a c c o r d i n g t o A S P E f o r “ Ve r y H a r d ” c a t e g o r y",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0-75 mg/l as C a CO 3"
+        },
+        {
+          "label": "B",
+          "text": "76 - 1 5 0 m g / l a s C a C O 3"
+        },
+        {
+          "label": "C",
+          "text": "151-300 mg/l as C a CO 3"
+        },
+        {
+          "label": "D",
+          "text": "Over 300 mg/l as C a CO 3"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q014",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "G asesnotfoundinside aseptict ank",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C arbon Monoxide"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen Sulfide"
+        },
+        {
+          "label": "C",
+          "text": "Hydrochloric Acid"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur Dioxide"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q015",
+      "topic": "Codes and Standards",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Alsoknown asthe Codeon S anit ationofthe Philippines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "R A 8749"
+        },
+        {
+          "label": "B",
+          "text": "R A 9275"
+        },
+        {
+          "label": "C",
+          "text": "R A 9003"
+        },
+        {
+          "label": "D",
+          "text": "PD 856"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "philippine-laws"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q016",
+      "topic": "Mechanical Engineering Laws",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Wh atistheminimumg agenumberof ag alv anized sheetmet alth atcouldbeused as ar ainw ater downspoutorconductoritistobeloc atedonthe e x t e r i o r s i d e o f a l o w h e i g h t b u i l d i n g ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G A 22"
+        },
+        {
+          "label": "B",
+          "text": "G A 23"
+        },
+        {
+          "label": "C",
+          "text": "G A 26"
+        },
+        {
+          "label": "D",
+          "text": "G A 24"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "c. G A 26(RNPCP, Sec 1102)",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q017",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "W aterdem andfordrinkingfount ain",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0. 75 gpm"
+        },
+        {
+          "label": "B",
+          "text": "2 gpm"
+        },
+        {
+          "label": "C",
+          "text": "3 gpm"
+        },
+        {
+          "label": "D",
+          "text": "4 gpm"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "a. 0. 75 gpm(AUDELPlumbers Pocket M anu al, Ch apter 15)",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q018",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "H acks awbl adeforg alv anizedsteel",
+      "choices": [
+        {
+          "label": "A",
+          "text": "32 TPI"
+        },
+        {
+          "label": "B",
+          "text": "24 TPI"
+        },
+        {
+          "label": "C",
+          "text": "18 TPI"
+        },
+        {
+          "label": "D",
+          "text": "14 TPI"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "d. 14 TPI(AUDELPlumbers Pocket M anu al, Ch apter 3)",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q019",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "CPVC Piping",
+      "difficulty": "Medium",
+      "prompt": "M aximumservicetemper atureofchlorin ated polyvinylchloride(CPVC)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "140 F"
+        },
+        {
+          "label": "B",
+          "text": "160 F"
+        },
+        {
+          "label": "C",
+          "text": "180-200 F"
+        },
+        {
+          "label": "D",
+          "text": "280 F"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "cpvc",
+        "pvc"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q020",
+      "topic": "Physics and Fundamentals",
+      "subtopic": "Density and Specific Gravity",
+      "difficulty": "Hard",
+      "prompt": "Densityofw aterisequ alsto, except",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 gr am/mm 3"
+        },
+        {
+          "label": "B",
+          "text": "62. 4 lbs/ft 3"
+        },
+        {
+          "label": "C",
+          "text": "1000 kg/m 3"
+        },
+        {
+          "label": "D",
+          "text": "9. 81 kn/m 3"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "density"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q021",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Chemic alusedinwetchemic alfireextinguisher",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pot assium"
+        },
+        {
+          "label": "B",
+          "text": "H 2 O"
+        },
+        {
+          "label": "C",
+          "text": "Mono ammonium Phosph ate"
+        },
+        {
+          "label": "D",
+          "text": "Noneofthe above"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "fire-safety"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q022",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "1 b a r i s e q u a l s t o p s i",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14. 7"
+        },
+        {
+          "label": "B",
+          "text": "101. 325"
+        },
+        {
+          "label": "C",
+          "text": "14. 50"
+        },
+        {
+          "label": "D",
+          "text": "6. 895"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "14. 7 psi",
+      "explanation_long": "14. 7 psi",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q023",
+      "topic": "Water Heating Systems",
+      "subtopic": "Water Heater Calculations",
+      "difficulty": "Medium",
+      "prompt": "A 50 Kwelectricw aterhe aterh as an approxim ate BTUR atingof",
+      "choices": [
+        {
+          "label": "A",
+          "text": "50, 000 BTU"
+        },
+        {
+          "label": "B",
+          "text": "500 BTU"
+        },
+        {
+          "label": "C",
+          "text": "170. 6 BTU"
+        },
+        {
+          "label": "D",
+          "text": "170, 607 BTU"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "btu"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q024",
+      "topic": "Mechanical Engineering Laws",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "W aterhe atingmethodsuit ableforl av atory and showeruse",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Centr alized W ater He ater"
+        },
+        {
+          "label": "B",
+          "text": "Du al Point W ater He ater"
+        },
+        {
+          "label": "C",
+          "text": "Multi Point W ater He ater"
+        },
+        {
+          "label": "D",
+          "text": "Bi-Point W ater He ater"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q025",
+      "topic": "Mechanical Engineering Laws",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Republic Act 4850(as amendedby Presidenti al Decree No. 813) is alsoknown as",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MWSS-Metropolit an W aterworks and Sewer age System"
+        },
+        {
+          "label": "B",
+          "text": "LLD A-L agun a L ake Development Authority"
+        },
+        {
+          "label": "C",
+          "text": "M aynil ad W ater"
+        },
+        {
+          "label": "D",
+          "text": "Writof K alik as an"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "professional-regulation"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q026",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Thecomfort ableturningsp aceforwheelch airs",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1. 7 m"
+        },
+        {
+          "label": "B",
+          "text": "1. 6 m"
+        },
+        {
+          "label": "C",
+          "text": "1. 5 m"
+        },
+        {
+          "label": "D",
+          "text": "1. 8 m"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q027",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "1 horsepowerisequiv alentto",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0. 746 kilow atts"
+        },
+        {
+          "label": "B",
+          "text": "1000 w atts"
+        },
+        {
+          "label": "C",
+          "text": "0. 75 btu/h"
+        },
+        {
+          "label": "D",
+          "text": "334 joules/gr amor 144 BTU 746 w atts 1 h p = 0 . 74 6 k i l o w a t t s"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "horsepower",
+        "btu"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q028",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "T P I ( T h r e a d s p e r I n c h ) f o r 3 / 4 “ p i p e",
+      "choices": [
+        {
+          "label": "A",
+          "text": "27"
+        },
+        {
+          "label": "B",
+          "text": "11. 5"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "14"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "d. 14(RNPCP, Ch apter 7)",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q029",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "M aximum allow ablew aterdisch argetemper ature topreventsc alding",
+      "choices": [
+        {
+          "label": "A",
+          "text": "110 C"
+        },
+        {
+          "label": "B",
+          "text": "120 C"
+        },
+        {
+          "label": "C",
+          "text": "48. 88 C"
+        },
+        {
+          "label": "D",
+          "text": "43. 33 F"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "inoper ative-RNPCP, ch apter 6)",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q030",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "ANSI Standards",
+      "difficulty": "Medium",
+      "prompt": "Pipecolor/m arkingforcompressed air according to ANSI/ ASME A 13",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Whiteonbrown"
+        },
+        {
+          "label": "B",
+          "text": "Bl ackonor ange"
+        },
+        {
+          "label": "C",
+          "text": "Whiteongreen"
+        },
+        {
+          "label": "D",
+          "text": "Whiteonblue"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "ansi"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q031",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Pl asticpipes arem anuf acturedfrom",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thermopl astics"
+        },
+        {
+          "label": "B",
+          "text": "Siliconb ased Pl astics"
+        },
+        {
+          "label": "C",
+          "text": "Thermoset"
+        },
+        {
+          "label": "D",
+          "text": "Noneofthe above"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q032",
+      "topic": "Codes and Standards",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Wh atsectioncoversthe W ater Supply Systemin IRRofthe N ation al Building Codeofthe Philippines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rule IXSec 902"
+        },
+        {
+          "label": "B",
+          "text": "Rule IXSec 907"
+        },
+        {
+          "label": "C",
+          "text": "Rule IXSec 904"
+        },
+        {
+          "label": "D",
+          "text": "Rule IXSec 905"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q033",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Copper Piping",
+      "difficulty": "Medium",
+      "prompt": "Roughnessofcoeficientof Copper",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0. 11"
+        },
+        {
+          "label": "B",
+          "text": "0. 10"
+        },
+        {
+          "label": "C",
+          "text": "0. 09"
+        },
+        {
+          "label": "D",
+          "text": "0. 12"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "copper"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q034",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Vo l u m e o f w a t e r s a m p l e f o r p h y s i c a l a n d chemic al an alysis",
+      "choices": [
+        {
+          "label": "A",
+          "text": "250 ml"
+        },
+        {
+          "label": "B",
+          "text": "2500 ml"
+        },
+        {
+          "label": "C",
+          "text": "100 ml"
+        },
+        {
+          "label": "D",
+          "text": "3000 ml"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q035",
+      "topic": "Water Heating Systems",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Cl assific ationoffreshw atersurf ace-for agriculture, irrig ation, livestockw atering, etc",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cl ass A A"
+        },
+        {
+          "label": "B",
+          "text": "Cl ass B"
+        },
+        {
+          "label": "C",
+          "text": "Cl ass C"
+        },
+        {
+          "label": "D",
+          "text": "Cl ass D"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "kilowatt"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q036",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Medium",
+      "prompt": "ASTMB 88 or",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S t a n d a r d S p e c i f i c a t i o n f o r S e a m l e s s C o p p e r W a t e r Tu b e"
+        },
+        {
+          "label": "B",
+          "text": "St and ard Specific ationfor Se amless Red Br ass"
+        },
+        {
+          "label": "C",
+          "text": "S t a n d a r d S p e c i f i c a t i o n f o r S e a m l e s s B r a s s Tu b e"
+        },
+        {
+          "label": "D",
+          "text": "St and ard Specific ationfor Hubless C ast Iron Soil Pipe"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "astm"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q037",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Chemic alnotfoundindr aincle aners",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sodium Hydroxide"
+        },
+        {
+          "label": "B",
+          "text": "Hydrochloric Acid"
+        },
+        {
+          "label": "C",
+          "text": "Sodium Hydroxide"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur Dioxide"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q038",
+      "topic": "Codes and Standards",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Life S afety Code",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NFP A 1"
+        },
+        {
+          "label": "B",
+          "text": "NFP A 99"
+        },
+        {
+          "label": "C",
+          "text": "NFP A 10"
+        },
+        {
+          "label": "D",
+          "text": "NFP A 101"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q039",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "S t e e l p i p e e x p a n d s a b o u t f o r a 1 0 0 F / 3 8 C r i s e intemper ature",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 / 4 ” p e r 1 0 0 f t"
+        },
+        {
+          "label": "B",
+          "text": "1 / 2 ” p e r 1 0 0 f t"
+        },
+        {
+          "label": "C",
+          "text": "1 1 / 4 ” p e r 1 0 0 f t"
+        },
+        {
+          "label": "D",
+          "text": "3 / 8 ” p e r 1 0 0 f t"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "a. 3/4 per 100 ft(AUDELPlumbers Pocket M anu al, Ch apter 8)",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q040",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "W h i c h i s n o t a f i x t u r e ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Slop Sink"
+        },
+        {
+          "label": "B",
+          "text": "L av atory"
+        },
+        {
+          "label": "C",
+          "text": "Urin als"
+        },
+        {
+          "label": "D",
+          "text": "W ater Closet"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q041",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "P V C p i p e a n d f i t t i n g s i s e q u i v a l e n t t o w e i g h t o f steelweight",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1/4"
+        },
+        {
+          "label": "B",
+          "text": "1/3"
+        },
+        {
+          "label": "C",
+          "text": "1/5"
+        },
+        {
+          "label": "D",
+          "text": "1/6"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q042",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Plumbingfixturescl assified as Cl ass 3 are intendedfor",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Office"
+        },
+        {
+          "label": "B",
+          "text": "Condominium"
+        },
+        {
+          "label": "C",
+          "text": "F actory"
+        },
+        {
+          "label": "D",
+          "text": "Cinem a"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q043",
+      "topic": "Physics and Fundamentals",
+      "subtopic": "Density and Specific Gravity",
+      "difficulty": "Medium",
+      "prompt": "Densityof airincubicmeter",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 kg"
+        },
+        {
+          "label": "B",
+          "text": "1. 1 kg"
+        },
+        {
+          "label": "C",
+          "text": "1. 35 kg"
+        },
+        {
+          "label": "D",
+          "text": "1. 22 kg"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "density"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q044",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Pressure Units",
+      "difficulty": "Medium",
+      "prompt": "St and ardlengthof asbestoscementw aterm ain pressurepipe",
+      "choices": [
+        {
+          "label": "A",
+          "text": "10 ft"
+        },
+        {
+          "label": "B",
+          "text": "9 ft"
+        },
+        {
+          "label": "C",
+          "text": "4 m"
+        },
+        {
+          "label": "D",
+          "text": "13 ft"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "pressure"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q045",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Possiblehe altheffectfromdrinkingw aterwith abovem ax. allow ableturbiditylevel",
+      "choices": [
+        {
+          "label": "A",
+          "text": "M al ari a"
+        },
+        {
+          "label": "B",
+          "text": "Dengue"
+        },
+        {
+          "label": "C",
+          "text": "C ancer"
+        },
+        {
+          "label": "D",
+          "text": "Di arrhe a"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "water-treatment"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q046",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Wh atisthedownspoutsizefor a 425 sqmroof a r e a w i t h a r a i n f a l l r a t e 1 0 2 m m / h r ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4 ”"
+        },
+        {
+          "label": "B",
+          "text": "5 ”"
+        },
+        {
+          "label": "C",
+          "text": "6 ”"
+        },
+        {
+          "label": "D",
+          "text": "3 ”"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q047",
+      "topic": "General Plumbing Knowledge",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Combin ationofhydrogen andc arbon, aprincip al componentofn atur alg as",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C arbon Dioxide"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogenic C arbon"
+        },
+        {
+          "label": "C",
+          "text": "C arbon Monoxide"
+        },
+        {
+          "label": "D",
+          "text": "Meth ane"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q048",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "St and ardlengthoffirehose accordingto PD 1096",
+      "choices": [
+        {
+          "label": "A",
+          "text": "23 ft"
+        },
+        {
+          "label": "B",
+          "text": "23 m"
+        },
+        {
+          "label": "C",
+          "text": "22 ft"
+        },
+        {
+          "label": "D",
+          "text": "22 m"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "philippine-laws",
+        "fire-safety"
+      ],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q049",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Wh atisthem ax. c ap acityoftheinlet comp artmentof aseptict ankth at accommod ate a t o t a l o f 2 5 c u . m ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "16. 66 cu. m"
+        },
+        {
+          "label": "B",
+          "text": "8. 34 cu. m"
+        },
+        {
+          "label": "C",
+          "text": "3. 84 cu. m"
+        },
+        {
+          "label": "D",
+          "text": "6. 61 cu. m"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "advance-week1-q050",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "General",
+      "difficulty": "Medium",
+      "prompt": "Howf arshould aseptict ankbeconstructed aw ay fromthew atersupplysourcetoprevent c o n t a m i n a t i o n ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20. 3 m"
+        },
+        {
+          "label": "B",
+          "text": "10. 5 m"
+        },
+        {
+          "label": "C",
+          "text": "7. 1 m"
+        },
+        {
+          "label": "D",
+          "text": "15. 2 m"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [],
+      "source_ref": "AR. Sean A. Dupaya Advance Q&A Week 1 (2025)",
+      "quality_flag": "review"
+    }
+  ]
+}
