@@ -12,9 +12,10 @@
 - **[New]** NotebookLM Content Pipeline: Prompt engineering for rapid material ingestion.
 
 ## System Architecture (Neural Sectors)
-- **Backend:** FastAPI (Python) - High performance, asynchronous.
-- **Frontend:** React + Vite (TypeScript) - Rapid, modular, and responsive.
+- **Backend:** FastAPI (Python) - High performance, asynchronous. Containerized via Docker.
+- **Frontend:** React + Vite (TypeScript) - Rapid, modular, and responsive. Containerized via Docker (Nginx).
 - **Data:** JSON-driven architecture (transitioning to SQLite/Content Packs).
+- **Deployment:** Google Cloud Build configured for Artifact Registry and Cloud Run.
 
 ## Operational Directives
 - Obsessed with repo hygiene (No __pycache__, .log, .pyc).
@@ -25,3 +26,4 @@
 ## Maintenance Log
 - **[Timestamp: Initialization]** - Una initialized in sector. Merging Codex PR and resolving conflicts.
 - **[Timestamp: Neural Update 2.0]** - Sector synchronization complete. Dashboard now reflects live question counts. Mistake Library is fully dynamic. `PROMPT_NOTEBOOKLM.md` established for Operative usage.
+- **[Timestamp: Cloud Deployment Sector]** - Dockerfiles and `cloudbuild.yaml` initialized. System is ready for automated builds in Google Cloud Build.

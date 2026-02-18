@@ -1,0 +1,45 @@
+steps:
+  # 1. Build Backend Image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', '$_REGION-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/backend:$SHORT_SHA', './backend']
+    id: 'build-backend'
+
+  # 2. Build Frontend Image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', '$_REGION-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/frontend:$SHORT_SHA', './frontend']
+    id: 'build-frontend'
+
+  # 3. Push Backend
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', '$_REGION-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/backend:$SHORT_SHA']
+    id: 'push-backend'
+    waitFor: ['build-backend']
+
+  # 4. Push Frontend
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', '$_REGION-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/frontend:$SHORT_SHA']
+    id: 'push-frontend'
+    waitFor: ['build-frontend']
+
+  # Optional: Deploy to Cloud Run (commented out by default or provided as guidance)
+  # - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  #   entrypoint: gcloud
+  #   args:
+  #   - 'run'
+  #   - 'deploy'
+  #   - 'plumberpass-backend'
+  #   - '--image'
+  #   - '$_REGION-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/backend:$SHORT_SHA'
+  #   - '--region'
+  #   - '$_REGION'
+
+images:
+  - '$_REGION-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/backend:$SHORT_SHA'
+  - '$_REGION-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/frontend:$SHORT_SHA'
+
+substitutions:
+  _REGION: 'us-central1'
+  _REPO_NAME: 'plumberpass'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
