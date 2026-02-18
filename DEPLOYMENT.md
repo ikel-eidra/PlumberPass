@@ -36,6 +36,8 @@ Operative, follow these steps to deploy our Neural Brains and UI Sectors to Goog
 8. **Click CREATE.**
 
 ## 4. Automated Builds (Global Sync)
+> **Note:** Since the frontend requires the backend URL during its build phase (`VITE_API_URL`), it is recommended to deploy the Backend first, then trigger the Frontend build with the resulting URL.
+
 I have provided a `cloudbuild.yaml` in the root. If you prefer to build both sectors in a single pipeline:
 1. Go to **Cloud Build > Triggers**.
 2. Create a Trigger pointing to your repository.

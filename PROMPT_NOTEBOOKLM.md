@@ -24,7 +24,7 @@ Used for quick concept recall.
 - `quality_flag`: "OK" or "REVIEW_NEEDED"
 
 ### B. MCQs Sector (Multiple Choice)
-- `question_text`: The actual question
+- `prompt`: The actual question
 - `choices`: Dictionary with keys "A", "B", "C", "D" (and "E" if applicable)
 - `answer_key`: The correct letter (uppercase)
 
@@ -67,7 +67,7 @@ Analyze the provided source material and generate a JSON object following this e
       "id": "string",
       "topic": "string",
       "subtopic": "string",
-      "question_text": "string",
+      "prompt": "string",
       "choices": { "A": "...", "B": "...", "C": "...", "D": "...", "E": "..." },
       "answer_key": "string",
       "explanation_short": "string",

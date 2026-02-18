@@ -88,9 +88,11 @@ type Screen =
   | "MasteryReport"
   | "MistakeLibrary";
 
+const API_BASE = import.meta.env.VITE_API_URL || "";
+
 const fetchJson = async <T,>(path: string, fallback: T): Promise<T> => {
   try {
-    const response = await fetch(path);
+    const response = await fetch(`${API_BASE}${path}`);
     if (!response.ok) {
       return fallback;
     }
