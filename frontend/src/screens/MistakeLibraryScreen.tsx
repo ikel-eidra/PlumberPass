@@ -3,11 +3,13 @@ import "../styles/mistake-library.css";
 
 type MistakeLibraryScreenProps = {
   onBack: () => void;
+  onStudy: () => void;
   mistakes: Question[];
 };
 
 export default function MistakeLibraryScreen({
   onBack,
+  onStudy,
   mistakes
 }: MistakeLibraryScreenProps) {
   return (
@@ -82,7 +84,7 @@ export default function MistakeLibraryScreen({
       </section>
 
       <footer className="mistake-library__footer">
-        <button type="button" disabled={mistakes.length === 0}>
+        <button type="button" disabled={mistakes.length === 0} onClick={onStudy}>
           Study Mistakes Now
           <span className="material-symbols-outlined">arrow_forward</span>
         </button>

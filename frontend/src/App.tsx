@@ -132,6 +132,7 @@ export default function App() {
   const [voiceTranscript, setVoiceTranscript] = useState("");
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [mistakes, setMistakes] = useState<Question[]>([]);
+  const [isMistakeReview, setIsMistakeReview] = useState(false);
   const [bookmarks, setBookmarks] = useState<Set<string>>(new Set());
   const [voiceStatus, setVoiceStatus] = useState("Awaiting voice input.");
 
@@ -156,22 +157,26 @@ export default function App() {
     setVoiceStatus("Awaiting voice input.");
   }, [activeIndex]);
 
-  const question = questions[activeIndex] ?? fallbackQuestion;
+  const currentQuestions = useMemo(() => {
+    return isMistakeReview ? mistakes : questions;
+  }, [isMistakeReview, mistakes, questions]);
+
+  const question = currentQuestions[activeIndex] ?? fallbackQuestion;
 
   const progressLabel = useMemo(() => {
-    return `${activeIndex + 1}/${questions.length}`;
-  }, [activeIndex, questions.length]);
+    return `${activeIndex + 1}/${currentQuestions.length}`;
+  }, [activeIndex, currentQuestions.length]);
 
   const goNext = () => {
     setShowExplanation(false);
     setSelectedAnswer(null);
-    setActiveIndex((prev) => (prev + 1) % questions.length);
+    setActiveIndex((prev) => (prev + 1) % currentQuestions.length);
   };
 
   const goPrevious = () => {
     setShowExplanation(false);
     setSelectedAnswer(null);
-    setActiveIndex((prev) => (prev - 1 + questions.length) % questions.length);
+    setActiveIndex((prev) => (prev - 1 + currentQuestions.length) % currentQuestions.length);
   };
 
   const handleAnswer = (choiceLabel: string) => {
@@ -328,6 +333,11 @@ export default function App() {
     return (
       <MistakeLibraryScreen
         onBack={() => setScreen("Dashboard")}
+        onStudy={() => {
+          setIsMistakeReview(true);
+          setActiveIndex(0);
+          setScreen("Review");
+        }}
         mistakes={mistakes}
       />
     );
@@ -339,25 +349,36 @@ export default function App() {
         <button
           type="button"
           className={screen === "Dashboard" ? "active" : ""}
-          onClick={() => setScreen("Dashboard")}
+          onClick={() => {
+            setIsMistakeReview(false);
+            setScreen("Dashboard");
+          }}
         >
           Dashboard
         </button>
         <button
           type="button"
           className={screen === "Review" ? "active" : ""}
-          onClick={() => setScreen("Review")}
+          onClick={() => {
+            setIsMistakeReview(false);
+            setScreen("Review");
+          }}
         >
           Review
         </button>
       </nav>
       <header className="app-header">
         <div>
-          <p className="eyebrow">PlumberPass</p>
-          <h1>Voice-first reviewer with full visual + hybrid modes</h1>
+          <p className="eyebrow">PlumberPass {isMistakeReview ? "• Mistake Review" : ""}</p>
+          <h1>
+            {isMistakeReview
+              ? "Strengthening Weak Topics"
+              : "Voice-first reviewer with full visual + hybrid modes"}
+          </h1>
           <p className="subtitle">
-            Switch between voice-only, screen-only, or hybrid review. Swipe, tap,
-            or speak A–E answers with confidence.
+            {isMistakeReview
+              ? "Focusing on items you previously missed. Master these to ensure field readiness."
+              : "Switch between voice-only, screen-only, or hybrid review. Swipe, tap, or speak A–E answers with confidence."}
           </p>
         </div>
         <ModeToggle mode={mode} modes={modes} onChange={setMode} />
