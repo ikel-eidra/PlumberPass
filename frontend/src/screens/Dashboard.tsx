@@ -4,12 +4,16 @@ type DashboardProps = {
   onStartSession: () => void;
   onViewReport: () => void;
   onViewMistakes: () => void;
+  questionCount?: number;
+  flashcardCount?: number;
 };
 
 export default function Dashboard({
   onStartSession,
   onViewReport,
-  onViewMistakes
+  onViewMistakes,
+  questionCount = 0,
+  flashcardCount = 0
 }: DashboardProps) {
   return (
     <div className="dashboard-vintage">
@@ -84,7 +88,7 @@ export default function Dashboard({
             <span className="story-card__tag">In Progress</span>
           </div>
           <div className="story-card__body">
-            <span className="story-card__eyebrow">Module 04 • Hydraulics</span>
+            <span className="story-card__eyebrow">Inventory • {flashcardCount} cards</span>
             <h4>Mastering Vents &amp; Drains</h4>
             <p>
               An in-depth look at the hydraulic principles behind effective
@@ -106,7 +110,7 @@ export default function Dashboard({
             <span className="story-card__eyebrow">Mock Inspection</span>
             <h4>The Pressure Test</h4>
             <p>
-              Simulate the real exam environment. 50 questions, 60 minutes. Can
+              Simulate the real exam environment. {questionCount} questions, 60 minutes. Can
               you handle the heat?
             </p>
             <div className="story-card__actions">

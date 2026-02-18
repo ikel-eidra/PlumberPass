@@ -27,6 +27,34 @@ export type Question = {
   tags: string[];
 };
 
+export type Flashcard = {
+  id: string;
+  topic: string;
+  subtopic: string;
+  front: string;
+  back: string;
+  explanation_short: string;
+  explanation_long: string;
+  tags: string[];
+  difficulty: number;
+  source_ref: string;
+  quality_flag: string;
+};
+
+export type IdentificationItem = {
+  id: string;
+  topic: string;
+  subtopic: string;
+  prompt: string;
+  accepted_answers: string[];
+  explanation_short: string;
+  explanation_long: string;
+  tags: string[];
+  difficulty: number;
+  source_ref: string;
+  quality_flag: string;
+};
+
 export type Topic = {
   name: string;
   subtopics: string[];
@@ -97,6 +125,8 @@ export default function App() {
   const [screen, setScreen] = useState<Screen>("Landing");
   const [topics, setTopics] = useState<Topic[]>([]);
   const [questions, setQuestions] = useState<Question[]>([fallbackQuestion]);
+  const [flashcards, setFlashcards] = useState<Flashcard[]>([]);
+  const [identifications, setIdentifications] = useState<IdentificationItem[]>([]);
   const [activeIndex, setActiveIndex] = useState(0);
   const [showExplanation, setShowExplanation] = useState(false);
   const [voiceTranscript, setVoiceTranscript] = useState("");
@@ -107,12 +137,17 @@ export default function App() {
 
   useEffect(() => {
     const load = async () => {
-      const [topicResponse, questionResponse] = await Promise.all([
-        fetchJson<Topic[]>("/api/topics", []),
-        fetchJson<Question[]>("/api/questions", [fallbackQuestion])
-      ]);
+      const [topicResponse, questionResponse, flashcardResponse, identificationResponse] =
+        await Promise.all([
+          fetchJson<Topic[]>("/api/v1/study/topics", []),
+          fetchJson<Question[]>("/api/v1/study/questions", [fallbackQuestion]),
+          fetchJson<Flashcard[]>("/api/v1/study/flashcards", []),
+          fetchJson<IdentificationItem[]>("/api/v1/study/identification", [])
+        ]);
       setTopics(topicResponse);
       setQuestions(questionResponse.length ? questionResponse : [fallbackQuestion]);
+      setFlashcards(flashcardResponse);
+      setIdentifications(identificationResponse);
     };
     load();
   }, []);
@@ -224,7 +259,7 @@ export default function App() {
             </div>
             <div className="landing-trust">
               <div>
-                <strong>40+</strong>
+                <strong>{questions.length}+</strong>
                 <span>curated questions</span>
               </div>
               <div>
@@ -275,6 +310,8 @@ export default function App() {
         onStartSession={() => setScreen("ActiveStudy")}
         onViewReport={() => setScreen("MasteryReport")}
         onViewMistakes={() => setScreen("MistakeLibrary")}
+        questionCount={questions.length}
+        flashcardCount={flashcards.length}
       />
     );
   }
@@ -288,7 +325,12 @@ export default function App() {
   }
 
   if (screen === "MistakeLibrary") {
-    return <MistakeLibraryScreen onBack={() => setScreen("Dashboard")} />;
+    return (
+      <MistakeLibraryScreen
+        onBack={() => setScreen("Dashboard")}
+        mistakes={mistakes}
+      />
+    );
   }
 
   return (
