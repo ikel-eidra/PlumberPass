@@ -4,6 +4,9 @@ import MistakeLibrary from "./components/MistakeLibrary";
 import QuestionCard from "./components/QuestionCard";
 import TopicList from "./components/TopicList";
 import Dashboard from "./screens/Dashboard";
+import ActiveStudy from "./screens/ActiveStudy";
+import MasteryReport from "./screens/MasteryReport";
+import MistakeLibraryScreen from "./screens/MistakeLibraryScreen";
 import "./styles/app.css";
 
 export type Choice = {
@@ -22,6 +25,34 @@ export type Question = {
   explanation_short: string;
   explanation_long: string;
   tags: string[];
+};
+
+export type Flashcard = {
+  id: string;
+  topic: string;
+  subtopic: string;
+  front: string;
+  back: string;
+  explanation_short: string;
+  explanation_long: string;
+  tags: string[];
+  difficulty: number;
+  source_ref: string;
+  quality_flag: string;
+};
+
+export type IdentificationItem = {
+  id: string;
+  topic: string;
+  subtopic: string;
+  prompt: string;
+  accepted_answers: string[];
+  explanation_short: string;
+  explanation_long: string;
+  tags: string[];
+  difficulty: number;
+  source_ref: string;
+  quality_flag: string;
 };
 
 export type Topic = {
@@ -49,11 +80,19 @@ const fallbackQuestion: Question = {
 
 const modes = ["Voice", "Screen", "Hybrid"] as const;
 export type Mode = (typeof modes)[number];
-type Screen = "Landing" | "Dashboard" | "Review";
+type Screen =
+  | "Landing"
+  | "Dashboard"
+  | "Review"
+  | "ActiveStudy"
+  | "MasteryReport"
+  | "MistakeLibrary";
+
+const API_BASE = import.meta.env.VITE_API_URL || "";
 
 const fetchJson = async <T,>(path: string, fallback: T): Promise<T> => {
   try {
-    const response = await fetch(path);
+    const response = await fetch(`${API_BASE}${path}`);
     if (!response.ok) {
       return fallback;
     }
@@ -88,22 +127,30 @@ export default function App() {
   const [screen, setScreen] = useState<Screen>("Landing");
   const [topics, setTopics] = useState<Topic[]>([]);
   const [questions, setQuestions] = useState<Question[]>([fallbackQuestion]);
+  const [flashcards, setFlashcards] = useState<Flashcard[]>([]);
+  const [identifications, setIdentifications] = useState<IdentificationItem[]>([]);
   const [activeIndex, setActiveIndex] = useState(0);
   const [showExplanation, setShowExplanation] = useState(false);
   const [voiceTranscript, setVoiceTranscript] = useState("");
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [mistakes, setMistakes] = useState<Question[]>([]);
+  const [isMistakeReview, setIsMistakeReview] = useState(false);
   const [bookmarks, setBookmarks] = useState<Set<string>>(new Set());
   const [voiceStatus, setVoiceStatus] = useState("Awaiting voice input.");
 
   useEffect(() => {
     const load = async () => {
-      const [topicResponse, questionResponse] = await Promise.all([
-        fetchJson<Topic[]>("/api/topics", []),
-        fetchJson<Question[]>("/api/questions", [fallbackQuestion])
-      ]);
+      const [topicResponse, questionResponse, flashcardResponse, identificationResponse] =
+        await Promise.all([
+          fetchJson<Topic[]>("/api/v1/study/topics", []),
+          fetchJson<Question[]>("/api/v1/study/questions", [fallbackQuestion]),
+          fetchJson<Flashcard[]>("/api/v1/study/flashcards", []),
+          fetchJson<IdentificationItem[]>("/api/v1/study/identification", [])
+        ]);
       setTopics(topicResponse);
       setQuestions(questionResponse.length ? questionResponse : [fallbackQuestion]);
+      setFlashcards(flashcardResponse);
+      setIdentifications(identificationResponse);
     };
     load();
   }, []);
@@ -112,22 +159,26 @@ export default function App() {
     setVoiceStatus("Awaiting voice input.");
   }, [activeIndex]);
 
-  const question = questions[activeIndex] ?? fallbackQuestion;
+  const currentQuestions = useMemo(() => {
+    return isMistakeReview ? mistakes : questions;
+  }, [isMistakeReview, mistakes, questions]);
+
+  const question = currentQuestions[activeIndex] ?? fallbackQuestion;
 
   const progressLabel = useMemo(() => {
-    return `${activeIndex + 1}/${questions.length}`;
-  }, [activeIndex, questions.length]);
+    return `${activeIndex + 1}/${currentQuestions.length}`;
+  }, [activeIndex, currentQuestions.length]);
 
   const goNext = () => {
     setShowExplanation(false);
     setSelectedAnswer(null);
-    setActiveIndex((prev) => (prev + 1) % questions.length);
+    setActiveIndex((prev) => (prev + 1) % currentQuestions.length);
   };
 
   const goPrevious = () => {
     setShowExplanation(false);
     setSelectedAnswer(null);
-    setActiveIndex((prev) => (prev - 1 + questions.length) % questions.length);
+    setActiveIndex((prev) => (prev - 1 + currentQuestions.length) % currentQuestions.length);
   };
 
   const handleAnswer = (choiceLabel: string) => {
@@ -166,13 +217,23 @@ export default function App() {
     return (
       <div className="landing-shell">
         <div className="landing-bg" aria-hidden="true">
-          <span className="landing-orb orb-1" />
-          <span className="landing-orb orb-2" />
-          <span className="landing-orb orb-3" />
-          <span className="landing-lines" />
+          <div className="pipe-field">
+            <span className="pipe pipe-1" />
+            <span className="pipe pipe-2" />
+            <span className="pipe pipe-3" />
+            <span className="pipe pipe-4" />
+            <span className="pipe pipe-5" />
+          </div>
+          <span className="bubble bubble-1" />
+          <span className="bubble bubble-2" />
+          <span className="bubble bubble-3" />
+          <span className="flow-lines" />
         </div>
         <header className="landing-header">
-          <p className="landing-eyebrow">PlumberPass</p>
+          <div className="brand-lockup">
+            <span className="brand-dot" />
+            <p className="landing-eyebrow">PlumberPass</p>
+          </div>
           <div className="landing-nav">
             <button type="button" onClick={() => setScreen("Dashboard")}>
               Enter Dashboard
@@ -184,11 +245,12 @@ export default function App() {
         </header>
         <main className="landing-hero">
           <div className="landing-copy">
-            <h1>Train like a licensed pro with a living study flow.</h1>
+            <div className="landing-tag">Modern plumbing exam prep</div>
+            <h1>Simple, focused prep with a living flow of practice.</h1>
             <p>
-              PlumberPass blends voice-first practice with visual cues, so you can
-              learn codes, systems, and field instincts faster than flashcards
-              alone.
+              PlumberPass blends voice-first drills with on-screen guidance so you
+              can lock in codes, systems, and field instincts faster than static
+              flashcards.
             </p>
             <div className="landing-actions">
               <button type="button" onClick={() => setScreen("Dashboard")}>
@@ -202,31 +264,84 @@ export default function App() {
                 See review mode
               </button>
             </div>
+            <div className="landing-trust">
+              <div>
+                <strong>{questions.length}+</strong>
+                <span>curated questions</span>
+              </div>
+              <div>
+                <strong>3</strong>
+                <span>study modes</span>
+              </div>
+              <div>
+                <strong>24/7</strong>
+                <span>on-demand review</span>
+              </div>
+            </div>
           </div>
-          <div className="landing-card">
-            <h2>What feels alive?</h2>
-            <ul>
-              <li>Animated flow backdrops inspired by water pressure.</li>
-              <li>Voice, screen, and hybrid review options.</li>
-              <li>Targeted practice for plumbing codes & systems.</li>
-            </ul>
-            <div className="landing-stats">
-              <div>
-                <span>40+</span>
-                <p>Curated questions</p>
+          <div className="landing-illustration">
+            <div className="illustration-card">
+              <div className="gauge">
+                <span>Live flow</span>
+                <strong>83%</strong>
               </div>
-              <div>
-                <span>3</span>
-                <p>Study modes</p>
+              <h2>Built for hands-on memory.</h2>
+              <p>
+                Track mistakes, repeat weak topics, and stay in a steady rhythm
+                with a voice-first loop.
+              </p>
+              <div className="pipe-strip">
+                <span />
+                <span />
+                <span />
               </div>
-              <div>
-                <span>24/7</span>
-                <p>On-demand practice</p>
-              </div>
+            </div>
+            <div className="illustration-panel">
+              <p>Plumbing-ready cues</p>
+              <h3>System map snapshots</h3>
+              <ul>
+                <li>Code highlights</li>
+                <li>Fixture flow checks</li>
+                <li>Safety reminders</li>
+              </ul>
             </div>
           </div>
         </main>
       </div>
+    );
+  }
+
+  if (screen === "Dashboard") {
+    return (
+      <Dashboard
+        onStartSession={() => setScreen("ActiveStudy")}
+        onViewReport={() => setScreen("MasteryReport")}
+        onViewMistakes={() => setScreen("MistakeLibrary")}
+        questionCount={questions.length}
+        flashcardCount={flashcards.length}
+      />
+    );
+  }
+
+  if (screen === "ActiveStudy") {
+    return <ActiveStudy onBack={() => setScreen("Dashboard")} />;
+  }
+
+  if (screen === "MasteryReport") {
+    return <MasteryReport onBack={() => setScreen("Dashboard")} />;
+  }
+
+  if (screen === "MistakeLibrary") {
+    return (
+      <MistakeLibraryScreen
+        onBack={() => setScreen("Dashboard")}
+        onStudy={() => {
+          setIsMistakeReview(true);
+          setActiveIndex(0);
+          setScreen("Review");
+        }}
+        mistakes={mistakes}
+      />
     );
   }
 
@@ -236,36 +351,42 @@ export default function App() {
         <button
           type="button"
           className={screen === "Dashboard" ? "active" : ""}
-          onClick={() => setScreen("Dashboard")}
+          onClick={() => {
+            setIsMistakeReview(false);
+            setScreen("Dashboard");
+          }}
         >
           Dashboard
         </button>
         <button
           type="button"
           className={screen === "Review" ? "active" : ""}
-          onClick={() => setScreen("Review")}
+          onClick={() => {
+            setIsMistakeReview(false);
+            setScreen("Review");
+          }}
         >
           Review
         </button>
       </nav>
       <header className="app-header">
         <div>
-          <p className="eyebrow">PlumberPass</p>
-          <h1>Voice-first reviewer with full visual + hybrid modes</h1>
+          <p className="eyebrow">PlumberPass {isMistakeReview ? "• Mistake Review" : ""}</p>
+          <h1>
+            {isMistakeReview
+              ? "Strengthening Weak Topics"
+              : "Voice-first reviewer with full visual + hybrid modes"}
+          </h1>
           <p className="subtitle">
-            Switch between voice-only, screen-only, or hybrid review. Swipe, tap,
-            or speak A–E answers with confidence.
+            {isMistakeReview
+              ? "Focusing on items you previously missed. Master these to ensure field readiness."
+              : "Switch between voice-only, screen-only, or hybrid review. Swipe, tap, or speak A–E answers with confidence."}
           </p>
         </div>
         <ModeToggle mode={mode} modes={modes} onChange={setMode} />
       </header>
 
       <main className="app-content">
-        {screen === "Dashboard" ? (
-          <section className="dashboard-shell">
-            <Dashboard />
-          </section>
-        ) : null}
         {screen === "Review" ? (
           <aside className="sidebar">
             <TopicList topics={topics} activeTopic={question.topic} />
