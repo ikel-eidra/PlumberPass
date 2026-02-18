@@ -1,37 +1,38 @@
+# Frontend Dockerfile
+# Multi-stage build for production
+
 # Stage 1: Build
-FROM node:20-slim AS build
+FROM node:18-alpine AS builder
 
 WORKDIR /app
 
-# Copy package files and install dependencies
+# Copy package files
 COPY package*.json ./
-RUN npm install
+RUN npm ci
 
 # Copy source and build
 COPY . .
-ARG VITE_API_URL
-ENV VITE_API_URL=$VITE_API_URL
 RUN npm run build
 
-# Stage 2: Serve
+# Stage 2: Production
 FROM nginx:alpine
 
-# Copy build artifacts from stage 1
-COPY --from=build /app/dist /usr/share/nginx/html
+# Copy custom nginx config
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Copy custom nginx config if needed (optional, for SPA routing)
-RUN echo "server { \
-    listen 80; \
-    location / { \
-        root /usr/share/nginx/html; \
-        index index.html index.htm; \
-        try_files \$uri \$uri/ /index.html; \
-    } \
-    location /api/ { \
-        proxy_pass http://backend-service:8000; \
-    } \
-}" > /etc/nginx/conf.d/default.conf
+# Copy built files from builder
+COPY --from=builder /app/dist /usr/share/nginx/html
 
+# Copy PWA files
+COPY public/manifest.json /usr/share/nginx/html/
+COPY public/sw.js /usr/share/nginx/html/
+COPY public/icons /usr/share/nginx/html/icons
+
+# Expose port
 EXPOSE 80
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD wget --no-verbose --tries=1 --spider http://localhost/ || exit 1
 
 CMD ["nginx", "-g", "daemon off;"]
