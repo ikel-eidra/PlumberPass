@@ -29,31 +29,40 @@ async def health_check() -> HealthResponse:
     return HealthResponse(status="ok")
 
 
-@app.get("/topics", response_model=list[Topic])
+@app.get("/api/v1/study/items")
+async def get_study_items():
+    return {
+        "questions": load_questions(),
+        "flashcards": load_flashcards(),
+        "identification": load_identification_items()
+    }
+
+
+@app.get("/api/v1/study/topics", response_model=list[Topic])
 async def list_topics() -> list[Topic]:
     return load_topics()
 
 
-@app.get("/questions", response_model=list[Question])
+@app.get("/api/v1/study/questions", response_model=list[Question])
 async def list_questions() -> list[Question]:
     return load_questions()
 
 
-@app.get("/flashcards", response_model=list[Flashcard])
+@app.get("/api/v1/study/flashcards", response_model=list[Flashcard])
 async def list_flashcards() -> list[Flashcard]:
     return load_flashcards()
 
 
-@app.get("/identification", response_model=list[IdentificationItem])
+@app.get("/api/v1/study/identification", response_model=list[IdentificationItem])
 async def list_identification_items() -> list[IdentificationItem]:
     return load_identification_items()
 
 
-@app.get("/mock-exams/1/part-a", response_model=list[MockQuestion])
+@app.get("/api/v1/study/mock-exams/1/part-a", response_model=list[MockQuestion])
 async def list_mock_exam1_part_a() -> list[MockQuestion]:
     return load_mock_exam1_part_a()
 
 
-@app.get("/mock-exams/1/part-b", response_model=list[MockQuestion])
+@app.get("/api/v1/study/mock-exams/1/part-b", response_model=list[MockQuestion])
 async def list_mock_exam1_part_b() -> list[MockQuestion]:
     return load_mock_exam1_part_b()

@@ -5,24 +5,25 @@ from pathlib import Path
 
 from .models import Flashcard, IdentificationItem, MockQuestion, Question, Topic
 
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "seed.json"
-BATCH1_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch1.json"
-BATCH2_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch2.json"
-BATCH3_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch3.json"
-BATCH4_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch4.json"
-MOCK_EXAM1_PART_A_PATH = (
-    Path(__file__).resolve().parent.parent / "data" / "mock_exam1_part_a.json"
-)
-MOCK_EXAM1_PART_B_PATH = (
-    Path(__file__).resolve().parent.parent / "data" / "mock_exam1_part_b.json"
-)
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+DATA_PATH = DATA_DIR / "seed.json"
+MOCK_EXAM1_PART_A_PATH = DATA_DIR / "mock_exam1_part_a.json"
+MOCK_EXAM1_PART_B_PATH = DATA_DIR / "mock_exam1_part_b.json"
 
 
 def _load_batch_payloads() -> list[dict]:
+    """Dynamically loads all JSON files in the data directory excluding seed and mock exams."""
     payloads: list[dict] = []
-    for path in (BATCH1_PATH, BATCH2_PATH, BATCH3_PATH, BATCH4_PATH):
-        if path.exists():
+    # Exclude known non-batch files
+    excluded = {"seed.json", "mock_exam1_part_a.json", "mock_exam1_part_b.json"}
+
+    for path in DATA_DIR.glob("*.json"):
+        if path.name in excluded:
+            continue
+        try:
             payloads.append(json.loads(path.read_text(encoding="utf-8")))
+        except Exception:
+            continue
     return payloads
 
 
@@ -36,7 +37,7 @@ def load_questions() -> list[Question]:
                 topic=item["topic"],
                 subtopic=item["subtopic"],
                 difficulty=str(item["difficulty"]),
-                prompt=item["question_text"],
+                prompt=item.get("prompt") or item.get("question_text") or "",
                 choices=[{"label": key, "text": value} for key, value in item["choices"].items()],
                 answer_key=item["answer_key"],
                 explanation_short=item["explanation_short"],

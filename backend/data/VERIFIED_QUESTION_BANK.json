@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "total_questions": 20,
+    "verified_questions": 20,
+    "needs_verification": 0,
+    "source": "AR. Sean A. Dupaya Advance Q&A Week 1",
+    "date": "2026-02-17T19:57:02.143356",
+    "version": "1.0",
+    "note": "All 20 questions manually verified from source"
+  },
+  "questions": [
+    {
+      "id": "advance-week1-q001",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Water Treatment",
+      "difficulty": "Easy",
+      "prompt": "What is the primary purpose of disinfecting drinking water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Meet turbidity guidelines"
+        },
+        {
+          "label": "B",
+          "text": "Reduce hardness"
+        },
+        {
+          "label": "C",
+          "text": "Kill bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Reduce iron and manganese content"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Disinfection kills harmful bacteria and pathogens.",
+      "explanation_long": "The primary purpose of disinfecting drinking water is to kill bacteria. Turbidity guidelines refer to water clarity (Option A). Hardness reduction is done through water softening/ion exchange (Option B). Iron and manganese removal is done through filtration (Option D). Reference: ASPE Vol. 2, Chapter 11",
+      "tags": [
+        "water-treatment",
+        "disinfection",
+        "aspe"
+      ],
+      "source_ref": "ASPE Vol. 2, Chapter 11",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q002",
+      "topic": "Mechanical Engineering Laws",
+      "subtopic": "Professional Regulation",
+      "difficulty": "Medium",
+      "prompt": "Mechanical work for 2500 kW may be supervised by a:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CPM, ME, PME"
+        },
+        {
+          "label": "B",
+          "text": "ME, PME"
+        },
+        {
+          "label": "C",
+          "text": "CPM, PME"
+        },
+        {
+          "label": "D",
+          "text": "PME"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "2000 kW and above requires PME supervision only.",
+      "explanation_long": "According to RA 8495 (Philippine Mechanical Engineering Act of 1998), Section 34: 2000 kW and above requires PME (Professional Mechanical Engineer); 300-2000 kW can be supervised by ME or PME; 100-300 kW can be supervised by CPM, ME, or PME.",
+      "tags": [
+        "professional-regulation",
+        "ra-8495",
+        "mechanical",
+        "pme"
+      ],
+      "source_ref": "RA 8495 - Philippine Mechanical Engineering Act of 1998, Sec. 34",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q003",
+      "topic": "Codes and Standards",
+      "subtopic": "ANSI Standards",
+      "difficulty": "Easy",
+      "prompt": "What is the meaning of ANSI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "American National Standards Institute"
+        },
+        {
+          "label": "B",
+          "text": "Americans National Standard Institute"
+        },
+        {
+          "label": "C",
+          "text": "Administration of New Sanitary Installation"
+        },
+        {
+          "label": "D",
+          "text": "Administration of New Sanitation Installation"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "ANSI is the American National Standards Institute.",
+      "explanation_long": "ANSI stands for American National Standards Institute. It is a private non-profit organization that oversees the development of voluntary consensus standards for products, services, processes, systems, and personnel in the United States.",
+      "tags": [
+        "ansi",
+        "standards",
+        "codes"
+      ],
+      "source_ref": "ANSI - American National Standards Institute",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q004",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Copper Piping",
+      "difficulty": "Easy",
+      "prompt": "What is the heaviest type of copper pipe which is suitable for underground installation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type M"
+        },
+        {
+          "label": "B",
+          "text": "Type L"
+        },
+        {
+          "label": "C",
+          "text": "Type DWV"
+        },
+        {
+          "label": "D",
+          "text": "Type K"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Type K is the heaviest copper pipe for underground use.",
+      "explanation_long": "Type K is the heaviest/thickest copper pipe suitable for underground installation. Type M is the thinnest type for small water supply lines. Type L is lighter than K and available in rigid and flexible form. Type DWV is used for drainage and vent piping. Reference: PDE by Max Fajardo, Chapter 2",
+      "tags": [
+        "copper",
+        "type-k",
+        "underground",
+        "materials"
+      ],
+      "source_ref": "PDE by Max Fajardo, Chapter 2; Audel Plumbers Pocket Manual, Chapter 15",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q005",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Medium",
+      "prompt": "What is the ASTM standard specification for Zinc (Hot-dipped Galvanized) Coatings on Iron and Steel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ASTM F493"
+        },
+        {
+          "label": "B",
+          "text": "ASTM A123"
+        },
+        {
+          "label": "C",
+          "text": "ASTM D3309"
+        },
+        {
+          "label": "D",
+          "text": "ASTM F714"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "ASTM A123 is for zinc coatings on iron and steel.",
+      "explanation_long": "ASTM A123 is the Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products. ASTM F493 is for solvent cements for CPVC plastic pipe. ASTM D3309 is for polybutylene plastic system components. ASTM F714 is for high-density polyethylene (HDPE) pipe.",
+      "tags": [
+        "astm",
+        "galvanized",
+        "steel",
+        "standards",
+        "zinc"
+      ],
+      "source_ref": "ASTM Standards",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q006",
+      "topic": "Physics and Fundamentals",
+      "subtopic": "Density and Specific Gravity",
+      "difficulty": "Easy",
+      "prompt": "What is the specific gravity of seawater?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.0"
+        },
+        {
+          "label": "B",
+          "text": "0.7"
+        },
+        {
+          "label": "C",
+          "text": "1.028"
+        },
+        {
+          "label": "D",
+          "text": "0.78"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Seawater has a specific gravity of approximately 1.028.",
+      "explanation_long": "Seawater has a specific gravity of approximately 1.028 due to dissolved salts. Fresh water has a specific gravity of 1.0. Gasoline is approximately 0.7. Isopropyl alcohol is approximately 0.78.",
+      "tags": [
+        "specific-gravity",
+        "seawater",
+        "physics"
+      ],
+      "source_ref": "Physics Fundamentals",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q007",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "Fuel Gas Code",
+      "difficulty": "Easy",
+      "prompt": "What is the NFPA standard for the National Fuel Gas Code?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NFPA 13"
+        },
+        {
+          "label": "B",
+          "text": "NFPA 14"
+        },
+        {
+          "label": "C",
+          "text": "NFPA 54"
+        },
+        {
+          "label": "D",
+          "text": "NFPA 170"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "NFPA 54 is the National Fuel Gas Code.",
+      "explanation_long": "NFPA 54 is the National Fuel Gas Code. NFPA 13 is for sprinkler system installation. NFPA 14 is for standpipe and hose systems. NFPA 170 is for fire safety and emergency symbols.",
+      "tags": [
+        "nfpa",
+        "fuel-gas",
+        "fire-protection",
+        "codes"
+      ],
+      "source_ref": "NFPA Standards",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q008",
+      "topic": "Physics and Fundamentals",
+      "subtopic": "Pressure Units",
+      "difficulty": "Easy",
+      "prompt": "1 atmosphere (atm) is equal to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "101,325 Pa"
+        },
+        {
+          "label": "B",
+          "text": "14.7 psi"
+        },
+        {
+          "label": "C",
+          "text": "760 torr"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "1 atm equals 101,325 Pa, 14.7 psi, and 760 torr.",
+      "explanation_long": "Standard atmospheric pressure (1 atm) is equivalent to: 101,325 Pascals (Pa), 14.7 pounds per square inch (psi), 760 millimeters of mercury (mmHg) or 760 torr, and 1.01325 bar.",
+      "tags": [
+        "pressure",
+        "atm",
+        "psi",
+        "pascal",
+        "torr",
+        "physics"
+      ],
+      "source_ref": "Physics Fundamentals",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q009",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Material Properties",
+      "difficulty": "Easy",
+      "prompt": "What is the chemical symbol for Copper?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ti"
+        },
+        {
+          "label": "B",
+          "text": "Sn"
+        },
+        {
+          "label": "C",
+          "text": "Co"
+        },
+        {
+          "label": "D",
+          "text": "Cu"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Cu is the chemical symbol for Copper.",
+      "explanation_long": "Cu is the chemical symbol for Copper from its Latin name 'Cuprum'. Ti is Titanium, Sn is Tin, and Co is Cobalt.",
+      "tags": [
+        "copper",
+        "chemical-symbol",
+        "materials"
+      ],
+      "source_ref": "Chemistry Fundamentals",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q010",
+      "topic": "Measurements and Dimensions",
+      "subtopic": "Fixture Heights",
+      "difficulty": "Easy",
+      "prompt": "What is the approximate height above floor level of a kitchen sink?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "31 inches"
+        },
+        {
+          "label": "B",
+          "text": "36 inches"
+        },
+        {
+          "label": "C",
+          "text": "34 inches"
+        },
+        {
+          "label": "D",
+          "text": "16 inches"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Kitchen sink height is approximately 36 inches.",
+      "explanation_long": "Kitchen sink height is approximately 36 inches. Lavatory height is approximately 31 inches. Laundry tray is approximately 34 inches. Built-in bathtub is approximately 16 inches. Reference: Audel Plumbers Pocket Manual, Chapter 1",
+      "tags": [
+        "kitchen-sink",
+        "fixture-height",
+        "measurements"
+      ],
+      "source_ref": "Audel Plumbers Pocket Manual, Chapter 1",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q011",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "Fire Extinguishers",
+      "difficulty": "Easy",
+      "prompt": "What is the color coding for Foam Fire Extinguisher?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cream"
+        },
+        {
+          "label": "B",
+          "text": "Blue"
+        },
+        {
+          "label": "C",
+          "text": "Black"
+        },
+        {
+          "label": "D",
+          "text": "Yellow"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Foam fire extinguishers are color-coded cream.",
+      "explanation_long": "Foam fire extinguishers are color-coded cream. Blue indicates dry powder. Black indicates carbon dioxide. Yellow indicates wet chemical.",
+      "tags": [
+        "fire-extinguisher",
+        "color-coding",
+        "safety",
+        "foam"
+      ],
+      "source_ref": "Fire Safety Standards",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q012",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "Fire Classifications",
+      "difficulty": "Easy",
+      "prompt": "According to RA 9514, what is the shape symbol for Class A - Ordinary Combustible fires?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circle"
+        },
+        {
+          "label": "B",
+          "text": "Hexagon"
+        },
+        {
+          "label": "C",
+          "text": "Square"
+        },
+        {
+          "label": "D",
+          "text": "Triangle"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Class A fires are symbolized by a triangle.",
+      "explanation_long": "Class A (Ordinary Combustible) fires use a triangle symbol. Class B (Flammable Liquids) uses a square. Class C (Live Electrical Equipment) uses a circle. Class K (Commercial Cooking Equipment) uses a hexagon. Reference: RA 9514 (Fire Code of the Philippines)",
+      "tags": [
+        "fire-safety",
+        "ra-9514",
+        "class-a",
+        "symbol"
+      ],
+      "source_ref": "RA 9514 - Fire Code of the Philippines",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q013",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Water Hardness",
+      "difficulty": "Medium",
+      "prompt": "According to ASPE, what is the water hardness range (in mg/l as CaCO3) for the 'Very Hard' category?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0-75 mg/l as CaCO3"
+        },
+        {
+          "label": "B",
+          "text": "76-150 mg/l as CaCO3"
+        },
+        {
+          "label": "C",
+          "text": "151-300 mg/l as CaCO3"
+        },
+        {
+          "label": "D",
+          "text": "Over 300 mg/l as CaCO3"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Very Hard water is over 300 mg/l as CaCO3.",
+      "explanation_long": "ASPE water hardness categories: Soft (0-75 mg/l as CaCO3), Moderate (76-150 mg/l as CaCO3), Hard (151-300 mg/l as CaCO3), Very Hard (Over 300 mg/l as CaCO3). CaCO3 = Calcium Carbonate.",
+      "tags": [
+        "water-hardness",
+        "aspe",
+        "caco3",
+        "water-quality"
+      ],
+      "source_ref": "ASPE Standards",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q014",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Septic Systems",
+      "difficulty": "Medium",
+      "prompt": "Which gas is NOT typically found inside a septic tank?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon Monoxide"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen Sulfide"
+        },
+        {
+          "label": "C",
+          "text": "Hydrochloric Acid"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur Dioxide"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Hydrochloric acid (muriatic acid) is not found in septic tanks.",
+      "explanation_long": "Hydrochloric Acid (Muriatic Acid) is NOT found in septic tanks. Gases found in septic tanks include: Carbon Monoxide (CO), Hydrogen Sulfide (H2S), and Sulfur Dioxide (SO2). Reference: PDE by Max Fajardo, Chapter 4",
+      "tags": [
+        "septic-tank",
+        "gases",
+        "safety"
+      ],
+      "source_ref": "PDE by Max Fajardo, Chapter 4",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q015",
+      "topic": "Codes and Standards",
+      "subtopic": "Philippine Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law is also known as the 'Code on Sanitation of the Philippines'?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 8749"
+        },
+        {
+          "label": "B",
+          "text": "RA 9275"
+        },
+        {
+          "label": "C",
+          "text": "RA 9003"
+        },
+        {
+          "label": "D",
+          "text": "PD 856"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "PD 856 is the Code on Sanitation of the Philippines.",
+      "explanation_long": "PD 856 is the Code on Sanitation of the Philippines. RA 8749 is the Philippine Clean Air Act of 1999. RA 9275 is the Philippine Clean Water Act. RA 9003 is the Ecological Solid Waste Act.",
+      "tags": [
+        "pd-856",
+        "sanitation",
+        "philippine-laws",
+        "codes"
+      ],
+      "source_ref": "PD 856 - Code on Sanitation of the Philippines",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q016",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Galvanized Steel",
+      "difficulty": "Medium",
+      "prompt": "What is the minimum gauge number of galvanized sheet metal that could be used as a rainwater downspout or conductor to be located on the exterior side of a low-height building?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GA 22"
+        },
+        {
+          "label": "B",
+          "text": "GA 23"
+        },
+        {
+          "label": "C",
+          "text": "GA 26"
+        },
+        {
+          "label": "D",
+          "text": "GA 24"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "GA 26 is the minimum gauge for exterior rainwater downspouts.",
+      "explanation_long": "GA 26 is the minimum gauge number for galvanized sheet metal used as rainwater downspout or conductor on the exterior side of a low-height building. Reference: RNPCP, Section 1102",
+      "tags": [
+        "galvanized-steel",
+        "gauge",
+        "downspout",
+        "rpncp"
+      ],
+      "source_ref": "RNPCP, Section 1102",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q017",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Water Demand",
+      "difficulty": "Easy",
+      "prompt": "What is the water demand (in gpm) for a drinking fountain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.75 gpm"
+        },
+        {
+          "label": "B",
+          "text": "2 gpm"
+        },
+        {
+          "label": "C",
+          "text": "3 gpm"
+        },
+        {
+          "label": "D",
+          "text": "4 gpm"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Drinking fountain water demand is 0.75 gpm.",
+      "explanation_long": "Water demands: Drinking fountain = 0.75 gpm. Lavatory faucet = 2 gpm. Lavatory faucet (self-closing) = 3 gpm. Bathtub faucet, shower head, and laundry tub faucet = 4 gpm. Reference: Audel Plumbers Pocket Manual, Chapter 15",
+      "tags": [
+        "water-demand",
+        "drinking-fountain",
+        "gpm",
+        "fixtures"
+      ],
+      "source_ref": "Audel Plumbers Pocket Manual, Chapter 15",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q018",
+      "topic": "Measurements and Dimensions",
+      "subtopic": "Tools and Equipment",
+      "difficulty": "Easy",
+      "prompt": "What is the appropriate hacksaw blade TPI (teeth per inch) for galvanized steel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "32 TPI"
+        },
+        {
+          "label": "B",
+          "text": "24 TPI"
+        },
+        {
+          "label": "C",
+          "text": "18 TPI"
+        },
+        {
+          "label": "D",
+          "text": "14 TPI"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "14 TPI is used for galvanized steel.",
+      "explanation_long": "Hacksaw blade selection: 32 TPI for light gauge band iron and thin wall copper tubing. 24 TPI for angle iron or pipe. 18 TPI for hanger rod, general use. 14 TPI for galvanized steel. Reference: Audel Plumbers Pocket Manual, Chapter 3",
+      "tags": [
+        "tools",
+        "hacksaw",
+        "tpi",
+        "galvanized"
+      ],
+      "source_ref": "Audel Plumbers Pocket Manual, Chapter 3",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q019",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "CPVC Piping",
+      "difficulty": "Easy",
+      "prompt": "What is the maximum service temperature of Chlorinated Polyvinyl Chloride (CPVC)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "140°F"
+        },
+        {
+          "label": "B",
+          "text": "160°F"
+        },
+        {
+          "label": "C",
+          "text": "180-200°F"
+        },
+        {
+          "label": "D",
+          "text": "280°F"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "CPVC maximum service temperature is 180-200°F.",
+      "explanation_long": "Maximum service temperatures: PVC = 140°F. ABS = 160°F. CPVC = 180-200°F. PVDF (Polyvinylidene Fluoride) = 280°F. Reference: Audel Plumbers Pocket Manual, Chapter 13",
+      "tags": [
+        "cpvc",
+        "temperature",
+        "plastic-pipe",
+        "materials"
+      ],
+      "source_ref": "Audel Plumbers Pocket Manual, Chapter 13",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-week1-q020",
+      "topic": "Physics and Fundamentals",
+      "subtopic": "Density and Specific Gravity",
+      "difficulty": "Medium",
+      "prompt": "Which of the following is NOT equal to the density of water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 gram/mm³"
+        },
+        {
+          "label": "B",
+          "text": "62.4 lbs/ft³"
+        },
+        {
+          "label": "C",
+          "text": "1000 kg/m³"
+        },
+        {
+          "label": "D",
+          "text": "9.81 kN/m³"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "1 gram/mm³ is incorrect; it should be 1 gram/cm³.",
+      "explanation_long": "Water density equivalents: 1 gram/cm³ (not mm³), 62.4 lbs/ft³, 1000 kg/m³, 9.81 kN/m³. Note: Option A uses mm³ instead of cm³, making it incorrect.",
+      "tags": [
+        "density",
+        "water",
+        "units",
+        "physics"
+      ],
+      "source_ref": "Physics Fundamentals",
+      "quality_flag": "verified"
+    }
+  ]
+}

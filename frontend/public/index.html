@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#000000">
+  <meta name="description" content="Master Plumber Licensure Exam Reviewer - Voice-first, offline-capable study app">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="PlumberPass">
+  
+  <title>PlumberPass | Master Plumber Reviewer</title>
+  
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="/manifest.json">
+  
+  <!-- Icons -->
+  <link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192x192.png">
+  <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
+  
+  <!-- Preload Critical Resources -->
+  <link rel="preload" href="/css/onyx-theme.css" as="style">
+  <link rel="preload" href="/js/app.js" as="script">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="/css/onyx-theme.css">
+  
+  <!-- Prevent flash of wrong theme -->
+  <script>
+    (function() {
+      const savedTheme = localStorage.getItem('pp_theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+    })();
+  </script>
+</head>
+<body>
+  <!-- ============================================
+       PLUMBERPASS - MASTER PLUMBER REVIEWER
+       Voice-First | Offline-Capable | SRS-Powered
+       ============================================ -->
+  
+  <!-- Loading Screen (shown until app initializes) -->
+  <div id="loading-screen" class="loading-screen">
+    <div class="loading-content">
+      <div class="logo-pulse">
+        <svg viewBox="0 0 100 100" class="logo-icon">
+          <circle cx="50" cy="50" r="45" fill="none" stroke="var(--accent-cyan)" stroke-width="2"/>
+          <path d="M30 50 L50 30 L70 50 L50 70 Z" fill="var(--accent-cyan)" opacity="0.8"/>
+          <circle cx="50" cy="50" r="8" fill="var(--accent-glow)"/>
+        </svg>
+      </div>
+      <h1 class="loading-title">PlumberPass</h1>
+      <p class="loading-subtitle">Initializing Memory Injection System...</p>
+      <div class="loading-bar">
+        <div class="loading-progress"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main App Container -->
+  <div id="app" class="app-container hidden">
+    
+    <!-- ==================== HEADER ==================== -->
+    <header class="app-header">
+      <div class="header-brand">
+        <svg viewBox="0 0 40 40" class="header-logo">
+          <circle cx="20" cy="20" r="18" fill="none" stroke="currentColor" stroke-width="2"/>
+          <path d="M12 20 L20 12 L28 20 L20 28 Z" fill="currentColor"/>
+        </svg>
+        <span class="header-title">PlumberPass</span>
+      </div>
+      
+      <nav class="header-nav">
+        <button class="nav-btn active" data-screen="dashboard" aria-label="Dashboard">
+          <svg viewBox="0 0 24 24" width="20" height="20">
+            <rect x="3" y="3" width="7" height="7" rx="1" fill="currentColor"/>
+            <rect x="14" y="3" width="7" height="7" rx="1" fill="currentColor" opacity="0.6"/>
+            <rect x="3" y="14" width="7" height="7" rx="1" fill="currentColor" opacity="0.6"/>
+            <rect x="14" y="14" width="7" height="7" rx="1" fill="currentColor"/>
+          </svg>
+        </button>
+        <button class="nav-btn" data-screen="quiz" aria-label="Quiz Mode">
+          <svg viewBox="0 0 24 24" width="20" height="20">
+            <path d="M9 11l3 3L22 4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+        <button class="nav-btn" data-screen="audio" aria-label="Audio Mode">
+          <svg viewBox="0 0 24 24" width="20" height="20">
+            <path d="M12 1a3 3 0 00-3 3v8a3 3 0 006 0V4a3 3 0 00-3-3z" fill="currentColor"/>
+            <path d="M19 10v2a7 7 0 01-14 0v-2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <line x1="12" y1="19" x2="12" y2="23" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <line x1="8" y1="23" x2="16" y2="23" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+        <button class="nav-btn" data-screen="mistakes" aria-label="Mistake Library">
+          <svg viewBox="0 0 24 24" width="20" height="20">
+            <path d="M12 2L2 7l10 5 10-5-10-5z" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path d="M2 17l10 5 10-5" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path d="M2 12l10 5 10-5" fill="none" stroke="currentColor" stroke-width="2"/>
+          </svg>
+          <span id="mistake-badge" class="badge hidden">0</span>
+        </button>
+        <button class="nav-btn" data-screen="settings" aria-label="Settings">
+          <svg viewBox="0 0 24 24" width="20" height="20">
+            <circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 010 2.83 2 2 0 01-2.83 0l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-2 2 2 2 0 01-2-2v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83 0 2 2 0 010-2.83l.06-.06a1.65 1.65 0 00.33-1.82 1.65 1.65 0 00-1.51-1H3a2 2 0 01-2-2 2 2 0 012-2h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 010-2.83 2 2 0 012.83 0l.06.06a1.65 1.65 0 001.82.33H9a1.65 1.65 0 001-1.51V3a2 2 0 012-2 2 2 0 012 2v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 0 2 2 0 010 2.83l-.06.06a1.65 1.65 0 00-.33 1.82V9a1.65 1.65 0 001.51 1H21a2 2 0 012 2 2 2 0 01-2 2h-.09a1.65 1.65 0 00-1.51 1z" fill="none" stroke="currentColor" stroke-width="2"/>
+          </svg>
+        </button>
+      </nav>
+    </header>
+
+    <!-- ==================== MAIN CONTENT ==================== -->
+    <main class="main-content">
+      
+      <!-- DASHBOARD SCREEN -->
+      <section id="screen-dashboard" class="screen active">
+        <div class="dashboard-hero">
+          <div class="exam-countdown">
+            <span class="countdown-label">Days Until Exam</span>
+            <span id="countdown-days" class="countdown-value">--</span>
+            <span class="countdown-date">July 2026</span>
+          </div>
+          
+          <div class="readiness-score">
+            <svg viewBox="0 0 100 100" class="score-ring">
+              <circle cx="50" cy="50" r="45" fill="none" stroke="var(--surface-light)" stroke-width="8"/>
+              <circle id="readiness-circle" cx="50" cy="50" r="45" fill="none" stroke="var(--accent-cyan)" stroke-width="8" 
+                      stroke-dasharray="283" stroke-dashoffset="283" stroke-linecap="round"/>
+            </svg>
+            <div class="score-value">
+              <span id="readiness-percent">0%</span>
+              <small>Ready</small>
+            </div>
+          </div>
+        </div>
+
+        <div class="quick-actions">
+          <button id="btn-quick-audio" class="action-card audio">
+            <svg viewBox="0 0 24 24" width="32" height="32">
+              <path d="M12 1a3 3 0 00-3 3v8a3 3 0 006 0V4a3 3 0 00-3-3z" fill="currentColor"/>
+              <path d="M19 10v2a7 7 0 01-14 0v-2" fill="none" stroke="currentColor" stroke-width="2"/>
+            </svg>
+            <span>Phantom Audio</span>
+            <small>Hands-free commute mode</small>
+          </button>
+          
+          <button id="btn-quick-quiz" class="action-card quiz">
+            <svg viewBox="0 0 24 24" width="32" height="32">
+              <path d="M9 11l3 3L22 4" fill="none" stroke="currentColor" stroke-width="2"/>
+              <path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11" fill="none" stroke="currentColor" stroke-width="2"/>
+            </svg>
+            <span>Daily Quiz</span>
+            <small id="daily-queue-count">0 items due</small>
+          </button>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span id="stat-total-answered" class="stat-value">0</span>
+            <span class="stat-label">Questions Answered</span>
+          </div>
+          <div class="stat-card">
+            <span id="stat-streak" class="stat-value">0</span>
+            <span class="stat-label">Day Streak</span>
+          </div>
+          <div class="stat-card">
+            <span id="stat-accuracy" class="stat-value">0%</span>
+            <span class="stat-label">Accuracy</span>
+          </div>
+          <div class="stat-card weak">
+            <span id="stat-weak-topics" class="stat-value">0</span>
+            <span class="stat-label">Weak Areas</span>
+          </div>
+        </div>
+
+        <div class="topic-breakdown">
+          <h3>Topic Mastery</h3>
+          <div id="topic-list" class="topic-list">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+      </section>
+
+      <!-- QUIZ SCREEN -->
+      <section id="screen-quiz" class="screen">
+        <div class="quiz-header">
+          <div class="quiz-progress">
+            <div class="progress-bar">
+              <div id="quiz-progress-fill" class="progress-fill"></div>
+            </div>
+            <span id="quiz-progress-text" class="progress-text">1 / 20</span>
+          </div>
+          <div class="quiz-meta">
+            <span id="quiz-difficulty" class="difficulty-badge">Medium</span>
+            <span id="quiz-timer" class="timer">00:00</span>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <div id="question-content" class="question-content">
+            <h2 id="question-text" class="question-text">Loading question...</h2>
+            <div id="question-choices" class="choices-container">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+          
+          <div id="question-explanation" class="explanation-panel hidden">
+            <div class="explanation-header">
+              <svg viewBox="0 0 24 24" width="20" height="20">
+                <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="2"/>
+                <path d="M12 16v-4M12 8h.01" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+              <span>Explanation</span>
+            </div>
+            <p id="explanation-text" class="explanation-text"></p>
+          </div>
+        </div>
+
+        <div class="quiz-controls">
+          <button id="btn-explain" class="btn-secondary" disabled>
+            <svg viewBox="0 0 24 24" width="18" height="18">
+              <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="2"/>
+              <path d="M12 16v-4M12 8h.01" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            Explain
+          </button>
+          <button id="btn-next" class="btn-primary" disabled>
+            Next
+            <svg viewBox="0 0 24 24" width="18" height="18">
+              <path d="M5 12h14M12 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+
+        <div class="quiz-actions">
+          <button id="btn-bookmark" class="btn-icon" title="Bookmark Question">
+            <svg viewBox="0 0 24 24" width="20" height="20">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2v16z" fill="none" stroke="currentColor" stroke-width="2"/>
+            </svg>
+          </button>
+          <button id="btn-report" class="btn-icon" title="Report Issue">
+            <svg viewBox="0 0 24 24" width="20" height="20">
+              <path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z" fill="none" stroke="currentColor" stroke-width="2"/>
+              <line x1="12" y1="9" x2="12" y2="13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              <circle cx="12" cy="17" r="0.5" fill="currentColor"/>
+            </svg>
+          </button>
+          <button id="btn-audio-read" class="btn-icon" title="Read Aloud">
+            <svg viewBox="0 0 24 24" width="20" height="20">
+              <path d="M12 1a3 3 0 00-3 3v8a3 3 0 006 0V4a3 3 0 00-3-3z" fill="currentColor"/>
+              <path d="M19 10v2a7 7 0 01-14 0v-2" fill="none" stroke="currentColor" stroke-width="2"/>
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <!-- AUDIO MODE SCREEN (Phantom Mode) -->
+      <section id="screen-audio" class="screen">
+        <div class="audio-hero">
+          <div class="audio-visualizer">
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+          </div>
+          
+          <div class="audio-status">
+            <span id="audio-status-text">Ready to start</span>
+            <span id="audio-question-number" class="question-number"></span>
+          </div>
+        </div>
+
+        <div class="audio-controls">
+          <button id="btn-audio-play" class="audio-btn play">
+            <svg viewBox="0 0 24 24" width="32" height="32">
+              <polygon points="5 3 19 12 5 21 5 3" fill="currentColor"/>
+            </svg>
+          </button>
+          
+          <button id="btn-audio-pause" class="audio-btn pause hidden">
+            <svg viewBox="0 0 24 24" width="32" height="32">
+              <rect x="6" y="4" width="4" height="16" fill="currentColor"/>
+              <rect x="14" y="4" width="4" height="16" fill="currentColor"/>
+            </svg>
+          </button>
+          
+          <button id="btn-audio-repeat" class="audio-btn">
+            <svg viewBox="0 0 24 24" width="24" height="24">
+              <polyline points="1 4 1 10 7 10" fill="none" stroke="currentColor" stroke-width="2"/>
+              <path d="M3.51 15a9 9 0 101.85-6.23L1 10" fill="none" stroke="currentColor" stroke-width="2"/>
+            </svg>
+          </button>
+          
+          <button id="btn-audio-skip" class="audio-btn">
+            <svg viewBox="0 0 24 24" width="24" height="24">
+              <polygon points="5 4 15 12 5 20 5 4" fill="currentColor"/>
+              <line x1="19" y1="5" x2="19" y2="19" stroke="currentColor" stroke-width="2"/>
+            </svg>
+          </button>
+        </div>
+
+        <div class="audio-answer-section">
+          <p class="answer-instruction">Tap to answer or speak A, B, C, D, E</p>
+          
+          <div class="answer-pad">
+            <button class="answer-btn" data-answer="A">A</button>
+            <button class="answer-btn" data-answer="B">B</button>
+            <button class="answer-btn" data-answer="C">C</button>
+            <button class="answer-btn" data-answer="D">D</button>
+            <button class="answer-btn" data-answer="E">E</button>
+          </div>
+          
+          <div id="audio-feedback" class="audio-feedback hidden">
+            <span id="feedback-icon"></span>
+            <span id="feedback-text"></span>
+          </div>
+        </div>
+
+        <div class="audio-settings">
+          <div class="setting-row">
+            <label for="tts-speed">Speech Speed</label>
+            <input type="range" id="tts-speed" min="0.5" max="1.5" step="0.1" value="1">
+            <span id="tts-speed-value">1.0x</span>
+          </div>
+          <div class="setting-row">
+            <label for="auto-advance">Auto-advance</label>
+            <label class="toggle">
+              <input type="checkbox" id="auto-advance" checked>
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+        </div>
+
+        <div class="phantom-instructions">
+          <h4>Phantom Mode Controls</h4>
+          <ul>
+            <li><strong>1 tap</strong> = Answer A</li>
+            <li><strong>2 taps</strong> = Answer B</li>
+            <li><strong>3 taps</strong> = Answer C</li>
+            <li><strong>Long press</strong> = Repeat question</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- MISTAKE LIBRARY SCREEN -->
+      <section id="screen-mistakes" class="screen">
+        <div class="mistakes-header">
+          <h2>Your Mistake Library</h2>
+          <p>Questions you've answered incorrectly. Review these to strengthen weak areas.</p>
+        </div>
+        
+        <div id="mistakes-list" class="mistakes-list">
+          <!-- Dynamically populated -->
+        </div>
+        
+        <div id="mistakes-empty" class="mistakes-empty">
+          <svg viewBox="0 0 24 24" width="64" height="64">
+            <path d="M22 11.08V12a10 10 0 11-5.93-9.14" fill="none" stroke="currentColor" stroke-width="2"/>
+            <polyline points="22 4 12 14.01 9 11.01" fill="none" stroke="currentColor" stroke-width="2"/>
+          </svg>
+          <p>Excellent! No mistakes recorded yet.</p>
+          <small>Keep practicing to build your knowledge.</small>
+        </div>
+      </section>
+
+      <!-- SETTINGS SCREEN -->
+      <section id="screen-settings" class="screen">
+        <div class="settings-section">
+          <h3>Study Preferences</h3>
+          
+          <div class="setting-item">
+            <div class="setting-info">
+              <span class="setting-label">Daily Question Goal</span>
+              <span class="setting-desc">Target questions per day</span>
+            </div>
+            <select id="setting-daily-goal" class="setting-select">
+              <option value="10">10 questions</option>
+              <option value="20" selected>20 questions</option>
+              <option value="30">30 questions</option>
+              <option value="50">50 questions</option>
+            </select>
+          </div>
+          
+          <div class="setting-item">
+            <div class="setting-info">
+              <span class="setting-label">New vs Review Ratio</span>
+              <span class="setting-desc">Balance of new and review questions</span>
+            </div>
+            <select id="setting-ratio" class="setting-select">
+              <option value="0.3">30% New / 70% Review</option>
+              <option value="0.5" selected>50% New / 50% Review</option>
+              <option value="0.7">70% New / 30% Review</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="settings-section">
+          <h3>Audio Settings</h3>
+          
+          <div class="setting-item">
+            <div class="setting-info">
+              <span class="setting-label">Default Voice</span>
+              <span class="setting-desc">Text-to-speech voice selection</span>
+            </div>
+            <select id="setting-voice" class="setting-select">
+              <option value="">System Default</option>
+            </select>
+          </div>
+          
+          <div class="setting-item">
+            <div class="setting-info">
+              <span class="setting-label">Read Explanations</span>
+              <span class="setting-desc">Auto-read answer explanations</span>
+            </div>
+            <label class="toggle">
+              <input type="checkbox" id="setting-read-exp" checked>
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+        </div>
+
+        <div class="settings-section">
+          <h3>Data Management</h3>
+          
+          <button id="btn-export" class="btn-secondary full-width">
+            <svg viewBox="0 0 24 24" width="18" height="18">
+              <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" fill="none" stroke="currentColor" stroke-width="2"/>
+              <polyline points="7 10 12 15 17 10" fill="none" stroke="currentColor" stroke-width="2"/>
+              <line x1="12" y1="15" x2="12" y2="3" stroke="currentColor" stroke-width="2"/>
+            </svg>
+            Export Progress
+          </button>
+          
+          <button id="btn-reset" class="btn-danger full-width">
+            <svg viewBox="0 0 24 24" width="18" height="18">
+              <polyline points="3 6 5 6 21 6" fill="none" stroke="currentColor" stroke-width="2"/>
+              <path d="M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2" fill="none" stroke="currentColor" stroke-width="2"/>
+            </svg>
+            Reset All Progress
+          </button>
+        </div>
+
+        <div class="settings-section">
+          <h3>About</h3>
+          <p class="about-text">
+            PlumberPass v1.0.0<br>
+            Built for Master Plumber Licensure Exam success.<br>
+            <span class="tagline">Memory Injection System™</span>
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <!-- Toast Notifications -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Confirmation Modal -->
+    <div id="modal-overlay" class="modal-overlay hidden">
+      <div class="modal">
+        <h3 id="modal-title">Confirm</h3>
+        <p id="modal-message">Are you sure?</p>
+        <div class="modal-actions">
+          <button id="modal-cancel" class="btn-secondary">Cancel</button>
+          <button id="modal-confirm" class="btn-primary">Confirm</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts - Load order matters for dependencies -->
+  <script src="/data/questions.js"></script>
+  <script src="/js/srs-engine.js"></script>
+  <script src="/js/audio-engine.js"></script>
+  <script src="/js/quiz-engine.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>

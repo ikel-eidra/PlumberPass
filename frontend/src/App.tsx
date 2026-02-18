@@ -27,6 +27,34 @@ export type Question = {
   tags: string[];
 };
 
+export type Flashcard = {
+  id: string;
+  topic: string;
+  subtopic: string;
+  front: string;
+  back: string;
+  explanation_short: string;
+  explanation_long: string;
+  tags: string[];
+  difficulty: number;
+  source_ref: string;
+  quality_flag: string;
+};
+
+export type IdentificationItem = {
+  id: string;
+  topic: string;
+  subtopic: string;
+  prompt: string;
+  accepted_answers: string[];
+  explanation_short: string;
+  explanation_long: string;
+  tags: string[];
+  difficulty: number;
+  source_ref: string;
+  quality_flag: string;
+};
+
 export type Topic = {
   name: string;
   subtopics: string[];
@@ -60,9 +88,11 @@ type Screen =
   | "MasteryReport"
   | "MistakeLibrary";
 
+const API_BASE = import.meta.env.VITE_API_URL || "";
+
 const fetchJson = async <T,>(path: string, fallback: T): Promise<T> => {
   try {
-    const response = await fetch(path);
+    const response = await fetch(`${API_BASE}${path}`);
     if (!response.ok) {
       return fallback;
     }
@@ -97,22 +127,30 @@ export default function App() {
   const [screen, setScreen] = useState<Screen>("Landing");
   const [topics, setTopics] = useState<Topic[]>([]);
   const [questions, setQuestions] = useState<Question[]>([fallbackQuestion]);
+  const [flashcards, setFlashcards] = useState<Flashcard[]>([]);
+  const [identifications, setIdentifications] = useState<IdentificationItem[]>([]);
   const [activeIndex, setActiveIndex] = useState(0);
   const [showExplanation, setShowExplanation] = useState(false);
   const [voiceTranscript, setVoiceTranscript] = useState("");
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [mistakes, setMistakes] = useState<Question[]>([]);
+  const [isMistakeReview, setIsMistakeReview] = useState(false);
   const [bookmarks, setBookmarks] = useState<Set<string>>(new Set());
   const [voiceStatus, setVoiceStatus] = useState("Awaiting voice input.");
 
   useEffect(() => {
     const load = async () => {
-      const [topicResponse, questionResponse] = await Promise.all([
-        fetchJson<Topic[]>("/api/topics", []),
-        fetchJson<Question[]>("/api/questions", [fallbackQuestion])
-      ]);
+      const [topicResponse, questionResponse, flashcardResponse, identificationResponse] =
+        await Promise.all([
+          fetchJson<Topic[]>("/api/v1/study/topics", []),
+          fetchJson<Question[]>("/api/v1/study/questions", [fallbackQuestion]),
+          fetchJson<Flashcard[]>("/api/v1/study/flashcards", []),
+          fetchJson<IdentificationItem[]>("/api/v1/study/identification", [])
+        ]);
       setTopics(topicResponse);
       setQuestions(questionResponse.length ? questionResponse : [fallbackQuestion]);
+      setFlashcards(flashcardResponse);
+      setIdentifications(identificationResponse);
     };
     load();
   }, []);
@@ -121,22 +159,26 @@ export default function App() {
     setVoiceStatus("Awaiting voice input.");
   }, [activeIndex]);
 
-  const question = questions[activeIndex] ?? fallbackQuestion;
+  const currentQuestions = useMemo(() => {
+    return isMistakeReview ? mistakes : questions;
+  }, [isMistakeReview, mistakes, questions]);
+
+  const question = currentQuestions[activeIndex] ?? fallbackQuestion;
 
   const progressLabel = useMemo(() => {
-    return `${activeIndex + 1}/${questions.length}`;
-  }, [activeIndex, questions.length]);
+    return `${activeIndex + 1}/${currentQuestions.length}`;
+  }, [activeIndex, currentQuestions.length]);
 
   const goNext = () => {
     setShowExplanation(false);
     setSelectedAnswer(null);
-    setActiveIndex((prev) => (prev + 1) % questions.length);
+    setActiveIndex((prev) => (prev + 1) % currentQuestions.length);
   };
 
   const goPrevious = () => {
     setShowExplanation(false);
     setSelectedAnswer(null);
-    setActiveIndex((prev) => (prev - 1 + questions.length) % questions.length);
+    setActiveIndex((prev) => (prev - 1 + currentQuestions.length) % currentQuestions.length);
   };
 
   const handleAnswer = (choiceLabel: string) => {
@@ -224,7 +266,7 @@ export default function App() {
             </div>
             <div className="landing-trust">
               <div>
-                <strong>40+</strong>
+                <strong>{questions.length}+</strong>
                 <span>curated questions</span>
               </div>
               <div>
@@ -275,6 +317,8 @@ export default function App() {
         onStartSession={() => setScreen("ActiveStudy")}
         onViewReport={() => setScreen("MasteryReport")}
         onViewMistakes={() => setScreen("MistakeLibrary")}
+        questionCount={questions.length}
+        flashcardCount={flashcards.length}
       />
     );
   }
@@ -288,7 +332,17 @@ export default function App() {
   }
 
   if (screen === "MistakeLibrary") {
-    return <MistakeLibraryScreen onBack={() => setScreen("Dashboard")} />;
+    return (
+      <MistakeLibraryScreen
+        onBack={() => setScreen("Dashboard")}
+        onStudy={() => {
+          setIsMistakeReview(true);
+          setActiveIndex(0);
+          setScreen("Review");
+        }}
+        mistakes={mistakes}
+      />
+    );
   }
 
   return (
@@ -297,25 +351,36 @@ export default function App() {
         <button
           type="button"
           className={screen === "Dashboard" ? "active" : ""}
-          onClick={() => setScreen("Dashboard")}
+          onClick={() => {
+            setIsMistakeReview(false);
+            setScreen("Dashboard");
+          }}
         >
           Dashboard
         </button>
         <button
           type="button"
           className={screen === "Review" ? "active" : ""}
-          onClick={() => setScreen("Review")}
+          onClick={() => {
+            setIsMistakeReview(false);
+            setScreen("Review");
+          }}
         >
           Review
         </button>
       </nav>
       <header className="app-header">
         <div>
-          <p className="eyebrow">PlumberPass</p>
-          <h1>Voice-first reviewer with full visual + hybrid modes</h1>
+          <p className="eyebrow">PlumberPass {isMistakeReview ? "• Mistake Review" : ""}</p>
+          <h1>
+            {isMistakeReview
+              ? "Strengthening Weak Topics"
+              : "Voice-first reviewer with full visual + hybrid modes"}
+          </h1>
           <p className="subtitle">
-            Switch between voice-only, screen-only, or hybrid review. Swipe, tap,
-            or speak A–E answers with confidence.
+            {isMistakeReview
+              ? "Focusing on items you previously missed. Master these to ensure field readiness."
+              : "Switch between voice-only, screen-only, or hybrid review. Swipe, tap, or speak A–E answers with confidence."}
           </p>
         </div>
         <ModeToggle mode={mode} modes={modes} onChange={setMode} />
