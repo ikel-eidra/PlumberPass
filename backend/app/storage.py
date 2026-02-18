@@ -5,24 +5,25 @@ from pathlib import Path
 
 from .models import Flashcard, IdentificationItem, MockQuestion, Question, Topic
 
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "seed.json"
-BATCH1_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch1.json"
-BATCH2_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch2.json"
-BATCH3_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch3.json"
-BATCH4_PATH = Path(__file__).resolve().parent.parent / "data" / "notebooklm_batch4.json"
-MOCK_EXAM1_PART_A_PATH = (
-    Path(__file__).resolve().parent.parent / "data" / "mock_exam1_part_a.json"
-)
-MOCK_EXAM1_PART_B_PATH = (
-    Path(__file__).resolve().parent.parent / "data" / "mock_exam1_part_b.json"
-)
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+DATA_PATH = DATA_DIR / "seed.json"
+MOCK_EXAM1_PART_A_PATH = DATA_DIR / "mock_exam1_part_a.json"
+MOCK_EXAM1_PART_B_PATH = DATA_DIR / "mock_exam1_part_b.json"
 
 
 def _load_batch_payloads() -> list[dict]:
+    """Dynamically loads all JSON files in the data directory excluding seed and mock exams."""
     payloads: list[dict] = []
-    for path in (BATCH1_PATH, BATCH2_PATH, BATCH3_PATH, BATCH4_PATH):
-        if path.exists():
+    # Exclude known non-batch files
+    excluded = {"seed.json", "mock_exam1_part_a.json", "mock_exam1_part_b.json"}
+
+    for path in DATA_DIR.glob("*.json"):
+        if path.name in excluded:
+            continue
+        try:
             payloads.append(json.loads(path.read_text(encoding="utf-8")))
+        except Exception:
+            continue
     return payloads
 
 
@@ -32,18 +33,18 @@ def load_questions() -> list[Question]:
     for batch_payload in _load_batch_payloads():
         batch_questions = [
             Question(
-                id=item["id"],
-                topic=item["topic"],
-                subtopic=item["subtopic"],
-                difficulty=str(item["difficulty"]),
-                prompt=item["question_text"],
-                choices=[{"label": key, "text": value} for key, value in item["choices"].items()],
-                answer_key=item["answer_key"],
-                explanation_short=item["explanation_short"],
-                explanation_long=item["explanation_long"],
-                tags=item["tags"],
+                id=item.get("id", f"MCQ-{i}"),
+                topic=item.get("topic", "General"),
+                subtopic=item.get("subtopic", ""),
+                difficulty=str(item.get("difficulty", "3")),
+                prompt=item.get("prompt") or item.get("question_text") or "No prompt provided.",
+                choices=[{"label": key, "text": value} for key, value in item.get("choices", {}).items()],
+                answer_key=item.get("answer_key", "A"),
+                explanation_short=item.get("explanation_short", ""),
+                explanation_long=item.get("explanation_long", ""),
+                tags=item.get("tags", []),
             )
-            for item in batch_payload.get("mcqs", [])
+            for i, item in enumerate(batch_payload.get("mcqs", []))
         ]
         questions.extend(batch_questions)
     return questions
@@ -57,17 +58,48 @@ def load_topics() -> list[Topic]:
 def load_flashcards() -> list[Flashcard]:
     flashcards: list[Flashcard] = []
     for payload in _load_batch_payloads():
-        flashcards.extend(Flashcard(**item) for item in payload.get("flashcards", []))
+        for i, item in enumerate(payload.get("flashcards", [])):
+            try:
+                flashcards.append(Flashcard(
+                    id=item.get("id", f"FC-{i}"),
+                    topic=item.get("topic", "General"),
+                    subtopic=item.get("subtopic", ""),
+                    front=item.get("front", ""),
+                    back=item.get("back", ""),
+                    explanation_short=item.get("explanation_short", ""),
+                    explanation_long=item.get("explanation_long", ""),
+                    tags=item.get("tags", []),
+                    difficulty=item.get("difficulty", 3),
+                    source_ref=item.get("source_ref", ""),
+                    quality_flag=item.get("quality_flag", "OK")
+                ))
+            except Exception:
+                continue
     return flashcards
 
 
 def load_identification_items() -> list[IdentificationItem]:
     identification_items: list[IdentificationItem] = []
     for payload in _load_batch_payloads():
-        identification_items.extend(
-            IdentificationItem(**item) for item in payload.get("identification", [])
-        )
+        for i, item in enumerate(payload.get("identification", [])):
+            try:
+                identification_items.append(IdentificationItem(
+                    id=item.get("id", f"ID-{i}"),
+                    topic=item.get("topic", "General"),
+                    subtopic=item.get("subtopic", ""),
+                    prompt=item.get("prompt", ""),
+                    accepted_answers=item.get("accepted_answers", []),
+                    explanation_short=item.get("explanation_short", ""),
+                    explanation_long=item.get("explanation_long", ""),
+                    tags=item.get("tags", []),
+                    difficulty=item.get("difficulty", 3),
+                    source_ref=item.get("source_ref", ""),
+                    quality_flag=item.get("quality_flag", "OK")
+                ))
+            except Exception:
+                continue
     return identification_items
+
 
 def load_mock_exam1_part_a() -> list[MockQuestion]:
     if not MOCK_EXAM1_PART_A_PATH.exists():
