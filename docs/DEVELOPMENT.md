@@ -1,482 +1,138 @@
 # Development Guide
 
-This guide will help you set up PlumberPass for local development.
+Date updated: March 24, 2026
+
+This guide reflects the current app: React + Vite + Capacitor on the frontend, FastAPI on the backend.
 
 ## Prerequisites
 
-- **Python** 3.8 or higher
-- **Node.js** 16 or higher
-- **Git**
-- **Make** (optional, for using Makefile commands)
+- Python `3.8+`
+- Node.js `22+` recommended
+- npm
+- Android Studio + SDK if you need APK builds
+- Docker Desktop only if you want container validation
 
-## Quick Start
+## Install
 
-### 1. Clone the Repository
+### Backend
 
-```bash
-git clone https://github.com/yourusername/plumberpass.git
-cd plumberpass
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
+python -m venv backend\.venv
+.\backend\.venv\Scripts\pip install -r .\backend\requirements.txt
 ```
 
-### 2. Run Setup Script
+### Frontend
 
-```bash
-# Using Make (recommended)
-make setup
-
-# Or manually
-make backend-setup
-make frontend-setup
-```
-
-### 3. Start Development Servers
-
-```bash
-# Run both backend and frontend
-make dev
-
-# Or in separate terminals:
-# Terminal 1:
-make backend-run
-
-# Terminal 2:
-make frontend-run
-```
-
-The app will be available at:
-- Frontend: http://localhost:5173
-- Backend API: http://localhost:8000
-- API Docs: http://localhost:8000/docs
-
----
-
-## Manual Setup
-
-### Backend Setup
-
-```bash
-cd backend
-
-# Create virtual environment
-python -m venv .venv
-
-# Activate (Windows)
-.venv\Scripts\activate
-
-# Activate (macOS/Linux)
-source .venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run development server
-uvicorn app.main:app --reload --port 8000
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-
-# Install dependencies
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass\frontend
 npm install
+```
 
-# Run development server
+## Run locally
+
+### Backend API
+
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
+.\backend\.venv\Scripts\python -m uvicorn backend.app.main:app --reload --host 127.0.0.1 --port 8000
+```
+
+### Frontend app
+
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass\frontend
 npm run dev
 ```
 
----
+Local URLs:
 
-## Project Structure
+- frontend: `http://127.0.0.1:5173`
+- backend: `http://127.0.0.1:8000`
+- docs: `http://127.0.0.1:8000/docs`
 
-```
-plumberpass/
-├── backend/              # FastAPI backend
-│   ├── app/             # Application code
-│   │   ├── __init__.py
-│   │   ├── main.py      # FastAPI entry point
-│   │   ├── models.py    # Pydantic models
-│   │   └── storage.py   # Data access layer
-│   ├── data/            # JSON data files
-│   ├── requirements.txt # Python dependencies
-│   └── Dockerfile       # Container config
-│
-├── frontend/            # Frontend application
-│   ├── public/          # Static PWA files
-│   │   ├── index.html
-│   │   ├── css/
-│   │   ├── js/
-│   │   └── data/
-│   ├── src/            # React components (legacy)
-│   ├── package.json    # Node dependencies
-│   └── Dockerfile      # Container config
-│
-├── docs/               # Documentation
-├── scripts/            # Utility scripts
-├── tests/              # Test suites
-├── Makefile           # Common commands
-└── docker-compose.yml # Docker orchestration
+## Useful commands
+
+From the repo root:
+
+```powershell
+pytest -q
+cd .\frontend; npx tsc --noEmit
+cd .\frontend; npm run build
+powershell -ExecutionPolicy Bypass -File .\scripts\launch_smoke.ps1
 ```
 
----
+Republish curated content and rebuild the offline bundle:
 
-## Development Workflow
-
-### 1. Create a Branch
-
-```bash
-git checkout -b feature/my-feature
+```powershell
+python .\scripts\publish_structured_reference_mcqs.py
+python .\scripts\publish_laws_mcqs.py
+python .\scripts\publish_conversion_mcqs.py
+python .\scripts\publish_visual_review_items.py
+python .\scripts\export_study_bundle.py
 ```
 
-### 2. Make Changes
+## Android beta workflow
 
-Edit code following the style guidelines in [CONTRIBUTING.md](../CONTRIBUTING.md).
+Build:
 
-### 3. Test Changes
-
-```bash
-# Run all tests
-make test
-
-# Run specific tests
-make test-backend
-make test-frontend
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\build_android_beta.ps1
 ```
 
-### 4. Check Code Quality
+Install:
 
-```bash
-# Lint code
-make lint
-
-# Format code
-make format
-
-# Type check
-make typecheck
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\install_android_beta.ps1
 ```
 
-### 5. Commit
+Open Android Studio project if needed:
 
-```bash
-git add .
-git commit -m "feat: add my feature"
+```powershell
+cd .\frontend
+npx cap open android
 ```
 
-Follow [Conventional Commits](https://www.conventionalcommits.org/) format.
+## Debugging notes
 
-### 6. Push and Create PR
+### Backend unavailable in dev
 
-```bash
-git push origin feature/my-feature
+The frontend now falls back to `frontend/public/study-bundle.json` when the API is down. If you want live API data, start the backend first.
+
+### Stale Android or service-worker build
+
+- reinstall the APK after rebuilding
+- for web dev, restart `npm run dev`
+- in development, service worker registration is disabled to reduce stale-shell problems
+
+### Voice testing
+
+Web voice and Android native voice do not behave identically. Emulator checks are useful, but real-device testing is still required for final confidence.
+
+## Current test coverage
+
+### Stable automated checks
+
+- `pytest -q`
+- `npx tsc --noEmit`
+- `npm run build`
+- `scripts/launch_smoke.ps1`
+
+### Not yet a mature automated lane
+
+- full frontend interaction tests
+- real-device Android voice validation
+- live Stripe billing verification without env setup
+
+## Project layout
+
+```text
+backend/app/                 FastAPI app
+backend/data/                content banks and published slices
+frontend/src/                React frontend
+frontend/public/             PWA assets and offline study bundle
+frontend/android/            Capacitor Android wrapper
+scripts/                     content publishing, smoke, Android build/install
+tests/backend/               backend tests
+archive/tests/               archived legacy test artifacts
 ```
-
-Then create a Pull Request on GitHub.
-
----
-
-## Debugging
-
-### Backend Debugging
-
-#### Using PDB
-
-```python
-# Add breakpoint in code
-import pdb; pdb.set_trace()
-```
-
-#### Using VS Code
-
-Create `.vscode/launch.json`:
-
-```json
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "Python: FastAPI",
-      "type": "python",
-      "request": "launch",
-      "module": "uvicorn",
-      "args": ["app.main:app", "--reload", "--port", "8000"],
-      "jinja": true,
-      "justMyCode": true
-    }
-  ]
-}
-```
-
-### Frontend Debugging
-
-#### Browser DevTools
-
-- **Chrome/Edge**: F12 or Ctrl+Shift+I
-- **Firefox**: F12 or Ctrl+Shift+I
-- **Safari**: Enable Develop menu in preferences
-
-#### VS Code Debugger
-
-Create `.vscode/launch.json`:
-
-```json
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "Chrome",
-      "type": "chrome",
-      "request": "launch",
-      "url": "http://localhost:5173",
-      "webRoot": "${workspaceFolder}/frontend"
-    }
-  ]
-}
-```
-
----
-
-## Adding Questions
-
-### JSON Format
-
-Create a `.json` file:
-
-```json
-[
-  {
-    "id": "my-question-001",
-    "topic": "My Topic",
-    "subtopic": "My Subtopic",
-    "difficulty": "Medium",
-    "prompt": "What is the answer?",
-    "choices": [
-      { "label": "A", "text": "Option A" },
-      { "label": "B", "text": "Option B" },
-      { "label": "C", "text": "Option C" },
-      { "label": "D", "text": "Option D" }
-    ],
-    "answer_key": "B",
-    "explanation_short": "Brief explanation",
-    "explanation_long": "Detailed explanation...",
-    "tags": ["tag1", "tag2"],
-    "source_ref": "Source Document",
-    "quality_flag": "verified"
-  }
-]
-```
-
-### Import Script
-
-```bash
-python scripts/import_questions.py --file my_questions.json
-```
-
----
-
-## Testing
-
-### Backend Tests
-
-```bash
-cd backend
-
-# Run all tests
-pytest
-
-# Run with coverage
-pytest --cov=app --cov-report=html
-
-# Run specific test
-pytest tests/test_srs.py::test_interval_calculation -v
-```
-
-### Frontend Tests
-
-```bash
-cd frontend
-
-# Run tests
-npm run test
-
-# Run in watch mode
-npm run test:watch
-
-# Run with coverage
-npm run test:coverage
-```
-
----
-
-## Common Issues
-
-### Port Already in Use
-
-```bash
-# Find process using port 8000
-lsof -i :8000
-
-# Kill process
-kill -9 <PID>
-
-# Or use different port
-uvicorn app.main:app --port 8001
-```
-
-### Python Virtual Environment Issues
-
-```bash
-# Remove and recreate
-rm -rf backend/.venv
-cd backend
-python -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
-pip install -r requirements.txt
-```
-
-### Node Modules Issues
-
-```bash
-# Clear cache and reinstall
-cd frontend
-rm -rf node_modules package-lock.json
-npm cache clean --force
-npm install
-```
-
----
-
-## IDE Configuration
-
-### VS Code Extensions (Recommended)
-
-**Python:**
-- Python (Microsoft)
-- Pylance
-- Black Formatter
-- autoDocstring
-
-**JavaScript:**
-- ESLint
-- Prettier
-- JavaScript (ES6) code snippets
-
-**General:**
-- GitLens
-- Markdown All in One
-- YAML
-- Docker
-
-### VS Code Settings
-
-Create `.vscode/settings.json`:
-
-```json
-{
-  "python.defaultInterpreterPath": "./backend/.venv/bin/python",
-  "python.formatting.provider": "black",
-  "python.linting.enabled": true,
-  "python.linting.flake8Enabled": true,
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.organizeImports": true
-  },
-  "files.exclude": {
-    "**/__pycache__": true,
-    "**/*.pyc": true,
-    "**/node_modules": true
-  }
-}
-```
-
----
-
-## Performance Profiling
-
-### Backend Profiling
-
-```bash
-# Using cProfile
-python -m cProfile -o profile.stats -m uvicorn app.main:app
-
-# Analyze results
-python -c "import pstats; p = pstats.Stats('profile.stats'); p.sort_stats('cumulative').print_stats(20)"
-```
-
-### Frontend Profiling
-
-Use Chrome DevTools:
-1. Performance tab
-2. Record while using the app
-3. Analyze results
-
----
-
-## Building for Production
-
-### Build Frontend
-
-```bash
-cd frontend
-npm run build
-```
-
-Output will be in `frontend/dist/`.
-
-### Test Production Build
-
-```bash
-# Serve built files
-cd frontend/dist
-python -m http.server 8080
-
-# Or use serve
-npx serve .
-```
-
----
-
-## Docker Development
-
-### Build Images
-
-```bash
-docker-compose build
-```
-
-### Run Services
-
-```bash
-# Start all services
-docker-compose up
-
-# Start in background
-docker-compose up -d
-
-# View logs
-docker-compose logs -f
-
-# Stop
-docker-compose down
-```
-
-### Rebuild After Changes
-
-```bash
-docker-compose up --build
-```
-
----
-
-## Useful Commands Reference
-
-| Command | Description |
-|---------|-------------|
-| `make setup` | Full project setup |
-| `make dev` | Run all dev servers |
-| `make test` | Run all tests |
-| `make lint` | Lint all code |
-| `make format` | Format all code |
-| `make build` | Build for production |
-| `make clean` | Clean build artifacts |
-| `make docker-run` | Run with Docker |

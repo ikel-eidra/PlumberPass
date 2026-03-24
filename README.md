@@ -1,437 +1,166 @@
-<div align="center">
+# PlumberPass
 
-<!-- Logo -->
-<img src="frontend/public/icons/icon-192x192.svg" width="120" height="120" alt="PlumberPass Logo">
+PlumberPass is a voice-first reviewer for the **Philippines Master Plumber Licensure Examination**. The current product is a **React + Vite + Capacitor Android app** backed by a **FastAPI** content and billing API. It also ships an offline study-bundle fallback so the review modes can still run when the backend is unavailable.
 
-# 🔧 PlumberPass
+Creator: **Futol Ethical Technology Ecosystems**  
+Website: **https://plumberpass.futoltech.com**
 
-### The Ultimate Master Plumber Licensure Exam Reviewer
+## Current state
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?logo=pwa&logoColor=white)](frontend/public/README-PWA.md)
-[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+PlumberPass is no longer a concept repo. It already includes:
 
-**Voice-First | Offline-Capable | SRS-Powered**
+- landing and dashboard flows
+- audio-first MCQ review
+- tap/screen review
+- mistake replay
+- rapid recall for flashcards and identification items
+- mock exam mode
+- visual review mode
+- settings
+- readiness reporting
+- premium gating and upgrade flow
+- Android beta packaging via Capacitor
 
-[🚀 Quick Start](#quick-start) • [📖 Documentation](#documentation) • [🎯 Features](#key-features) • [🤝 Contributing](#contributing)
+Current live content baseline:
 
-</div>
+- `656` study MCQs
+- `643` flashcards
+- `598` identification items
+- `43` visual review cards
+- `100` mock questions
 
----
+## What is authoritative
 
-## 🎯 Overview
+- Frontend app: `frontend/src/`
+- Android wrapper: `frontend/android/`
+- Backend API: `backend/app/`
+- Live content loader: `backend/app/storage.py`
+- Offline bundle: `frontend/public/study-bundle.json`
 
-**PlumberPass** is a comprehensive study companion for the Philippine **Master Plumber Licensure Examination**. Built with modern web technologies and cognitive science principles, it delivers an immersive, distraction-free learning experience optimized for busy professionals.
+The legacy static shell under `frontend/public/js/` is **reference-only**, not the live frontend runtime.
 
-### Why PlumberPass?
+See:
 
-- 🎧 **Commute Mode**: Study hands-free while driving or doing chores
-- 🧠 **Memory Anchor**: Scientifically-proven spaced repetition algorithm
-- 📱 **Works Offline**: PWA works without internet - study anywhere
-- ⚡ **Blazing Fast**: Sub-second load times, zero framework bloat
-- 🎨 **AMOLED Optimized**: True black theme saves battery on OLED screens
+- [Source of Truth](SOURCE_OF_TRUTH.md)
+- [V1 Scope](V1_SCOPE.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Content Truth Map](docs/CONTENT_TRUTH_MAP.md)
+- [Release Gaps](docs/RELEASE_GAPS.md)
 
----
-
-## 🚀 Quick Start
+## Local development
 
 ### Prerequisites
 
-- Python 3.8+ with pip
-- Node.js 16+ with npm
-- Git
+- Python `3.8+` (`3.11+` recommended)
+- Node.js `22+` recommended
+- npm
+- Android Studio + Android SDK for APK work
+- Docker Desktop only if you want local container validation
 
-### Option 1: Development Setup (Recommended)
+### Install dependencies
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/plumberpass.git
-cd plumberpass
-
-# Run the setup script
-python scripts/setup.py
-
-# Or manually:
-# 1. Setup backend
-make backend-setup
-make backend-run
-
-# 2. In another terminal, setup frontend
-make frontend-setup
-make frontend-run
+```powershell
+python -m venv backend\.venv
+.\backend\.venv\Scripts\pip install -r .\backend\requirements.txt
+cd .\frontend
+npm install
 ```
 
-The app will be available at:
-- 🌐 **Frontend**: http://localhost:5173
-- ⚙️ **Backend API**: http://localhost:8000
-- 📚 **API Docs**: http://localhost:8000/docs
+### Run backend
 
-### Option 2: Docker (One Command)
-
-```bash
-docker-compose up --build
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
+.\backend\.venv\Scripts\python -m uvicorn backend.app.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-### Option 3: PWA Only (Static)
+### Run frontend
 
-```bash
-cd frontend/public
-# Serve with any static server
-python -m http.server 8080
-# Or use Live Server extension in VS Code
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass\frontend
+npm run dev
 ```
 
----
+Default local URLs:
 
-## 🎯 Key Features
+- frontend: `http://127.0.0.1:5173`
+- backend: `http://127.0.0.1:8000`
+- API docs: `http://127.0.0.1:8000/docs`
 
-### 1. 🔊 Phantom Audio Mode
-> "Study while your hands are busy"
+### Smoke test
 
-- **Text-to-Speech**: Reads questions and choices aloud
-- **Voice Answers**: Speak "A", "B", "C", "D", or "E"
-- **Tap Patterns**: 1-tap=A, 2-taps=B, Long-press=Repeat
-- **Lock Screen Controls**: Media playback from lock screen
-- **Wake Lock**: Screen stays on during study sessions
-
-### 2. 🧠 Memory Anchor Algorithm
-> "Never forget what you've learned"
-
-Implements a modified **SM-2 Spaced Repetition** algorithm:
-
-```
-Wrong Answer → Retry in 1 minute → 5 minutes → 10 minutes → 1 day
-Correct Answer → Graduating interval × Ease Factor
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
+powershell -ExecutionPolicy Bypass -File .\scripts\launch_smoke.ps1
 ```
 
-- Adaptive intervals based on performance
-- Leech detection for problematic questions
-- Topic-based weak area identification
-- Readiness score calculation
+### Android beta build
 
-### 3. 📊 Smart Analytics
-
-Track your progress with detailed statistics:
-
-- Daily streak counter
-- Accuracy by topic
-- Weak areas identification
-- Exam readiness percentage
-- Time-based performance metrics
-
-### 4. 🎨 Onyx Interface
-
-- **AMOLED Black** (#000000) for battery savings
-- **Cyan Accents** (#00d4ff) for brand identity
-- **Zen Mode**: Minimalist, distraction-free UI
-- **Accessibility**: WCAG 2.1 AA compliant
-
----
-
-## 🏗️ Architecture
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                      PLUMBERPASS                            │
-├─────────────────────────────────────────────────────────────┤
-│  LAYER 4: UI (The "Onyx" Interface)                        │
-│  └── AMOLED-optimized CSS, vanilla JS DOM                   │
-├─────────────────────────────────────────────────────────────┤
-│  LAYER 3: Controllers (The Orchestrator)                   │
-│  └── app.js - Screen management, event coordination         │
-├─────────────────────────────────────────────────────────────┤
-│  LAYER 2: Engines (The Core Intelligence)                  │
-│  ├── srs-engine.js    - Memory Anchor Algorithm (SM-2)      │
-│  ├── audio-engine.js  - Phantom Mode (TTS/STT)              │
-│  └── quiz-engine.js   - Session management, scoring         │
-├─────────────────────────────────────────────────────────────┤
-│  LAYER 1: Storage & API (The Foundation)                   │
-│  ├── LocalStorage     - SRS cards, settings                 │
-│  ├── FastAPI          - Question bank, sync                 │
-│  └── IndexedDB        - Large content packs (future)        │
-└─────────────────────────────────────────────────────────────┘
+```powershell
+cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
+powershell -ExecutionPolicy Bypass -File .\scripts\build_android_beta.ps1
 ```
 
-### Tech Stack
+Install on device or emulator:
 
-| Component | Technology | Purpose |
-|-----------|------------|---------|
-| **Frontend** | Vanilla ES6+ | Zero dependencies, maximum performance |
-| **Styling** | CSS Variables | Dynamic theming, AMOLED optimization |
-| **Backend** | FastAPI (Python) | High-performance API |
-| **Storage** | LocalStorage / JSON | Offline-first architecture |
-| **Audio** | Web Speech API | Native TTS/STT |
-| **PWA** | Service Worker | Offline capability, background sync |
-
----
-
-## 📂 Project Structure
-
-```
-plumberpass/
-├── 📁 backend/                 # FastAPI Backend
-│   ├── app/
-│   │   ├── __init__.py
-│   │   ├── main.py            # FastAPI application entry
-│   │   ├── models.py          # Pydantic data models
-│   │   └── storage.py         # Data persistence layer
-│   ├── data/                  # Question banks
-│   │   ├── seed.json
-│   │   ├── mock_exam1_part_a.json
-│   │   └── ...
-│   └── requirements.txt
-│
-├── 📁 frontend/               # Frontend Application
-│   ├── public/                # PWA static files
-│   │   ├── index.html
-│   │   ├── manifest.json
-│   │   ├── sw.js
-│   │   ├── css/
-│   │   │   └── onyx-theme.css
-│   │   ├── js/
-│   │   │   ├── app.js
-│   │   │   ├── srs-engine.js
-│   │   │   ├── audio-engine.js
-│   │   │   └── quiz-engine.js
-│   │   ├── data/
-│   │   │   └── questions.js
-│   │   └── icons/
-│   └── src/                   # React components (legacy)
-│
-├── 📁 docs/                   # Documentation
-│   ├── ARCHITECTURE.md
-│   ├── API.md
-│   ├── DEPLOYMENT.md
-│   └── DEVELOPMENT.md
-│
-├── 📁 scripts/                # Automation scripts
-│   ├── setup.py
-│   ├── import_questions.py
-│   └── generate_icons.py
-│
-├── 📁 tests/                  # Test suites
-│   ├── backend/
-│   └── frontend/
-│
-├── 📄 Makefile               # Common tasks
-├── 📄 docker-compose.yml     # Docker orchestration
-├── 📄 LICENSE                # MIT License
-├── 📄 CHANGELOG.md           # Version history
-├── 📄 CONTRIBUTING.md        # Contribution guidelines
-└── 📄 README.md              # This file
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\install_android_beta.ps1
 ```
 
----
+## Repo structure
 
-## 📖 Documentation
-
-| Document | Description |
-|----------|-------------|
-| [Architecture Guide](docs/ARCHITECTURE.md) | System design and data flow |
-| [API Reference](docs/API.md) | Backend API documentation |
-| [PWA Guide](frontend/public/README-PWA.md) | Progressive Web App specifics |
-| [Deployment Guide](docs/DEPLOYMENT.md) | Production deployment options |
-| [Development Guide](docs/DEVELOPMENT.md) | Local development setup |
-| [Contributing](CONTRIBUTING.md) | How to contribute |
-
----
-
-## 🛠️ Development
-
-### Available Commands
-
-```bash
-# Setup
-make setup              # Full project setup
-make backend-setup      # Install Python dependencies
-make frontend-setup     # Install Node dependencies
-
-# Development
-make dev                # Run both backend and frontend
-make backend-run        # Start FastAPI server
-make frontend-run       # Start Vite dev server
-
-# Testing
-make test               # Run all tests
-make test-backend       # Run pytest
-make test-frontend      # Run vitest
-
-# Quality
-make lint               # Run linters
-make format             # Auto-format code
-make typecheck          # Type checking
-
-# Build & Deploy
-make build              # Production build
-make docker-build       # Build Docker images
-make docker-run         # Run with Docker
+```text
+PlumberPass/
+├── backend/
+│   ├── app/                    # FastAPI app, billing, models, storage
+│   └── data/                   # seed, curated banks, mock exams, published slices
+├── frontend/
+│   ├── android/                # Capacitor Android wrapper
+│   ├── public/                 # PWA assets, service worker, offline bundle
+│   └── src/                    # React app
+├── scripts/                    # content publishing, smoke, Android build/install
+├── tests/                      # backend tests
+├── docs/                       # active docs, status, research, reference, decisions
+├── SOURCE_OF_TRUTH.md
+├── V1_SCOPE.md
+├── Makefile
+└── docker-compose.yml
 ```
 
-See [Development Guide](docs/DEVELOPMENT.md) for detailed instructions.
+## Production-ready vs prototype
 
----
+### Stable enough to keep shipping
 
-## 📝 Adding Questions
+- React frontend and FastAPI backend
+- curated live question bank and mock bank
+- offline bundle fallback
+- dashboard, review modes, mistake loop, readiness, visual review
+- Android beta build/install path
 
-### Method 1: JSON Import
+### Still prototype or env-gated
 
-Create a JSON file following the schema:
+- live Stripe checkout until production keys/webhook are configured
+- real-device Android voice validation
+- hosted deployment target
+- release signing / store distribution
+- GCash and USDT payment flows
 
-```json
-{
-  "id": "plumb-001",
-  "topic": "Plumbing Fundamentals",
-  "subtopic": "Codes & Standards",
-  "difficulty": "Medium",
-  "prompt": "What is the minimum trap seal depth?",
-  "choices": [
-    { "label": "A", "text": "25 mm" },
-    { "label": "B", "text": "50 mm" },
-    { "label": "C", "text": "75 mm" },
-    { "label": "D", "text": "100 mm" }
-  ],
-  "answer_key": "B",
-  "explanation_short": "50mm is the minimum required depth.",
-  "explanation_long": "The National Plumbing Code specifies...",
-  "tags": ["codes", "traps"],
-  "source_ref": "NPCP Section 1002.0",
-  "quality_flag": "verified"
-}
-```
+For native test builds, premium access is currently auto-unlocked so the full surface can be tested without live billing.
 
-Then import:
-```bash
-python scripts/import_questions.py --file my_questions.json
-```
+## Documentation
 
-### Method 2: Admin API (Future)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Development](docs/DEVELOPMENT.md)
+- [Deployment](docs/DEPLOYMENT.md)
+- [API](docs/API.md)
+- [Content Truth Map](docs/CONTENT_TRUTH_MAP.md)
+- [Release Gaps](docs/RELEASE_GAPS.md)
+- [Launch Milestones](docs/status/FINAL_MILESTONES.md)
+- [Launch Runbook](docs/status/LAUNCH_RUNBOOK.md)
 
-```bash
-curl -X POST http://localhost:8000/api/questions \
-  -H "Content-Type: application/json" \
-  -d @question.json
-```
+## Contributing
 
----
+Contributing guidance lives in [CONTRIBUTING.md](CONTRIBUTING.md). Before changing architecture, read [SOURCE_OF_TRUTH.md](SOURCE_OF_TRUTH.md) and keep the repo aligned with the current stack instead of the legacy shell.
 
-## 🚢 Deployment
+## License
 
-### Static Hosting (Recommended)
-
-Deploy the PWA to any static host:
-
-```bash
-# Build for production
-cd frontend/public
-
-# Deploy to Vercel
-vercel --prod
-
-# Or Netlify
-netlify deploy --prod --dir=.
-
-# Or GitHub Pages
-gh-pages -d . --branch gh-pages
-```
-
-### Full Stack Deployment
-
-See [Deployment Guide](docs/DEPLOYMENT.md) for:
-- VPS Deployment (Ubuntu + Nginx)
-- Cloud Deployment (AWS, GCP, Azure)
-- Railway/Render Platform
-- Docker Swarm/Kubernetes
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
-
-- Code of Conduct
-- Development workflow
-- Commit message conventions
-- Pull request process
-
-### Quick Contribution Guide
-
-```bash
-# 1. Fork and clone
-git clone https://github.com/yourusername/plumberpass.git
-
-# 2. Create branch
-git checkout -b feature/amazing-feature
-
-# 3. Make changes and commit
-git commit -m "feat: add amazing feature"
-
-# 4. Push and create PR
-git push origin feature/amazing-feature
-```
-
----
-
-## 📊 Project Statistics
-
-<!-- These will be populated by shields.io or similar -->
-
-- **Total Questions**: 13+ (expandable)
-- **Code Coverage**: 85%+
-- **Bundle Size**: ~135 KB
-- **Lighthouse Score**: 95+
-
----
-
-## 🗺️ Roadmap
-
-### Phase 1: Core (Current) ✅
-- [x] PWA with offline support
-- [x] Phantom Audio Mode
-- [x] SRS Algorithm
-- [x] Question bank structure
-- [x] AMOLED theme
-
-### Phase 2: Enhancement (Q2 2025)
-- [ ] IndexedDB for large question banks
-- [ ] Cloud sync with conflict resolution
-- [ ] Push notifications
-- [ ] Social features (study groups)
-- [ ] Advanced analytics
-
-### Phase 3: Intelligence (Q3 2025)
-- [ ] AI-powered question generation
-- [ ] Adaptive difficulty
-- [ ] AR visualization for pipe fitting
-- [ ] Mock exam simulation
-- [ ] PRC integration
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [National Plumbing Code of the Philippines](http://www.dpwh.gov.ph/)
-- [SuperMemo SM-2 Algorithm](https://www.supermemo.com/en/archives1990-2015/english/ol/sm2)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-
-## 📧 Contact
-
-- **Project Lead**: [Your Name](mailto:your.email@example.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/plumberpass/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/plumberpass/discussions)
-
----
-
-<div align="center">
-
-**Built with ❤️ for aspiring Master Plumbers**
-
-⭐ Star us on GitHub if you find this helpful!
-
-</div>
+MIT. See [LICENSE](LICENSE).

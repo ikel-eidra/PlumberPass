@@ -1,348 +1,130 @@
 # PlumberPass Architecture
 
-## System Overview
+Date updated: March 24, 2026
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                              CLIENT LAYER                                    │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  PWA (Progressive Web App)                                                  │
-│  ├── HTML5 + CSS3 + Vanilla ES6+                                           │
-│  ├── Service Worker (Offline capability)                                    │
-│  ├── Web Speech API (TTS/STT)                                              │
-│  └── LocalStorage / IndexedDB (Client-side storage)                        │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                      │
-                                      │ HTTP / HTTPS
-                                      │ (REST API + WebSocket for sync)
-                                      ▼
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                              API LAYER                                       │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  FastAPI (Python 3.8+)                                                      │
-│  ├── Question Bank API                                                      │
-│  ├── User Progress API                                                      │
-│  ├── Sync API (for multi-device)                                           │
-│  └── Admin API (content management)                                        │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                      │
-                                      │
-                                      ▼
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                            DATA LAYER                                        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Primary: JSON files (versioned content packs)                             │
-│  Cache: Redis (optional, for session/API caching)                          │
-│  Client: LocalStorage / IndexedDB                                          │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+This document describes the current implementation, not the legacy shell.
 
-## Component Architecture
+## Runtime shape
 
-### 1. Frontend Components
+PlumberPass is a three-part system:
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                     APP CONTROLLER                          │
-│                      (app.js)                               │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │
-│  │   SCREEN    │  │   SCREEN    │  │   SCREEN    │        │
-│  │  Dashboard  │  │    Quiz     │  │    Audio    │        │
-│  │             │  │             │  │    Mode     │        │
-│  └──────┬──────┘  └──────┬──────┘  └──────┬──────┘        │
-│         │                │                │               │
-│         └────────────────┴────────────────┘               │
-│                          │                                │
-│                          ▼                                │
-│         ┌────────────────────────────────┐                │
-│         │         CORE ENGINES            │                │
-│         ├────────────────────────────────┤                │
-│         │  SRS Engine (srs-engine.js)    │                │
-│         │  ├── Card state management      │                │
-│         │  ├── Interval calculation       │                │
-│         │  └── Queue generation           │                │
-│         │                                │                │
-│         │  Audio Engine (audio-engine.js)│                │
-│         │  ├── Text-to-Speech            │                │
-│         │  ├── Speech-to-Text            │                │
-│         │  └── Tap pattern recognition   │                │
-│         │                                │                │
-│         │  Quiz Engine (quiz-engine.js)  │                │
-│         │  ├── Session management        │                │
-│         │  ├── Answer validation         │                │
-│         │  └── Statistics tracking       │                │
-│         └────────────────────────────────┘                │
-│                          │                                │
-│                          ▼                                │
-│         ┌────────────────────────────────┐                │
-│         │      DATA LAYER (Client)        │                │
-│         ├────────────────────────────────┤                │
-│         │  LocalStorage                  │                │
-│         │  ├── pp_srs_cards              │                │
-│         │  ├── pp_review_log             │                │
-│         │  ├── pp_stats                  │                │
-│         │  └── pp_settings               │                │
-│         │                                │                │
-│         │  Session Storage               │                │
-│         │  └── Current session state     │                │
-│         └────────────────────────────────┘                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+1. `frontend/src/`
+   React + Vite + TypeScript application
+2. `backend/app/`
+   FastAPI content and billing API
+3. `frontend/android/`
+   Capacitor Android wrapper for beta APK packaging
 
-### 2. Backend Components
+The app also ships an offline fallback bundle at `frontend/public/study-bundle.json`.
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                      FASTAPI APP                            │
-│                      (app/main.py)                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │                 ROUTERS                              │   │
-│  ├─────────────────────────────────────────────────────┤   │
-│  │  /health          - Health check                     │   │
-│  │  /topics          - Topic listing                    │   │
-│  │  /questions       - Question CRUD                    │   │
-│  │  /flashcards      - Flashcard content                │   │
-│  │  /identification  - Identification items             │   │
-│  │  /mock-exams      - Mock exam sets                   │   │
-│  │  /sync            - Data synchronization             │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                          │                                  │
-│                          ▼                                  │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │                 MODELS (Pydantic)                    │   │
-│  ├─────────────────────────────────────────────────────┤   │
-│  │  Question         - MCQ structure                    │   │
-│  │  Flashcard        - Q&A pairs                        │   │
-│  │  Identification   - Short answer items               │   │
-│  │  MockQuestion     - Full exam questions              │   │
-│  │  Topic            - Category structure               │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                          │                                  │
-│                          ▼                                  │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │                 STORAGE LAYER                        │   │
-│  ├─────────────────────────────────────────────────────┤   │
-│  │  JSON Files       - Content packs                    │   │
-│  │  Validation       - Schema validation                │   │
-│  │  Caching          - In-memory caching                │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+## Frontend architecture
 
-## Data Flow
+### Entry points
 
-### 1. Quiz Session Flow
+- `frontend/src/main.tsx`
+  Bootstraps the React app and dev/runtime shell behavior
+- `frontend/src/App.tsx`
+  Main app state, mode switching, content loading, premium gating, and screen orchestration
 
-```
-┌─────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-│  User   │────▶│    Start     │────▶│  Get Study   │────▶│  Display     │
-│ Action  │     │   Session    │     │    Queue     │     │  Question    │
-└─────────┘     └──────────────┘     └──────────────┘     └──────────────┘
-                                                                │
-                                                                ▼
-┌─────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-│  Next   │◀────│    Show      │◀────│   Process    │◀────│   Submit     │
-│Question │     │ Explanation  │     │    Answer    │     │    Answer    │
-└─────────┘     └──────────────┘     └──────────────┘     └──────────────┘
-      │
-      ▼
-┌──────────────┐
-│   Session    │
-│   Complete   │
-└──────────────┘
-```
+### Main frontend modules
 
-### 2. SRS Review Flow
+- `frontend/src/hooks/useAudioReview.ts`
+  Voice playback, narration settings, native/web recognition handling, and Android fallbacks
+- `frontend/src/hooks/useStudyProgress.ts`
+  Local progress, mistakes, due logic, and lightweight study-state persistence
+- `frontend/src/screens/`
+  Dashboard, settings, readiness, mistake library, recall, visual review, and upgrade surfaces
+- `frontend/src/config/`
+  Brand, billing, exam blueprint, and launch checklist configuration
 
-```
-User Reviews Card
-       │
-       ▼
-┌──────────────┐
-│   Submit     │
-│   Rating     │
-│ (1-4/Again-  │
-│   Easy)      │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐     ┌─────────────────────────────────────┐
-│   Update     │────▶│  Calculate New Interval             │
-│   Card       │     │                                     │
-└──────┬───────┘     │  IF rating = 1 (Again):             │
-       │             │    → Reset to learning (1 min)      │
-       │             │    → Decrease ease (-0.2)           │
-       │             │                                     │
-       │             │  IF in learning:                    │
-       │             │    → Advance step or graduate       │
-       │             │                                     │
-       │             │  IF in review:                      │
-       │             │    → interval × ease × modifier     │
-       │             │    → adjust ease (±0.15)            │
-       │             └─────────────────────────────────────┘
-       │
-       ▼
-┌──────────────┐
-│   Schedule   │
-│   Next Due   │
-└──────────────┘
-```
+### Frontend data flow
 
-### 3. Audio Mode Flow
+1. App boots.
+2. Frontend checks backend availability.
+3. If the backend is reachable, study items load from `/api/v1/study/...`.
+4. If the backend is unavailable, the app falls back to `study-bundle.json`.
+5. User progress stays on-device through browser/native storage.
 
-```
-User Opens Audio Mode
-         │
-         ▼
-┌─────────────────┐
-│  Build Queue    │
-│  (SRS due cards)│
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐     ┌─────────────────┐
-│  Play Question  │────▶│  TTS: "Question │
-│                 │     │   X..."         │
-└────────┬────────┘     └─────────────────┘
-         │
-         ▼
-┌─────────────────┐     ┌─────────────────┐
-│  Listen for     │────▶│  Input Methods: │
-│  Answer         │     │  • Voice (A-E)  │
-│                 │     │  • Tap pattern  │
-└────────┬────────┘     │  • Button press │
-         │             └─────────────────┘
-         ▼
-┌─────────────────┐     ┌─────────────────┐
-│  Validate       │────▶│  Update SRS     │
-│  Answer         │     │  Card           │
-└────────┬────────┘     └─────────────────┘
-         │
-         ▼
-┌─────────────────┐     ┌─────────────────┐
-│  Speak Feedback │────▶│  Auto-advance?  │──Yes──▶ Next Question
-│  (Correct/Wrong)│     │                 │
-└─────────────────┘     └────────┬────────┘
-                                 │No
-                                 ▼
-                          Wait for Next
-```
+## Backend architecture
 
-## Module Dependencies
+### Entry points
 
-### Frontend Dependencies
+- `backend/app/main.py`
+  FastAPI routes
+- `backend/app/storage.py`
+  Content aggregation, normalization, dedupe, and source blacklisting
+- `backend/app/billing.py`
+  Stripe checkout config, session creation, session verification, and webhook handling
+- `backend/app/models.py`
+  Pydantic response and content models
 
-```
-app.js
-├── srs-engine.js
-│   └── (no external deps - pure algorithm)
-├── audio-engine.js
-│   └── Web Speech API (native)
-├── quiz-engine.js
-│   └── srs-engine.js (for scheduling)
-└── questions.js
-    └── (data only)
-```
+### API surfaces
 
-### Backend Dependencies
+- `/health`
+- `/api/v1/study/*`
+- `/api/v1/billing/*`
 
-```
-main.py
-├── FastAPI
-├── pydantic (models)
-└── storage.py
-    ├── json (stdlib)
-    └── pathlib (stdlib)
-```
+The backend is intentionally simple. Content is still loaded from JSON, not a database.
 
-## Storage Architecture
+## Content architecture
 
-### Client-Side Storage
+### Live sources
 
-| Key | Data Type | Size | TTL |
-|-----|-----------|------|-----|
-| `pp_srs_cards` | Object | ~50KB | Persistent |
-| `pp_review_log` | Array | ~30KB | Persistent (last 1000) |
-| `pp_stats` | Object | ~2KB | Persistent |
-| `pp_audio_settings` | Object | ~1KB | Persistent |
-| `pp_theme` | String | ~100B | Persistent |
-| `pp_session_state` | Object | ~5KB | Session |
+- `backend/data/seed.json`
+- selected root JSON banks such as verified and NotebookLM batches
+- curated published slices in `backend/data/published/`
+- mock exam banks in `backend/data/mock_exam1_part_a.json` and `mock_exam1_part_b.json`
 
-### Data Schema
+### Content control
 
-See [API.md](API.md) for complete schema documentation.
+`backend/app/storage.py` is the gatekeeper:
 
-## Security Considerations
+- blacklists known bad or non-live files
+- normalizes mixed schemas
+- rejects malformed MCQs
+- dedupes by question id
+- prefers higher-quality variants when duplicates exist
 
-### Client-Side
-- XSS protection through HTML escaping
-- CSP headers (when deployed)
-- Input validation on all user inputs
-- No sensitive data in LocalStorage
+See `docs/CONTENT_TRUTH_MAP.md` for the QA-oriented truth map.
 
-### API
-- CORS configuration for allowed origins
-- Rate limiting (future)
-- Input validation via Pydantic models
-- No authentication required for basic features (future: optional auth)
+## Android architecture
 
-## Performance Targets
+### Native wrapper
 
-| Metric | Target | Current |
-|--------|--------|---------|
-| First Contentful Paint | < 1.5s | ~1.2s |
-| Time to Interactive | < 3s | ~2.1s |
-| Lighthouse PWA Score | > 90 | ~95 |
-| Bundle Size (GZipped) | < 100KB | ~85KB |
-| API Response Time | < 100ms | ~50ms |
-| Question Load Time | < 500ms | ~100ms |
+- `frontend/android/`
 
-## Scalability Plan
+### Native bridges in use
 
-### Phase 1 (Current): Single User
-- LocalStorage for data
-- Static JSON for questions
-- No backend required for core features
+- `@capgo/capacitor-speech-recognition`
+- `@capacitor-community/text-to-speech`
 
-### Phase 2: Multi-Device Sync
-- Add user accounts
-- Cloud sync with conflict resolution
-- Redis for caching
+### Packaging flow
 
-### Phase 3: Scale
-- Database (PostgreSQL)
-- CDN for static assets
-- Horizontal scaling of API
+- `scripts/build_android_beta.ps1`
+- `scripts/install_android_beta.ps1`
 
-## Technology Decisions
+The Android path is beta packaging, not full release distribution yet.
 
-| Decision | Choice | Rationale |
-|----------|--------|-----------|
-| Frontend Framework | None (Vanilla) | Zero deps, max performance |
-| Styling | CSS Variables | Dynamic theming, small size |
-| Backend Framework | FastAPI | Modern, fast, type-safe |
-| Data Format | JSON | Universal, human-readable |
-| Storage (Client) | LocalStorage | Simple, widely supported |
-| Audio | Web Speech API | Native, no external libs |
+## Offline architecture
 
-## Future Architecture
+PlumberPass is not backend-only.
 
-```
-Phase 2 (Multi-device Sync):
-┌─────────┐     ┌─────────┐     ┌─────────┐
-│ Device 1│◀───▶│  Cloud  │◀───▶│ Device 2│
-│ (PWA)   │     │  Sync   │     │ (PWA)   │
-└─────────┘     └────┬────┘     └─────────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │  PostgreSQL │
-              │   Database  │
-              └─────────────┘
-```
+- Curated content can be exported to `frontend/public/study-bundle.json`
+- The service worker caches the app shell and bundled study data
+- The frontend can review content without a live backend once the bundle is present
+
+## Legacy boundary
+
+These paths still exist, but they are not the live architecture:
+
+- `frontend/public/js/`
+- old vanilla `app.js` / `audio-engine.js` / `quiz-engine.js` implementation paths
+
+They remain as reference material only until they are fully removed.
+
+## Release-critical constraints
+
+- Wrong content is more dangerous than missing content.
+- Offline fallback is part of the product, not a debug convenience.
+- Android beta packaging is real, but voice quality still needs real-device validation.
+- Billing code exists, but live checkout is blocked until production Stripe configuration is supplied.
