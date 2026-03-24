@@ -5,7 +5,14 @@ import re
 from pathlib import Path
 from typing import Any
 
-from .models import Flashcard, IdentificationItem, MockQuestion, Question, Topic, VisualReviewItem
+from .models import (
+    Flashcard,
+    IdentificationItem,
+    MockQuestion,
+    Question,
+    Topic,
+    VisualReviewItem,
+)
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PUBLISHED_DATA_DIR = DATA_DIR / "published"
@@ -86,7 +93,9 @@ def _normalize_question(item: dict[str, Any]) -> Question | None:
         item.get("prompt") or item.get("question_text") or item.get("QuestionText")
     )
     choices = _normalize_choices(item.get("choices") or item.get("Choices"))
-    answer_key = _clean_text(item.get("answer_key") or item.get("AnswerKey")).upper()[:1]
+    answer_key = _clean_text(item.get("answer_key") or item.get("AnswerKey")).upper()[
+        :1
+    ]
 
     if not question_id or not prompt or len(choices) < 2:
         return None
@@ -97,18 +106,24 @@ def _normalize_question(item: dict[str, Any]) -> Question | None:
         id=question_id,
         topic=_clean_text(item.get("topic") or item.get("Topic") or "General Plumbing"),
         subtopic=_clean_text(item.get("subtopic") or item.get("Subtopic") or "General"),
-        difficulty=_clean_text(item.get("difficulty") or item.get("Difficulty") or "Medium"),
+        difficulty=_clean_text(
+            item.get("difficulty") or item.get("Difficulty") or "Medium"
+        ),
         prompt=prompt,
         choices=choices,
         answer_key=answer_key,
         explanation_short=_clean_text(
             item.get("explanation_short") or item.get("ExplanationShort")
         ),
-        explanation_long=_clean_text(item.get("explanation_long") or item.get("ExplanationLong")),
+        explanation_long=_clean_text(
+            item.get("explanation_long") or item.get("ExplanationLong")
+        ),
         tags=[_clean_text(tag) for tag in item.get("tags", []) if _clean_text(tag)],
         source_ref=_clean_text(item.get("source_ref") or item.get("SourceRef")) or None,
         quality_flag=_clean_text(
-            item.get("quality_flag") or item.get("QualityFlag") or item.get("confidence")
+            item.get("quality_flag")
+            or item.get("QualityFlag")
+            or item.get("confidence")
         )
         or None,
     )
@@ -178,7 +193,9 @@ def load_questions() -> list[Question]:
 
 
 def load_topics() -> list[Topic]:
-    return _build_topics(load_questions(), load_flashcards(), load_identification_items())
+    return _build_topics(
+        load_questions(), load_flashcards(), load_identification_items()
+    )
 
 
 def load_flashcards() -> list[Flashcard]:
@@ -244,7 +261,9 @@ def load_mock_exam1_part_a() -> list[MockQuestion]:
             topic=item["Topic"],
             subtopic=item["Subtopic"],
             prompt=item["QuestionText"],
-            choices=[{"label": key, "text": value} for key, value in item["Choices"].items()],
+            choices=[
+                {"label": key, "text": value} for key, value in item["Choices"].items()
+            ],
             answer_key=item["AnswerKey"],
             explanation_short=item["ExplanationShort"],
             explanation_long=item["ExplanationLong"],
@@ -266,7 +285,9 @@ def load_mock_exam1_part_b() -> list[MockQuestion]:
             topic=item["Topic"],
             subtopic=item["Subtopic"],
             prompt=item["QuestionText"],
-            choices=[{"label": key, "text": value} for key, value in item["Choices"].items()],
+            choices=[
+                {"label": key, "text": value} for key, value in item["Choices"].items()
+            ],
             answer_key=item["AnswerKey"],
             explanation_short=item["ExplanationShort"],
             explanation_long=item["ExplanationLong"],

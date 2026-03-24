@@ -1,15 +1,14 @@
 from __future__ import annotations
 
-from datetime import UTC, datetime
 import hashlib
 import hmac
 import json
 import os
+from datetime import UTC, datetime
 from pathlib import Path
 from threading import Lock
 from typing import Any
 from urllib import error, parse, request
-
 
 _STATE_LOCK = Lock()
 _DEFAULT_FRONTEND_URL = "https://plumberpass.futoltech.com"
@@ -23,14 +22,21 @@ def _billing_state_path() -> Path:
     override = os.getenv("BILLING_ENTITLEMENTS_PATH")
     if override:
         return Path(override)
-    return Path(__file__).resolve().parent.parent / "data" / "billing" / "entitlements.json"
+    return (
+        Path(__file__).resolve().parent.parent
+        / "data"
+        / "billing"
+        / "entitlements.json"
+    )
 
 
 def _ensure_state_path() -> Path:
     path = _billing_state_path()
     path.parent.mkdir(parents=True, exist_ok=True)
     if not path.exists():
-        path.write_text(json.dumps({"devices": {}, "sessions": {}}, indent=2), encoding="utf-8")
+        path.write_text(
+            json.dumps({"devices": {}, "sessions": {}}, indent=2), encoding="utf-8"
+        )
     return path
 
 
@@ -51,7 +57,9 @@ def _write_state(payload: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temp_path = path.with_suffix(".tmp")
     with _STATE_LOCK:
-        temp_path.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
+        temp_path.write_text(
+            json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8"
+        )
         temp_path.replace(path)
 
 
@@ -101,7 +109,11 @@ def get_billing_config(origin: str | None = None) -> dict[str, Any]:
             "STRIPE_PREMIUM_DESCRIPTION",
             "One-time premium unlock for mock exams and figure drill.",
         ),
-        "price_label": _price_label(currency, unit_amount) if unit_amount > 0 else "Set premium price",
+        "price_label": (
+            _price_label(currency, unit_amount)
+            if unit_amount > 0
+            else "Set premium price"
+        ),
         "currency": currency,
         "unit_amount": unit_amount,
         "premium_url": frontend_url,
@@ -134,7 +146,9 @@ def get_entitlement(device_id: str) -> dict[str, Any]:
     }
 
 
-def _record_pending_session(session_id: str, device_id: str, gate: str | None = None) -> None:
+def _record_pending_session(
+    session_id: str, device_id: str, gate: str | None = None
+) -> None:
     state = _load_state()
     state["sessions"][session_id] = {
         "device_id": device_id,
@@ -240,7 +254,9 @@ def create_checkout_session(
         raise RuntimeError("Stripe billing is not configured.")
 
     frontend_url = _resolve_frontend_url(origin)
-    success_target = success_path or "/?checkout=success&session_id={CHECKOUT_SESSION_ID}"
+    success_target = (
+        success_path or "/?checkout=success&session_id={CHECKOUT_SESSION_ID}"
+    )
     cancel_target = cancel_path or "/?checkout=canceled"
 
     session_payload = _stripe_request_json(
@@ -253,7 +269,9 @@ def create_checkout_session(
             "line_items[0][price_data][currency]": config["currency"],
             "line_items[0][price_data][unit_amount]": str(config["unit_amount"]),
             "line_items[0][price_data][product_data][name]": config["plan_label"],
-            "line_items[0][price_data][product_data][description]": config["plan_summary"],
+            "line_items[0][price_data][product_data][description]": config[
+                "plan_summary"
+            ],
             "client_reference_id": device_id,
             "metadata[device_id]": device_id,
             "metadata[tier]": "premium",
@@ -334,7 +352,9 @@ def parse_webhook_event(payload: bytes, signature_header: str) -> dict[str, Any]
 
     timestamp, signatures = _parse_signature_header(signature_header)
     signed_payload = f"{timestamp}.{payload.decode('utf-8')}".encode("utf-8")
-    expected = hmac.new(secret.encode("utf-8"), signed_payload, hashlib.sha256).hexdigest()
+    expected = hmac.new(
+        secret.encode("utf-8"), signed_payload, hashlib.sha256
+    ).hexdigest()
 
     if not any(hmac.compare_digest(expected, signature) for signature in signatures):
         raise RuntimeError("Invalid Stripe signature.")
@@ -353,7 +373,8 @@ def apply_webhook_event(event: dict[str, Any]) -> dict[str, Any]:
     payment_status = session_payload.get("payment_status", "unpaid")
 
     if (
-        event_type in {"checkout.session.completed", "checkout.session.async_payment_succeeded"}
+        event_type
+        in {"checkout.session.completed", "checkout.session.async_payment_succeeded"}
         and device_id
         and payment_status == "paid"
     ):

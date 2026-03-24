@@ -6,8 +6,8 @@ This guide reflects the current app: React + Vite + Capacitor on the frontend, F
 
 ## Prerequisites
 
-- Python `3.8+`
-- Node.js `22+` recommended
+- Python `3.11+`
+- Node.js `20+` (`22+` recommended)
 - npm
 - Android Studio + SDK if you need APK builds
 - Docker Desktop only if you want container validation

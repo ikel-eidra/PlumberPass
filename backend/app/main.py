@@ -60,7 +60,9 @@ async def billing_config(request: Request) -> BillingConfigResponse:
 @app.get("/api/v1/billing/entitlement/{device_id}", response_model=EntitlementResponse)
 async def billing_entitlement(request: Request, device_id: str) -> EntitlementResponse:
     payload = get_entitlement(device_id)
-    payload["checkout_ready"] = get_billing_config(request.headers.get("origin"))["checkout_ready"]
+    payload["checkout_ready"] = get_billing_config(request.headers.get("origin"))[
+        "checkout_ready"
+    ]
     return EntitlementResponse(**payload)
 
 
@@ -99,7 +101,9 @@ async def billing_verify_checkout_session(
     except RuntimeError as exc:
         raise HTTPException(status_code=400, detail=str(exc)) from exc
 
-    session["checkout_ready"] = get_billing_config(request.headers.get("origin"))["checkout_ready"]
+    session["checkout_ready"] = get_billing_config(request.headers.get("origin"))[
+        "checkout_ready"
+    ]
     return CheckoutSessionVerifyResponse(**session)
 
 

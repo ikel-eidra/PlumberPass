@@ -51,8 +51,8 @@ See:
 
 ### Prerequisites
 
-- Python `3.8+` (`3.11+` recommended)
-- Node.js `22+` recommended
+- Python `3.11+`
+- Node.js `20+` (`22+` recommended)
 - npm
 - Android Studio + Android SDK for APK work
 - Docker Desktop only if you want local container validation
