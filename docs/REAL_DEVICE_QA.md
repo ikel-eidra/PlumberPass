@@ -4,6 +4,26 @@ Date updated: March 24, 2026
 
 This document tracks the gap between emulator confidence and physical-device confidence.
 
+## Current sprint doctrine
+
+For the pre-exam hardening sprint, the app is being treated first as a personal daily study tool.
+
+Priority order:
+
+1. daily usability
+2. trust in answers and flow
+3. release-hardening proof
+
+This sprint is not for broad feature expansion. New work should only be accepted if it fixes:
+
+- studying friction
+- broken navigation
+- unreliable answer flow
+- voice/TTS instability
+- persistence or offline trust issues
+
+Use the shared test log in `docs/status/REAL_DEVICE_TEST_LOG.md` for physical-device findings.
+
 ## Current validation status
 
 - Physical Android device QA: not yet documented in-repo
@@ -48,6 +68,16 @@ Record these after a physical-device test:
 - what failed
 - what felt fragile
 - what could not yet be verified
+
+## Triage rule for findings
+
+Every real-device finding should be categorized as one of:
+
+- `blocker`: stops studying, causes wrong behavior, or breaks trust
+- `annoying`: usable but materially slows or irritates study flow
+- `cosmetic`: visible issue that does not materially harm study flow
+
+During this sprint, fix blockers first, then the biggest annoyances. Cosmetics do not drive the queue unless they hide real usability problems.
 
 ## Exit condition
 
