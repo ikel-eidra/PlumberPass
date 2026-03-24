@@ -13,9 +13,11 @@ import {
   COMMERCE_CONFIG,
   buildFallbackBillingConfig,
   buildFreeEntitlement,
+  buildNativeBetaPremiumEntitlement,
   type BillingConfig,
   type BillingEntitlement,
   type BillingSessionVerifyResponse,
+  isNativeBetaPremiumOverrideEnabled,
   type PremiumGate,
   type SubscriptionTier,
 } from "./config/commerce";
@@ -449,6 +451,10 @@ const formatDurationLabel = (milliseconds: number) => {
 };
 
 const readStoredTier = (): SubscriptionTier => {
+  if (isNativeBetaPremiumOverrideEnabled()) {
+    return "premium";
+  }
+
   if (typeof window === "undefined") {
     return "free";
   }
@@ -514,7 +520,9 @@ const fetchBillingConfig = async (): Promise<BillingConfig> =>
 const fetchEntitlement = async (deviceId: string): Promise<BillingEntitlement> =>
   fetchApiJson<BillingEntitlement>(
     `/api/v1/billing/entitlement/${encodeURIComponent(deviceId)}`,
-    buildFreeEntitlement(deviceId),
+    isNativeBetaPremiumOverrideEnabled()
+      ? buildNativeBetaPremiumEntitlement(deviceId)
+      : buildFreeEntitlement(deviceId),
   );
 
 type MockSegment = ExamSubjectBlueprint & {
@@ -564,6 +572,7 @@ const buildMockSegments = (
 };
 
 export default function App() {
+  const nativeBetaPremiumOverride = isNativeBetaPremiumOverrideEnabled();
   const [mode, setMode] = useState<Mode>("Voice");
   const [theme, setTheme] = useState<UiTheme>(readStoredTheme);
   const [screen, setScreen] = useState<Screen>(resolveInitialScreen);
@@ -659,6 +668,10 @@ export default function App() {
       setMockQuestions(nextBundle.mock_questions);
 
       if (!apiAvailable) {
+        if (nativeBetaPremiumOverride) {
+          setSubscriptionTier("premium");
+          setBillingMessage("Native beta premium override is active for this test APK.");
+        }
         return;
       }
 
@@ -666,10 +679,13 @@ export default function App() {
       setBillingConfig(nextBillingConfig);
 
       const entitlement = await fetchEntitlement(deviceId);
-      setSubscriptionTier(entitlement.premium_active ? "premium" : "free");
+      setSubscriptionTier(nativeBetaPremiumOverride || entitlement.premium_active ? "premium" : "free");
+      if (nativeBetaPremiumOverride) {
+        setBillingMessage("Native beta premium override is active for this test APK.");
+      }
     };
     load();
-  }, [deviceId]);
+  }, [deviceId, nativeBetaPremiumOverride]);
 
   useEffect(() => {
     if (typeof window === "undefined") {
@@ -710,9 +726,9 @@ export default function App() {
     setBillingConfig(nextBillingConfig);
 
     const entitlement = await fetchEntitlement(deviceId);
-    setSubscriptionTier(entitlement.premium_active ? "premium" : "free");
+    setSubscriptionTier(nativeBetaPremiumOverride || entitlement.premium_active ? "premium" : "free");
     setBillingMessage(
-      entitlement.premium_active
+      nativeBetaPremiumOverride || entitlement.premium_active
         ? "Premium is active on this device."
         : nextBillingConfig.checkout_ready
           ? "This device is still on the free plan."
@@ -746,10 +762,10 @@ export default function App() {
     }
 
     const premiumActive = result.premium_active || result.tier === "premium";
-    setSubscriptionTier(premiumActive ? "premium" : "free");
+    setSubscriptionTier(nativeBetaPremiumOverride || premiumActive ? "premium" : "free");
     setBillingError(null);
     setBillingMessage(
-      premiumActive
+      nativeBetaPremiumOverride || premiumActive
         ? "Premium unlocked successfully on this device."
         : "Checkout returned, but payment is not marked paid yet. Try Refresh premium status.",
     );

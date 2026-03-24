@@ -1,3 +1,5 @@
+import { Capacitor } from "@capacitor/core";
+
 export type SubscriptionTier = "free" | "premium";
 
 export type PremiumGate = "mock" | "visual" | "premium";
@@ -38,6 +40,7 @@ export type BillingSessionVerifyResponse = BillingEntitlement & {
 
 export const COMMERCE_CONFIG = {
   checkoutReady: false,
+  nativeBetaPremiumOverride: true,
   premiumUrl: "https://plumberpass.futoltech.com",
   paymentsNow: ["Debit card", "Credit card"],
   paymentsPlanned: ["GCash"],
@@ -90,12 +93,25 @@ export const buildFallbackBillingConfig = (): BillingConfig => ({
   payments_deferred: COMMERCE_CONFIG.paymentsDeferred,
 });
 
+export const isNativeBetaPremiumOverrideEnabled = () =>
+  COMMERCE_CONFIG.nativeBetaPremiumOverride && Capacitor.isNativePlatform();
+
 export const buildFreeEntitlement = (deviceId: string): BillingEntitlement => ({
   device_id: deviceId,
   tier: "free",
   premium_active: false,
   source: null,
   granted_at: null,
+  checkout_session_id: null,
+  checkout_ready: COMMERCE_CONFIG.checkoutReady,
+});
+
+export const buildNativeBetaPremiumEntitlement = (deviceId: string): BillingEntitlement => ({
+  device_id: deviceId,
+  tier: "premium",
+  premium_active: true,
+  source: "native_beta_override",
+  granted_at: new Date().toISOString(),
   checkout_session_id: null,
   checkout_ready: COMMERCE_CONFIG.checkoutReady,
 });
