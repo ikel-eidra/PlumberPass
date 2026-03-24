@@ -51,13 +51,12 @@ jobs:
       run: isort --check-only app
 
     - name: Test with pytest
-      working-directory: ./backend
-      run: pytest --cov=app --cov-report=xml
+      run: pytest --cov=backend/app --cov-report=xml tests/backend
 
     - name: Upload coverage
       uses: codecov/codecov-action@v3
       with:
-        files: ./backend/coverage.xml
+        files: ./coverage.xml
         flags: backend
         name: backend-python${{ matrix.python-version }}
 
