@@ -4,7 +4,13 @@ Date updated: March 24, 2026
 
 This document lists what still blocks a disciplined V1 release.
 
-## Still open
+Supporting detail lives in:
+
+- `docs/REAL_DEVICE_QA.md`
+- `docs/BILLING_STATE.md`
+- `docs/RELEASE_BUILD_STATE.md`
+
+## Blockers
 
 ### 1. Real-device Android voice validation
 
@@ -32,7 +38,7 @@ This document lists what still blocks a disciplined V1 release.
 - Android-safe spacing, tap behavior, and dead-path checks still need a disciplined end-to-end pass.
 - The user has already found several issues on-device, so final QA cannot be assumed from emulator-only testing.
 
-## Prototype-only behaviors that must stay explicit
+## Non-blocker but must stay explicit
 
 - Native beta builds currently auto-unlock premium for testing.
 - This is useful for QA but must not be mistaken for the production billing path.
@@ -44,6 +50,14 @@ This document lists what still blocks a disciplined V1 release.
 - offline bundle fallback
 - Android beta packaging existence
 - backend billing endpoint scaffolding
+
+## Deferred enhancement, not V1 blocker
+
+- GCash
+- USDT
+- user accounts and cloud sync
+- resident AI coach
+- multi-exam platform generalization beyond the plumbing release
 
 ## Recommended next sprint
 

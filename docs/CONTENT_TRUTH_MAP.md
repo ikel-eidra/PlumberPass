@@ -4,6 +4,12 @@ Date updated: March 24, 2026
 
 This document maps where live study truth comes from so content QA can target the right files.
 
+Metadata note:
+
+- generated `source_file`, `source_files`, and manifest path fields are traceability metadata only
+- some staged/generated content files still carry older local-source path strings from conversion runs
+- those metadata fields do not determine what is live; the live loader truth still comes from `storage.py`
+
 ## The gatekeeper
 
 The authoritative content loader is:

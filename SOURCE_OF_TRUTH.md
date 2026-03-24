@@ -82,6 +82,9 @@ See `V1_SCOPE.md` for the release boundary.
 - `docs/DEVELOPMENT.md`
 - `docs/DEPLOYMENT.md`
 - `docs/API.md`
+- `docs/REAL_DEVICE_QA.md`
+- `docs/BILLING_STATE.md`
+- `docs/RELEASE_BUILD_STATE.md`
 - `docs/CONTENT_TRUTH_MAP.md`
 - `docs/RELEASE_GAPS.md`
 - `docs/status/FINAL_MILESTONES.md`
@@ -99,6 +102,7 @@ See `V1_SCOPE.md` for the release boundary.
 ### Deprecated / archived
 
 - `archive/`
+- `archive/tools/`
 - old repo status reports
 - old deployment one-offs
 - old README rewrite notes

@@ -14,10 +14,11 @@ This guide reflects the current app: React + Vite + Capacitor on the frontend, F
 
 ## Install
 
+Run the following from the repository root.
+
 ### Backend
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
 python -m venv backend\.venv
 .\backend\.venv\Scripts\pip install -r .\backend\requirements.txt
 ```
@@ -25,8 +26,9 @@ python -m venv backend\.venv
 ### Frontend
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass\frontend
+Push-Location .\frontend
 npm install
+Pop-Location
 ```
 
 ## Run locally
@@ -34,14 +36,13 @@ npm install
 ### Backend API
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
 .\backend\.venv\Scripts\python -m uvicorn backend.app.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-### Frontend app
+### Frontend app in a separate terminal
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass\frontend
+cd .\frontend
 npm run dev
 ```
 
@@ -57,8 +58,10 @@ From the repo root:
 
 ```powershell
 pytest -q
-cd .\frontend; npx tsc --noEmit
-cd .\frontend; npm run build
+Push-Location .\frontend
+npx tsc --noEmit
+npm run build
+Pop-Location
 powershell -ExecutionPolicy Bypass -File .\scripts\launch_smoke.ps1
 ```
 

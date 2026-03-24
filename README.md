@@ -49,6 +49,8 @@ See:
 
 ## Local development
 
+Run the following from the repository root.
+
 ### Prerequisites
 
 - Python `3.11+`
@@ -62,21 +64,21 @@ See:
 ```powershell
 python -m venv backend\.venv
 .\backend\.venv\Scripts\pip install -r .\backend\requirements.txt
-cd .\frontend
+Push-Location .\frontend
 npm install
+Pop-Location
 ```
 
 ### Run backend
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
 .\backend\.venv\Scripts\python -m uvicorn backend.app.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-### Run frontend
+### Run frontend in a second terminal
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass\frontend
+cd .\frontend
 npm run dev
 ```
 
@@ -86,17 +88,21 @@ Default local URLs:
 - backend: `http://127.0.0.1:8000`
 - API docs: `http://127.0.0.1:8000/docs`
 
-### Smoke test
+### Quick verification
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
-powershell -ExecutionPolicy Bypass -File .\scripts\launch_smoke.ps1
+pytest -q
+Push-Location .\frontend
+npm run typecheck
+npm run build
+Pop-Location
 ```
+
+For the full smoke/build/install workflow, see [Development](docs/DEVELOPMENT.md) and [Launch Runbook](docs/status/LAUNCH_RUNBOOK.md).
 
 ### Android beta build
 
 ```powershell
-cd D:\projects\PliumberPass - KImi 02-17-26\PlumberPass
 powershell -ExecutionPolicy Bypass -File .\scripts\build_android_beta.ps1
 ```
 
@@ -152,6 +158,9 @@ For native test builds, premium access is currently auto-unlocked so the full su
 - [Development](docs/DEVELOPMENT.md)
 - [Deployment](docs/DEPLOYMENT.md)
 - [API](docs/API.md)
+- [Real Device QA](docs/REAL_DEVICE_QA.md)
+- [Billing State](docs/BILLING_STATE.md)
+- [Release Build State](docs/RELEASE_BUILD_STATE.md)
 - [Content Truth Map](docs/CONTENT_TRUTH_MAP.md)
 - [Release Gaps](docs/RELEASE_GAPS.md)
 - [Launch Milestones](docs/status/FINAL_MILESTONES.md)
