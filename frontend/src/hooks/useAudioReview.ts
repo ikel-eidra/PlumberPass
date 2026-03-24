@@ -699,6 +699,7 @@ export function useAudioReview() {
     answerHandlerRef.current = handler;
     lastDeliveredTranscriptRef.current = "";
     setTranscript("");
+    await stopRecognitionOnly();
     await stopSpeechOnly();
     manualStopRef.current = false;
 
@@ -819,7 +820,7 @@ export function useAudioReview() {
         }
 
         setStatus(
-          transcript
+          lastDeliveredTranscriptRef.current
             ? "Listening finished."
             : "No answer was captured. Try speaking only the letter, like B.",
         );

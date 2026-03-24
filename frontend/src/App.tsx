@@ -600,6 +600,7 @@ export default function App() {
   const [mockAnswers, setMockAnswers] = useState<Record<string, string>>({});
   const [clockTick, setClockTick] = useState(Date.now());
   const answerTapTimestampRef = useRef(0);
+  const answerCommitLockRef = useRef<{ questionId: string; until: number } | null>(null);
   const {
     availableVoices,
     clearTranscript,
@@ -1132,6 +1133,7 @@ export default function App() {
 
   useEffect(() => {
     clearTranscript();
+    answerCommitLockRef.current = null;
   }, [activeIndex]);
 
   useEffect(() => {
@@ -1198,7 +1200,7 @@ export default function App() {
   }, [currentQuestions.length]);
 
   const goNext = () => {
-    if (!isMockExam && Date.now() - answerTapTimestampRef.current < 280) {
+    if (Date.now() - answerTapTimestampRef.current < 360) {
       return;
     }
     stopAudio();
@@ -1211,7 +1213,7 @@ export default function App() {
   };
 
   const goPrevious = () => {
-    if (!isMockExam && Date.now() - answerTapTimestampRef.current < 280) {
+    if (Date.now() - answerTapTimestampRef.current < 360) {
       return;
     }
     stopAudio();
@@ -1225,10 +1227,23 @@ export default function App() {
     );
   };
 
+  const registerAnswerIntent = () => {
+    answerTapTimestampRef.current = Date.now();
+  };
+
   const handleAnswer = (choiceLabel: string) => {
+    const now = Date.now();
+    const existingLock = answerCommitLockRef.current;
+    if (existingLock && existingLock.questionId === question.id && now < existingLock.until) {
+      return;
+    }
+
     if (question.id === fallbackQuestion.id) {
       return;
     }
+
+    answerCommitLockRef.current = { questionId: question.id, until: now + 700 };
+    answerTapTimestampRef.current = now;
 
     if (isMockExam) {
       if (mockAnswers[question.id] || mockCompletedAt) {
@@ -1247,7 +1262,6 @@ export default function App() {
     if (selectedAnswer) {
       return;
     }
-    answerTapTimestampRef.current = Date.now();
     setSelectedAnswer(choiceLabel);
     setShowExplanation(true);
     clearTranscript();
@@ -1270,6 +1284,9 @@ export default function App() {
 
   const jumpToFirstUnanswered = () => {
     if (!isMockExam || firstUnansweredIndex < 0) {
+      return;
+    }
+    if (Date.now() - answerTapTimestampRef.current < 360) {
       return;
     }
     stopAudio();
@@ -1894,6 +1911,7 @@ export default function App() {
                   }
                 }}
                 onAnswer={handleAnswer}
+                onChoiceIntent={registerAnswerIntent}
                 selectedAnswer={effectiveSelectedAnswer}
                 onSwipeNext={goNext}
                 onSwipePrevious={goPrevious}

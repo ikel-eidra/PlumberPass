@@ -7,6 +7,7 @@ interface QuestionCardProps {
   showExplanation: boolean;
   allowExplanation?: boolean;
   revealAnswer?: boolean;
+  onChoiceIntent?: () => void;
   onToggleExplanation: () => void;
   onAnswer: (choiceLabel: string) => void;
   selectedAnswer: string | null;
@@ -28,6 +29,7 @@ export default function QuestionCard({
   showExplanation,
   allowExplanation = true,
   revealAnswer = true,
+  onChoiceIntent,
   onToggleExplanation,
   onAnswer,
   selectedAnswer,
@@ -42,6 +44,7 @@ export default function QuestionCard({
     tracking: false,
   });
   const suppressSwipeUntilRef = useRef(0);
+  const pointerHandledChoiceRef = useRef<string | null>(null);
   const isAnswered = selectedAnswer !== null;
 
   const isInteractiveTarget = (target: EventTarget | null) =>
@@ -135,15 +138,28 @@ export default function QuestionCard({
               className={`choice ${isSelected ? "selected" : ""} ${stateClass}`}
               onPointerDown={(event) => {
                 suppressSwipe();
+                onChoiceIntent?.();
                 event.stopPropagation();
               }}
               onPointerUp={(event) => {
                 suppressSwipe();
+                pointerHandledChoiceRef.current = choice.label;
+                onAnswer(choice.label);
                 event.stopPropagation();
               }}
               onPointerCancel={suppressSwipe}
               onTouchStart={suppressSwipe}
-              onClick={() => onAnswer(choice.label)}
+              onClick={(event) => {
+                if (pointerHandledChoiceRef.current === choice.label) {
+                  pointerHandledChoiceRef.current = null;
+                  event.preventDefault();
+                  event.stopPropagation();
+                  return;
+                }
+                onChoiceIntent?.();
+                onAnswer(choice.label);
+              }}
+              disabled={isAnswered}
             >
               <span className="choice-label">{choice.label}</span>
               <span>{choice.text}</span>
