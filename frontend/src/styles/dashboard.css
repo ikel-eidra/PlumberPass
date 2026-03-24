@@ -404,6 +404,91 @@
   gap: 12px;
 }
 
+.dashboard-mobile__coach {
+  display: grid;
+  gap: 14px;
+  padding: 18px;
+  border-radius: 28px;
+  background:
+    radial-gradient(circle at top left, rgba(124, 232, 214, 0.12), transparent 34%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.09), rgba(255, 255, 255, 0.04));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 30px rgba(4, 10, 16, 0.26);
+}
+
+.dashboard-mobile__coach-copy {
+  margin: 0;
+  color: #cfe0e8;
+  line-height: 1.6;
+}
+
+.dashboard-mobile__coach-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.coach-card {
+  padding: 16px;
+  border-radius: 22px;
+  background: rgba(8, 23, 34, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  display: grid;
+  gap: 10px;
+}
+
+.coach-card p,
+.coach-card h4,
+.coach-card span {
+  margin: 0;
+}
+
+.coach-card p {
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #9ab9c7;
+}
+
+.coach-card h4 {
+  font-size: 20px;
+  line-height: 1.1;
+}
+
+.coach-card span {
+  color: #dbeaf1;
+  line-height: 1.55;
+}
+
+.coach-card strong {
+  color: #ffffff;
+}
+
+.coach-card button {
+  border: 0;
+  border-radius: 18px;
+  min-height: 50px;
+  padding: 0 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  color: #07121a;
+  background: linear-gradient(135deg, #7ce8d6 0%, #2cc8d8 100%);
+}
+
+.coach-card--focus button {
+  background: linear-gradient(135deg, #ffd58c 0%, #ff9c6b 100%);
+}
+
+.coach-card--repair button {
+  background: rgba(255, 255, 255, 0.12);
+  color: #f7fcff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
 .quick-card {
   align-items: flex-start;
   justify-content: flex-start;
@@ -880,7 +965,8 @@
 
   .dashboard-mobile__quick-grid,
   .dashboard-mobile__cards,
-  .dashboard-mobile__blueprint-grid {
+  .dashboard-mobile__blueprint-grid,
+  .dashboard-mobile__coach-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 

@@ -95,6 +95,7 @@ Current:
 - Visual review now supports deck-level topic filtering and shuffle on mobile as the figure bank grows
 - Android-width screenshot capture now exists for the major screens, so mobile UI checks are repeatable instead of guesswork
 - Native Android speech recognition and mic permission flow are now wired through Capacitor plugins, and the emulator reaches a real listening state instead of failing in the old WebView-only path
+- Dashboard and readiness report now expose a real coach layer: due-first sprint, weakest-topic focus, and mistake-repair actions are now actionable instead of passive stats
 - Review shell and dashboard are materially stronger on phone-width layouts, but the remaining high-usage screens still need the last polish pass
 
 ### M5. Launch Packaging

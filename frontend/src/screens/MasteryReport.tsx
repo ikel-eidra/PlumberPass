@@ -9,6 +9,9 @@ type MasteryReportProps = {
   theme: UiTheme;
   onThemeChange: (theme: UiTheme) => void;
   onBack: () => void;
+  onStartVoiceReview: () => void;
+  onFocusWeakestTopic: () => void;
+  onOpenMistakes: () => void;
   daysToExam: number;
   stats: StudyStats;
   examWindowLabel: string;
@@ -30,12 +33,21 @@ export default function MasteryReport({
   theme,
   onThemeChange,
   onBack,
+  onStartVoiceReview,
+  onFocusWeakestTopic,
+  onOpenMistakes,
   daysToExam,
   stats,
   examWindowLabel,
   applicationDeadline,
   subjects,
 }: MasteryReportProps) {
+  const weakestTopic = stats.topicPerformance[0];
+  const coachHeadline =
+    stats.dueCount > 0
+      ? "Start with the due queue, then zoom into the weakest topic."
+      : "The queue is light, so use the weakest topic as your next pressure point.";
+
   return (
     <div className="mastery-report">
       <header className="mastery-report__topbar">
@@ -49,7 +61,7 @@ export default function MasteryReport({
         </button>
         <p className="mastery-report__brand">{APP_BRAND.name}</p>
         <ThemeToggle theme={theme} onChange={onThemeChange} />
-        <button className="mastery-report__icon" type="button" aria-label="Voice review">
+        <button className="mastery-report__icon" type="button" aria-label="Voice review" onClick={onStartVoiceReview}>
           <UiIcon name="mic" size={18} />
         </button>
       </header>
@@ -94,6 +106,39 @@ export default function MasteryReport({
               Accuracy is {stats.accuracy}% across {stats.totalAnswered} answered
               items. {stats.dueCount} items are due for replay now.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="mastery-report__coach">
+        <div className="mastery-report__section-head">
+          <h2>Coach Brief</h2>
+          <span>Next best move</span>
+        </div>
+        <div className="mastery-report__coach-card">
+          <div className="mastery-report__coach-copy">
+            <h3>{coachHeadline}</h3>
+            <p>
+              {weakestTopic
+                ? `${weakestTopic.topic} is currently the weakest live zone, with ${weakestTopic.due} due and ${weakestTopic.accuracy}% accuracy.`
+                : "Run the due queue, then start mixed review while the bank is still fresh."}
+            </p>
+            <div className="mastery-report__coach-pills">
+              <span>{stats.dueCount} due now</span>
+              <span>{stats.reviewedToday} answered today</span>
+              {weakestTopic ? <span>Next focus: {weakestTopic.nextFocus}</span> : null}
+            </div>
+          </div>
+          <div className="mastery-report__coach-actions">
+            <button type="button" onClick={onStartVoiceReview}>
+              Due Sprint
+            </button>
+            <button type="button" onClick={onFocusWeakestTopic}>
+              {weakestTopic ? `Focus ${weakestTopic.topic}` : "Open Mixed Review"}
+            </button>
+            <button type="button" className="mastery-report__ghost-button" onClick={onOpenMistakes}>
+              Open Mistakes
+            </button>
           </div>
         </div>
       </section>
@@ -156,8 +201,11 @@ export default function MasteryReport({
       </section>
 
       <footer className="mastery-report__footer">
-        <button type="button">Prioritize Due Cards</button>
-        <button className="mastery-report__fab" type="button" aria-label="Voice">
+        <button type="button" onClick={onStartVoiceReview}>Prioritize Due Cards</button>
+        <button type="button" onClick={onFocusWeakestTopic}>
+          {weakestTopic ? `Focus ${weakestTopic.topic}` : "Mixed Review"}
+        </button>
+        <button className="mastery-report__fab" type="button" aria-label="Voice" onClick={onStartVoiceReview}>
           <UiIcon name="mic" size={18} />
         </button>
       </footer>

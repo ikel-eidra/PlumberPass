@@ -41,15 +41,21 @@ export default function QuestionCard({
     y: 0,
     tracking: false,
   });
+  const suppressSwipeUntilRef = useRef(0);
   const isAnswered = selectedAnswer !== null;
 
   const isInteractiveTarget = (target: EventTarget | null) =>
     target instanceof HTMLElement &&
     Boolean(target.closest("button, a, input, select, textarea, label"));
 
+  const suppressSwipe = () => {
+    suppressSwipeUntilRef.current = Date.now() + 500;
+    swipeStartRef.current = { x: 0, y: 0, tracking: false };
+  };
+
   const handlePointerDown = (event: PointerEvent<HTMLElement>) => {
     if (isInteractiveTarget(event.target)) {
-      swipeStartRef.current = { x: 0, y: 0, tracking: false };
+      suppressSwipe();
       return;
     }
 
@@ -61,6 +67,11 @@ export default function QuestionCard({
   };
 
   const handlePointerUp = (event: PointerEvent<HTMLElement>) => {
+    if (Date.now() < suppressSwipeUntilRef.current) {
+      swipeStartRef.current.tracking = false;
+      return;
+    }
+
     if (!swipeStartRef.current.tracking || isInteractiveTarget(event.target)) {
       swipeStartRef.current.tracking = false;
       return;
@@ -122,8 +133,16 @@ export default function QuestionCard({
               key={choice.label}
               type="button"
               className={`choice ${isSelected ? "selected" : ""} ${stateClass}`}
-              onPointerDown={(event) => event.stopPropagation()}
-              onPointerUp={(event) => event.stopPropagation()}
+              onPointerDown={(event) => {
+                suppressSwipe();
+                event.stopPropagation();
+              }}
+              onPointerUp={(event) => {
+                suppressSwipe();
+                event.stopPropagation();
+              }}
+              onPointerCancel={suppressSwipe}
+              onTouchStart={suppressSwipe}
               onClick={() => onAnswer(choice.label)}
             >
               <span className="choice-label">{choice.label}</span>
@@ -157,8 +176,16 @@ export default function QuestionCard({
         <button
           type="button"
           className="explain-toggle"
-          onPointerDown={(event) => event.stopPropagation()}
-          onPointerUp={(event) => event.stopPropagation()}
+          onPointerDown={(event) => {
+            suppressSwipe();
+            event.stopPropagation();
+          }}
+          onPointerUp={(event) => {
+            suppressSwipe();
+            event.stopPropagation();
+          }}
+          onPointerCancel={suppressSwipe}
+          onTouchStart={suppressSwipe}
           onClick={onToggleExplanation}
         >
           {showExplanation ? "Hide explanation" : "Explain"}

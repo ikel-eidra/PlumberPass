@@ -17,11 +17,16 @@ export type VoiceOption = {
   default?: boolean;
 };
 
+type StartListeningOptions = {
+  preferDialog?: boolean;
+};
+
 const SPEECH_RATE_STORAGE_KEY = "pp_speech_rate_preset_v2";
 const VOICE_STORAGE_KEY = "pp_voice_option_id_v1";
 const DEFAULT_VOICE_ID = "auto";
 const NATIVE_LANGUAGE = "en-PH";
 const FALLBACK_LANGUAGE = "en-US";
+const RECOGNITION_LANGUAGE = "en-US";
 
 type BrowserSpeechRecognitionAlternative = {
   transcript?: string;
@@ -479,6 +484,41 @@ export function useAudioReview() {
     setTranscript("");
   };
 
+  const resolveNativeSpeechLanguage = async () => {
+    const preferredLanguage = selectedVoice.lang !== "system" ? selectedVoice.lang : FALLBACK_LANGUAGE;
+
+    try {
+      const support = await TextToSpeech.isLanguageSupported({ lang: preferredLanguage });
+      if (support.supported) {
+        return preferredLanguage;
+      }
+    } catch {
+      // Fall through to the stable fallback language below.
+    }
+
+    return FALLBACK_LANGUAGE;
+  };
+
+  const resolveNativeRecognitionLanguage = async () => {
+    try {
+      const { languages } = await SpeechRecognition.getSupportedLanguages();
+      const normalized = languages.map((language) => language.toLowerCase());
+      if (normalized.includes(RECOGNITION_LANGUAGE.toLowerCase())) {
+        return RECOGNITION_LANGUAGE;
+      }
+      if (normalized.includes(FALLBACK_LANGUAGE.toLowerCase())) {
+        return FALLBACK_LANGUAGE;
+      }
+      if (normalized.includes(NATIVE_LANGUAGE.toLowerCase())) {
+        return NATIVE_LANGUAGE;
+      }
+    } catch {
+      // Android 13+ may return an empty or unavailable language list.
+    }
+
+    return RECOGNITION_LANGUAGE;
+  };
+
   const emitTranscript = (value: string, isFinal = false) => {
     const nextValue = value.trim();
     if (!nextValue) {
@@ -568,32 +608,53 @@ export function useAudioReview() {
     setStatus("Reading aloud...");
 
     if (nativePlatform) {
+      const language = await resolveNativeSpeechLanguage();
+      const voiceIndex =
+        selectedVoice.source === "native" && selectedVoice.lang === language
+          ? selectedVoice.nativeIndex
+          : undefined;
+
       try {
         await TextToSpeech.speak({
           text: cleanText,
-          lang: selectedVoice.lang !== "system" ? selectedVoice.lang : NATIVE_LANGUAGE,
+          lang: language,
           rate: SPEECH_RATE_MAP[speechRatePreset],
           pitch: 0.98,
           volume: 1,
-          voice: selectedVoice.source === "native" ? selectedVoice.nativeIndex : undefined,
+          voice: voiceIndex,
           queueStrategy: QueueStrategy.Flush,
         });
-
-        if (nextTicket !== speakTicketRef.current) {
+      } catch (error) {
+        try {
+          await TextToSpeech.speak({
+            text: cleanText,
+            lang: FALLBACK_LANGUAGE,
+            rate: SPEECH_RATE_MAP[speechRatePreset],
+            pitch: 0.98,
+            volume: 1,
+            queueStrategy: QueueStrategy.Flush,
+          });
+        } catch (fallbackError) {
+          setIsSpeaking(false);
+          setStatus(
+            fallbackError instanceof Error
+              ? `Voice playback failed: ${fallbackError.message}`
+              : error instanceof Error
+              ? `Voice playback failed: ${error.message}`
+              : "Voice playback failed.",
+          );
           return;
         }
+      }
 
-        setIsSpeaking(false);
-        setStatus("Ready for the next answer.");
-        queueAfterSpeak(nextTicket, onComplete);
-        return;
-      } catch (error) {
-        setIsSpeaking(false);
-        setStatus(
-          error instanceof Error ? `Voice playback failed: ${error.message}` : "Voice playback failed.",
-        );
+      if (nextTicket !== speakTicketRef.current) {
         return;
       }
+
+      setIsSpeaking(false);
+      setStatus("Ready for the next answer.");
+      queueAfterSpeak(nextTicket, onComplete);
+      return;
     }
 
     const speechSynthesis = resolveSpeechSynthesis();
@@ -634,7 +695,7 @@ export function useAudioReview() {
     queueAfterSpeak(nextTicket, onComplete);
   };
 
-  const startListening = async (handler: (value: string) => void) => {
+  const startListening = async (handler: (value: string) => void, options?: StartListeningOptions) => {
     answerHandlerRef.current = handler;
     lastDeliveredTranscriptRef.current = "";
     setTranscript("");
@@ -657,20 +718,47 @@ export function useAudioReview() {
           return;
         }
 
+        const language = await resolveNativeRecognitionLanguage();
         setIsRecognitionSupported(true);
-        setStatus("Listening for A to E or the option text.");
+        setIsListening(true);
 
-        const immediateResult = await SpeechRecognition.start({
-          language: NATIVE_LANGUAGE,
-          maxResults: 5,
-          partialResults: true,
-          popup: false,
-          allowForSilence: 2200,
-        });
+        const runRecognition = async (preferDialog: boolean) => {
+          setStatus(
+            preferDialog
+              ? "Opening the microphone dialog. Say A to E or the full answer."
+              : "Listening for A to E or the option text.",
+          );
 
-        const immediateTranscript = pickBestMatch(immediateResult.matches);
-        if (immediateTranscript) {
-          emitTranscript(immediateTranscript, true);
+          const result = await SpeechRecognition.start({
+            language,
+            maxResults: 5,
+            partialResults: !preferDialog,
+            popup: preferDialog,
+            prompt: preferDialog ? "Say A, B, C, D, or E" : undefined,
+            allowForSilence: preferDialog ? undefined : 2200,
+          });
+
+          const immediateTranscript = pickBestMatch(result.matches);
+          if (immediateTranscript) {
+            emitTranscript(immediateTranscript, true);
+          }
+
+          if (preferDialog) {
+            setIsListening(false);
+            if (!immediateTranscript) {
+              setStatus("No answer was captured. Try speaking only the letter, like B.");
+            }
+          }
+        };
+
+        try {
+          await runRecognition(Boolean(options?.preferDialog));
+        } catch (inlineError) {
+          if (options?.preferDialog) {
+            throw inlineError;
+          }
+
+          await runRecognition(true);
         }
       } catch (error) {
         setIsListening(false);

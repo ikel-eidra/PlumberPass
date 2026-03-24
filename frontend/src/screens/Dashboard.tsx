@@ -12,6 +12,7 @@ type DashboardProps = {
   onThemeChange: (theme: UiTheme) => void;
   onOpenSettings: () => void;
   onStartSession: () => void;
+  onFocusTopic: () => void;
   onStartMockExam: () => void;
   onStartRecallLab: () => void;
   onStartVisualReview: () => void;
@@ -31,6 +32,9 @@ type DashboardProps = {
   streakDays?: number;
   reviewedToday?: number;
   daysToExam?: number;
+  focusTopic?: string;
+  focusSubtopic?: string;
+  unresolvedMistakeCount?: number;
 };
 
 export default function Dashboard({
@@ -38,6 +42,7 @@ export default function Dashboard({
   onThemeChange,
   onOpenSettings,
   onStartSession,
+  onFocusTopic,
   onStartMockExam,
   onStartRecallLab,
   onStartVisualReview,
@@ -57,6 +62,9 @@ export default function Dashboard({
   streakDays = 0,
   reviewedToday = 0,
   daysToExam = 0,
+  focusTopic = "Mixed Review",
+  focusSubtopic = "General drilling",
+  unresolvedMistakeCount = 0,
 }: DashboardProps) {
   const checklist = buildLaunchChecklist({
     questionCount,
@@ -68,6 +76,11 @@ export default function Dashboard({
   const currentGate = checklist.find((item) => item.status !== "done") ?? checklist[checklist.length - 1];
   const contentProgress = Math.min(100, Math.round((questionCount / LIVE_MCQ_TARGET) * 100));
   const subjectBlueprint = MASTER_PLUMBER_EXAM.subjects;
+  const coachStepThreeLabel =
+    unresolvedMistakeCount > 0 ? "Repair misses before they harden." : "Build more recall speed.";
+  const coachStepThreeButtonLabel =
+    unresolvedMistakeCount > 0 ? "Open Error Replay" : "Open Recall Lab";
+  const coachStepThreeAction = unresolvedMistakeCount > 0 ? onViewMistakes : onStartRecallLab;
 
   return (
     <div className="dashboard-mobile">
@@ -162,6 +175,54 @@ export default function Dashboard({
             <span>Offline bundle ready</span>
             <span>{questionCount} live MCQs</span>
           </div>
+        </div>
+      </section>
+
+      <section className="dashboard-mobile__coach">
+        <div className="dashboard-mobile__section-head">
+          <h3>Coach Plan</h3>
+          <span className="dashboard-mobile__section-badge">Research-backed</span>
+        </div>
+        <p className="dashboard-mobile__coach-copy">
+          The app is already tracking due pressure, weak-topic accuracy, and unresolved mistakes. Use that
+          signal instead of guessing what to study next.
+        </p>
+        <div className="dashboard-mobile__coach-grid">
+          <article className="coach-card">
+            <p>Step 1</p>
+            <h4>Clear the due queue first</h4>
+            <span>
+              {dueCount > 0
+                ? `${dueCount} prompts are already due, so this is the fastest retention win.`
+                : "Your due queue is light, so use the spoken loop to keep the memory trace warm."}
+            </span>
+            <button type="button" onClick={onStartSession}>
+              Start Due-First Sprint
+            </button>
+          </article>
+          <article className="coach-card coach-card--focus">
+            <p>Step 2</p>
+            <h4>Attack the weakest topic</h4>
+            <span>
+              Focus next on <strong>{focusTopic}</strong>
+              {focusSubtopic ? `, especially ${focusSubtopic}.` : "."}
+            </span>
+            <button type="button" onClick={onFocusTopic}>
+              Focus {focusTopic}
+            </button>
+          </article>
+          <article className="coach-card coach-card--repair">
+            <p>Step 3</p>
+            <h4>{coachStepThreeLabel}</h4>
+            <span>
+              {unresolvedMistakeCount > 0
+                ? `${unresolvedMistakeCount} unresolved misses are still sitting in the replay loop.`
+                : `${flashcardCount + identificationCount} fast-recall prompts are ready for a support pass.`}
+            </span>
+            <button type="button" onClick={coachStepThreeAction}>
+              {coachStepThreeButtonLabel}
+            </button>
+          </article>
         </div>
       </section>
 

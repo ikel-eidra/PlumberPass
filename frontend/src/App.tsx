@@ -822,6 +822,25 @@ export default function App() {
     setScreen("Review");
   };
 
+  const startTopicFocusSession = (topicName?: string | null) => {
+    if (!topicName) {
+      startStandardReview();
+      return;
+    }
+
+    stopAudio();
+    resetReviewCard();
+    setSelectedTopicName(topicName);
+    setIsMistakeReview(false);
+    setIsMockExam(false);
+    setMockStartedAt(null);
+    setMockCompletedAt(null);
+    setMockAnswers({});
+    setActiveIndex(0);
+    setMode("Voice");
+    setScreen("Review");
+  };
+
   const startMistakeReplay = (questionId?: string) => {
     stopAudio();
     resetReviewCard();
@@ -1472,6 +1491,7 @@ export default function App() {
         onThemeChange={setTheme}
         onOpenSettings={openSettings}
         onStartSession={startStandardReview}
+        onFocusTopic={() => startTopicFocusSession(stats.topicPerformance[0]?.topic ?? null)}
         onStartMockExam={startMockExamSession}
         onStartRecallLab={() => {
           stopAudio();
@@ -1499,6 +1519,9 @@ export default function App() {
         streakDays={stats.streakDays}
         reviewedToday={stats.reviewedToday}
         daysToExam={daysToExam}
+        focusTopic={stats.topicPerformance[0]?.topic ?? "Mixed Review"}
+        focusSubtopic={stats.topicPerformance[0]?.nextFocus ?? "General drilling"}
+        unresolvedMistakeCount={mistakeEntries.length}
       />
     );
   }
@@ -1557,6 +1580,9 @@ export default function App() {
         theme={theme}
         onThemeChange={setTheme}
         onBack={() => setScreen("Dashboard")}
+        onStartVoiceReview={startStandardReview}
+        onFocusWeakestTopic={() => startTopicFocusSession(stats.topicPerformance[0]?.topic ?? null)}
+        onOpenMistakes={() => setScreen("MistakeLibrary")}
         daysToExam={daysToExam}
         stats={stats}
         examWindowLabel={MASTER_PLUMBER_EXAM.examWindowLabel}
@@ -1596,7 +1622,7 @@ export default function App() {
         voiceStatus={voiceStatus}
         transcript={voiceTranscript}
         onReadSample={() => readQuestion(question)}
-        onTestMicrophone={() => startListening(() => undefined)}
+        onTestMicrophone={() => startListening(() => undefined, { preferDialog: true })}
         onStopAudio={stopAudio}
       />
     );
@@ -1934,7 +1960,7 @@ export default function App() {
                   <button
                     type="button"
                     disabled={!isRecognitionSupported}
-                    onClick={() => startListening(handleTranscript)}
+                    onClick={() => startListening(handleTranscript, { preferDialog: true })}
                   >
                     {isListening ? "Listening..." : "Answer by Voice"}
                   </button>
