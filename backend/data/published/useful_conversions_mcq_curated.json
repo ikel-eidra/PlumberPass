@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "generator": "scripts/publish_conversion_mcqs.py",
+    "generated_at": "2026-03-22T21:39:25.828723+00:00",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\reference_materials_generated.json",
+    "promotion_strategy": "One canonical MCQ per useful-conversions prompt",
+    "candidate_count": 9,
+    "question_count": 9
+  },
+  "questions": [
+    {
+      "id": "conversion-derived__ref-conv-1-atm-atmosphere-101-325-kpa-kilopascal-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 ATM (Atmosphere)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 j/s joule/ second"
+        },
+        {
+          "label": "B",
+          "text": "10,000,000 erg erg"
+        },
+        {
+          "label": "C",
+          "text": "2.31 ft. H2O foot of water"
+        },
+        {
+          "label": "D",
+          "text": "101.325 kpa kilopascal"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "101.325 kpa kilopascal is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 ATM (Atmosphere): 101.325 kpa kilopascal",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 ATM (Atmosphere)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-1-psi-pounds-per-sq-inch-2-31-ft-h2o-foot-of-water-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 PSI (Pounds per Sq. Inch)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "101.325 kpa kilopascal"
+        },
+        {
+          "label": "B",
+          "text": "2.31 ft. H2O foot of water"
+        },
+        {
+          "label": "C",
+          "text": "1 j/s joule/ second"
+        },
+        {
+          "label": "D",
+          "text": "10,000,000 erg erg"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "2.31 ft. H2O foot of water is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 PSI (Pounds per Sq. Inch): 2.31 ft. H2O foot of water",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 PSI (Pounds per Sq. Inch)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-1-btu-british-thermal-unit-1-055-j-joule-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 BTU (British Thermal Unit)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4.184 j joule"
+        },
+        {
+          "label": "B",
+          "text": "1,055 j joule"
+        },
+        {
+          "label": "C",
+          "text": "100,000 dyne"
+        },
+        {
+          "label": "D",
+          "text": "746 w watts"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "1,055 j joule is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 BTU (British Thermal Unit): 1,055 j joule",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 BTU (British Thermal Unit)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-density-of-water-4-c-39-f-62-5-lbs-cu-ft-pounds-cubic-feet-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of Density of Water @ 4°C/ 39°F",
+      "choices": [
+        {
+          "label": "A",
+          "text": "62.5 lbs/ cu.ft pounds/ cubic feet"
+        },
+        {
+          "label": "B",
+          "text": "2.31 ft. H2O foot of water"
+        },
+        {
+          "label": "C",
+          "text": "101.325 kpa kilopascal"
+        },
+        {
+          "label": "D",
+          "text": "1 j/s joule/ second"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "62.5 lbs/ cu.ft pounds/ cubic feet is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of Density of Water @ 4°C/ 39°F: 62.5 lbs/ cu.ft pounds/ cubic feet",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | Density of Water @ 4°C/ 39°F",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-1-hp-horsepower-746-w-watts-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 HP (Horsepower)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "100,000 dyne"
+        },
+        {
+          "label": "B",
+          "text": "746 w watts"
+        },
+        {
+          "label": "C",
+          "text": "1,055 j joule"
+        },
+        {
+          "label": "D",
+          "text": "4.184 j joule"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "746 w watts is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 HP (Horsepower): 746 w watts",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 HP (Horsepower)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-1-n-newton-100-000-dyne-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 N (Newton)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1,055 j joule"
+        },
+        {
+          "label": "B",
+          "text": "746 w watts"
+        },
+        {
+          "label": "C",
+          "text": "4.184 j joule"
+        },
+        {
+          "label": "D",
+          "text": "100,000 dyne"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "100,000 dyne is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 N (Newton): 100,000 dyne",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 N (Newton)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-1-j-joule-10-000-000-erg-erg-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 J (Joule)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 j/s joule/ second"
+        },
+        {
+          "label": "B",
+          "text": "101.325 kpa kilopascal"
+        },
+        {
+          "label": "C",
+          "text": "10,000,000 erg erg"
+        },
+        {
+          "label": "D",
+          "text": "1,055 j joule"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "10,000,000 erg erg is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 J (Joule): 10,000,000 erg erg",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 J (Joule)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-1-w-watt-1-j-s-joule-second-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 W (Watt)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 j/s joule/ second"
+        },
+        {
+          "label": "B",
+          "text": "10,000,000 erg erg"
+        },
+        {
+          "label": "C",
+          "text": "101.325 kpa kilopascal"
+        },
+        {
+          "label": "D",
+          "text": "1,055 j joule"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "1 j/s joule/ second is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 W (Watt): 1 j/s joule/ second",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 W (Watt)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "conversion-derived__ref-conv-1-cal-calorie-4-184-j-joule-id",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "difficulty": "Easy",
+      "prompt": "What is the equivalent of 1 Cal (Calorie)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4.184 j joule"
+        },
+        {
+          "label": "B",
+          "text": "1,055 j joule"
+        },
+        {
+          "label": "C",
+          "text": "100,000 dyne"
+        },
+        {
+          "label": "D",
+          "text": "746 w watts"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "4.184 j joule is one accepted equivalent.",
+      "explanation_long": "What is the equivalent of 1 Cal (Calorie): 4.184 j joule",
+      "tags": [
+        "conversions",
+        "plumbing-arithmetic",
+        "reference",
+        "derived-mcq"
+      ],
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | 1 Cal (Calorie)",
+      "quality_flag": "ok"
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

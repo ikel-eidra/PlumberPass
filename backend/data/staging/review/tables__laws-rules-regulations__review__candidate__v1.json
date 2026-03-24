@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 4
+    },
+    "notes": [],
+    "source_slug": "tables__laws-rules-regulations",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf",
+    "material_group": "tables",
+    "converter": "facts",
+    "generated_at": "2026-03-21T13:09:33.665039+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "Reference extraction needs filtering before publication"
+    ]
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-8517819e54c3",
+      "topic": "Laws and Regulations",
+      "subtopic": "Pd 856",
+      "front": "What is Dec 23 1975?",
+      "back": "Water Code of the Philippines",
+      "explanation_short": "Water Code of the Philippines",
+      "explanation_long": "Water Code of the Philippines",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "pd-856",
+        "tables",
+        "tables__laws-rules-regulations",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Pd 856",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c6b807da27d5",
+      "topic": "Laws and Regulations",
+      "subtopic": "Pd 1067",
+      "front": "What is Dec 31 1976?",
+      "back": "National Building Code of the PH",
+      "explanation_short": "National Building Code of the PH",
+      "explanation_long": "National Building Code of the PH",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "pd-1067",
+        "tables",
+        "tables__laws-rules-regulations",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Pd 1067",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-211766a4566f",
+      "topic": "Laws and Regulations",
+      "subtopic": "Ra 386",
+      "front": "What is June 18, 1949?",
+      "back": "Practice of Civil Engineering (Old)",
+      "explanation_short": "Practice of Civil Engineering (Old)",
+      "explanation_long": "Practice of Civil Engineering (Old)",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "ra-386",
+        "tables",
+        "tables__laws-rules-regulations",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Ra 386",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8926c02d8a0d",
+      "topic": "Laws and Regulations",
+      "subtopic": "Ra 9275",
+      "front": "What is March 22 2004?",
+      "back": "Fire Code of the Philippines",
+      "explanation_short": "Fire Code of the Philippines",
+      "explanation_long": "Fire Code of the Philippines",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "ra-9275",
+        "tables",
+        "tables__laws-rules-regulations",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Ra 9275",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": [
+    {
+      "id": "id-878cb6439841",
+      "topic": "Laws and Regulations",
+      "subtopic": "Pd 856",
+      "prompt": "What term matches this definition? Water Code of the Philippines",
+      "accepted_answers": [
+        "Dec 23 1975"
+      ],
+      "explanation_short": "Dec 23 1975",
+      "explanation_long": "Dec 23 1975: Water Code of the Philippines",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "pd-856",
+        "tables",
+        "tables__laws-rules-regulations",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Pd 856",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-95f4f64e70d8",
+      "topic": "Laws and Regulations",
+      "subtopic": "Pd 1067",
+      "prompt": "What term matches this definition? National Building Code of the PH",
+      "accepted_answers": [
+        "Dec 31 1976"
+      ],
+      "explanation_short": "Dec 31 1976",
+      "explanation_long": "Dec 31 1976: National Building Code of the PH",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "pd-1067",
+        "tables",
+        "tables__laws-rules-regulations",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Pd 1067",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-2019d14dec98",
+      "topic": "Laws and Regulations",
+      "subtopic": "Ra 386",
+      "prompt": "What term matches this definition? Practice of Civil Engineering (Old)",
+      "accepted_answers": [
+        "June 18, 1949"
+      ],
+      "explanation_short": "June 18, 1949",
+      "explanation_long": "June 18, 1949: Practice of Civil Engineering (Old)",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "ra-386",
+        "tables",
+        "tables__laws-rules-regulations",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Ra 386",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-26aceb3eb289",
+      "topic": "Laws and Regulations",
+      "subtopic": "Ra 9275",
+      "prompt": "What term matches this definition? Fire Code of the Philippines",
+      "accepted_answers": [
+        "March 22 2004"
+      ],
+      "explanation_short": "March 22 2004",
+      "explanation_long": "March 22 2004: Fire Code of the Philippines",
+      "tags": [
+        "laws-and-regulations",
+        "definition",
+        "ra-9275",
+        "tables",
+        "tables__laws-rules-regulations",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | p.1 | Ra 9275",
+      "quality_flag": "review"
+    }
+  ]
+}

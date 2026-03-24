@@ -1,0 +1,2227 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "candidate": 22,
+      "probable": 27
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-06",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 6.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:01:01.961490+00:00",
+    "classification": "publish_candidate",
+    "classification_reasons": [
+      "MCQ bank has enough volume with limited review-only items"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-06-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "In order to determine the absorption qualities of questionable soils other than those listed in Table B-4, the proposed site shall be subjected to acceptable to the Administrative Authority",
+      "choices": [
+        {
+          "label": "A",
+          "text": "intiltration test"
+        },
+        {
+          "label": "B",
+          "text": "percolation test"
+        },
+        {
+          "label": "C",
+          "text": "precipitation test"
+        },
+        {
+          "label": "D",
+          "text": "runoff test Administrative Authority."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "In order to determine the absorption qualities of questionable soils other than those listed in",
+      "explanation_long": "In order to determine the absorption qualities of questionable soils other than those listed in Table B-4, the proposed site shall be subjected to percolation test acceptable to the",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#1 | pages 2-3",
+      "quality_flag": "candidate",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Dosing tank shall have a capacity equal to of the interior capacity of the pipe to be dosed at one time",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30% - 50%"
+        },
+        {
+          "label": "B",
+          "text": "60% - 75%(Appendix B, F:Disposal Fields)"
+        },
+        {
+          "label": "C",
+          "text": "80% - 95%"
+        },
+        {
+          "label": "D",
+          "text": "90% - 100%"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "d . 90% 100% When the quantity of sewage exceeds the amount that can be disposed in 152.4 lineal meter",
+      "explanation_long": "d . 90% 100% When the quantity of sewage exceeds the amount that can be disposed in 152.4 lineal meter of each line, a dosing tank shall be used. Dosing tanks shall be equipped with an automatic siphon or pump which discharges the tank once every three (3) or four (4) hours. The tank shal have a capacity equal to sixty (60) to seventy-five (75) percent of the interior capacity of the pipe to be dosed at one time. Where the total length of pipe exceeds 304.8 lineal meter, the dosing tank shall be provided with two (2) siphons or pumps dosing alternately and each serving one-half (1/2) of the leach field.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#2 | pages 4-5",
+      "quality_flag": "probable",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (Appendix B, F:Disposal Fields)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "The maximum length of each drain disposal field:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45.7 m"
+        },
+        {
+          "label": "B",
+          "text": "30.5 m (Appendix B, F:Disposal Fields)"
+        },
+        {
+          "label": "C",
+          "text": "25.4 m"
+        },
+        {
+          "label": "D",
+          "text": "91.4 m"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#3 | pages 6-7",
+      "quality_flag": "candidate",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> 30.5 m (Appendix B, F:Disposal Fields)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Separationdistanceofseepagepitexcavationfromthe watertable",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1. 0 m"
+        },
+        {
+          "label": "B",
+          "text": "2. 0 m"
+        },
+        {
+          "label": "C",
+          "text": "3. 0 m"
+        },
+        {
+          "label": "D",
+          "text": "6. 0 m"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "S",
+      "explanation_long": "S 1.0 m 2.0m 3.0 m(Appendix B, C; rea of Disposal Fields and epage Pits) 6.0 m No excavation for a leach line or leach bed shall extend within 1.5 m of the water table nor toa depth| where sewage may contaminate the underground water stratum that is usable for domestic purposes. Exceptions: In areas where the records or data indicate that the ground waters are grossly degraded, the 1.5 m separation requirement may be reduced by the Administrative Authority. The applicant shall supply evidence of ground water depth to the satisfaction of the Administrative Authority. For leach beds The minimum required area of porous formation shall be provided in one or more seepage pits. No excavation shall extend within 3 m of the water table nor to a depth where sewage may contaminate underground water stratum that is usable tor domestic purposes. For seepage pits",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#4 | pages 8-9",
+      "quality_flag": "candidate",
+      "source_pages": [
+        8,
+        9
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "A pipe fitting with adjacent reverse bends and shaped like the letter “S”",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S-Fitting"
+        },
+        {
+          "label": "B",
+          "text": "Offset Fitting"
+        },
+        {
+          "label": "C",
+          "text": "Slant Fitting"
+        },
+        {
+          "label": "D",
+          "text": "Double-Bend Fitting"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "(Chapter 2, Definition of Terms)",
+      "explanation_long": "(Chapter 2, Definition of Terms)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#5 | pages 10-11",
+      "quality_flag": "candidate",
+      "source_pages": [
+        10,
+        11
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "The vertical distance from the \"Grade Line\" to the highest point of the coping of a flat roof or to the top line of a mansard roof or to the average height of the highest gable of a pitch or hip-roof.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "height of building(Chapter 2, Definition of Terms)"
+        },
+        {
+          "label": "B",
+          "text": "branch interval"
+        },
+        {
+          "label": "C",
+          "text": "FFL to Ceiling Line"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#6 | pages 12-13",
+      "quality_flag": "probable",
+      "source_pages": [
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (Chapter 2, Definition of Terms)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "For “Sacrarium\" cupsink at church altar and Baptistries font outlet shall discharge direct to the and not connected to the sanitary drainage system",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sanitary drainage system"
+        },
+        {
+          "label": "B",
+          "text": "Trap"
+        },
+        {
+          "label": "C",
+          "text": "Ground(Chapter 04, Sec 406.2)"
+        },
+        {
+          "label": "D",
+          "text": "Floor Drain"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#7 | pages 14-15-16",
+      "quality_flag": "probable",
+      "source_pages": [
+        14,
+        15,
+        16
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> (Chapter 04, Sec 406.2)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Special-use fixtures may be made of soapstone, chemical stoneware or may be lined with, except:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "lead"
+        },
+        {
+          "label": "B",
+          "text": "copper base alloy"
+        },
+        {
+          "label": "C",
+          "text": "nickel"
+        },
+        {
+          "label": "D",
+          "text": "brass"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "(Chapter 04- Sec 402- Materials- Alternatives)",
+      "explanation_long": "(Chapter 04- Sec 402- Materials- Alternatives) Special-use fixtures may be made of soapstone,| chemical stoneware or may be lined with lead, copper base alloy, nickel-copper alloy, corrosion-resisting steel or other materials especially suited for the use which the fixture is intended.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#8 | pages 17-18",
+      "quality_flag": "candidate",
+      "source_pages": [
+        17,
+        18
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "A air pressure may be substituted for the water test in water systems.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "54.5 kpa"
+        },
+        {
+          "label": "B",
+          "text": "150 psi"
+        },
+        {
+          "label": "C",
+          "text": "344.5 kpa (Chapter 05, Inspection & Testing)"
+        },
+        {
+          "label": "D",
+          "text": "1500 psi"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#9 | pages 19-20",
+      "quality_flag": "probable",
+      "source_pages": [
+        19,
+        20
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> 344.5 kpa (Chapter 05, Inspection & Testing)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "shall be installed before each water-supplied appliance slip joint, supply pipings for non- metallic fixture and appliance.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "fullway gate valve"
+        },
+        {
+          "label": "B",
+          "text": "Control Gate Valve (Chapter 6, Water Supply &"
+        },
+        {
+          "label": "C",
+          "text": "single-control gate valve"
+        },
+        {
+          "label": "D",
+          "text": "check valve"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Distribution)",
+      "explanation_long": "Distribution) Control gate valves shall be installed before each water-supplied appliance slip joint, supply pipings for non-metallic fixture and appliance.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#10 | pages 21-22",
+      "quality_flag": "probable",
+      "source_pages": [
+        21,
+        22
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> Control Gate Valve (Chapter 6, Water Supply &"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "Number of flushometer valves for 53 FU assigned for urinals and similar fixtures.",
+      "choices": [],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#11 | pages 23-24",
+      "quality_flag": "candidate",
+      "source_pages": [
+        23,
+        24
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "ber ofWC allowed on any horizontal branch. m 2. 3",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 (Chapter 7, Excreta Drainage System)"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "6",
+      "explanation_long": "6 Only four (4} water closets or © fixture unit Iraps are allowed on any vertical pipe or stack; and not to exceed threé (3) water closets or six (S) fixiire unit traps on any horizontal branch or drain.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#12 | pages 25-26",
+      "quality_flag": "probable",
+      "source_pages": [
+        25,
+        26
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 3 (Chapter 7, Excreta Drainage System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "1ONAL CONSULTANCY Maximum length for a branch with 65mm diameter",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14 m"
+        },
+        {
+          "label": "B",
+          "text": "26m"
+        },
+        {
+          "label": "C",
+          "text": "unlimited (Chapter 7, Excreta Drainage System)"
+        },
+        {
+          "label": "D",
+          "text": "unlimited"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ".- 45 m",
+      "explanation_long": ".- 45 m",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#13 | pages 27-28-29",
+      "quality_flag": "probable",
+      "source_pages": [
+        27,
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> unlimited (Chapter 7, Excreta Drainage System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Two fixtures set back-to-back, or side-by-side, within the distance allowed between a trap and its vent, may be served by a single vertical drainage pipe, provided that each fixture wastes separately into an approved double fitting, such as having inlet openings at the same level.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "double sanitary tee"
+        },
+        {
+          "label": "C",
+          "text": "aor b (Chapter 7, Excreta Drainage System)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". double wye and 1/8 bend",
+      "explanation_long": ". double wye and 1/8 bend .aorb . none of the above . double wye and 1/8 bend . none of the above",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#14 | pages 30-31-32",
+      "quality_flag": "probable",
+      "source_pages": [
+        30,
+        31,
+        32
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> aor b (Chapter 7, Excreta Drainage System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Horizontal drainage lines connecting with other horizontal drainage line shall enter through, except:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45 deg wye branches"
+        },
+        {
+          "label": "B",
+          "text": "combination wye and 1/8 bend branches"
+        },
+        {
+          "label": "C",
+          "text": "60 deg wye branches (Chapter 7, Excreta Drainage"
+        },
+        {
+          "label": "D",
+          "text": "approved fittings of equivalent sweep"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "System)",
+      "explanation_long": "System) Horizontal drainage lines connecting with other horizontal drainage line shall enter through forty-five degree wye branches, combination wye and one-eight bend branches or other approved fittings of equivalent sweep.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#15 | pages 33-34-35",
+      "quality_flag": "probable",
+      "source_pages": [
+        33,
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (Chapter 7, Excreta Drainage"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "The minimum size of any pump discharge or any discharge pipe from a sump having a water closet connected thereto shall not be less’ than diameter.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "lin"
+        },
+        {
+          "label": "C",
+          "text": "3 in"
+        },
+        {
+          "label": "D",
+          "text": "4 in"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 2 in",
+      "explanation_long": ". 2 in",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#16 | pages 36-37",
+      "quality_flag": "candidate",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "The top of the deep seal trap of condensers or sumps' shall have a mm diameter opening located at the highest point of the trap to serve as a siphon breaker",
+      "choices": [
+        {
+          "label": "A",
+          "text": "13 mm 19 mm diameter opening located at the highest point of the trap to serve as a siphon breaker."
+        },
+        {
+          "label": "B",
+          "text": "19 mm (Chapter 8, Indirect Waste Piping, Wet-vented"
+        },
+        {
+          "label": "C",
+          "text": "21 mm"
+        },
+        {
+          "label": "D",
+          "text": "25 mm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Systems and Special Wastes)",
+      "explanation_long": "Systems and Special Wastes) extending to within 152 mm of the bottom of the tank. The fop/of the deep seal trap shall have",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#17 | pages 38-39",
+      "quality_flag": "candidate",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "Wet venting is limited to vertical drainage piping receiving the discharge from the trap arm of .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "| FU"
+        },
+        {
+          "label": "B",
+          "text": "2 FU"
+        },
+        {
+          "label": "C",
+          "text": "aand b (Chapter 8, Indirect Waste Piping, Wet-vented"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ".aandb",
+      "explanation_long": ".aandb Systems and Special Wastes)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#18 | pages 40-41",
+      "quality_flag": "candidate",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Fraction of the total permitted length of any vent installed in a horizontal position.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1/3 (Chapter 10, Traps and Interceptors)"
+        },
+        {
+          "label": "B",
+          "text": "1/2"
+        },
+        {
+          "label": "C",
+          "text": "1/4"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". Same size",
+      "explanation_long": ". Same size Cc. ] / 4 The size of vent piping shall be determined from its length and the total number of fixture units . connected thereto, as set forth in Table 7-5. The diameter of an individual vent shall not be less d c S ame sIze than one and one-fourth (1-1/4) inches (32 mm) nor less than one-half (1/2) the diameter of the drain to which it is connected. In addition, the drainage piping of each building and each connection to a public sewer or a private sewage disposal system shall be vented by means of Section 910 — SIZE OF VENTS one or more vent pipes, the aggregate cross-sectional area of which shall not be less than that of the largest required building sewer as determined from Table 7-5, page 88. No more than one-third (1/3) of the total permitted length, per Table 7-5 of any minimum sized vent shall be installed in a horizontal position.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#20 | pages 45-46",
+      "quality_flag": "probable",
+      "source_pages": [
+        45,
+        46
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 1/3 (Chapter 10, Traps and Interceptors)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "The sand interceptor shall have a minimum dimension of for the net free opening of the inlet section and a minimum depth under the invert of the outlet pipe of 610 mm. 0.1 sqm 0.3 sqm",
+      "choices": [
+        {
+          "label": "A",
+          "text": "O.1 sqm"
+        },
+        {
+          "label": "B",
+          "text": "0.2 sqm (Chapter 10, Traps and Interceptors)"
+        },
+        {
+          "label": "C",
+          "text": "0.3 sqm"
+        },
+        {
+          "label": "D",
+          "text": "0.4 sqm"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "0.4 sqm",
+      "explanation_long": "0.4 sqm The sand interceptor shall have a minimum dimension of 0.2m? for the net free opening of the inlet section and a minimum depth under the invert of the outlet pipe of 610 mm.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#21 | pages 47-48",
+      "quality_flag": "probable",
+      "source_pages": [
+        47,
+        48
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 0.2 sqm (Chapter 10, Traps and Interceptors)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "Each grease trap shall have an approved water in depth or the diameter of seal of not less than its outlet, whichever is greater",
+      "choices": [
+        {
+          "label": "A",
+          "text": "26 mm"
+        },
+        {
+          "label": "B",
+          "text": "51 mm (Chapter 10, Traps and Interceptors)"
+        },
+        {
+          "label": "C",
+          "text": "64 mm"
+        },
+        {
+          "label": "D",
+          "text": "64 mm"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Each grease trap shall have an approved water seal of not less than 51 mm in depth or the",
+      "explanation_long": "Each grease trap shall have an approved water seal of not less than 51 mm in depth or the diameter of its outlet, whichever is greater.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#22 | pages 49-50",
+      "quality_flag": "probable",
+      "source_pages": [
+        49,
+        50
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 51 mm (Chapter 10, Traps and Interceptors)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "Food waste disposal unit shall be installed on any set of restaurant, commercial or industrial sinks served by a single trap.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "True"
+        },
+        {
+          "label": "B",
+          "text": "False (Chapter 10, Traps and Interceptors)"
+        },
+        {
+          "label": "C",
+          "text": "Maybe"
+        },
+        {
+          "label": "D",
+          "text": "Not stated in the code"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#23 | pages 51-52-53",
+      "quality_flag": "probable",
+      "source_pages": [
+        51,
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> (Chapter 10, Traps and Interceptors)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "The bottom of the conductor draining over the catch basin storm drain or storm sewer is protected from damage by connecting a stronger material such as or cast iron at its lowest section.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Steel Pipe (Chapter 1], Storm and Drainage System)"
+        },
+        {
+          "label": "B",
+          "text": "PVC Pipe"
+        },
+        {
+          "label": "C",
+          "text": "Wrought Iron Pipe"
+        },
+        {
+          "label": "D",
+          "text": "Copper pipe"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Rainwater downspout or conductor located on the exterior side of a low height building",
+      "explanation_long": "Rainwater downspout or conductor located on the exterior side of a low height building d . Co pper p i pe shall be not less than 26 ga. galvanized sheet metal. The bottom of the conductor draining over the catch basin storm drain or storm sewer is protected from damage by connecting a stronger material such as steel pipe or cast iron at its lowest section.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#24 | pages 54-55",
+      "quality_flag": "probable",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (Chapter 1], Storm and Drainage System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Roof drains passing through the roof into the interior of a building shall be made watertight at the roof level by the use of C.l. drain with around the outside of body and placed at mid-depth of the concrete roof slab and the installation of a clamped suitable flashing material around the drain.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "neoprene gasket"
+        },
+        {
+          "label": "B",
+          "text": "integrally-cast waterstop ring (Chapter 1], Storm and Drainage"
+        },
+        {
+          "label": "C",
+          "text": "bituminous rin g Roof drains passing through the roof into the interior of a building shall be made"
+        },
+        {
+          "label": "D",
+          "text": "stainless steel ring"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "System)",
+      "explanation_long": "System) watertight at the roof level by the use of C.I. drain with integrally-cast waterstop ring around the outside of body and placed at mid-depth of the concrete roof slab and the installation of a clamped suitable flashing material around the drain.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#25 | pages 56-57",
+      "quality_flag": "candidate",
+      "source_pages": [
+        56,
+        57
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "When there are vertical wall areas above the roof, portion must be added to the required roof area in computing rainwater piping. For two (2) adjacent walls, add of the total wall areas to the roof area",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "50%"
+        },
+        {
+          "label": "C",
+          "text": "35% (Chapter II, Storm and Drainage System)"
+        },
+        {
+          "label": "D",
+          "text": "none"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "»- None",
+      "explanation_long": "»- None",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#26 | pages 58-59-60",
+      "quality_flag": "probable",
+      "source_pages": [
+        58,
+        59,
+        60
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 35% (Chapter II, Storm and Drainage System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "No rain surface or subsurface waters shall be connected to or discharged into any excreta drainage system, unless first approved by the Administrative Authority.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "True (Chapter 12, House Drains and House Sewers)"
+        },
+        {
+          "label": "B",
+          "text": "False"
+        },
+        {
+          "label": "C",
+          "text": "Maybe"
+        },
+        {
+          "label": "D",
+          "text": "Not stated in the code"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "No rain, surface or subsurface waters shall be connected to or discharged into any excreta",
+      "explanation_long": "No rain, surface or subsurface waters shall be connected to or discharged into any excreta drainage system, unless first approved by the Administrative Authority.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#27 | pages 61-62",
+      "quality_flag": "probable",
+      "source_pages": [
+        61,
+        62
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (Chapter 12, House Drains and House Sewers)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "No building sewer shall be smaller’ than diameter nor less in size than the building drain",
+      "choices": [
+        {
+          "label": "A",
+          "text": "75 mm"
+        },
+        {
+          "label": "B",
+          "text": "1OO mm"
+        },
+        {
+          "label": "C",
+          "text": "125 mm"
+        },
+        {
+          "label": "D",
+          "text": "150 mm (Chapter 12, House Drains and House Sewers)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "The minimum size of any building sewer shall be determined on the basis of the total number",
+      "explanation_long": "The minimum size of any building sewer shall be determined on the basis of the total number of fixture units drained by such sewer, in accordance with Table 12-2. No building sewer shall be smaller than| 150 mm diameter nor less in size than the building drain.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#28 | pages 63-64",
+      "quality_flag": "probable",
+      "source_pages": [
+        63,
+        64
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (Chapter 12, House Drains and House Sewers)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "Pressure test on joints and connections of pipes and fittings in the plumbing system shall required to ensure connections. be",
+      "choices": [
+        {
+          "label": "A",
+          "text": "gas tight"
+        },
+        {
+          "label": "B",
+          "text": "water tight"
+        },
+        {
+          "label": "C",
+          "text": "aor b (Chapter 13, Joints and Connections)"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ".aorb",
+      "explanation_long": ".aorb Pressure test on joints and connections of pipes and fittings in the plumbing system shall be required to ensure gastight and watertight connections.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#29 | pages 65-66",
+      "quality_flag": "candidate",
+      "source_pages": [
+        65,
+        66
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "Medical gas piping is most often joined by",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pressure Lock Connection"
+        },
+        {
+          "label": "B",
+          "text": "Flared Joints"
+        },
+        {
+          "label": "C",
+          "text": "Compression Fittings"
+        },
+        {
+          "label": "D",
+          "text": "Silver Brazes (brazing.com)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Copper to copper joints for medical gas pipe-work are often brazed",
+      "explanation_long": "Copper to copper joints for medical gas pipe-work are often brazed using a silver copper phosphorus brazing filler metal. Aufhauser",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#30 | pages 67-68",
+      "quality_flag": "probable",
+      "source_pages": [
+        67,
+        68
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (brazing.com)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "The size of yoke vent shall be not less in diameter than either the soil stack or the vent stack, whichever is . 7",
+      "choices": [
+        {
+          "label": "A",
+          "text": "bigger"
+        },
+        {
+          "label": "B",
+          "text": "smaller (Chapter 9, Vents and"
+        },
+        {
+          "label": "C",
+          "text": "lesser"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Ventings)",
+      "explanation_long": "Ventings) d ° | arger above the same floor to provide a relief vent. The size of yoke vent shall be not less in diameter than either the soil stack or the vent stack, whichever is smaller]",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#31 | pages 69-70",
+      "quality_flag": "probable",
+      "source_pages": [
+        69,
+        70
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> smaller (Chapter 9, Vents and"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Used as a terminal of the soil branch on each floor",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aerator Deaerator"
+        },
+        {
+          "label": "B",
+          "text": "Deaerator (is located at the base of the stack installed to relieve"
+        },
+        {
+          "label": "C",
+          "text": "Durham (a term used to describe soil or waste system where all"
+        },
+        {
+          "label": "D",
+          "text": "Sovent (a patented combination of drainage and vent system that"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". Sovent",
+      "explanation_long": ". Sovent excessive pressures caused by the vertical flow transitioning to horizontal flow) pipings are of threaded pipe, tubing or other such rigid construction using recessed drainage fittings to correspond to the types of piping) uses a single stack instead of a conventional two- pipe drainage and vent system, introduced by Fritz Sommer)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#32 | pages 71-72-73",
+      "quality_flag": "probable",
+      "source_pages": [
+        71,
+        72,
+        73
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Interceptors for laundry equipment shall prevent the passage of solids with dimension ofor larger.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5.2 mm"
+        },
+        {
+          "label": "B",
+          "text": "6.4 mm"
+        },
+        {
+          "label": "C",
+          "text": "12.7 mm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ".- 9.6 mm",
+      "explanation_long": ".- 9.6 mm Cc Laundry equipment that does not have integral strainers shall discharge into an interceptor having a wire basket or similar device, that is removable for cleaning and that will prevent passage into the drainage system of solids 12.7 mm or larger in maximum dimension, such as string, rags, buttons, or other solid materials detrimental to the public sewerage system. of or",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#33 | pages 74-75",
+      "quality_flag": "candidate",
+      "source_pages": [
+        74,
+        75
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "Refers to the manner of planning the layout and re-routing of the pipes to the point of service.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diese Connection refers tothe mamer of planing recl plus required 1"
+        },
+        {
+          "label": "B",
+          "text": "Direct Connection"
+        },
+        {
+          "label": "C",
+          "text": "Roughing- In"
+        },
+        {
+          "label": "D",
+          "text": "Staking"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "j,yout and re-routing of the pipes to reac 7 he F",
+      "explanation_long": "j,yout and re-routing of the pipes to reac 7 he F 0 ice. All pipelines shoulé be installed as. § hort : as possible. The number of fittings and pi r 7 the threading work can be reduced ia the mi f the plumbing layout was re",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#34 | pages 76-77",
+      "quality_flag": "probable",
+      "source_pages": [
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> Diese Connection refers tothe mamer of planing recl plus required 1"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "All such sumps and receiving tanks shall be automatically discharged and, when rated as “public use\" occupancy, shall be provided with or ejectors arranged to function independently in case of overload or mechanical failure.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "dual pumps (Chapter 1/2, House Drains and House Sewers)"
+        },
+        {
+          "label": "B",
+          "text": "centrifugal pumps"
+        },
+        {
+          "label": "C",
+          "text": "submersible pumps"
+        },
+        {
+          "label": "D",
+          "text": "manhole"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#35 | pages 78-79-80",
+      "quality_flag": "probable",
+      "source_pages": [
+        78,
+        79,
+        80
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (Chapter 1/2, House Drains and House Sewers)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "They shall be iron pipe size (I.P.S.) appropriate weight, except:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Steel"
+        },
+        {
+          "label": "C",
+          "text": "Lead (Chapter 14, Quality and Materials, Plumbing"
+        },
+        {
+          "label": "D",
+          "text": "Copper"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Materials and Referenced Standards)",
+      "explanation_long": "Materials and Referenced Standards) Iron, steel, brass and copper pipes shall be iron pipe size (I.P.S.) with the appropriate weight.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#36 | pages 81-82",
+      "quality_flag": "probable",
+      "source_pages": [
+        81,
+        82
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (Chapter 14, Quality and Materials, Plumbing"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "The developed length between the trap of a water closet or similar fixture measured from the top of closet ring to inner edge of vent shall not exceed .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "| , 0 0 mM (Except for water closets and similar fixtures}"
+        },
+        {
+          "label": "B",
+          "text": "1.50 m TrA"
+        },
+        {
+          "label": "C",
+          "text": "1.80 m"
+        },
+        {
+          "label": "D",
+          "text": "3.00 m 3s"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "(Chapter 10, Traps and Interceptors) =",
+      "explanation_long": "(Chapter 10, Traps and Interceptors) = [3.05] Slope 2% or 20 mny/meter * The developed length between the trap of a water closet or similar fixture measured from the top of closet rimg (closet flange} to inner edge of vent shall not exceed 1.8 meters,",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#37 | pages 83-84",
+      "quality_flag": "candidate",
+      "source_pages": [
+        83,
+        84
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "Minimum horizontal distance between water supply wells and disposal field.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15.2 m"
+        },
+        {
+          "label": "B",
+          "text": "osm"
+        },
+        {
+          "label": "C",
+          "text": "30.5 m (Appendix B, Location of Sewage Disposal System)"
+        },
+        {
+          "label": "D",
+          "text": "45.7 m"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ".- 45.7 m",
+      "explanation_long": ".- 45.7 m",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#38 | pages 85-86",
+      "quality_flag": "candidate",
+      "source_pages": [
+        85,
+        86
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 30.5 m (Appendix B, Location of Sewage Disposal System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Sterilizers shall be drained through a/an .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airbreak"
+        },
+        {
+          "label": "B",
+          "text": "Airgap (Chapter 8, Indirect Waste Piping, Wet-"
+        },
+        {
+          "label": "C",
+          "text": "Indirect Waste"
+        },
+        {
+          "label": "D",
+          "text": "Waste Pipe full airgap"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "vented Systems and Special Wastes)",
+      "explanation_long": "vented Systems and Special Wastes) Appliances, devices or apparatus such as stills, sterilizers|jand similar equipment requiring water and waste and used for sterile materials shall be drained through an airgap. cooling and air conditioning equipment air break all food equipment stills, sterilizers and similar equipment",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#39 | pages 87-88",
+      "quality_flag": "candidate",
+      "source_pages": [
+        87,
+        88
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Faucet holes for laundry sink typically has a . 4” spread",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4 ” spread"
+        },
+        {
+          "label": "B",
+          "text": "6\" spread S"
+        },
+        {
+          "label": "C",
+          "text": "8 ” spread"
+        },
+        {
+          "label": "D",
+          "text": "1 0 ” spread"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 8\" spread",
+      "explanation_long": ". 8\" spread 4 \" spread 8 \" spread",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#40 | pages 89-90",
+      "quality_flag": "candidate",
+      "source_pages": [
+        89,
+        90
+      ],
+      "extraction_methods": [
+        "ocr",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "The wall thickness of a pipe is determined by .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dividing the inside diameter to the outside diameter"
+        },
+        {
+          "label": "B",
+          "text": "Adding the inside and outside diameter"
+        },
+        {
+          "label": "C",
+          "text": "Subtracting the inside diameter from outside diameter"
+        },
+        {
+          "label": "D",
+          "text": "Subtracting the inside diameter from outside diameter"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "and dividing the difference by two",
+      "explanation_long": "and dividing the difference by two diameter and dividing the difference by two",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#41 | pages 91-92",
+      "quality_flag": "candidate",
+      "source_pages": [
+        91,
+        92
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "The size of access panel that would be used for a concealed slip joint connection.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "\"x8\""
+        },
+        {
+          "label": "B",
+          "text": "10%x10\""
+        },
+        {
+          "label": "C",
+          "text": "12x12\" (Chapter 4, Plumbing Fixtures)"
+        },
+        {
+          "label": "D",
+          "text": "15\"x15\""
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#42 | pages 93-94-95",
+      "quality_flag": "probable",
+      "source_pages": [
+        93,
+        94,
+        95
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> 12x12\" (Chapter 4, Plumbing Fixtures)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "The sizing data for vertical conductors, leaders and drains is based on the pipes flowing",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1/3 full"
+        },
+        {
+          "label": "C",
+          "text": "% full"
+        },
+        {
+          "label": "D",
+          "text": "7/24 full (Chapter 1], Storm and Drainage System)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": ". % full",
+      "explanation_long": ". % full om 1/3 full . & full % full 1. The sizing data for vertical conductors, leaders, and drains is based on the pipes flowing 7/24 full",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#453 | pages 96-97",
+      "quality_flag": "probable",
+      "source_pages": [
+        96,
+        97
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (Chapter 1], Storm and Drainage System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "D",
+          "text": "FU capacity for a 6” diameter stack"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 48",
+      "explanation_long": ". 48 . 256 . 600 . 1580 . 48 . 256 . 600 - 1380 (Chapter 7, Excreta Drainage System)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#44 | pages 98-99-100",
+      "quality_flag": "candidate",
+      "source_pages": [
+        98,
+        99,
+        100
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Grease retention capacity of a 76 Ipm rated flow grease trap",
+      "choices": [
+        {
+          "label": "A",
+          "text": "18 kg 23 kg 5 kg"
+        },
+        {
+          "label": "C",
+          "text": "32 kg"
+        },
+        {
+          "label": "D",
+          "text": "45 kg"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 23 kg",
+      "explanation_long": ". 23 kg 32 kg TABLE 10-2 Grease Traps Capacity Required Rate of Flow Grease Ketention Liters pet Minute apact iouram",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#45 | pages 101-102",
+      "quality_flag": "candidate",
+      "source_pages": [
+        101,
+        102
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "Extensionofventstackabovetheroof",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.5’ (l5cm; Chapter 9, Vents and Venting)"
+        },
+        {
+          "label": "B",
+          "text": "1 2 ”"
+        },
+        {
+          "label": "C",
+          "text": "1 5 ”"
+        },
+        {
+          "label": "D",
+          "text": "1 0 ’"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Each vent pipe or stack through roof (SVTR) shall extend its flashing all around and the stack",
+      "explanation_long": "Each vent pipe or stack through roof (SVTR) shall extend its flashing all around and the stack vent shall terminate vertically not less than 15 cm above the roof nor less than 0.3 meter from any vertical surface nearby.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#46 | pages 103-104",
+      "quality_flag": "probable",
+      "source_pages": [
+        103,
+        104
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 0.5’ (l5cm; Chapter 9, Vents and Venting)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "The owner shall make and keep permanent record of the location of all the pipings and venting containing . hot water",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Toxic wastes"
+        },
+        {
+          "label": "B",
+          "text": "special wastes"
+        },
+        {
+          "label": "C",
+          "text": "chemical wastes"
+        },
+        {
+          "label": "D",
+          "text": "chemical wastes"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "(Chapter 8,Ilndirect Waste Piping, Wet-vented Systems and",
+      "explanation_long": "(Chapter 8,Ilndirect Waste Piping, Wet-vented Systems and Special Wastes) The owner shall make and keep a permanent record of the location of all pipings and venting carrving chemical waste.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#47 | pages 105-106",
+      "quality_flag": "candidate",
+      "source_pages": [
+        105,
+        106
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "Velocities of water shall not exceed of the maximum values’ given in the appropriate installation Standard, except as’ otherwise approved by the Administrative Authority.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1m/s"
+        },
+        {
+          "label": "B",
+          "text": "2 m/s"
+        },
+        {
+          "label": "D",
+          "text": "4 m/s"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "ce. 3 m/s (Appendix A, Recommended Rules for Sizing the",
+      "explanation_long": "ce. 3 m/s (Appendix A, Recommended Rules for Sizing the Water Supply System) Velocities shall not exceed 3 m/sec of the maximum values given in the appropriate installation Standard, except as otherwise approved by the Administrative Authority.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#48 | pages 107-108",
+      "quality_flag": "candidate",
+      "source_pages": [
+        107,
+        108
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "All concrete septic tanks shall be protected from corrosion by coating with an approved orby other acceptable means",
+      "choices": [
+        {
+          "label": "A",
+          "text": "steel casing"
+        },
+        {
+          "label": "B",
+          "text": "bituminous coating (Appendix B, Private Sewage Disposal"
+        },
+        {
+          "label": "C",
+          "text": "concrete putty"
+        },
+        {
+          "label": "D",
+          "text": "concrete putty"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "bituminous coating",
+      "explanation_long": "bituminous coating System) All concrete septic tanks| Shall be protected from corrosion by coating with an approved bituminous coating or by other acceptable means. The coating shall extend to at least 101.6 mm below the water line and shall cover all of the internal area above that point.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#49 | pages 109-110",
+      "quality_flag": "candidate",
+      "source_pages": [
+        109,
+        110
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-06-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "» Pipes installed to provide flow of air to or from a drainage system or to provide a circulation of air within such system to protect traps seals from siphonage and back pressure.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vent Pipes (a pipe or opening used for ensuring the circulation of air"
+        },
+        {
+          "label": "B",
+          "text": "Vacuum Breakers (device or means to prevent flow of liquid from"
+        },
+        {
+          "label": "C",
+          "text": "Vent System"
+        },
+        {
+          "label": "D",
+          "text": "Vent Stack (the vertical vent pipe installed primarily for providing"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "in a plumbing system and for relieving the negative pressure exerted on",
+      "explanation_long": "in a plumbing system and for relieving the negative pressure exerted on trap seals) returning to the source of supply) circulation of air to and from any part of the soil, waste of the drainage system)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#50 | pages 111-112",
+      "quality_flag": "probable",
+      "source_pages": [
+        111,
+        112
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> Vacuum Breakers (device or means to prevent flow of liquid from"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

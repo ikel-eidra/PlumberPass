@@ -1,0 +1,4402 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "probable": 4,
+      "review": 100
+    },
+    "notes": [],
+    "source_slug": "tables__plumbing-tables-jam",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\3. PLUMBING TABLES by JAM.pdf",
+    "material_group": "tables",
+    "converter": "facts",
+    "generated_at": "2026-03-21T13:09:48.092939+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "Reference extraction needs filtering before publication"
+    ]
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-dfd471fb1002",
+      "topic": "Plumbing Tables",
+      "subtopic": "R |",
+      "front": "What is the equivalent of Ic | |?",
+      "back": "lw _ | w_|",
+      "explanation_short": "lw _ | w_|",
+      "explanation_long": "Ic | | = lw _ | w_|",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "r",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.1 | R |",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-dd1ad302c6ce",
+      "topic": "Plumbing Tables",
+      "subtopic": "Refrigeration Waste",
+      "front": "What is the equivalent of Size tint Area (m2)?",
+      "back": "4to 5 12 76 13 to 36",
+      "explanation_short": "4to 5 12 76 13 to 36",
+      "explanation_long": "Size tint Area (m2) = 4to 5 12 76 13 to 36",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "refrigeration-waste",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.2 | Refrigeration Waste",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-933b6a14315f",
+      "topic": "Plumbing Tables",
+      "subtopic": "N",
+      "front": "What is Sizing of Blow-off Condensers = Sumps?",
+      "back": "Water oust (mm)",
+      "explanation_short": "Water oust (mm)",
+      "explanation_long": "Water oust (mm)",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "n",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.2 | N",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-516c615a3a65",
+      "topic": "Plumbing Tables",
+      "subtopic": "Horizontal Piping",
+      "front": "What is CattronSoilPipe |?",
+      "back": "Suspended 1.5m ; 3m if greater 1.5m",
+      "explanation_short": "Suspended 1.5m ; 3m if greater 1.5m",
+      "explanation_long": "Suspended 1.5m ; 3m if greater 1.5m",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "horizontal-piping",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.3 | Horizontal Piping",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-6a1bc3c4044e",
+      "topic": "Plumbing Tables",
+      "subtopic": "Bm Sscs",
+      "front": "What is Simm 3m?",
+      "back": "Stiff metal or Wooden backing for entire length | 38mm —SsS=sS[ Stiff metal or Wooden backing",
+      "explanation_short": "Stiff metal or Wooden backing for entire length | 38mm —SsS=sS[ Stiff metal or Wooden backing",
+      "explanation_long": "Stiff metal or Wooden backing for entire length | 38mm —SsS=sS[ Stiff metal or Wooden backing",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "bm-sscs",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.3 | Bm Sscs",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-bd35d7ffd25d",
+      "topic": "Plumbing Tables",
+      "subtopic": "JAM Tables",
+      "front": "What is 11s?",
+      "back": "‘Over 55, add 1 fixture for",
+      "explanation_short": "‘Over 55, add 1 fixture for",
+      "explanation_long": "‘Over 55, add 1 fixture for",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-716705b5ada0",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "front": "What is Over 400, ad 1 fixture?",
+      "back": "for (Over 85, odd | fixture for each sdditivnal 40 persons",
+      "explanation_short": "for (Over 85, odd | fixture for each sdditivnal 40 persons",
+      "explanation_long": "for (Over 85, odd | fixture for each sdditivnal 40 persons",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-47112dc64d6f",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "front": "What is Over $6, add I fixture?",
+      "back": "for | Add 1 fixture each aklivonal 40 persons 1201-400 its ow 216-35 | 1, 10-50 3655,",
+      "explanation_short": "for | Add 1 fixture each aklivonal 40 persons 1201-400 its ow 216-35 | 1, 10-50 3655,",
+      "explanation_long": "for | Add 1 fixture each aklivonal 40 persons 1201-400 its ow 216-35 | 1, 10-50 3655,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5be74d42ddcd",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "front": "What is Fi Lvl Lio?",
+      "back": "persons ‘cach 15 persons, ae er 2M 21125 ‘exposd to 326-0 326-50 ‘Over 100, L per 1S cencessive heat : 45175 45175 vpenony”® ort skin",
+      "explanation_short": "persons ‘cach 15 persons, ae er 2M 21125 ‘exposd to 326-0 326-50 ‘Over 100, L per 1S cencessive heat : 45175 45175 vpenony”® ort skin",
+      "explanation_long": "persons ‘cach 15 persons, ae er 2M 21125 ‘exposd to 326-0 326-50 ‘Over 100, L per 1S cencessive heat : 45175 45175 vpenony”® ort skin",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-696ff6b05fe2",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "front": "What is Male Female 5.610) 576-100 cootaminstion?",
+      "back": "Over 100, al 1 fixture for with poisonous, cach additioun! 30 persons infectious, oF iitating 4",
+      "explanation_short": "Over 100, al 1 fixture for with poisonous, cach additioun! 30 persons infectious, oF iitating 4",
+      "explanation_long": "Over 100, al 1 fixture for with poisonous, cach additioun! 30 persons infectious, oF iitating 4",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-08d59ef42dd8",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "front": "What is MospitlsorPenal }2 16-35 3.1635 |?",
+      "back": "Unstituson (on each | 336-55 4: 36-55 each i ‘Over 750, add | fisture for ‘eccupied Moor) for | Over $5, ad | fixture for | additonal $0 } cach additional $¢0 conployce use _| cach aliivonal 40 perons | males ‘Office or Public Mac Feule’ 11-100 Male",
+      "explanation_short": "Unstituson (on each | 336-55 4: 36-55 each i ‘Over 750, add | fisture for ‘eccupied Moor) for | Over $5, ad | fixture for | additonal $0 } cach additional $¢0 conployce use _| cach",
+      "explanation_long": "Unstituson (on each | 336-55 4: 36-55 each i ‘Over 750, add | fisture for ‘eccupied Moor) for | Over $5, ad | fixture for | additonal $0 } cach additional $¢0 conployce use _| cach aliivonal 40 perons | males ‘Office or Public Mac Feule’ 11-100 Male",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-237668b7ad7a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "front": "What is Over 060,?",
+      "back": "add | Over 750, add | foxtae for",
+      "explanation_short": "add | Over 750, add | foxtae for",
+      "explanation_long": "add | Over 750, add | foxtae for",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1e879fb25ea4",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is Office w Public | Wale Fea 0. 19 Wale Female 2 a +?",
+      "back": "L 400 wales",
+      "explanation_short": "L 400 wales",
+      "explanation_long": "L 400 wales",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-66526df8cba5",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is Buikdings—For thts 1115 11050 I?",
+      "back": "per40 L per 40 enployee use 2 1635 3163s Add | fixtwre 336-55 4 655 for each",
+      "explanation_short": "per40 L per 40 enployee use 2 1635 3163s Add | fixtwre 336-55 4 655 for each",
+      "explanation_long": "per40 L per 40 enployee use 2 1635 3163s Add | fixtwre 336-55 4 655 for each",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-fdef0d49171c",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is I Over 55,?",
+      "back": "edd | fisture for} mhduional 80 cach wbditionnl 40 perros, males,",
+      "explanation_short": "edd | fisture for} mhduional 80 cach wbditionnl 40 perros, males,",
+      "explanation_long": "edd | fisture for} mhduional 80 cach wbditionnl 40 perros, males,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7c92500d0000",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is Feremployoe use | 1-15?",
+      "back": "fe tetS 1 1050 U per 1b pera !",
+      "explanation_short": "fe tetS 1 1050 U per 1b pera !",
+      "explanation_long": "fe tetS 1 1050 U per 1b pera !",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-58725b907743",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is [Penal instranon —?",
+      "back": "iat r Prison use tock Boe",
+      "explanation_short": "iat r Prison use tock Boe",
+      "explanation_long": "iat r Prison use tock Boe",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b1d03b6dee50",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is Call Tpe?",
+      "back": "cell 1 per cell Ipe",
+      "explanation_short": "cell 1 per cell Ipe",
+      "explanation_long": "cell 1 per cell Ipe",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-394ed12148c2",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is Exercise Room | 1?",
+      "back": "per exercise room per exercise | 1 per exercise 0m exenise | 09m 1 fom",
+      "explanation_short": "per exercise room per exercise | 1 per exercise 0m exenise | 09m 1 fom",
+      "explanation_long": "per exercise room per exercise | 1 per exercise 0m exenise | 09m 1 fom",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3360f33b2574",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is Over 300, 1 fixture?",
+      "back": "for ‘each alditional 200",
+      "explanation_short": "for ‘each alditional 200",
+      "explanation_long": "for ‘each alditional 200",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d7f860dda43b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "front": "What is Over 190, a8 11-180 1. L189?",
+      "back": "Vfixtwe for | 2.151-200 2. 151-200 ‘cach itonal | 3201-100 3. 201-400 u",
+      "explanation_short": "Vfixtwe for | 2.151-200 2. 151-200 ‘cach itonal | 3201-100 3. 201-400 u",
+      "explanation_long": "Vfixtwe for | 2.151-200 2. 151-200 ‘cach itonal | 3201-100 3. 201-400 u",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-9ef561348615",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jms 436 55",
+      "front": "What is Over $5, ad 1 fixture?",
+      "back": "for Fyerte pero each nidiuonal 40 persons",
+      "explanation_short": "for Fyerte pero each nidiuonal 40 persons",
+      "explanation_long": "for Fyerte pero each nidiuonal 40 persons",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jms-436-55",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jms 436 55",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b87d846dce03",
+      "topic": "Plumbing Tables",
+      "subtopic": "Male Female",
+      "front": "What is bbis0 1125 2 226-50?",
+      "back": "Over 30, add | fixture for exh oddinenat 50 1 Water Closet",
+      "explanation_short": "Over 30, add | fixture for exh oddinenat 50 1 Water Closet",
+      "explanation_long": "Over 30, add | fixture for exh oddinenat 50 1 Water Closet",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "male-female",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Male Female",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2b3c4439ea70",
+      "topic": "Plumbing Tables",
+      "subtopic": "Paskd Female (dormitory)",
+      "front": "What is Male ernale?",
+      "back": "Tprto per 0 person (Hospital - indiviudal Room) 1 Water Closet 7",
+      "explanation_short": "Tprto per 0 person (Hospital - indiviudal Room) 1 Water Closet 7",
+      "explanation_long": "Tprto per 0 person (Hospital - indiviudal Room) 1 Water Closet 7",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "paskd-female-dormitory",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Paskd Female (dormitory)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d345e60d3f74",
+      "topic": "Plumbing Tables",
+      "subtopic": "Paskd Female (dormitory)",
+      "front": "What is T paras T?",
+      "back": "per water closets 1 i per 7s 2126-250 2: 76125 4126-250",
+      "explanation_short": "per water closets 1 i per 7s 2126-250 2: 76125 4126-250",
+      "explanation_long": "per water closets 1 i per 7s 2126-250 2: 76125 4126-250",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "paskd-female-dormitory",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Paskd Female (dormitory)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1b041d986e8a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Paskd Female (dormitory)",
+      "front": "What is Make Temaic™ Tp 130 T?",
+      "back": "pad weir doe jae Sper 150__t pes 75 “Shesever unnals are provided, one (1) waler Closet is subtracted from the number specified on the table, exe that the number of water closets in such cases shall not be reduced to less than (wo-therds (2/3) of {$e siximum specified",
+      "explanation_short": "pad weir doe jae Sper 150__t pes 75 “Shesever unnals are provided, one (1) waler Closet is subtracted from the number specified on the table, exe that the number of water closets i",
+      "explanation_long": "pad weir doe jae Sper 150__t pes 75 “Shesever unnals are provided, one (1) waler Closet is subtracted from the number specified on the table, exe that the number of water closets in such cases shall not be reduced to less than (wo-therds (2/3) of {$e siximum specified",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "paskd-female-dormitory",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Paskd Female (dormitory)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c9727a9b0052",
+      "topic": "Plumbing Tables",
+      "subtopic": "Requirement Occupant",
+      "front": "What is {1 Laundry Tray?",
+      "back": "r 1 Automatic Washer Standpipe 1.dwelling 12 Laundry Trays or 2 Automatic Washer Standpipes 10 apartments 1 dwelling or 1 apartment 5 persons (w/ exposure) 1 Water Closet and 1 Urinal 30 temporary workmen ‘1 Drinking Fountain 75 persons",
+      "explanation_short": "r 1 Automatic Washer Standpipe 1.dwelling 12 Laundry Trays or 2 Automatic Washer Standpipes 10 apartments 1 dwelling or 1 apartment 5 persons (w/ exposure) 1 Water Closet and 1 Uri",
+      "explanation_long": "r 1 Automatic Washer Standpipe 1.dwelling 12 Laundry Trays or 2 Automatic Washer Standpipes 10 apartments 1 dwelling or 1 apartment 5 persons (w/ exposure) 1 Water Closet and 1 Urinal 30 temporary workmen ‘1 Drinking Fountain 75 persons",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "requirement-occupant",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Requirement Occupant",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e2d36ba2e8f2",
+      "topic": "Plumbing Tables",
+      "subtopic": "Requirement Occupant",
+      "front": "What is Additional 1 Drinking Fountain 150?",
+      "back": "persons 1 Bathub or Shower",
+      "explanation_short": "persons 1 Bathub or Shower",
+      "explanation_long": "persons 1 Bathub or Shower",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "requirement-occupant",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Requirement Occupant",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1e5ee8c8fbb5",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Estimated Waste/Sewa;?",
+      "back": "Because of the many variables encountered, it is not possible to set absolute values for waste/sewaye Now rates for all situations. The designer should evaluate each this table need modification, they should be made with the concurrence of the Administrative Authority",
+      "explanation_short": "Because of the many variables encountered, it is not possible to set absolute values for waste/sewaye Now rates for all situations. The designer should evaluate each this table nee",
+      "explanation_long": "Because of the many variables encountered, it is not possible to set absolute values for waste/sewaye Now rates for all situations. The designer should evaluate each this table need modification, they should be made with the concurrence of the Administrative Authority",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-73483ddd1bbb",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Airports 56.8?",
+      "back": "per employee 18.9 per passenger",
+      "explanation_short": "per employee 18.9 per passenger",
+      "explanation_long": "per employee 18.9 per passenger",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-79aaa4243ef4",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Bowling alleys (snack bar only) 283 9 per lane?",
+      "back": "Auto washers Check with equipment manufacturer",
+      "explanation_short": "Auto washers Check with equipment manufacturer",
+      "explanation_long": "Auto washers Check with equipment manufacturer",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5654d5232c92",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is ‘Campground with central comfort station 132 5 per person?",
+      "back": "Camps",
+      "explanation_short": "Camps",
+      "explanation_long": "Camps",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-75048c4ba647",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Day camps (no?",
+      "back": "meals served) 56.8 per person",
+      "explanation_short": "meals served) 56.8 per person",
+      "explanation_long": "meals served) 56.8 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-41478a8f1554",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Summer and?",
+      "back": "seasonal. 189 3 per person",
+      "explanation_short": "seasonal. 189 3 per person",
+      "explanation_long": "seasonal. 189 3 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b5316d32d7d3",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is With kitchen waste 26.5 per seat?",
+      "back": "Churches (Sanctuary) 18.9 per seat",
+      "explanation_short": "Churches (Sanctuary) 18.9 per seat",
+      "explanation_long": "Churches (Sanctuary) 18.9 per seat",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-67746f0e4455",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Factories?",
+      "back": "No showers 94.6 per employee",
+      "explanation_short": "No showers 94.6 per employee",
+      "explanation_long": "No showers 94.6 per employee",
+      "tags": [
+        "plumbing-tables",
+        "law-summary",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3d5619ce902e",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Cafeteria, add 18.9 per employce?",
+      "back": "With showers 132.5 per emplovee",
+      "explanation_short": "With showers 132.5 per emplovee",
+      "explanation_long": "With showers 132.5 per emplovee",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-bd5b2a43e54b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Kitchen waste only 4 © per bed?",
+      "back": "Hospitals 9463 per bod",
+      "explanation_short": "Hospitals 9463 per bod",
+      "explanation_long": "Hospitals 9463 per bod",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-77458e0aa20f",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Hotels (no?",
+      "back": "kitchen waste) 227.1 per bed (2 persony",
+      "explanation_short": "kitchen waste) 227.1 per bed (2 persony",
+      "explanation_long": "kitchen waste) 227.1 per bed (2 persony",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-9fa50b97507a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Institutions (Residents,?",
+      "back": "Nursing home 473.1 per person",
+      "explanation_short": "Nursing home 473.1 per person",
+      "explanation_long": "Nursing home 473.1 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-adf944f2c4af",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Laundries, self-service (minimum 10 hours per dey) ¥ 189.3 per wash cycle?",
+      "back": "Rest home f 473.1 per person",
+      "explanation_short": "Rest home f 473.1 per person",
+      "explanation_long": "Rest home f 473.1 per person",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-733e99c75b79",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is OMICS eee eee cence en eeeee 75.7 per employee?",
+      "back": "With kitchen 227.1 per bed space",
+      "explanation_short": "With kitchen 227.1 per bed space",
+      "explanation_long": "With kitchen 227.1 per bed space",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-dd2636b8ab56",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Parks, mobile?",
+      "back": "homes cose se 946.3 per space",
+      "explanation_short": "homes cose se 946.3 per space",
+      "explanation_long": "homes cose se 946.3 per space",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4b9aa4a8c312",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Picnic parks (toilets?",
+      "back": "nly) 75.7 per parking space recreational vehicles ~ without hook-up é 283.9 per space with water and sewer hook-up. . 378.5 per space",
+      "explanation_short": "nly) 75.7 per parking space recreational vehicles ~ without hook-up é 283.9 per space with water and sewer hook-up. . 378.5 per space",
+      "explanation_long": "nly) 75.7 per parking space recreational vehicles ~ without hook-up é 283.9 per space with water and sewer hook-up. . 378.5 per space",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-71f6c81ba2b7",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Restaurants ~?",
+      "back": "cafeterias . 75.7 per employee",
+      "explanation_short": "cafeterias . 75.7 per employee",
+      "explanation_long": "cafeterias . 75.7 per employee",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-79f8f4d15cd1",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Kitchen waste i 22.7 per meal?",
+      "back": "Toilet 26.5 per customer",
+      "explanation_short": "Toilet 26.5 per customer",
+      "explanation_long": "Toilet 26.5 per customer",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-cfbb1b49bb0d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Add for?",
+      "back": "garbage disposal 3.8 per meal",
+      "explanation_short": "garbage disposal 3.8 per meal",
+      "explanation_long": "garbage disposal 3.8 per meal",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f9c5894a4b96",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Add for?",
+      "back": "cocktail lounge 7.6 per customer",
+      "explanation_short": "cocktail lounge 7.6 per customer",
+      "explanation_long": "cocktail lounge 7.6 per customer",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-a6e9d399b5fc",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Disposable service?",
+      "back": "Schools - Staf'and office 75.7 per person",
+      "explanation_short": "Schools - Staf'and office 75.7 per person",
+      "explanation_long": "Schools - Staf'and office 75.7 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-64cc174468d2",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Intermediate and high \" 75.7 per student?",
+      "back": "Flementary students 56.8 per person",
+      "explanation_short": "Flementary students 56.8 per person",
+      "explanation_long": "Flementary students 56.8 per person",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7a54930d9c27",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Service stavion, toilets . 378.5 per person 3785 for I* bay?",
+      "back": "Boarding, total waste",
+      "explanation_short": "Boarding, total waste",
+      "explanation_long": "Boarding, total waste",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-91aa83ec5e55",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Stores *?",
+      "back": "Public restrooms, add f floor space",
+      "explanation_short": "Public restrooms, add f floor space",
+      "explanation_long": "Public restrooms, add f floor space",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4713ede9884c",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Swimming pools,?",
+      "back": "public 37.9 per person ‘Theaters, audwonums 18.9 per seat",
+      "explanation_short": "public 37.9 per person ‘Theaters, audwonums 18.9 per seat",
+      "explanation_long": "public 37.9 per person ‘Theaters, audwonums 18.9 per seat",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ddbd1e0502d3",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Drive-in 37.9?",
+      "back": "per space __ ja) Recommended Design Grier Rien disposal en ‘sizes. “using ul estimated waste/sewage flow rates should be calculated as follows: (}) Waste/sewage flow, up to $677.5 Liday",
+      "explanation_short": "per space __ ja) Recommended Design Grier Rien disposal en ‘sizes. “using ul estimated waste/sewage flow rates should be calculated as follows: (}) Waste/sewage flow, up to $677.5 ",
+      "explanation_long": "per space __ ja) Recommended Design Grier Rien disposal en ‘sizes. “using ul estimated waste/sewage flow rates should be calculated as follows: (}) Waste/sewage flow, up to $677.5 Liday",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-df0bf48514ca",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Flow x 1.5 ©?",
+      "back": "septic tank size",
+      "explanation_short": "septic tank size",
+      "explanation_long": "septic tank size",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-cd2a1f8b4cde",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "front": "What is Flow x 0.75 + 1125 © septic tank size (3) Scoondary system shall be sized for total flow per 24 hours {b} _Also see Section B 2 of this A, see ie wna nthe ee?",
+      "back": "(2) Waste/sewage flow, over 5677.5 Liday",
+      "explanation_short": "(2) Waste/sewage flow, over 5677.5 Liday",
+      "explanation_long": "(2) Waste/sewage flow, over 5677.5 Liday",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-fe66d4cf51df",
+      "topic": "Plumbing Tables",
+      "subtopic": "Ez Type Of Soit",
+      "front": "What is Le | 3 | Sandy?",
+      "back": "loam or sandy clay",
+      "explanation_short": "loam or sandy clay",
+      "explanation_long": "loam or sandy clay",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "ez-type-of-soit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Ez Type Of Soit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-a08b439b0191",
+      "topic": "Plumbing Tables",
+      "subtopic": "Ez Type Of Soit",
+      "front": "What is Maximum absorption capacity?",
+      "back": "in (Li/sq. m) of leaching area for»",
+      "explanation_short": "in (Li/sq. m) of leaching area for»",
+      "explanation_long": "in (Li/sq. m) of leaching area for»",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "ez-type-of-soit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Ez Type Of Soit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e4fde9cf72b2",
+      "topic": "Plumbing Tables",
+      "subtopic": "Ez Type Of Soit",
+      "front": "What is Required sq.m.?",
+      "back": "f leaching area",
+      "explanation_short": "f leaching area",
+      "explanation_long": "f leaching area",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "ez-type-of-soit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Ez Type Of Soit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b7a1d1df5fec",
+      "topic": "Plumbing Tables",
+      "subtopic": "(w L)",
+      "front": "What is 0.005 0.022 4 | Clay?",
+      "back": "with considerable sand or gravel",
+      "explanation_short": "with considerable sand or gravel",
+      "explanation_long": "with considerable sand or gravel",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "w-l",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | (w L)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-fd0f594e566f",
+      "topic": "Plumbing Tables",
+      "subtopic": "(w L)",
+      "front": "What is Clay with snail amount?",
+      "back": "f sand or gravel",
+      "explanation_short": "f sand or gravel",
+      "explanation_long": "f sand or gravel",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "w-l",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | (w L)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1ddee58f6c60",
+      "topic": "Plumbing Tables",
+      "subtopic": "Sand And Gravel",
+      "front": "What is Example: Assume?",
+      "back": "a 17800 N total thrust was computed. The soil condition is sand. The required bearing area of the thrust block is 17800 N divided by 13780 kPa or 19 m’",
+      "explanation_short": "a 17800 N total thrust was computed. The soil condition is sand. The required bearing area of the thrust block is 17800 N divided by 13780 kPa or 19 m’",
+      "explanation_long": "a 17800 N total thrust was computed. The soil condition is sand. The required bearing area of the thrust block is 17800 N divided by 13780 kPa or 19 m’",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "sand-and-gravel",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Sand And Gravel",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d21c0846e5bb",
+      "topic": "Plumbing Tables",
+      "subtopic": "Septic Tank Capacit",
+      "front": "What is Allowable 28387.5?",
+      "back": "Flushometer Fixture Units for Water Sizing Using Table",
+      "explanation_short": "Flushometer Fixture Units for Water Sizing Using Table",
+      "explanation_long": "Flushometer Fixture Units for Water Sizing Using Table",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "septic-tank-capacit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Septic Tank Capacit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2d218c0bf357",
+      "topic": "Plumbing Tables",
+      "subtopic": "Fixture Categories 4",
+      "front": "What is Fixture Units Assigned?",
+      "back": "for | Fixtures Units Assigned for Water Closets and Similar } Urinals and Similar Fixtures |",
+      "explanation_short": "for | Fixtures Units Assigned for Water Closets and Similar } Urinals and Similar Fixtures |",
+      "explanation_long": "for | Fixtures Units Assigned for Water Closets and Similar } Urinals and Similar Fixtures |",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "fixture-categories-4",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Fixture Categories 4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ab7cacce132f",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "front": "What is Streams 7. Disposal field 8.?",
+      "back": "On site domestic water service linc 9. Distribution box 10. Pressure public water main",
+      "explanation_short": "On site domestic water service linc 9. Distribution box 10. Pressure public water main",
+      "explanation_long": "On site domestic water service linc 9. Distribution box 10. Pressure public water main",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2d92db43db0e",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "front": "What is Note: When?",
+      "back": "disposal fields and/or seepage pits are installed in sloping ground, the minimum horizontal distance between any part of the leaching system and ground surface shalt be 4.6 m",
+      "explanation_short": "disposal fields and/or seepage pits are installed in sloping ground, the minimum horizontal distance between any part of the leaching system and ground surface shalt be 4.6 m",
+      "explanation_long": "disposal fields and/or seepage pits are installed in sloping ground, the minimum horizontal distance between any part of the leaching system and ground surface shalt be 4.6 m",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-9f5d37935906",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "front": "What is 1. Including porches?",
+      "back": "and steps, whether covered or uncovered, breezeways, roofed porte-cocheres, roofed patios, carports, covered walks, covered driveways and!",
+      "explanation_short": "and steps, whether covered or uncovered, breezeways, roofed porte-cocheres, roofed patios, carports, covered walks, covered driveways and!",
+      "explanation_long": "and steps, whether covered or uncovered, breezeways, roofed porte-cocheres, roofed patios, carports, covered walks, covered driveways and!",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-78422f036840",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "front": "What is This distance may be reduced?",
+      "back": "to not less than 76 m when the drainage piping Al constructed of materials approved for use within a building, 4. Plus .6 m for cach additional 3 m of depth in excess of .3 m below the bottom of the drain line, (See also Section B 6), 5. See Section 1208 of this Code",
+      "explanation_short": "to not less than 76 m when the drainage piping Al constructed of materials approved for use within a building, 4. Plus .6 m for cach additional 3 m of depth in excess of .3 m below",
+      "explanation_long": "to not less than 76 m when the drainage piping Al constructed of materials approved for use within a building, 4. Plus .6 m for cach additional 3 m of depth in excess of .3 m below the bottom of the drain line, (See also Section B 6), 5. See Section 1208 of this Code",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-04dc21500e2d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "front": "What is 6. For parallel construction —?",
+      "back": "For crossings, approval by the Administrative",
+      "explanation_short": "For crossings, approval by the Administrative",
+      "explanation_long": "For crossings, approval by the Administrative",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-6dd8294f6923",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "front": "What is Authority shall?",
+      "back": "be required 7. These minimum clear horizontal distances shall also apply between dispose field, seepage pits, and the ocean mean higher high tide line",
+      "explanation_short": "be required 7. These minimum clear horizontal distances shall also apply between dispose field, seepage pits, and the ocean mean higher high tide line",
+      "explanation_long": "be required 7. These minimum clear horizontal distances shall also apply between dispose field, seepage pits, and the ocean mean higher high tide line",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-05967f1a23d5",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "front": "What is RECOMMENDED DESIGN CRITERIA. (formulae?",
+      "back": "may be adapted to ther types of occupancies with similar wastes.)",
+      "explanation_short": "may be adapted to ther types of occupancies with similar wastes.)",
+      "explanation_long": "may be adapted to ther types of occupancies with similar wastes.)",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-6f160bfbb301",
+      "topic": "Plumbing Tables",
+      "subtopic": "Number Of Waste Retention Storage Interceptor",
+      "front": "What is Meals per?",
+      "back": "x flow x time x factor = size (liquid",
+      "explanation_short": "x flow x time x factor = size (liquid",
+      "explanation_long": "x flow x time x factor = size (liquid",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "number-of-waste-retention-storage-interceptor",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Number Of Waste Retention Storage Interceptor",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-242d917cc12f",
+      "topic": "Plumbing Tables",
+      "subtopic": "Number Of Waste Retention Storage Interceptor",
+      "front": "What is Vehicles x?",
+      "back": "flow x time x c s sire (liquid per hour rate capacity)",
+      "explanation_short": "flow x time x c s sire (liquid per hour rate capacity)",
+      "explanation_long": "flow x time x c s sire (liquid per hour rate capacity)",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "number-of-waste-retention-storage-interceptor",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Number Of Waste Retention Storage Interceptor",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-cd44f7d73139",
+      "topic": "Plumbing Tables",
+      "subtopic": "Silt Lint Grease, Laundries, Laundromats",
+      "front": "What is the equivalent of Number of Zeyeles Waste Retention Storage Interceptor machines x per hour x flow x time x Factor?",
+      "back": "size (liquid rate capacity)",
+      "explanation_short": "size (liquid rate capacity)",
+      "explanation_long": "Number of Zeyeles Waste Retention Storage Interceptor machines x per hour x flow x time x Factor = size (liquid rate capacity)",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "silt-lint-grease-laundries-laundromats",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Silt Lint Grease, Laundries, Laundromats",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-8b004ed83e51",
+      "topic": "Plumbing Tables",
+      "subtopic": "Waste Flow Rate",
+      "front": "What is © Single service kitchen?",
+      "back": "a With dishwashing machine",
+      "explanation_short": "a With dishwashing machine",
+      "explanation_long": "a With dishwashing machine",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "waste-flow-rate",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Waste Flow Rate",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-55db8f80be73",
+      "topic": "Plumbing Tables",
+      "subtopic": "Retention Times",
+      "front": "What is Commercial kitchen?",
+      "back": "waste 6 gallon (22.7 L) flow 5 gallon (18.9 L) flow 2 gation (7.6L) flow 1 gallon(3.8E) flow",
+      "explanation_short": "waste 6 gallon (22.7 L) flow 5 gallon (18.9 L) flow 2 gation (7.6L) flow 1 gallon(3.8E) flow",
+      "explanation_long": "waste 6 gallon (22.7 L) flow 5 gallon (18.9 L) flow 2 gation (7.6L) flow 1 gallon(3.8E) flow",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "retention-times",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Retention Times",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1ff981c20ae4",
+      "topic": "Plumbing Tables",
+      "subtopic": "Retention Times",
+      "front": "What is Dishwasher and/or?",
+      "back": "disposal ee . 2.5 hours",
+      "explanation_short": "disposal ee . 2.5 hours",
+      "explanation_long": "disposal ee . 2.5 hours",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "retention-times",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Retention Times",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-514f2fd97ca6",
+      "topic": "Plumbing Tables",
+      "subtopic": "Retention Times",
+      "front": "What is Single serving, with disposal i 1S hours?",
+      "back": "Single service kitchen",
+      "explanation_short": "Single service kitchen",
+      "explanation_long": "Single service kitchen",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "retention-times",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Retention Times",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-304a179cb5c8",
+      "topic": "Plumbing Tables",
+      "subtopic": "Storage Factors",
+      "front": "What is Fully equipped?",
+      "back": "commercial kitchen Shr operation 1, 16 hr. operation. 2;",
+      "explanation_short": "commercial kitchen Shr operation 1, 16 hr. operation. 2;",
+      "explanation_long": "commercial kitchen Shr operation 1, 16 hr. operation. 2;",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "storage-factors",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Storage Factors",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c3be02aa7368",
+      "topic": "Plumbing Tables",
+      "subtopic": "Storage Factors",
+      "front": "What is Auto washers _.,?",
+      "back": "self-serve. 1.5 ~ employee operated = 2",
+      "explanation_short": "self-serve. 1.5 ~ employee operated = 2",
+      "explanation_long": "self-serve. 1.5 ~ employee operated = 2",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "storage-factors",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Storage Factors",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4187632ed950",
+      "topic": "Plumbing Tables",
+      "subtopic": "Storage Factors",
+      "front": "What is Laundries, laundromats 1.5 (allows?",
+      "back": "for rock filter)",
+      "explanation_short": "for rock filter)",
+      "explanation_long": "for rock filter)",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "storage-factors",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Storage Factors",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1fa0689e8964",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "front": "What is Pennsyivama 19103, Publishes Standsrds. ea ‘Tentative Standards, 215-299?",
+      "back": "ing, P.O. Box 40362, Bay 216-835-3040",
+      "explanation_short": "ing, P.O. Box 40362, Bay 216-835-3040",
+      "explanation_long": "ing, P.O. Box 40362, Bay 216-835-3040",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f14259690968",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "front": "What is Representing volvntary standards?",
+      "back": "f trade. prepared under the procezures of the National Bureau of Standards and published by the Umited Ststes |",
+      "explanation_short": "f trade. prepared under the procezures of the National Bureau of Standards and published by the Umited Ststes |",
+      "explanation_long": "f trade. prepared under the procezures of the National Bureau of Standards and published by the Umited Ststes |",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-a531660e978f",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "front": "What is Departarcat of Commerce. Obtainable?",
+      "back": "from Superintendent of Docurierts, |",
+      "explanation_short": "from Superintendent of Docurierts, |",
+      "explanation_long": "from Superintendent of Docurierts, |",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-443116803225",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "front": "What is Federal Specifications, published?",
+      "back": "by the Federal Specifications Board 1",
+      "explanation_short": "by the Federal Specifications Board 1",
+      "explanation_long": "by the Federal Specifications Board 1",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-50896cd1cc9a",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "front": "What is Obtainable from?",
+      "back": "the Superintendent of Decuments, United States",
+      "explanation_short": "the Superintendent of Decuments, United States",
+      "explanation_long": "the Superintendent of Decuments, United States",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5fc79c490662",
+      "topic": "Plumbing Tables",
+      "subtopic": "Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "front": "What is International Association?",
+      "back": "f Plumbing and Mechanical Ofticic!s. 2001",
+      "explanation_short": "f Plumbing and Mechanical Ofticic!s. 2001",
+      "explanation_long": "f Plumbing and Mechanical Ofticic!s. 2001",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "government-printing-oftive-washington-d-c-20402-202-783-3238",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d535e3284a8f",
+      "topic": "Plumbing Tables",
+      "subtopic": "Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "front": "What is Walnut Drive South, Walnut, Calivornia 91789-2825, Publishes?",
+      "back": "Installations ([APMO) and Product ([APMO-PS) Standards. 714-595-0449,",
+      "explanation_short": "Installations ([APMO) and Product ([APMO-PS) Standards. 714-595-0449,",
+      "explanation_long": "Installations ([APMO) and Product ([APMO-PS) Standards. 714-595-0449,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "government-printing-oftive-washington-d-c-20402-202-783-3238",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ee86b2d8a8cb",
+      "topic": "Plumbing Tables",
+      "subtopic": "And Industry, Sex, Gil Payal",
+      "front": "What is Water Quality Association, 4151 Naperville Rd, Lisle, Himvois 60532, 708. ] 5905-0160?",
+      "back": "Mlinots 60062, 708-272-8800",
+      "explanation_short": "Mlinots 60062, 708-272-8800",
+      "explanation_long": "Mlinots 60062, 708-272-8800",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "and-industry-sex-gil-payal",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | And Industry, Sex, Gil Payal",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8eea09d07dca",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "front": "What is Bene?",
+      "back": "Note: Excluding trap arm",
+      "explanation_short": "Note: Excluding trap arm",
+      "explanation_long": "Note: Excluding trap arm",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c8cc68ee69c5",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "front": "What is Except 6 fixture unit traps or water closets?",
+      "back": "Except sinks, urinals and dishwashers",
+      "explanation_short": "Except sinks, urinals and dishwashers",
+      "explanation_long": "Except sinks, urinals and dishwashers",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3259d7e687e0",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "front": "What is Only four (4) water closets?",
+      "back": "r 6 fixture unit traps are allowed on any vettical pipe or stack, and not to exceed threé (3) water closets or six (5) fixture unit traps on any horizontal branch or drain,",
+      "explanation_short": "r 6 fixture unit traps are allowed on any vettical pipe or stack, and not to exceed threé (3) water closets or six (5) fixture unit traps on any horizontal branch or drain,",
+      "explanation_long": "r 6 fixture unit traps are allowed on any vettical pipe or stack, and not to exceed threé (3) water closets or six (5) fixture unit traps on any horizontal branch or drain,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3a39605d8112",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "front": "What is Based on two (2) percent?",
+      "back": "r 20.9 mm/m slope. For one (1) percent or 10.4mm/m slope, multiply horizontal fixture units by a factor of 0.8",
+      "explanation_short": "r 20.9 mm/m slope. For one (1) percent or 10.4mm/m slope, multiply horizontal fixture units by a factor of 0.8",
+      "explanation_long": "r 20.9 mm/m slope. For one (1) percent or 10.4mm/m slope, multiply horizontal fixture units by a factor of 0.8",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-70cd4418d95f",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "front": "What is When vers?",
+      "back": "are increased one (1) pipe size for their entire lengih, the maximum length limitations specified in this table do not apply",
+      "explanation_short": "are increased one (1) pipe size for their entire lengih, the maximum length limitations specified in this table do not apply",
+      "explanation_long": "are increased one (1) pipe size for their entire lengih, the maximum length limitations specified in this table do not apply",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2a2b5c131c84",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "front": "What is Gutter has Semi-Circular bottom. Depth?",
+      "back": "f equivalent area of rectangular iter ~ 0.392 x diameter",
+      "explanation_short": "f equivalent area of rectangular iter ~ 0.392 x diameter",
+      "explanation_long": "f equivalent area of rectangular iter ~ 0.392 x diameter",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c8ba6b17565a",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "front": "What is the equivalent of Width of Rectangular Gutter?",
+      "back": "0.8862 x Diameter",
+      "explanation_short": "0.8862 x Diameter",
+      "explanation_long": "Width of Rectangular Gutter = 0.8862 x Diameter",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-998a250f1355",
+      "topic": "Plumbing Tables",
+      "subtopic": "Caulking Ferrules Maximam",
+      "front": "What is Number of drain lines per field?",
+      "back": "Lengib of eak fine - 305 min width of trenein 457.2 mm 9144 mm ie-center 18 nua _ lines {preterred (457.2 nun)} 304.8 mm s",
+      "explanation_short": "Lengib of eak fine - 305 min width of trenein 457.2 mm 9144 mm ie-center 18 nua _ lines {preterred (457.2 nun)} 304.8 mm s",
+      "explanation_long": "Lengib of eak fine - 305 min width of trenein 457.2 mm 9144 mm ie-center 18 nua _ lines {preterred (457.2 nun)} 304.8 mm s",
+      "tags": [
+        "plumbing-tables",
+        "law-summary",
+        "caulking-ferrules-maximam",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Caulking Ferrules Maximam",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ef6c720a568b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Caulking Ferrules Maximam",
+      "front": "What is Grade of?",
+      "back": "lines level 25 mam er material under drain lines 104.8 mm - er miterial aver drain lines: 508 mm",
+      "explanation_short": "lines level 25 mam er material under drain lines 104.8 mm - er miterial aver drain lines: 508 mm",
+      "explanation_long": "lines level 25 mam er material under drain lines 104.8 mm - er miterial aver drain lines: 508 mm",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "caulking-ferrules-maximam",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Caulking Ferrules Maximam",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-9b4d6e78131e",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "front": "What is Extra bedroom, $67.8?",
+      "back": "liters each c ae ico ] Fxtra dwelling units over 10, 946.3 liters each",
+      "explanation_short": "liters each c ae ico ] Fxtra dwelling units over 10, 946.3 liters each",
+      "explanation_long": "liters each c ae ico ] Fxtra dwelling units over 10, 946.3 liters each",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-689110eaaf95",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "front": "What is Minimum | Minimum Extra?",
+      "back": "fixture units over 100, 94.6 liters per fixture unit",
+      "explanation_short": "fixture units over 100, 94.6 liters per fixture unit",
+      "explanation_long": "fixture units over 100, 94.6 liters per fixture unit",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e65d9b310455",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "front": "What is Weight each Pipe Size Weight?",
+      "back": "cach | 4 Notes: Td 1. The sizing data for vertical conductors, leaders, and drains is based on the pipes flowing 7/24 full 2. For rainfall rates other than those listed, determine the allowable roof area by dividing the area given in the 25 mnv/hour column by the desired rainfall rate",
+      "explanation_short": "cach | 4 Notes: Td 1. The sizing data for vertical conductors, leaders, and drains is based on the pipes flowing 7/24 full 2. For rainfall rates other than those listed, determine ",
+      "explanation_long": "cach | 4 Notes: Td 1. The sizing data for vertical conductors, leaders, and drains is based on the pipes flowing 7/24 full 2. For rainfall rates other than those listed, determine the allowable roof area by dividing the area given in the 25 mnv/hour column by the desired rainfall rate",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-94cbb01e3f46",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "front": "What is Required Rate?",
+      "back": "f Flow 3. Vertical piping may be round, square, or rectangular Square pipe shall bx",
+      "explanation_short": "f Flow 3. Vertical piping may be round, square, or rectangular Square pipe shall bx",
+      "explanation_long": "f Flow 3. Vertical piping may be round, square, or rectangular Square pipe shall bx",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ae0d7a2e4035",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "front": "What is Liters per Minute Kilogra sized?",
+      "back": "to enclose its equivalent round pipe. Rectangular pipe shall have at least the same cross-sectional area as its equivalent round pipe, except that the ratio f its side dimensions shall not exceed 3 to 1",
+      "explanation_short": "to enclose its equivalent round pipe. Rectangular pipe shall have at least the same cross-sectional area as its equivalent round pipe, except that the ratio f its side dimensions s",
+      "explanation_long": "to enclose its equivalent round pipe. Rectangular pipe shall have at least the same cross-sectional area as its equivalent round pipe, except that the ratio f its side dimensions shall not exceed 3 to 1",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b441ec9c04c4",
+      "topic": "Plumbing Tables",
+      "subtopic": "Equipment Capacity Minimum Condensate",
+      "front": "What is Through 90 (Through 316.48?",
+      "back": "Through 125 (Through 439.6) ",
+      "explanation_short": "Through 125 (Through 439.6) ",
+      "explanation_long": "Through 125 (Through 439.6) ",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "equipment-capacity-minimum-condensate",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Equipment Capacity Minimum Condensate",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": [
+    {
+      "id": "id-a034a8f8af8c",
+      "topic": "Plumbing Tables",
+      "subtopic": "R |",
+      "prompt": "What is the equivalent of Ic | |?",
+      "accepted_answers": [
+        "lw _ | w_|"
+      ],
+      "explanation_short": "lw _ | w_|",
+      "explanation_long": "Ic | | = lw _ | w_|",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "r",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.1 | R |",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-23c75280f3be",
+      "topic": "Plumbing Tables",
+      "subtopic": "Refrigeration Waste",
+      "prompt": "What is the equivalent of Size tint Area (m2)?",
+      "accepted_answers": [
+        "4to 5 12 76 13 to 36"
+      ],
+      "explanation_short": "4to 5 12 76 13 to 36",
+      "explanation_long": "Size tint Area (m2) = 4to 5 12 76 13 to 36",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "refrigeration-waste",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.2 | Refrigeration Waste",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-2cdc99527ad5",
+      "topic": "Plumbing Tables",
+      "subtopic": "N",
+      "prompt": "What is Sizing of Blow-off Condensers = Sumps?",
+      "accepted_answers": [
+        "Water oust (mm)",
+        "Water oust"
+      ],
+      "explanation_short": "Water oust (mm)",
+      "explanation_long": "Water oust (mm)",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "n",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.2 | N",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f3e7a0a684fc",
+      "topic": "Plumbing Tables",
+      "subtopic": "Horizontal Piping",
+      "prompt": "What term matches this definition? Suspended 1.5m ; 3m if greater 1.5m",
+      "accepted_answers": [
+        "CattronSoilPipe |"
+      ],
+      "explanation_short": "CattronSoilPipe |",
+      "explanation_long": "CattronSoilPipe |: Suspended 1.5m ; 3m if greater 1.5m",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "horizontal-piping",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.3 | Horizontal Piping",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f186665c3acf",
+      "topic": "Plumbing Tables",
+      "subtopic": "Bm Sscs",
+      "prompt": "What term matches this definition? Stiff metal or Wooden backing for entire length | 38mm —SsS=sS[ Stiff metal or Wooden backing",
+      "accepted_answers": [
+        "Simm 3m"
+      ],
+      "explanation_short": "Simm 3m",
+      "explanation_long": "Simm 3m: Stiff metal or Wooden backing for entire length | 38mm —SsS=sS[ Stiff metal or Wooden backing",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "bm-sscs",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.3 | Bm Sscs",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f127273d7722",
+      "topic": "Plumbing Tables",
+      "subtopic": "JAM Tables",
+      "prompt": "What term matches this definition? ‘Over 55, add 1 fixture for",
+      "accepted_answers": [
+        "11s"
+      ],
+      "explanation_short": "11s",
+      "explanation_long": "11s: ‘Over 55, add 1 fixture for",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ac1f55db3b2c",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "prompt": "What term matches this definition? for (Over 85, odd | fixture for each sdditivnal 40 persons",
+      "accepted_answers": [
+        "Over 400, ad 1 fixture"
+      ],
+      "explanation_short": "Over 400, ad 1 fixture",
+      "explanation_long": "Over 400, ad 1 fixture: for (Over 85, odd | fixture for each sdditivnal 40 persons",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9317d9135bc5",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "prompt": "What term matches this definition? for | Add 1 fixture each aklivonal 40 persons 1201-400 its ow 216-35 | 1, 10-50 3655,",
+      "accepted_answers": [
+        "Over $6, add I fixture"
+      ],
+      "explanation_short": "Over $6, add I fixture",
+      "explanation_long": "Over $6, add I fixture: for | Add 1 fixture each aklivonal 40 persons 1201-400 its ow 216-35 | 1, 10-50 3655,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4fa6be86a9eb",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "prompt": "What term matches this definition? persons ‘cach 15 persons, ae er 2M 21125 ‘exposd to 326-0 326-50 ‘Over 100, L per 1S cencessive heat : 45175 45175 vpenony”® ort skin",
+      "accepted_answers": [
+        "Fi Lvl Lio"
+      ],
+      "explanation_short": "Fi Lvl Lio",
+      "explanation_long": "Fi Lvl Lio: persons ‘cach 15 persons, ae er 2M 21125 ‘exposd to 326-0 326-50 ‘Over 100, L per 1S cencessive heat : 45175 45175 vpenony”® ort skin",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-503fdbbc9610",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "prompt": "What term matches this definition? Over 100, al 1 fixture for with poisonous, cach additioun! 30 persons infectious, oF iitating 4",
+      "accepted_answers": [
+        "Male Female 5.610) 576-100 cootaminstion"
+      ],
+      "explanation_short": "Male Female 5.610) 576-100 cootaminstion",
+      "explanation_long": "Male Female 5.610) 576-100 cootaminstion: Over 100, al 1 fixture for with poisonous, cach additioun! 30 persons infectious, oF iitating 4",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d21f2d8bbd27",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "prompt": "What term matches this definition? Unstituson (on each | 336-55 4: 36-55 each i ‘Over 750, add | fisture for ‘eccupied Moor) for | Over $5, ad | fixture for | additonal $0 } cach additional $¢0 conployce use _| cach aliivonal 40 perons | males ‘Office or Public Mac Feule’ 11-100 Male",
+      "accepted_answers": [
+        "MospitlsorPenal }2 16-35 3.1635 |"
+      ],
+      "explanation_short": "MospitlsorPenal }2 16-35 3.1635 |",
+      "explanation_long": "MospitlsorPenal }2 16-35 3.1635 |: Unstituson (on each | 336-55 4: 36-55 each i ‘Over 750, add | fisture for ‘eccupied Moor) for | Over $5, ad | fixture for | additonal $0 } cach additional $¢0 conployce use _| cach aliivonal 40 perons | males ‘Office or Public Mac Feule’ 11-100 Male",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-661b83ad94ea",
+      "topic": "Plumbing Tables",
+      "subtopic": "Minimum Plumbing Facilities",
+      "prompt": "What term matches this definition? add | Over 750, add | foxtae for",
+      "accepted_answers": [
+        "Over 060,"
+      ],
+      "explanation_short": "Over 060,",
+      "explanation_long": "Over 060,: add | Over 750, add | foxtae for",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "minimum-plumbing-facilities",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Minimum Plumbing Facilities",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-93c61b68c4a0",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What is Office w Public | Wale Fea 0. 19 Wale Female 2 a +?",
+      "accepted_answers": [
+        "L 400 wales"
+      ],
+      "explanation_short": "L 400 wales",
+      "explanation_long": "L 400 wales",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-870c00596359",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? per40 L per 40 enployee use 2 1635 3163s Add | fixtwre 336-55 4 655 for each",
+      "accepted_answers": [
+        "Buikdings—For thts 1115 11050 I"
+      ],
+      "explanation_short": "Buikdings—For thts 1115 11050 I",
+      "explanation_long": "Buikdings—For thts 1115 11050 I: per40 L per 40 enployee use 2 1635 3163s Add | fixtwre 336-55 4 655 for each",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-09448a8e9eed",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? edd | fisture for} mhduional 80 cach wbditionnl 40 perros, males,",
+      "accepted_answers": [
+        "I Over 55,"
+      ],
+      "explanation_short": "I Over 55,",
+      "explanation_long": "I Over 55,: edd | fisture for} mhduional 80 cach wbditionnl 40 perros, males,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-96312f55d72f",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? fe tetS 1 1050 U per 1b pera !",
+      "accepted_answers": [
+        "Feremployoe use | 1-15"
+      ],
+      "explanation_short": "Feremployoe use | 1-15",
+      "explanation_long": "Feremployoe use | 1-15: fe tetS 1 1050 U per 1b pera !",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9f9fd05280f3",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? iat r Prison use tock Boe",
+      "accepted_answers": [
+        "[Penal instranon —"
+      ],
+      "explanation_short": "[Penal instranon —",
+      "explanation_long": "[Penal instranon —: iat r Prison use tock Boe",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-98b0edd355d3",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? cell 1 per cell Ipe",
+      "accepted_answers": [
+        "Call Tpe"
+      ],
+      "explanation_short": "Call Tpe",
+      "explanation_long": "Call Tpe: cell 1 per cell Ipe",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b6dab81ef1e3",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? per exercise room per exercise | 1 per exercise 0m exenise | 09m 1 fom",
+      "accepted_answers": [
+        "Exercise Room | 1"
+      ],
+      "explanation_short": "Exercise Room | 1",
+      "explanation_long": "Exercise Room | 1: per exercise room per exercise | 1 per exercise 0m exenise | 09m 1 fom",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-73e5679a674b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? for ‘each alditional 200",
+      "accepted_answers": [
+        "Over 300, 1 fixture"
+      ],
+      "explanation_short": "Over 300, 1 fixture",
+      "explanation_long": "Over 300, 1 fixture: for ‘each alditional 200",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-faf270aa7db4",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jwss 41655",
+      "prompt": "What term matches this definition? Vfixtwe for | 2.151-200 2. 151-200 ‘cach itonal | 3201-100 3. 201-400 u",
+      "accepted_answers": [
+        "Over 190, a8 11-180 1. L189"
+      ],
+      "explanation_short": "Over 190, a8 11-180 1. L189",
+      "explanation_long": "Over 190, a8 11-180 1. L189: Vfixtwe for | 2.151-200 2. 151-200 ‘cach itonal | 3201-100 3. 201-400 u",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jwss-41655",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jwss 41655",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7f200b7a3f44",
+      "topic": "Plumbing Tables",
+      "subtopic": "Jms 436 55",
+      "prompt": "What term matches this definition? for Fyerte pero each nidiuonal 40 persons",
+      "accepted_answers": [
+        "Over $5, ad 1 fixture"
+      ],
+      "explanation_short": "Over $5, ad 1 fixture",
+      "explanation_long": "Over $5, ad 1 fixture: for Fyerte pero each nidiuonal 40 persons",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "jms-436-55",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.4 | Jms 436 55",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f2247b9ec9f6",
+      "topic": "Plumbing Tables",
+      "subtopic": "Male Female",
+      "prompt": "What term matches this definition? Over 30, add | fixture for exh oddinenat 50 1 Water Closet",
+      "accepted_answers": [
+        "bbis0 1125 2 226-50"
+      ],
+      "explanation_short": "bbis0 1125 2 226-50",
+      "explanation_long": "bbis0 1125 2 226-50: Over 30, add | fixture for exh oddinenat 50 1 Water Closet",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "male-female",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Male Female",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-3598346ab13c",
+      "topic": "Plumbing Tables",
+      "subtopic": "Paskd Female (dormitory)",
+      "prompt": "What term matches this definition? Tprto per 0 person (Hospital - indiviudal Room) 1 Water Closet 7",
+      "accepted_answers": [
+        "Male ernale"
+      ],
+      "explanation_short": "Male ernale",
+      "explanation_long": "Male ernale: Tprto per 0 person (Hospital - indiviudal Room) 1 Water Closet 7",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "paskd-female-dormitory",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Paskd Female (dormitory)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b55f03484a22",
+      "topic": "Plumbing Tables",
+      "subtopic": "Paskd Female (dormitory)",
+      "prompt": "What term matches this definition? per water closets 1 i per 7s 2126-250 2: 76125 4126-250",
+      "accepted_answers": [
+        "T paras T"
+      ],
+      "explanation_short": "T paras T",
+      "explanation_long": "T paras T: per water closets 1 i per 7s 2126-250 2: 76125 4126-250",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "paskd-female-dormitory",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Paskd Female (dormitory)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-28fb401c67c9",
+      "topic": "Plumbing Tables",
+      "subtopic": "Paskd Female (dormitory)",
+      "prompt": "What term matches this definition? pad weir doe jae Sper 150__t pes 75 “Shesever unnals are provided, one (1) waler Closet is subtracted from the number specified on the table, exe that the number of water closets in such cases shall not be reduced to less than (wo-therds (2/3) of {$e siximum specified",
+      "accepted_answers": [
+        "Make Temaic™ Tp 130 T"
+      ],
+      "explanation_short": "Make Temaic™ Tp 130 T",
+      "explanation_long": "Make Temaic™ Tp 130 T: pad weir doe jae Sper 150__t pes 75 “Shesever unnals are provided, one (1) waler Closet is subtracted from the number specified on the table, exe that the number of water closets in such cases shall not be reduced to less than (wo-therds (2/3) of {$e siximum specified",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "paskd-female-dormitory",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Paskd Female (dormitory)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-eca495a3b511",
+      "topic": "Plumbing Tables",
+      "subtopic": "Requirement Occupant",
+      "prompt": "What term matches this definition? r 1 Automatic Washer Standpipe 1.dwelling 12 Laundry Trays or 2 Automatic Washer Standpipes 10 apartments 1 dwelling or 1 apartment 5 persons (w/ exposure) 1 Water Closet and 1 Urinal 30 temporary workmen ‘1 Drinking Fountain 75 persons",
+      "accepted_answers": [
+        "{1 Laundry Tray"
+      ],
+      "explanation_short": "{1 Laundry Tray",
+      "explanation_long": "{1 Laundry Tray: r 1 Automatic Washer Standpipe 1.dwelling 12 Laundry Trays or 2 Automatic Washer Standpipes 10 apartments 1 dwelling or 1 apartment 5 persons (w/ exposure) 1 Water Closet and 1 Urinal 30 temporary workmen ‘1 Drinking Fountain 75 persons",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "requirement-occupant",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Requirement Occupant",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-3fdce4d1b237",
+      "topic": "Plumbing Tables",
+      "subtopic": "Requirement Occupant",
+      "prompt": "What term matches this definition? persons 1 Bathub or Shower",
+      "accepted_answers": [
+        "Additional 1 Drinking Fountain 150"
+      ],
+      "explanation_short": "Additional 1 Drinking Fountain 150",
+      "explanation_long": "Additional 1 Drinking Fountain 150: persons 1 Bathub or Shower",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "requirement-occupant",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.5 | Requirement Occupant",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b74acf547d73",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? Because of the many variables encountered, it is not possible to set absolute values for waste/sewaye Now rates for all situations. The designer should evaluate each this table need modification, they should be made with the concurrence of the Administrative Authority",
+      "accepted_answers": [
+        "Estimated Waste/Sewa;",
+        "Estimated Waste",
+        "Sewa;"
+      ],
+      "explanation_short": "Estimated Waste/Sewa;",
+      "explanation_long": "Estimated Waste/Sewa;: Because of the many variables encountered, it is not possible to set absolute values for waste/sewaye Now rates for all situations. The designer should evaluate each this table need modification, they should be made with the concurrence of the Administrative Authority",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a94f6708716b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? per employee 18.9 per passenger",
+      "accepted_answers": [
+        "Airports 56.8"
+      ],
+      "explanation_short": "Airports 56.8",
+      "explanation_long": "Airports 56.8: per employee 18.9 per passenger",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0975e9863901",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Bowling alleys (snack bar only) 283 9 per lane?",
+      "accepted_answers": [
+        "Auto washers Check with equipment manufacturer"
+      ],
+      "explanation_short": "Auto washers Check with equipment manufacturer",
+      "explanation_long": "Auto washers Check with equipment manufacturer",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a61b3e34bb1d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is ‘Campground with central comfort station 132 5 per person?",
+      "accepted_answers": [
+        "Camps"
+      ],
+      "explanation_short": "Camps",
+      "explanation_long": "Camps",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f03da0c2e72b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? meals served) 56.8 per person",
+      "accepted_answers": [
+        "Day camps (no"
+      ],
+      "explanation_short": "Day camps (no",
+      "explanation_long": "Day camps (no: meals served) 56.8 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9257c4bc4081",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? seasonal. 189 3 per person",
+      "accepted_answers": [
+        "Summer and"
+      ],
+      "explanation_short": "Summer and",
+      "explanation_long": "Summer and: seasonal. 189 3 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-893adac02cf4",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is With kitchen waste 26.5 per seat?",
+      "accepted_answers": [
+        "Churches (Sanctuary) 18.9 per seat",
+        "Churches 18.9 per seat"
+      ],
+      "explanation_short": "Churches (Sanctuary) 18.9 per seat",
+      "explanation_long": "Churches (Sanctuary) 18.9 per seat",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ac28097ada53",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Factories?",
+      "accepted_answers": [
+        "No showers 94.6 per employee"
+      ],
+      "explanation_short": "No showers 94.6 per employee",
+      "explanation_long": "No showers 94.6 per employee",
+      "tags": [
+        "plumbing-tables",
+        "law-summary",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9419c6abe663",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Cafeteria, add 18.9 per employce?",
+      "accepted_answers": [
+        "With showers 132.5 per emplovee"
+      ],
+      "explanation_short": "With showers 132.5 per emplovee",
+      "explanation_long": "With showers 132.5 per emplovee",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-61b6a0bc5d69",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Kitchen waste only 4 © per bed?",
+      "accepted_answers": [
+        "Hospitals 9463 per bod"
+      ],
+      "explanation_short": "Hospitals 9463 per bod",
+      "explanation_long": "Hospitals 9463 per bod",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e8db16481b73",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? kitchen waste) 227.1 per bed (2 persony",
+      "accepted_answers": [
+        "Hotels (no"
+      ],
+      "explanation_short": "Hotels (no",
+      "explanation_long": "Hotels (no: kitchen waste) 227.1 per bed (2 persony",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8bc605f6b286",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? Nursing home 473.1 per person",
+      "accepted_answers": [
+        "Institutions (Residents,"
+      ],
+      "explanation_short": "Institutions (Residents,",
+      "explanation_long": "Institutions (Residents,: Nursing home 473.1 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d8130b3eb9f7",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Laundries, self-service (minimum 10 hours per dey) ¥ 189.3 per wash cycle?",
+      "accepted_answers": [
+        "Rest home f 473.1 per person"
+      ],
+      "explanation_short": "Rest home f 473.1 per person",
+      "explanation_long": "Rest home f 473.1 per person",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4b11bee3ca49",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is OMICS eee eee cence en eeeee 75.7 per employee?",
+      "accepted_answers": [
+        "With kitchen 227.1 per bed space"
+      ],
+      "explanation_short": "With kitchen 227.1 per bed space",
+      "explanation_long": "With kitchen 227.1 per bed space",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0acc359d1f3c",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? homes cose se 946.3 per space",
+      "accepted_answers": [
+        "Parks, mobile"
+      ],
+      "explanation_short": "Parks, mobile",
+      "explanation_long": "Parks, mobile: homes cose se 946.3 per space",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9f163853033d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? nly) 75.7 per parking space recreational vehicles ~ without hook-up é 283.9 per space with water and sewer hook-up. . 378.5 per space",
+      "accepted_answers": [
+        "Picnic parks (toilets"
+      ],
+      "explanation_short": "Picnic parks (toilets",
+      "explanation_long": "Picnic parks (toilets: nly) 75.7 per parking space recreational vehicles ~ without hook-up é 283.9 per space with water and sewer hook-up. . 378.5 per space",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-201d2037bc49",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? cafeterias . 75.7 per employee",
+      "accepted_answers": [
+        "Restaurants ~"
+      ],
+      "explanation_short": "Restaurants ~",
+      "explanation_long": "Restaurants ~: cafeterias . 75.7 per employee",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-deca18f7d749",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Kitchen waste i 22.7 per meal?",
+      "accepted_answers": [
+        "Toilet 26.5 per customer"
+      ],
+      "explanation_short": "Toilet 26.5 per customer",
+      "explanation_long": "Toilet 26.5 per customer",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-be95b5f087dc",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? garbage disposal 3.8 per meal",
+      "accepted_answers": [
+        "Add for"
+      ],
+      "explanation_short": "Add for",
+      "explanation_long": "Add for: garbage disposal 3.8 per meal",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-25eced3fb0e9",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? cocktail lounge 7.6 per customer",
+      "accepted_answers": [
+        "Add for"
+      ],
+      "explanation_short": "Add for",
+      "explanation_long": "Add for: cocktail lounge 7.6 per customer",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5b3b921df928",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? Schools - Staf'and office 75.7 per person",
+      "accepted_answers": [
+        "Disposable service"
+      ],
+      "explanation_short": "Disposable service",
+      "explanation_long": "Disposable service: Schools - Staf'and office 75.7 per person",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-19d47bc124fc",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Intermediate and high \" 75.7 per student?",
+      "accepted_answers": [
+        "Flementary students 56.8 per person"
+      ],
+      "explanation_short": "Flementary students 56.8 per person",
+      "explanation_long": "Flementary students 56.8 per person",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-6a10f6d7eb86",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Service stavion, toilets . 378.5 per person 3785 for I* bay?",
+      "accepted_answers": [
+        "Boarding, total waste"
+      ],
+      "explanation_short": "Boarding, total waste",
+      "explanation_long": "Boarding, total waste",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-dfe670d4cd42",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? Public restrooms, add f floor space",
+      "accepted_answers": [
+        "Stores *"
+      ],
+      "explanation_short": "Stores *",
+      "explanation_long": "Stores *: Public restrooms, add f floor space",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-87e14200cbff",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? public 37.9 per person ‘Theaters, audwonums 18.9 per seat",
+      "accepted_answers": [
+        "Swimming pools,"
+      ],
+      "explanation_short": "Swimming pools,",
+      "explanation_long": "Swimming pools,: public 37.9 per person ‘Theaters, audwonums 18.9 per seat",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-cf3762081f19",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? per space __ ja) Recommended Design Grier Rien disposal en ‘sizes. “using ul estimated waste/sewage flow rates should be calculated as follows: (}) Waste/sewage flow, up to $677.5 Liday",
+      "accepted_answers": [
+        "Drive-in 37.9"
+      ],
+      "explanation_short": "Drive-in 37.9",
+      "explanation_long": "Drive-in 37.9: per space __ ja) Recommended Design Grier Rien disposal en ‘sizes. “using ul estimated waste/sewage flow rates should be calculated as follows: (}) Waste/sewage flow, up to $677.5 Liday",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c8262ca69c8b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What term matches this definition? septic tank size",
+      "accepted_answers": [
+        "Flow x 1.5 ©"
+      ],
+      "explanation_short": "Flow x 1.5 ©",
+      "explanation_long": "Flow x 1.5 ©: septic tank size",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-13e60ddd9f6c",
+      "topic": "Plumbing Tables",
+      "subtopic": "Table B 3",
+      "prompt": "What is Flow x 0.75 + 1125 © septic tank size (3) Scoondary system shall be sized for total flow per 24 hours {b} _Also see Section B 2 of this A, see ie wna nthe ee?",
+      "accepted_answers": [
+        "(2) Waste/sewage flow, over 5677.5 Liday",
+        "Waste/sewage flow, over 5677.5 Liday",
+        "(2) Waste",
+        "sewage flow, over 5677.5 Liday"
+      ],
+      "explanation_short": "(2) Waste/sewage flow, over 5677.5 Liday",
+      "explanation_long": "(2) Waste/sewage flow, over 5677.5 Liday",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "table-b-3",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.6 | Table B 3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f4bec59a7697",
+      "topic": "Plumbing Tables",
+      "subtopic": "Ez Type Of Soit",
+      "prompt": "What term matches this definition? loam or sandy clay",
+      "accepted_answers": [
+        "Le | 3 | Sandy"
+      ],
+      "explanation_short": "Le | 3 | Sandy",
+      "explanation_long": "Le | 3 | Sandy: loam or sandy clay",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "ez-type-of-soit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Ez Type Of Soit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9ed99e9c676d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Ez Type Of Soit",
+      "prompt": "What term matches this definition? in (Li/sq. m) of leaching area for»",
+      "accepted_answers": [
+        "Maximum absorption capacity"
+      ],
+      "explanation_short": "Maximum absorption capacity",
+      "explanation_long": "Maximum absorption capacity: in (Li/sq. m) of leaching area for»",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "ez-type-of-soit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Ez Type Of Soit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-16b52bfd5ea4",
+      "topic": "Plumbing Tables",
+      "subtopic": "Ez Type Of Soit",
+      "prompt": "What term matches this definition? f leaching area",
+      "accepted_answers": [
+        "Required sq.m."
+      ],
+      "explanation_short": "Required sq.m.",
+      "explanation_long": "Required sq.m.: f leaching area",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "ez-type-of-soit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Ez Type Of Soit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5fd690f3b5b8",
+      "topic": "Plumbing Tables",
+      "subtopic": "(w L)",
+      "prompt": "What term matches this definition? with considerable sand or gravel",
+      "accepted_answers": [
+        "0.005 0.022 4 | Clay"
+      ],
+      "explanation_short": "0.005 0.022 4 | Clay",
+      "explanation_long": "0.005 0.022 4 | Clay: with considerable sand or gravel",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "w-l",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | (w L)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d293f8369d1d",
+      "topic": "Plumbing Tables",
+      "subtopic": "(w L)",
+      "prompt": "What term matches this definition? f sand or gravel",
+      "accepted_answers": [
+        "Clay with snail amount"
+      ],
+      "explanation_short": "Clay with snail amount",
+      "explanation_long": "Clay with snail amount: f sand or gravel",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "w-l",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | (w L)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f88be12e843d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Sand And Gravel",
+      "prompt": "What term matches this definition? a 17800 N total thrust was computed. The soil condition is sand. The required bearing area of the thrust block is 17800 N divided by 13780 kPa or 19 m’",
+      "accepted_answers": [
+        "Example: Assume"
+      ],
+      "explanation_short": "Example: Assume",
+      "explanation_long": "Example: Assume: a 17800 N total thrust was computed. The soil condition is sand. The required bearing area of the thrust block is 17800 N divided by 13780 kPa or 19 m’",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "sand-and-gravel",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Sand And Gravel",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-19720b94bca2",
+      "topic": "Plumbing Tables",
+      "subtopic": "Septic Tank Capacit",
+      "prompt": "What term matches this definition? Flushometer Fixture Units for Water Sizing Using Table",
+      "accepted_answers": [
+        "Allowable 28387.5"
+      ],
+      "explanation_short": "Allowable 28387.5",
+      "explanation_long": "Allowable 28387.5: Flushometer Fixture Units for Water Sizing Using Table",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "septic-tank-capacit",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Septic Tank Capacit",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-987efd2c7a71",
+      "topic": "Plumbing Tables",
+      "subtopic": "Fixture Categories 4",
+      "prompt": "What term matches this definition? for | Fixtures Units Assigned for Water Closets and Similar } Urinals and Similar Fixtures |",
+      "accepted_answers": [
+        "Fixture Units Assigned"
+      ],
+      "explanation_short": "Fixture Units Assigned",
+      "explanation_long": "Fixture Units Assigned: for | Fixtures Units Assigned for Water Closets and Similar } Urinals and Similar Fixtures |",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "fixture-categories-4",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.7 | Fixture Categories 4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4ef55bc53be1",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "prompt": "What term matches this definition? On site domestic water service linc 9. Distribution box 10. Pressure public water main",
+      "accepted_answers": [
+        "Streams 7. Disposal field 8."
+      ],
+      "explanation_short": "Streams 7. Disposal field 8.",
+      "explanation_long": "Streams 7. Disposal field 8.: On site domestic water service linc 9. Distribution box 10. Pressure public water main",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0401fbdd900a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "prompt": "What term matches this definition? disposal fields and/or seepage pits are installed in sloping ground, the minimum horizontal distance between any part of the leaching system and ground surface shalt be 4.6 m",
+      "accepted_answers": [
+        "Note: When"
+      ],
+      "explanation_short": "Note: When",
+      "explanation_long": "Note: When: disposal fields and/or seepage pits are installed in sloping ground, the minimum horizontal distance between any part of the leaching system and ground surface shalt be 4.6 m",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-2501fea51902",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "prompt": "What term matches this definition? and steps, whether covered or uncovered, breezeways, roofed porte-cocheres, roofed patios, carports, covered walks, covered driveways and!",
+      "accepted_answers": [
+        "1. Including porches"
+      ],
+      "explanation_short": "1. Including porches",
+      "explanation_long": "1. Including porches: and steps, whether covered or uncovered, breezeways, roofed porte-cocheres, roofed patios, carports, covered walks, covered driveways and!",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1a9f75bfe3ef",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "prompt": "What term matches this definition? to not less than 76 m when the drainage piping Al constructed of materials approved for use within a building, 4. Plus .6 m for cach additional 3 m of depth in excess of .3 m below the bottom of the drain line, (See also Section B 6), 5. See Section 1208 of this Code",
+      "accepted_answers": [
+        "This distance may be reduced"
+      ],
+      "explanation_short": "This distance may be reduced",
+      "explanation_long": "This distance may be reduced: to not less than 76 m when the drainage piping Al constructed of materials approved for use within a building, 4. Plus .6 m for cach additional 3 m of depth in excess of .3 m below the bottom of the drain line, (See also Section B 6), 5. See Section 1208 of this Code",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4b408b774a6a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "prompt": "What term matches this definition? For crossings, approval by the Administrative",
+      "accepted_answers": [
+        "6. For parallel construction —"
+      ],
+      "explanation_short": "6. For parallel construction —",
+      "explanation_long": "6. For parallel construction —: For crossings, approval by the Administrative",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4b1ff19f517b",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "prompt": "What term matches this definition? be required 7. These minimum clear horizontal distances shall also apply between dispose field, seepage pits, and the ocean mean higher high tide line",
+      "accepted_answers": [
+        "Authority shall"
+      ],
+      "explanation_short": "Authority shall",
+      "explanation_long": "Authority shall: be required 7. These minimum clear horizontal distances shall also apply between dispose field, seepage pits, and the ocean mean higher high tide line",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-dbe0be69724a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Location Of Sewage Dis,",
+      "prompt": "What term matches this definition? may be adapted to ther types of occupancies with similar wastes.)",
+      "accepted_answers": [
+        "RECOMMENDED DESIGN CRITERIA. (formulae"
+      ],
+      "explanation_short": "RECOMMENDED DESIGN CRITERIA. (formulae",
+      "explanation_long": "RECOMMENDED DESIGN CRITERIA. (formulae: may be adapted to ther types of occupancies with similar wastes.)",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "location-of-sewage-dis",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Location Of Sewage Dis,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0a5b69a3b501",
+      "topic": "Plumbing Tables",
+      "subtopic": "Number Of Waste Retention Storage Interceptor",
+      "prompt": "What term matches this definition? x flow x time x factor = size (liquid",
+      "accepted_answers": [
+        "Meals per"
+      ],
+      "explanation_short": "Meals per",
+      "explanation_long": "Meals per: x flow x time x factor = size (liquid",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "number-of-waste-retention-storage-interceptor",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Number Of Waste Retention Storage Interceptor",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c0d6e554a990",
+      "topic": "Plumbing Tables",
+      "subtopic": "Number Of Waste Retention Storage Interceptor",
+      "prompt": "What term matches this definition? flow x time x c s sire (liquid per hour rate capacity)",
+      "accepted_answers": [
+        "Vehicles x"
+      ],
+      "explanation_short": "Vehicles x",
+      "explanation_long": "Vehicles x: flow x time x c s sire (liquid per hour rate capacity)",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "number-of-waste-retention-storage-interceptor",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Number Of Waste Retention Storage Interceptor",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5bf2718dc739",
+      "topic": "Plumbing Tables",
+      "subtopic": "Silt Lint Grease, Laundries, Laundromats",
+      "prompt": "What is the equivalent of Number of Zeyeles Waste Retention Storage Interceptor machines x per hour x flow x time x Factor?",
+      "accepted_answers": [
+        "size (liquid rate capacity)",
+        "size"
+      ],
+      "explanation_short": "size (liquid rate capacity)",
+      "explanation_long": "Number of Zeyeles Waste Retention Storage Interceptor machines x per hour x flow x time x Factor = size (liquid rate capacity)",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "silt-lint-grease-laundries-laundromats",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Silt Lint Grease, Laundries, Laundromats",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-1c7b131fee2d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Waste Flow Rate",
+      "prompt": "What is © Single service kitchen?",
+      "accepted_answers": [
+        "a With dishwashing machine"
+      ],
+      "explanation_short": "a With dishwashing machine",
+      "explanation_long": "a With dishwashing machine",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "waste-flow-rate",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Waste Flow Rate",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7ae022a42f45",
+      "topic": "Plumbing Tables",
+      "subtopic": "Retention Times",
+      "prompt": "What term matches this definition? waste 6 gallon (22.7 L) flow 5 gallon (18.9 L) flow 2 gation (7.6L) flow 1 gallon(3.8E) flow",
+      "accepted_answers": [
+        "Commercial kitchen"
+      ],
+      "explanation_short": "Commercial kitchen",
+      "explanation_long": "Commercial kitchen: waste 6 gallon (22.7 L) flow 5 gallon (18.9 L) flow 2 gation (7.6L) flow 1 gallon(3.8E) flow",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "retention-times",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Retention Times",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c8c0cabc320d",
+      "topic": "Plumbing Tables",
+      "subtopic": "Retention Times",
+      "prompt": "What term matches this definition? disposal ee . 2.5 hours",
+      "accepted_answers": [
+        "Dishwasher and/or",
+        "Dishwasher and",
+        "or"
+      ],
+      "explanation_short": "Dishwasher and/or",
+      "explanation_long": "Dishwasher and/or: disposal ee . 2.5 hours",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "retention-times",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Retention Times",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4e0557e00fc6",
+      "topic": "Plumbing Tables",
+      "subtopic": "Retention Times",
+      "prompt": "What is Single serving, with disposal i 1S hours?",
+      "accepted_answers": [
+        "Single service kitchen"
+      ],
+      "explanation_short": "Single service kitchen",
+      "explanation_long": "Single service kitchen",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "retention-times",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Retention Times",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-04d835e97073",
+      "topic": "Plumbing Tables",
+      "subtopic": "Storage Factors",
+      "prompt": "What term matches this definition? commercial kitchen Shr operation 1, 16 hr. operation. 2;",
+      "accepted_answers": [
+        "Fully equipped"
+      ],
+      "explanation_short": "Fully equipped",
+      "explanation_long": "Fully equipped: commercial kitchen Shr operation 1, 16 hr. operation. 2;",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "storage-factors",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Storage Factors",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b4bf0a0719fd",
+      "topic": "Plumbing Tables",
+      "subtopic": "Storage Factors",
+      "prompt": "What term matches this definition? self-serve. 1.5 ~ employee operated = 2",
+      "accepted_answers": [
+        "Auto washers _.,"
+      ],
+      "explanation_short": "Auto washers _.,",
+      "explanation_long": "Auto washers _.,: self-serve. 1.5 ~ employee operated = 2",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "storage-factors",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Storage Factors",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-fbf858a0013a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Storage Factors",
+      "prompt": "What term matches this definition? for rock filter)",
+      "accepted_answers": [
+        "Laundries, laundromats 1.5 (allows"
+      ],
+      "explanation_short": "Laundries, laundromats 1.5 (allows",
+      "explanation_long": "Laundries, laundromats 1.5 (allows: for rock filter)",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "storage-factors",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.8 | Storage Factors",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e7ff93df72de",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "prompt": "What is Pennsyivama 19103, Publishes Standsrds. ea ‘Tentative Standards, 215-299?",
+      "accepted_answers": [
+        "ing, P.O. Box 40362, Bay 216-835-3040"
+      ],
+      "explanation_short": "ing, P.O. Box 40362, Bay 216-835-3040",
+      "explanation_long": "ing, P.O. Box 40362, Bay 216-835-3040",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0e03da573d67",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "prompt": "What term matches this definition? f trade. prepared under the procezures of the National Bureau of Standards and published by the Umited Ststes |",
+      "accepted_answers": [
+        "Representing volvntary standards"
+      ],
+      "explanation_short": "Representing volvntary standards",
+      "explanation_long": "Representing volvntary standards: f trade. prepared under the procezures of the National Bureau of Standards and published by the Umited Ststes |",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-dae2170d2756",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "prompt": "What term matches this definition? from Superintendent of Docurierts, |",
+      "accepted_answers": [
+        "Departarcat of Commerce. Obtainable"
+      ],
+      "explanation_short": "Departarcat of Commerce. Obtainable",
+      "explanation_long": "Departarcat of Commerce. Obtainable: from Superintendent of Docurierts, |",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-54b72f1df4a0",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "prompt": "What term matches this definition? by the Federal Specifications Board 1",
+      "accepted_answers": [
+        "Federal Specifications, published"
+      ],
+      "explanation_short": "Federal Specifications, published",
+      "explanation_long": "Federal Specifications, published: by the Federal Specifications Board 1",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d5cb2b9f3a8f",
+      "topic": "Plumbing Tables",
+      "subtopic": "American National Standard Lastiute,",
+      "prompt": "What term matches this definition? the Superintendent of Decuments, United States",
+      "accepted_answers": [
+        "Obtainable from"
+      ],
+      "explanation_short": "Obtainable from",
+      "explanation_long": "Obtainable from: the Superintendent of Decuments, United States",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "american-national-standard-lastiute",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | American National Standard Lastiute,",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f2bf0aa94d69",
+      "topic": "Plumbing Tables",
+      "subtopic": "Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "prompt": "What term matches this definition? f Plumbing and Mechanical Ofticic!s. 2001",
+      "accepted_answers": [
+        "International Association"
+      ],
+      "explanation_short": "International Association",
+      "explanation_long": "International Association: f Plumbing and Mechanical Ofticic!s. 2001",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "government-printing-oftive-washington-d-c-20402-202-783-3238",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8f8df64a7a22",
+      "topic": "Plumbing Tables",
+      "subtopic": "Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "prompt": "What term matches this definition? Installations ([APMO) and Product ([APMO-PS) Standards. 714-595-0449,",
+      "accepted_answers": [
+        "Walnut Drive South, Walnut, Calivornia 91789-2825, Publishes"
+      ],
+      "explanation_short": "Walnut Drive South, Walnut, Calivornia 91789-2825, Publishes",
+      "explanation_long": "Walnut Drive South, Walnut, Calivornia 91789-2825, Publishes: Installations ([APMO) and Product ([APMO-PS) Standards. 714-595-0449,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "government-printing-oftive-washington-d-c-20402-202-783-3238",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | Government Printing Oftive, Washington D.c. 20402 202 783 3238",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a930971d2519",
+      "topic": "Plumbing Tables",
+      "subtopic": "And Industry, Sex, Gil Payal",
+      "prompt": "What is Water Quality Association, 4151 Naperville Rd, Lisle, Himvois 60532, 708. ] 5905-0160?",
+      "accepted_answers": [
+        "Mlinots 60062, 708-272-8800"
+      ],
+      "explanation_short": "Mlinots 60062, 708-272-8800",
+      "explanation_long": "Mlinots 60062, 708-272-8800",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "and-industry-sex-gil-payal",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | And Industry, Sex, Gil Payal",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-515513eee39e",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "prompt": "What term matches this definition? Note: Excluding trap arm",
+      "accepted_answers": [
+        "Bene"
+      ],
+      "explanation_short": "Bene",
+      "explanation_long": "Bene: Note: Excluding trap arm",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-28bc12cdc750",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "prompt": "What is Except 6 fixture unit traps or water closets?",
+      "accepted_answers": [
+        "Except sinks, urinals and dishwashers"
+      ],
+      "explanation_short": "Except sinks, urinals and dishwashers",
+      "explanation_long": "Except sinks, urinals and dishwashers",
+      "tags": [
+        "plumbing-tables",
+        "reference",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d6cb629e4613",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "prompt": "What term matches this definition? r 6 fixture unit traps are allowed on any vettical pipe or stack, and not to exceed threé (3) water closets or six (5) fixture unit traps on any horizontal branch or drain,",
+      "accepted_answers": [
+        "Only four (4) water closets",
+        "Only four water closets"
+      ],
+      "explanation_short": "Only four (4) water closets",
+      "explanation_long": "Only four (4) water closets: r 6 fixture unit traps are allowed on any vettical pipe or stack, and not to exceed threé (3) water closets or six (5) fixture unit traps on any horizontal branch or drain,",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-69cb913520a4",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "prompt": "What term matches this definition? r 20.9 mm/m slope. For one (1) percent or 10.4mm/m slope, multiply horizontal fixture units by a factor of 0.8",
+      "accepted_answers": [
+        "Based on two (2) percent",
+        "Based on two percent"
+      ],
+      "explanation_short": "Based on two (2) percent",
+      "explanation_long": "Based on two (2) percent: r 20.9 mm/m slope. For one (1) percent or 10.4mm/m slope, multiply horizontal fixture units by a factor of 0.8",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0a3e3b6c5bd9",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "prompt": "What term matches this definition? are increased one (1) pipe size for their entire lengih, the maximum length limitations specified in this table do not apply",
+      "accepted_answers": [
+        "When vers"
+      ],
+      "explanation_short": "When vers",
+      "explanation_long": "When vers: are increased one (1) pipe size for their entire lengih, the maximum length limitations specified in this table do not apply",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-81f1ddb0c778",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "prompt": "What term matches this definition? f equivalent area of rectangular iter ~ 0.392 x diameter",
+      "accepted_answers": [
+        "Gutter has Semi-Circular bottom. Depth"
+      ],
+      "explanation_short": "Gutter has Semi-Circular bottom. Depth",
+      "explanation_long": "Gutter has Semi-Circular bottom. Depth: f equivalent area of rectangular iter ~ 0.392 x diameter",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5f12d42083e0",
+      "topic": "Plumbing Tables",
+      "subtopic": "02 H",
+      "prompt": "What is the equivalent of Width of Rectangular Gutter?",
+      "accepted_answers": [
+        "0.8862 x Diameter"
+      ],
+      "explanation_short": "0.8862 x Diameter",
+      "explanation_long": "Width of Rectangular Gutter = 0.8862 x Diameter",
+      "tags": [
+        "plumbing-tables",
+        "conversion",
+        "02-h",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.9 | 02 H",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-9a7e0dee8625",
+      "topic": "Plumbing Tables",
+      "subtopic": "Caulking Ferrules Maximam",
+      "prompt": "What is Number of drain lines per field?",
+      "accepted_answers": [
+        "Lengib of eak fine - 305 min width of trenein 457.2 mm 9144 mm ie-center 18 nua _ lines {preterred (457.2 nun)} 304.8 mm s",
+        "Lengib of eak fine - 305 min width of trenein 457.2 mm 9144 mm ie-center 18 nua _ lines {preterred} 304.8 mm s"
+      ],
+      "explanation_short": "Lengib of eak fine - 305 min width of trenein 457.2 mm 9144 mm ie-center 18 nua _ lines {preterred (457.2 nun)} 304.8 mm s",
+      "explanation_long": "Lengib of eak fine - 305 min width of trenein 457.2 mm 9144 mm ie-center 18 nua _ lines {preterred (457.2 nun)} 304.8 mm s",
+      "tags": [
+        "plumbing-tables",
+        "law-summary",
+        "caulking-ferrules-maximam",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 4,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Caulking Ferrules Maximam",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4dd8bbc8fae8",
+      "topic": "Plumbing Tables",
+      "subtopic": "Caulking Ferrules Maximam",
+      "prompt": "What term matches this definition? lines level 25 mam er material under drain lines 104.8 mm - er miterial aver drain lines: 508 mm",
+      "accepted_answers": [
+        "Grade of"
+      ],
+      "explanation_short": "Grade of",
+      "explanation_long": "Grade of: lines level 25 mam er material under drain lines 104.8 mm - er miterial aver drain lines: 508 mm",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "caulking-ferrules-maximam",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Caulking Ferrules Maximam",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-09eab088628a",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "prompt": "What term matches this definition? liters each c ae ico ] Fxtra dwelling units over 10, 946.3 liters each",
+      "accepted_answers": [
+        "Extra bedroom, $67.8"
+      ],
+      "explanation_short": "Extra bedroom, $67.8",
+      "explanation_long": "Extra bedroom, $67.8: liters each c ae ico ] Fxtra dwelling units over 10, 946.3 liters each",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-47eafde3e986",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "prompt": "What term matches this definition? fixture units over 100, 94.6 liters per fixture unit",
+      "accepted_answers": [
+        "Minimum | Minimum Extra"
+      ],
+      "explanation_short": "Minimum | Minimum Extra",
+      "explanation_long": "Minimum | Minimum Extra: fixture units over 100, 94.6 liters per fixture unit",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c72164674920",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "prompt": "What term matches this definition? cach | 4 Notes: Td 1. The sizing data for vertical conductors, leaders, and drains is based on the pipes flowing 7/24 full 2. For rainfall rates other than those listed, determine the allowable roof area by dividing the area given in the 25 mnv/hour column by the desired rainfall rate",
+      "accepted_answers": [
+        "Weight each Pipe Size Weight"
+      ],
+      "explanation_short": "Weight each Pipe Size Weight",
+      "explanation_long": "Weight each Pipe Size Weight: cach | 4 Notes: Td 1. The sizing data for vertical conductors, leaders, and drains is based on the pipes flowing 7/24 full 2. For rainfall rates other than those listed, determine the allowable roof area by dividing the area given in the 25 mnv/hour column by the desired rainfall rate",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1da160d16d73",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "prompt": "What term matches this definition? f Flow 3. Vertical piping may be round, square, or rectangular Square pipe shall bx",
+      "accepted_answers": [
+        "Required Rate"
+      ],
+      "explanation_short": "Required Rate",
+      "explanation_long": "Required Rate: f Flow 3. Vertical piping may be round, square, or rectangular Square pipe shall bx",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b7fa13794360",
+      "topic": "Plumbing Tables",
+      "subtopic": "Soldering Bushings",
+      "prompt": "What term matches this definition? to enclose its equivalent round pipe. Rectangular pipe shall have at least the same cross-sectional area as its equivalent round pipe, except that the ratio f its side dimensions shall not exceed 3 to 1",
+      "accepted_answers": [
+        "Liters per Minute Kilogra sized"
+      ],
+      "explanation_short": "Liters per Minute Kilogra sized",
+      "explanation_long": "Liters per Minute Kilogra sized: to enclose its equivalent round pipe. Rectangular pipe shall have at least the same cross-sectional area as its equivalent round pipe, except that the ratio f its side dimensions shall not exceed 3 to 1",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "soldering-bushings",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 4,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Soldering Bushings",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-44a739daf381",
+      "topic": "Plumbing Tables",
+      "subtopic": "Equipment Capacity Minimum Condensate",
+      "prompt": "What term matches this definition? Through 125 (Through 439.6) ",
+      "accepted_answers": [
+        "Through 90 (Through 316.48"
+      ],
+      "explanation_short": "Through 90 (Through 316.48",
+      "explanation_long": "Through 90 (Through 316.48: Through 125 (Through 439.6) ",
+      "tags": [
+        "plumbing-tables",
+        "definition",
+        "equipment-capacity-minimum-condensate",
+        "tables",
+        "tables__plumbing-tables-jam",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. PLUMBING TABLES by JAM.pdf | p.10 | Equipment Capacity Minimum Condensate",
+      "quality_flag": "review"
+    }
+  ]
+}

@@ -1,0 +1,2235 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "candidate": 30,
+      "probable": 16,
+      "review": 3
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-02",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 2.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T12:54:18.193233+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "MCQ bank still has too many unresolved answers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-02-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "OS & Y means ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Outer Side Yoke"
+        },
+        {
+          "label": "B",
+          "text": "Outside Screw and Yoke"
+        },
+        {
+          "label": "C",
+          "text": "Outlet Stem and Yoke"
+        },
+        {
+          "label": "D",
+          "text": "Outlet side and Yoke"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Rising Stem with Outside Screw Gate Valve",
+      "explanation_long": "Rising Stem with Outside Screw Gate Valve",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#1 | pages 2-3",
+      "quality_flag": "candidate",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Adischargecapacityof 0. 5 0 to 0. 9 5 lpsfor intermittentflowsshallconstitutetoabout",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 FU TABLE 7-3"
+        },
+        {
+          "label": "B",
+          "text": "2 FU (RNPCP, Chapter 7) Saon"
+        },
+        {
+          "label": "C",
+          "text": "4 FU"
+        },
+        {
+          "label": "D",
+          "text": "ISCHARGE CAPACITY 6 FU =e"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Laers per second Fixture Vat",
+      "explanation_long": "Laers per second Fixture Vat CcAFU Lis} (FU) . SsIee 2 | 95000095 | 2units | PafT 1 9Sto3.1S fo Units | Capacity over 3.15 b/s shal] be determined by the Administrative Authority. +7 FU (Fix fure Uni t) S 7. 4 8 SPM For 8 continuous flow into a drainage system, such as from sump pump or ejector, air conditioning equipment or simijar devices, two (2) fixture units *Intermittent Flow: 1 GPM = 0.063 Ips shall be allowed for every 0.063 Lis of flow *Continuous Flow (sump pump, ejector and similar devices): 1 GPM or 0.063lps = 2 FU",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#2 | pages 4-5",
+      "quality_flag": "probable",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "Standard Specification for Vitrified Clay Pipe, Extra Strength, Standard Strength, and Perforated",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ASTM D1785 (Standard Specification for PVC"
+        },
+        {
+          "label": "B",
+          "text": "ASTM B135 (Standard Specification tor Seamless"
+        },
+        {
+          "label": "C",
+          "text": "ASTM C700"
+        },
+        {
+          "label": "D",
+          "text": "ASTM A126 (Standard Specification for Gray Iron"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Plastic Pipes Sch. 40, 80 and 120",
+      "explanation_long": "Plastic Pipes Sch. 40, 80 and 120 Brass Tube Castings for Valves, Flanges and Pipe Fittings)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#3 | pages 6-7",
+      "quality_flag": "candidate",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Minimum thickness of copper pans or liners",
+      "choices": [
+        {
+          "label": "A",
+          "text": "16mm"
+        },
+        {
+          "label": "B",
+          "text": "0.8 mm"
+        },
+        {
+          "label": "C",
+          "text": "0.5 mm"
+        },
+        {
+          "label": "D",
+          "text": "1.1mm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "*lead and copper sub-pans or linings shall be installed from all conducting substances",
+      "explanation_long": "*lead and copper sub-pans or linings shall be installed from all conducting substances other than their connecting drain by 6.8 kg asphalt felt or its equivalent and no lead pan or liner shall be constructed of material weighing less than 19.6 kg/m?. Thickness of or liners shall be at least Gauge No. 24 B & S (0.5 mm) thick. Joints in lead pans or liners shall he burned. Joints in copper pans or liners shall be soldered or brazed.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#4 | pages 8-9",
+      "quality_flag": "candidate",
+      "source_pages": [
+        8,
+        9
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Dielectric unions are used to",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Connect plastic to copper pipes"
+        },
+        {
+          "label": "B",
+          "text": "Avoid water hammer"
+        },
+        {
+          "label": "C",
+          "text": "Prevent corrosion (prevents corrosion between dissimilar"
+        },
+        {
+          "label": "D",
+          "text": "Ground metallic pipe"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "metals in plumbing",
+      "explanation_long": "metals in plumbing",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#5 | pages 10-11",
+      "quality_flag": "candidate",
+      "source_pages": [
+        10,
+        11
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (prevents corrosion between dissimilar"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Discharge from a sump pump with 7 gpm of flow is computed as how many fixture units",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.936 FU"
+        },
+        {
+          "label": "B",
+          "text": "5.5 FU"
+        },
+        {
+          "label": "C",
+          "text": "21 FU"
+        },
+        {
+          "label": "D",
+          "text": "14 FU (RNPCP, Chapter 7) ISCHARGE CAPACITY"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "*1 FU (Fixture Unit) = 7.48 GPM",
+      "explanation_long": "*1 FU (Fixture Unit) = 7.48 GPM *Intermittent Flow: 1 GPM = 0.063 Ips *Continuous Flow (sump pump, ejector and similar devices): 1 GPM or 0.063lps = 2 FU TABLE 7-3 Letecs per second © FU. For intermittent Plow Only Laers per second Fixture Vat Lis} (F.U.) puto 47 ft Unit_ | 2 | 0.50100.95 LP 4 | 195 103.15 Capacity over 3.15 b/s shal] be determined by the Administrative Authority. For 8 continuous flow into a drainage system, such as from sump pump or ejector, air conditioning equipment or simijar devices, two (2) fixture units shall be allowed for every 0.063 L/s of flow",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#6 | pages 12-13",
+      "quality_flag": "probable",
+      "source_pages": [
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (RNPCP, Chapter 7) ISCHARGE CAPACITY"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "A schedule 40 pipe has an allowable stress (psi) of 11250 psi. What is its service pressure in psi?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "550 psi"
+        },
+        {
+          "label": "B",
+          "text": "400 psi"
+        },
+        {
+          "label": "C",
+          "text": "4000 psi"
+        },
+        {
+          "label": "D",
+          "text": "450 psi"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Schedule= 1000(Service Pressure/ Allowable Stress)",
+      "explanation_long": "Schedule= 1000(Service Pressure/ Allowable Stress) 40= 1000(X/11250 PSI) Shift+Solve= 450 PSI",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#7 | pages 14-15",
+      "quality_flag": "candidate",
+      "source_pages": [
+        14,
+        15
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "D",
+          "text": "FU (Drainage Fixture Unit) load of a 152 mm"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "horizontal pipe with 1% or 10.4mm/m slope",
+      "explanation_long": "horizontal pipe with 1% or 10.4mm/m slope . 428 DFU . 2640 DFU . 7/20 DFU . 976 DFU horizontal pipe with 1% or 10.4mm/m slope . 428 DFU . 2640 DFU . 7/20 DFU - 9376 DFU",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#8 | pages 16-17-18",
+      "quality_flag": "candidate",
+      "source_pages": [
+        16,
+        17,
+        18
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> FU (Drainage Fixture Unit) load of a 152 mm"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "According to RNPCP, what is the storage factor for fully equipped commercial kitchen- 24 hour in operation? Retention Times Conmmercial kitchen waste: . ] Dishwasher and/or disposal 2.5 hours Single service kitchen: . 1.5 Single servis; with disposal HE. Blew 1.5 hours Sand-silt-oi . 2.0 hours . y) Lint-silt (laundry) S Utimaerescnnareen 2:0 ROUTE Storage Factors : Fully equipped commercial kitchen 2.2... .. .... Bhr operation 1, 3(RNPCP, Appendix B) au & 24 br, operation: 3 5 5",
+      "choices": [],
+      "answer_key": null,
+      "explanation_short": "Cc",
+      "explanation_long": "Cc Single service kitchen . oy Auto washers self-serve: i employee operated: 2 Laundries. laundromats 1.5 (allows for rock filter) Recommended Design Criteria",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#9 | pages 19-20",
+      "quality_flag": "candidate",
+      "source_pages": [
+        19,
+        20
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Maximum gradient of accessible ramp according to the amended 2024 IRR of Accessibility law",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 6 2 O HANDRAILS ON BOTH SIDES AT RANCE f"
+        },
+        {
+          "label": "B",
+          "text": "1:12 (old IRR) FROM FINISH RAMP LANDING LEVEL P 344 Old IRR"
+        },
+        {
+          "label": "C",
+          "text": "1:24"
+        },
+        {
+          "label": "D",
+          "text": "1:18"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ".. —-_",
+      "explanation_long": ".. —-_ oom & 08 nee HIGH 1200 eee MOEN RAMPCLE",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#10 | pages 21-22",
+      "quality_flag": "candidate",
+      "source_pages": [
+        21,
+        22
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "According to 2024 Uniform Plumbing Code, suction fittings on whirlpool bathtubs shall comply with",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SME Al112.19.7/CSA B45.10 SME $112.19.7/CSA B2024.10 STM F137-08 STM F879"
+        },
+        {
+          "label": "B",
+          "text": "ASME $112.19.7/CSA B2024.10"
+        },
+        {
+          "label": "C",
+          "text": "ASTM F137-08 (Standard Test Method for Flexibility of Resilient"
+        },
+        {
+          "label": "D",
+          "text": "ASTM F879 (Standard Specification for Stainless Steel Socket"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Flooring Materials with Cylindrical Mandrel Apparatus)",
+      "explanation_long": "Flooring Materials with Cylindrical Mandrel Apparatus) Button and Flat Countersunk) . . 409.6.1 Suction Fittings. Suction fittings on whirlpool bathtubs shall comply with ASME",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#11 | pages 23-24",
+      "quality_flag": "candidate",
+      "source_pages": [
+        23,
+        24
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "The first step or process in wastewater treatment",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grit Removal (removal of sand and gravel by flowing the"
+        },
+        {
+          "label": "B",
+          "text": "Bar Screening (removal of large items from the influent)"
+        },
+        {
+          "label": "C",
+          "text": "Primary Clarifier (it allows for the physical separation of"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "influent over or through a grit chamber)",
+      "explanation_long": "influent over or through a grit chamber) solids and greases from the wastewater.)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#12 | pages 25-26-27",
+      "quality_flag": "probable",
+      "source_pages": [
+        25,
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Made from raw organic materials (such as coconut shells or coal) that is used to remove chemicals that give objectionable odors or taste to water",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Animal Charcoal (bone charcoal, used as a filtration media,"
+        },
+        {
+          "label": "B",
+          "text": "Diatomaceous Earth (a special filtration process that removes"
+        },
+        {
+          "label": "C",
+          "text": "Sandstone (acts like a natural sponge to filters surface"
+        },
+        {
+          "label": "D",
+          "text": "Granular Activated Carbon (Charcoal Filters; wqa.org)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "particularly removing fluoride, arsenic and heavy metals)",
+      "explanation_long": "particularly removing fluoride, arsenic and heavy metals) particles from liquids as it passes through a layer of fossilized remains of microscopic water organism called diatoms) pollutants)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#13 | pages 28-29",
+      "quality_flag": "candidate",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "As a Master Plumber, you are tasked to design a male comfort room. As per requirements, the minimum required water closet is 12. If urinals are provided, what is the maximum number of urinals can be placed instead of a water closet?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4 (8 water closets and 4 urinals, 2/3 of the min. required"
+        },
+        {
+          "label": "B",
+          "text": "8. ass Uniform Plumbing Code"
+        },
+        {
+          "label": "C",
+          "text": "earn that the nuniber of water closcts in such cases shall not be reduced to less than iwo-thisds (2/3) of"
+        },
+        {
+          "label": "D",
+          "text": "5 @e maimum specified"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "12 W Cc IS 8 ) ” For each urinal added in excess of the minimum required, one water closet shall be permitted to be deducted. The number of water closets shall not be reduced",
+      "explanation_long": "12 W Cc IS 8 ) ” For each urinal added in excess of the minimum required, one water closet shall be permitted to be deducted. The number of water closets shall not be reduced to less than two-thirds of the minimum requirement. 6 SS henever urinals are provided, onc (1) waict closet is subtracted from the number specified on the table, RNPCP, Chapter 4",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#14 | pages 30-31",
+      "quality_flag": "candidate",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Flow rate (high) of emergency showers",
+      "choices": [
+        {
+          "label": "A",
+          "text": "100 gpm (ASPE Vol. 4, Chapter 1)"
+        },
+        {
+          "label": "B",
+          "text": "25 gpm (low flow rate)"
+        },
+        {
+          "label": "C",
+          "text": "90 gpm"
+        },
+        {
+          "label": "D",
+          "text": "200 gpm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Figure 1-20 Emergency Shower",
+      "explanation_long": "Figure 1-20 Emergency Shower ourtesy of Haws Corporation.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#15 | pages 32-33",
+      "quality_flag": "candidate",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "Flange union gasket material for oil lines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sheet rubber (cold water piping)"
+        },
+        {
+          "label": "B",
+          "text": "Rubber (hot water lines)"
+        },
+        {
+          "label": "C",
+          "text": "Metallic or asbestos composition (AUDEL Plumbers"
+        },
+        {
+          "label": "D",
+          "text": "Leather (gas piping)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Pocket Manual, Chapter 19)",
+      "explanation_long": "Pocket Manual, Chapter 19)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#16 | pages 34-35",
+      "quality_flag": "candidate",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Continuity Crisis Management",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NFPA 211 (Standard for Chimneys, Fireplaces, Vents, and"
+        },
+        {
+          "label": "B",
+          "text": "NFPA 220 (Standard on Types of Building Construction)"
+        },
+        {
+          "label": "C",
+          "text": "NFPA 720 (Standard for the Installation of Carbon Monoxide"
+        },
+        {
+          "label": "D",
+          "text": "NFPA 1600 (nfpa.org)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Solid Fuel-Burning Appliances)",
+      "explanation_long": "Solid Fuel-Burning Appliances) (CO) Detection and Warning Equipment)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#17 | pages 36-37",
+      "quality_flag": "candidate",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "GPM is equal to",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.315"
+        },
+        {
+          "label": "B",
+          "text": "0.063 (1 GPM= 0.063 LPS)"
+        },
+        {
+          "label": "C",
+          "text": "18.9"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "_ liters per second",
+      "explanation_long": "_ liters per second _ 18.9 (5 GPM=18.9 LPM) _ 1,134 (5 GPM= 1,134 LPH) liters per second LPS- Liters per Second LPM- Liters per Minute LPH- Liters per Hour 1 gallon= 3.78 liters 1 FU=7.48 GPM",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#18 | pages 38-39",
+      "quality_flag": "probable",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (1 GPM= 0.063 LPS)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q019",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "Maximum safe chlorine level for potable water",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 ppm (too little, risk of incomplete disinfection)"
+        },
+        {
+          "label": "B",
+          "text": "2 ppm (same with choice A; too little, risk of incomplete"
+        },
+        {
+          "label": "C",
+          "text": "3 ppm (enviroliteracy.org)"
+        },
+        {
+          "label": "D",
+          "text": "6 ppm (too much chlorine, unpleasant to drink and"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "disinfection)",
+      "explanation_long": "disinfection) potentially harmful)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#19 | pages 40-41",
+      "quality_flag": "candidate",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "1 5 MGDisequivalenttoapproximately",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 0, 5 0 0 GPM"
+        },
+        {
+          "label": "B",
+          "text": "1 0, 5 0 0 CFS"
+        },
+        {
+          "label": "C",
+          "text": "FS (Cubic Feet per Second) = GPM/449"
+        },
+        {
+          "label": "D",
+          "text": "6, 7 3 5 CFS"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "GPM (Gallons per Minute) = MGD X 700",
+      "explanation_long": "GPM (Gallons per Minute) = MGD X 700 GPM (Gallons per Minute) = CFS X 449",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#20 | pages 42-43",
+      "quality_flag": "candidate",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "direct",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> FS (Cubic Feet per Second) = GPM/449"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Brass valves should not be used for operating temperatures above",
+      "choices": [
+        {
+          "label": "A",
+          "text": "600F"
+        },
+        {
+          "label": "B",
+          "text": "SSOF"
+        },
+        {
+          "label": "C",
+          "text": "450F (ASPE Volume 4, Chapter 3)"
+        },
+        {
+          "label": "D",
+          "text": "SSOF"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#21 | pages 44-45",
+      "quality_flag": "probable",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> 450F (ASPE Volume 4, Chapter 3)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Identification of pipe by color according to NBC Amended Rules and Regulation- Rule XIII Electrical and Mechanical Regulations of low- pressure steam",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red"
+        },
+        {
+          "label": "B",
+          "text": "Yellow"
+        },
+        {
+          "label": "C",
+          "text": "OLOR CODING OF PIPING OLOR MATERIAL PIPED PIPE IDENTIFICATION"
+        },
+        {
+          "label": "D",
+          "text": "Butf (exhaust system;NBC Rule X-Mechanical Regulations)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Regulations)",
+      "explanation_long": "Regulations) Philippine Pipe Color Code te NATIONAL BUILDING CODE (Rule X — Mechanical Regulafons) pp1¢ IDENTIFICATION OF PIPE BY COLOR NBC Amended Rules and Regulation (PD 1096) Rule XIII Electrical and Mechanical Regulations Steam High Pressure Exhaust System H.P. & L.P. Fresh Water Salt Water Delivery BRASS BRONZE Discharge YELLOW Pneumatic All Piping Gas All Piping Fuel Oil All Piping GREEN Air-Low Press LP. Air i F beked Refrigeration Pipes and Fittings L.P. Argon L.P. Helium LP. Nitrogen Cold Water Distilled Water L.P. Water Treated Water",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#22 | pages 46-47-48",
+      "quality_flag": "candidate",
+      "source_pages": [
+        46,
+        47,
+        48
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "According to the 2024 Amended IRR of BP344 Accessibility Law, what is the turning diameter for wheelchairs",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.5 m (old IRR)"
+        },
+        {
+          "label": "B",
+          "text": "1. 8 m AMENDED"
+        },
+        {
+          "label": "C",
+          "text": "1.7 m WHEELCHAIR"
+        },
+        {
+          "label": "D",
+          "text": "IAMETER) circle diameter"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "IRR",
+      "explanation_long": "IRR TURNING SPACE",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#23 | pages 49-50",
+      "quality_flag": "probable",
+      "source_pages": [
+        49,
+        50
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Minimum storage tank size in cu.m of a structure having a building footprint of 750 sq.m",
+      "choices": [
+        {
+          "label": "A",
+          "text": "10 (calculated by dividing the total building footprint"
+        },
+        {
+          "label": "B",
+          "text": "20"
+        },
+        {
+          "label": "C",
+          "text": "7.5"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "15",
+      "explanation_long": "15 _ 7.9 area by 75; The Philippine Green Building Code, Section 11)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#24 | pages 51-52",
+      "quality_flag": "candidate",
+      "source_pages": [
+        51,
+        52
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (calculated by dividing the total building footprint"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Maximum height of water closet for juvenile use",
+      "choices": [
+        {
+          "label": "A",
+          "text": "13” (ASPE, Vol 4, Chapter 1)"
+        },
+        {
+          "label": "B",
+          "text": "14\""
+        },
+        {
+          "label": "C",
+          "text": "10°"
+        },
+        {
+          "label": "D",
+          "text": "14” (Standard)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Children)",
+      "explanation_long": "Children) Physically Challenged) ( ( (",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#25 | pages 53-54",
+      "quality_flag": "candidate",
+      "source_pages": [
+        53,
+        54
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "IAPMO stands for ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "International Association of Plumbing and Mechanical Officials"
+        },
+        {
+          "label": "B",
+          "text": "International Administration of Plumbing and Mechanical Officials International Administration of Plumbing and Mechanical Official"
+        },
+        {
+          "label": "C",
+          "text": "International Association of Plumbing and Mechanical Official"
+        },
+        {
+          "label": "D",
+          "text": "International Administration of Plumbing and Mechanical Official"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#26 | pages 55-56",
+      "quality_flag": "review",
+      "source_pages": [
+        55,
+        56
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "No artesians, deep or shallow well shall be constructed within from any source of pollution",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15.2 m (RNPCP; water supply wells distance from building"
+        },
+        {
+          "label": "B",
+          "text": "25 m (PD 856- Code on Sanitation of the Philippines,"
+        },
+        {
+          "label": "C",
+          "text": "30.5 m (RNPCP; water supply wells distance from disposal"
+        },
+        {
+          "label": "D",
+          "text": "10™m"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": ". 25 m",
+      "explanation_long": ". 25 m sewer and septic tank) Chapter 2, Section 12) tield)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#28 | pages 59-60",
+      "quality_flag": "probable",
+      "source_pages": [
+        59,
+        60
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Minimum points for LEED Leadership in Energy and Environmental Design - Gold Level",
+      "choices": [
+        {
+          "label": "A",
+          "text": "26-32 points (Certified)"
+        },
+        {
+          "label": "B",
+          "text": "33-38 points (Silver)"
+        },
+        {
+          "label": "C",
+          "text": "39-51 points (ASPE Volume 1, Chapter 12)"
+        },
+        {
+          "label": "D",
+          "text": "52 + points (Platinum)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#29 | pages 61-62",
+      "quality_flag": "review",
+      "source_pages": [
+        61,
+        62
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "On scale of 1:100 meters, what represent? 1",
+      "choices": [
+        {
+          "label": "A",
+          "text": "|"
+        },
+        {
+          "label": "B",
+          "text": "|"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1",
+      "explanation_long": "1 cm cm cm cm on the plan is 100 m on the field on the plan is 1000 cm on the field on the plan is 10 mon the field on the plan is 100 cm on the field",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#30 | pages 63-64",
+      "quality_flag": "candidate",
+      "source_pages": [
+        63,
+        64
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "A pump capable of generating 150 feet head of gasoline would provide a pressure of",
+      "choices": [
+        {
+          "label": "A",
+          "text": "55.50 psig"
+        },
+        {
+          "label": "B",
+          "text": "45.50 psig (/ psi= 2.31 ft. head; (150ft.head/2.31)*"
+        },
+        {
+          "label": "C",
+          "text": "95.50 psig"
+        },
+        {
+          "label": "D",
+          "text": "60.50 psig"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "(specific gravity of gasoline(0.70))=-45.50psig)",
+      "explanation_long": "(specific gravity of gasoline(0.70))=-45.50psig)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#31 | pages 65-66",
+      "quality_flag": "probable",
+      "source_pages": [
+        65,
+        66
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (/ psi= 2.31 ft. head; (150ft.head/2.31)*"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "“Strong Waste” refers to wastewater whose initial BOD value before treatment is equal to or greater than",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2000 mg/I|"
+        },
+        {
+          "label": "B",
+          "text": "2500 mg/|"
+        },
+        {
+          "label": "C",
+          "text": "3000 mg/I (DAO No. 35; Biochemical oxygen demand or"
+        },
+        {
+          "label": "D",
+          "text": "3500 mg/I|"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "biological oxygen demand (BOD) is a measure of the amount of",
+      "explanation_long": "biological oxygen demand (BOD) is a measure of the amount of Dissolved Oxygen (DO) required by aerobic microorganisms to decompose organic matter present in a sample of water ata certain temperature over a studied period. BOD value is usually expressed in milligrams of oxygen per liter of water (mg/L)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#32 | pages 67-68",
+      "quality_flag": "candidate",
+      "source_pages": [
+        67,
+        68
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 3000 mg/I (DAO No. 35; Biochemical oxygen demand or"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Water with less than 0.5 parts per thousand dissolved salt concentration",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Freshwater"
+        },
+        {
+          "label": "B",
+          "text": "Seawater (between 30-35 parts per thousand salt"
+        },
+        {
+          "label": "C",
+          "text": "Brackish Water (between 0.5-30 parts per thousand salt"
+        },
+        {
+          "label": "D",
+          "text": "Hypersaline Water (50 parts per thousand salt concentration)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "concentration)",
+      "explanation_long": "concentration) concentration)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#33 | pages 69-70",
+      "quality_flag": "probable",
+      "source_pages": [
+        69,
+        70
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "Form of precipitation and sometimes called mists, consists of tiny liquid water droplets, usually with diameter between 0.1mm and 0.50mm",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rain (consists of liquid water drops mostly larger than 0.50mm"
+        },
+        {
+          "label": "B",
+          "text": "Hail (precipitation in the form of balls or irregular lumps of ice)"
+        },
+        {
+          "label": "C",
+          "text": "Drizzle"
+        },
+        {
+          "label": "D",
+          "text": "Glaze (ice coating, generally clear and smooth but usually"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "in diameter)",
+      "explanation_long": "in diameter) containing some air pockets, formed on exposed surfaces by the freezing of super cooled water deposited by rain or drizzle)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#34 | pages 71-72",
+      "quality_flag": "probable",
+      "source_pages": [
+        71,
+        72
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": ". PEXpipesshouldbesupportedatleastevery",
+      "choices": [
+        {
+          "label": "A",
+          "text": "24\" khhya"
+        },
+        {
+          "label": "B",
+          "text": "3 0 ”"
+        },
+        {
+          "label": "C",
+          "text": "32” (pexuniverse.com)"
+        },
+        {
+          "label": "D",
+          "text": "4 8 ”"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "PEX pipes should be supported at least every",
+      "explanation_long": "PEX pipes should be supported at least every PEX pipe or PEX tubing is made of a cross-linked 7 polyethylene plastic, which is a flexible plastic. 4%",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#35 | pages 73-74",
+      "quality_flag": "candidate",
+      "source_pages": [
+        73,
+        74
+      ],
+      "extraction_methods": [
+        "direct",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 32” (pexuniverse.com)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "No more than of flammable liquids can be stored in a room outside of an approved storage cabinet",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20 gallons"
+        },
+        {
+          "label": "B",
+          "text": "50 gallons"
+        },
+        {
+          "label": "C",
+          "text": "15 gallons"
+        },
+        {
+          "label": "D",
+          "text": "25 gallons (Occupational Safety and Health"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Administration, Flammable Liquids)",
+      "explanation_long": "Administration, Flammable Liquids)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#36 | pages 75-76",
+      "quality_flag": "candidate",
+      "source_pages": [
+        75,
+        76
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (Occupational Safety and Health"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Is the type of wastewater disinfection that destroy the cell’s ability to reproduce",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen Uptake"
+        },
+        {
+          "label": "B",
+          "text": "UV (Ultraviolet Disinfection, kills germs with light"
+        },
+        {
+          "label": "C",
+          "text": "Ozone (another type of wastewater disinfection, kill germs"
+        },
+        {
+          "label": "D",
+          "text": "Chlorination (most common and inexpensive)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "energy; epa.gov)",
+      "explanation_long": "energy; epa.gov) as an oxidizer, very strong oxidant and virucide)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#37 | pages 77-78",
+      "quality_flag": "probable",
+      "source_pages": [
+        77,
+        78
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SPE Vol. 4- Globe Valves"
+        },
+        {
+          "label": "B",
+          "text": "Composition Disc Globe Valve (ASPE Vol. 4)"
+        },
+        {
+          "label": "C",
+          "text": "Conventional Disc Globe Valve"
+        },
+        {
+          "label": "D",
+          "text": "Split Wedge Gate Valve"
+        },
+        {
+          "label": "E",
+          "text": "ESJSS"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Parallel Gate Wedge-Shaped Gate",
+      "explanation_long": "Parallel Gate Wedge-Shaped Gate (mle SJ ‘a SS Y WSN \\ S$ SAN NSS S Sold Wedge | Split Wedge | Flexible Wedge Vol. 4- Gate Valves Composition Disc - differs from the other types as it does not fit into the seat opening but over it, much as a bottlecap fits over the bottle opening Conventional Disc — has a pressure tight bearing between the disc and the seat, recommended for cold water and any temperature service. _ Plug-Type Disc - disc is far more tapered compared to other types, thereby has a wide bearing surface producing increased resistance to the cutting effects of dirt, scale, and other foreign matter. Conventional Disc Plug-Type Disc Composition Disc",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#38 | pages 79-80-81",
+      "quality_flag": "probable",
+      "source_pages": [
+        79,
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (ASPE Vol. 4)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "Insulated water pipe heat loss",
+      "choices": [
+        {
+          "label": "A",
+          "text": "80%"
+        },
+        {
+          "label": "B",
+          "text": "85%"
+        },
+        {
+          "label": "C",
+          "text": "9O%"
+        },
+        {
+          "label": "D",
+          "text": "75% 90%"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 85%",
+      "explanation_long": ". 85% om 80% (AUDEL Plumbers Pocket Manual, Chapter 1!)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#39 | pages 82-83",
+      "quality_flag": "candidate",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "When gutter has semi-circular bottom, the depth of equivalent area of rectangular gutter",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.392 x diameter (RNPCP, Chapter 11)"
+        },
+        {
+          "label": "B",
+          "text": "0.8862 x diameter"
+        },
+        {
+          "label": "C",
+          "text": "0.7762 x diameter"
+        },
+        {
+          "label": "D",
+          "text": "0.492 x diameter"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "X DIAMETER",
+      "explanation_long": "X DIAMETER Depth of equivalent area of rectangular gutter = 0.392 x diameter. Ngee Width of Rectangular Gutter = 0. 8862 x diameter ae) WW aeews",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#40 | pages 84-85",
+      "quality_flag": "probable",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (RNPCP, Chapter 11)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Maximum velocity of water for piping",
+      "choices": [],
+      "answer_key": null,
+      "explanation_short": "3m/sec",
+      "explanation_long": "3m/sec . 5m/sec 2m/sec . Im/sec sizing supply 3m/sec (RNPCP, Appendix A) . 5m/sec 2m/sec . Im/sec sizing supply",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#41 | pages 86-87",
+      "quality_flag": "candidate",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Minimum compressive strength of brick or block in seepage pit construction",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2000 psi"
+        },
+        {
+          "label": "B",
+          "text": "19.2 kpa (minimum earth load capacity of the seepage pit"
+        },
+        {
+          "label": "C",
+          "text": "2500 psi (17,225 kpa; RNPCP, Appendix B)"
+        },
+        {
+          "label": "D",
+          "text": "14.4 kpa (minimum earth load capacity of septic tank cover)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "slab cover)",
+      "explanation_long": "slab cover) 1 PSI = 6.895 KPA",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#42 | pages 88-89",
+      "quality_flag": "probable",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Protection of Professionals in the Philippines . PD 223 . LOI 1000 . PD 1185",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 223 (Creation of Professional Regulation Commission)"
+        },
+        {
+          "label": "B",
+          "text": "LOI 1000"
+        },
+        {
+          "label": "C",
+          "text": "PD 1185 (Old Fire Code of the Philippines; RA 9514- New Fire"
+        },
+        {
+          "label": "D",
+          "text": "BP 220 (Rules for standard for Economic and Socialized"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Code of the Philippines)",
+      "explanation_long": "Code of the Philippines) Housing Projects) LOI 1000- Letter of Instruction No. 1000",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#453 | pages 90-91",
+      "quality_flag": "candidate",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "A chamber for sewage reception and processing, consisting of an upper and a lower digestion chamber sedimentation chamber",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Imhoff Tank (wikipedia.org)"
+        },
+        {
+          "label": "B",
+          "text": "Schmutzdecke (a biological layer on the surface of a slow sand"
+        },
+        {
+          "label": "C",
+          "text": "Septic Tank (an underground sedimentation tank in a wastewater"
+        },
+        {
+          "label": "D",
+          "text": "Dosing Tank (watertight tank placed between the septic tank and"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "tilter that purifies water. It consists of various organisms such as",
+      "explanation_long": "tilter that purifies water. It consists of various organisms such as bacteria, fungi, protozoa, algae and insects) treatment system) distribution box equipped with a pump o automatic siphon design)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#44 | pages 92-93-94",
+      "quality_flag": "candidate",
+      "source_pages": [
+        92,
+        93,
+        94
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "At what temperature will the Celsius and Fahrenheit degrees reading be equal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "88.88 C"
+        },
+        {
+          "label": "B",
+          "text": "60 C"
+        },
+        {
+          "label": "C",
+          "text": "-40 C"
+        },
+        {
+          "label": "D",
+          "text": "0C"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ".O0C",
+      "explanation_long": ".O0C Temperature Degrees Celsius Degrees Fahrenheit Absolute Zero -273.15 °C -459.67 °F °C (°F 32) 5/9 Freezing Point of Water 0°C 32 °F = = x OF = (° Cx 1. 8) + 32 Triple Point of Water 0.01 °C 32.018 °F Boiling Point of Water 100 °C 212 °F Surface of the Sun 5,600 °C 10,100 °F Temperature Reference Points In °C and °F",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#45 | pages 95-96",
+      "quality_flag": "candidate",
+      "source_pages": [
+        95,
+        96
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Lightandordinaryhazardsprinklerheadspacing",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3.7 m (extra hazard)"
+        },
+        {
+          "label": "B",
+          "text": "4.6 m (NFPA 13-Standard for the Installation of Sprinkler"
+        },
+        {
+          "label": "C",
+          "text": "2. 8 m"
+        },
+        {
+          "label": "D",
+          "text": "2. 5"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Systems)",
+      "explanation_long": "Systems)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#46 | pages 97-98",
+      "quality_flag": "candidate",
+      "source_pages": [
+        97,
+        98
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "The original plumbing permit fee is 10,000 PHP, in case of a renewal, how much is the renewal fee?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "7,500 PHP"
+        },
+        {
+          "label": "B",
+          "text": "15,000 PHP"
+        },
+        {
+          "label": "C",
+          "text": "5,000 PHP (50% of the original fee shall be paid in case of"
+        },
+        {
+          "label": "D",
+          "text": "2,500 PHP"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "renewal; RNPCP, Chapter 1)",
+      "explanation_long": "renewal; RNPCP, Chapter 1)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#47 | pages 99-100",
+      "quality_flag": "candidate",
+      "source_pages": [
+        99,
+        100
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 5,000 PHP (50% of the original fee shall be paid in case of"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "The phase change from gas directly to solid",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition"
+        },
+        {
+          "label": "B",
+          "text": "Sublimation (Solid to Gas)"
+        },
+        {
+          "label": "C",
+          "text": "Condensation (Gas to Liquid)"
+        },
+        {
+          "label": "D",
+          "text": "Evaporation (Liquid to Gas)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#48 | pages 101-102",
+      "quality_flag": "probable",
+      "source_pages": [
+        101,
+        102
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "According to PDE by Max Fajardo, what is the maximum interval distance of manhole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "150 m"
+        },
+        {
+          "label": "B",
+          "text": "75 m (minimum interval distance)"
+        },
+        {
+          "label": "C",
+          "text": "1OO m"
+        },
+        {
+          "label": "D",
+          "text": "91m (RNPCP, Chapter 12)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#49 | pages 103-104",
+      "quality_flag": "review",
+      "source_pages": [
+        103,
+        104
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-02-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lug Style, Butterfly Valve (ASPE, Volume 4)"
+        },
+        {
+          "label": "B",
+          "text": "Water Style, Butterfly Valve"
+        },
+        {
+          "label": "C",
+          "text": "Flower Style, Butterfly Valve"
+        },
+        {
+          "label": "D",
+          "text": "Protruding Style, Butterfly Valve"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#50 | pages 105-106-107",
+      "quality_flag": "probable",
+      "source_pages": [
+        105,
+        106,
+        107
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (ASPE, Volume 4)"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-03-21T13:17:45.425069+00:00",
+  "source_count": 5,
+  "classification": "ocr_queue",
+  "entries": [
+    {
+      "slug": "plumbing-arithmetic__terms-01",
+      "converter": "mcq",
+      "classification": "ocr_queue",
+      "classification_reasons": [
+        "Source notes mark this file as OCR-heavy"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\PLUMBING ARITHMETIC-20260126T193107Z-3-001\\PA - TERMS 1.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\ocr\\plumbing-arithmetic__terms-01__mcq__candidate__v1.json",
+      "question_count": 51,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "probable": 51
+      },
+      "quality_ratios": {
+        "probable": 1.0
+      },
+      "notes": [
+        "OCR-heavy question bank."
+      ]
+    },
+    {
+      "slug": "plumbing-arithmetic__terms-02",
+      "converter": "mcq",
+      "classification": "ocr_queue",
+      "classification_reasons": [
+        "Source notes mark this file as OCR-heavy"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\PLUMBING ARITHMETIC-20260126T193107Z-3-001\\PA - TERMS 2.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\ocr\\plumbing-arithmetic__terms-02__mcq__candidate__v1.json",
+      "question_count": 52,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "probable": 52
+      },
+      "quality_ratios": {
+        "probable": 1.0
+      },
+      "notes": [
+        "OCR-heavy question bank."
+      ]
+    },
+    {
+      "slug": "plumbing-arithmetic__terms-03",
+      "converter": "mcq",
+      "classification": "ocr_queue",
+      "classification_reasons": [
+        "Source notes mark this file as OCR-heavy"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\PLUMBING ARITHMETIC-20260126T193107Z-3-001\\PA - TERMS 3.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\ocr\\plumbing-arithmetic__terms-03__mcq__candidate__v1.json",
+      "question_count": 47,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "probable": 47
+      },
+      "quality_ratios": {
+        "probable": 1.0
+      },
+      "notes": [
+        "OCR-heavy question bank."
+      ]
+    },
+    {
+      "slug": "plumbing-arithmetic__terms-04",
+      "converter": "mcq",
+      "classification": "ocr_queue",
+      "classification_reasons": [
+        "Source notes mark this file as OCR-heavy"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\PLUMBING ARITHMETIC-20260126T193107Z-3-001\\PA - TERMS 4.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\ocr\\plumbing-arithmetic__terms-04__mcq__candidate__v1.json",
+      "question_count": 31,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "review": 7,
+        "probable": 24
+      },
+      "quality_ratios": {
+        "review": 0.2258,
+        "probable": 0.7742
+      },
+      "notes": [
+        "OCR-heavy question bank."
+      ]
+    },
+    {
+      "slug": "reference__plumbing-arithmetic-book",
+      "converter": "mcq",
+      "classification": "ocr_queue",
+      "classification_reasons": [
+        "Source notes mark this file as OCR-heavy"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\10. Plumbing Arithmetic_.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\ocr\\reference__plumbing-arithmetic-book__mcq__candidate__v1.json",
+      "question_count": 18,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "review": 18
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": [
+        "OCR-heavy question bank."
+      ]
+    }
+  ]
+}

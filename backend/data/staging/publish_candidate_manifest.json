@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-03-21T13:17:45.423560+00:00",
+  "source_count": 3,
+  "classification": "publish_candidate",
+  "entries": [
+    {
+      "slug": "advance-qa__week-06",
+      "converter": "mcq",
+      "classification": "publish_candidate",
+      "classification_reasons": [
+        "MCQ bank has enough volume with limited review-only items"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 6.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\published\\advance-qa__week-06__mcq__candidate__v1.json",
+      "question_count": 49,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "candidate": 22,
+        "probable": 27
+      },
+      "quality_ratios": {
+        "candidate": 0.449,
+        "probable": 0.551
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-08",
+      "converter": "mcq",
+      "classification": "publish_candidate",
+      "classification_reasons": [
+        "MCQ bank has enough volume with limited review-only items"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 8.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\published\\advance-qa__week-08__mcq__candidate__v1.json",
+      "question_count": 50,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "probable": 21,
+        "review": 9,
+        "candidate": 20
+      },
+      "quality_ratios": {
+        "probable": 0.42,
+        "review": 0.18,
+        "candidate": 0.4
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-09",
+      "converter": "mcq",
+      "classification": "publish_candidate",
+      "classification_reasons": [
+        "MCQ bank has enough volume with limited review-only items"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 9.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\published\\advance-qa__week-09__mcq__candidate__v1.json",
+      "question_count": 49,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "candidate": 26,
+        "probable": 19,
+        "review": 4
+      },
+      "quality_ratios": {
+        "candidate": 0.5306,
+        "probable": 0.3878,
+        "review": 0.0816
+      },
+      "notes": []
+    }
+  ]
+}

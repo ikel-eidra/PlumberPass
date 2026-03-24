@@ -1,0 +1,2171 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "candidate": 26,
+      "probable": 19,
+      "review": 4
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-09",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 9.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:05:27.807771+00:00",
+    "classification": "publish_candidate",
+    "classification_reasons": [
+      "MCQ bank has enough volume with limited review-only items"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-09-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Minimum area and dimensions of a shower compartment shall be maintained from a point above the shower drain outlet to a height of",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.78 cm"
+        },
+        {
+          "label": "B",
+          "text": "5.84 ft (1.78m)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc",
+      "explanation_long": "Cc . 178 mm . 1.78 ft",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#1 | pages 2-3",
+      "quality_flag": "candidate",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Width of wash sink, when provided with water outlets, shall be considered equivalent to 1 lavatory",
+      "choices": [
+        {
+          "label": "A",
+          "text": "24\""
+        },
+        {
+          "label": "B",
+          "text": "18\" (diameter of circular basin, when provided with water outlets, shall be"
+        },
+        {
+          "label": "C",
+          "text": "20”"
+        },
+        {
+          "label": "D",
+          "text": "30”"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". 20\"",
+      "explanation_long": ". 20\" . 50\" considered equivalent to 1 lavatory)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#2 | pages 4-5",
+      "quality_flag": "candidate",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 18\" (diameter of circular basin, when provided with water outlets, shall be"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 ” (PVCoperatingat 1 4 0 Fexpansionper 1 0 0 ft)"
+        },
+        {
+          "label": "B",
+          "text": "2 1 / 4 ”"
+        },
+        {
+          "label": "C",
+          "text": "PVCandPVDFoperatingat 1 4 0 Fwillexpandatapproximately 3 ”"
+        },
+        {
+          "label": "D",
+          "text": "3 1 / 4 ” (AudelPPM)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "per 1 0 0 ft",
+      "explanation_long": "per 1 0 0 ft per 1 0 0 ft",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#3 | pages 6-7",
+      "quality_flag": "candidate",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Estimatedsewageflowratespercustomerforrestaurantstoilet",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5 gpd"
+        },
+        {
+          "label": "B",
+          "text": "7 gpd (26.5 Ipd; RNPCP,Table B-3)"
+        },
+        {
+          "label": "C",
+          "text": "1 0 gpd"
+        },
+        {
+          "label": "D",
+          "text": "1 5 gpd"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "*convert all liters to gallons for easier recall/ memorization",
+      "explanation_long": "*convert all liters to gallons for easier recall/ memorization",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#4 | pages 8-9",
+      "quality_flag": "probable",
+      "source_pages": [
+        8,
+        9
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (26.5 Ipd; RNPCP,Table B-3)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Whatistheminimumweighteachkilogramofa 3 ” caulking ? ferrule",
+      "choices": [
+        {
+          "label": "A",
+          "text": "54 DIMENSIONS AND WEIGHTS OF 0"
+        },
+        {
+          "label": "B",
+          "text": "0.790 (RNPCP)"
+        },
+        {
+          "label": "C",
+          "text": "O AULKING FERRULES"
+        },
+        {
+          "label": "D",
+          "text": "1. IMENSIONS AND WEIGHTS OF hg} mmKR"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Minimum",
+      "explanation_long": "Minimum . . 9 O 8 Pipe Sve Inside Diameter Weight each mm mam ’ g 132 SOL DEKING BUSHINGS Minimum | Minimum Weight each | Pipe Size } Weight cach 168 | | 63 622 +224 | 76 | 908 I 392 | —t L.586 |",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#5 | pages 10-11",
+      "quality_flag": "probable",
+      "source_pages": [
+        10,
+        11
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Workingloadofhotwaterforindustrialtypebuildings",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 5 %"
+        },
+        {
+          "label": "B",
+          "text": "3 5 %"
+        },
+        {
+          "label": "C",
+          "text": "5 0 %"
+        },
+        {
+          "label": "D",
+          "text": "6 5 %"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "14-8 Working Load of Hot Wate",
+      "explanation_long": "14-8 Working Load of Hot Wate r System g load of hot water supply system jn build what difficult to estimate, but exper z ate, xperienceg ffices or industrial type buildings, the rated maximum consumption of hot water nis about 25% apartments and residences, the average working For Hotels, the working load is 50% of the rated consumption per person",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#6 | pages 12-13",
+      "quality_flag": "candidate",
+      "source_pages": [
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Maximum absorption capacity of coarse sand and gravel in L/sq.m",
+      "choices": [
+        {
+          "label": "A",
+          "text": "33.8"
+        },
+        {
+          "label": "B",
+          "text": "44.8"
+        },
+        {
+          "label": "C",
+          "text": "101.9"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 203.7",
+      "explanation_long": ". 203.7",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#7 | pages 14-15",
+      "quality_flag": "candidate",
+      "source_pages": [
+        14,
+        15
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Maximum height of drainpipe of pressure relief valve above the ground and pointing downward",
+      "choices": [
+        {
+          "label": "A",
+          "text": "152 mm (minimum)"
+        },
+        {
+          "label": "B",
+          "text": "0.30 m"
+        },
+        {
+          "label": "C",
+          "text": "600 mm (RNPCP, Chapter 6)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 0.9 m",
+      "explanation_long": ". 0.9 m . 0.9 m",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#8 | pages 16-17",
+      "quality_flag": "candidate",
+      "source_pages": [
+        16,
+        17
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Slopeofshorthorizontaldrainagepipewherecleanoutsmaybe omitted",
+      "choices": [
+        {
+          "label": "A",
+          "text": "72deg or less (RNPCP, Chapter 7)"
+        },
+        {
+          "label": "B",
+          "text": "exceeding 135deg (aggregate offset angle to be provided with an additional"
+        },
+        {
+          "label": "C",
+          "text": "more than 90deg"
+        },
+        {
+          "label": "D",
+          "text": "2% (recommended slope for horizontal drainage pipes)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". bexceeding 1 3 5 deg",
+      "explanation_long": ". bexceeding 1 3 5 deg . cmorethan 9 0 deg cleanouts)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#9 | pages 18-19",
+      "quality_flag": "candidate",
+      "source_pages": [
+        18,
+        19
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "The plumbing code for the city of manila",
+      "choices": [
+        {
+          "label": "A",
+          "text": "City Ordinance 1411"
+        },
+        {
+          "label": "B",
+          "text": "City Ordinance 2411 (RNPCP, History of Plumbing Practice)"
+        },
+        {
+          "label": "C",
+          "text": "City Ordinance 4212"
+        },
+        {
+          "label": "D",
+          "text": "City Ordinance 1142"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#10 | pages 20-21",
+      "quality_flag": "probable",
+      "source_pages": [
+        20,
+        21
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> City Ordinance 2411 (RNPCP, History of Plumbing Practice)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Maximum service temperature for ABS",
+      "choices": [
+        {
+          "label": "A",
+          "text": "I4OF"
+        },
+        {
+          "label": "B",
+          "text": "220F (FRP Epoxy)"
+        },
+        {
+          "label": "C",
+          "text": "180F"
+        },
+        {
+          "label": "D",
+          "text": "220F"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "_ 180F (PP)",
+      "explanation_long": "_ 180F (PP)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#11 | pages 22-23",
+      "quality_flag": "candidate",
+      "source_pages": [
+        22,
+        23
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 220F (FRP Epoxy)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Number of hospital ward lavatory per patients",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1:5"
+        },
+        {
+          "label": "B",
+          "text": "1:10"
+        },
+        {
+          "label": "E",
+          "text": "1:15"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 1:20",
+      "explanation_long": ". 1:20",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#12 | pages 24-25",
+      "quality_flag": "candidate",
+      "source_pages": [
+        24,
+        25
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Number of dormitory (employees/staff) bathtubs/shower per occupants",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1:8 (RNPCP,Table 4-1)"
+        },
+        {
+          "label": "B",
+          "text": "1:10"
+        },
+        {
+          "label": "C",
+          "text": "1:12"
+        },
+        {
+          "label": "D",
+          "text": "1:15"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "/ 1:18",
+      "explanation_long": "/ 1:18 Water Closets (Fintures per Person) Fountains Female i: 1-55 1: 1-15 2: 16-35 3: 16-35 3: 36-55 4.31655 Over $5, add | fixture for each sdditiunal 40 pessons",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#13 | pages 26-27",
+      "quality_flag": "probable",
+      "source_pages": [
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (RNPCP,Table 4-1)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Maximum DFU for 5” dia. stack",
+      "choices": [
+        {
+          "label": "A",
+          "text": "256"
+        },
+        {
+          "label": "B",
+          "text": "600 (RNPCP, Table 7-5)"
+        },
+        {
+          "label": "C",
+          "text": "428"
+        },
+        {
+          "label": "D",
+          "text": "600"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "428",
+      "explanation_long": "428 *[256 | 600 | 1320 | 3600 | 5600 | 8400 | 43353] 2165) 4285] 720°| 2646 4680 82005 19 [ass | 2e[ | Tas [84 | 256 | 600 [1380] 3600 | m9 [ass | 28 |",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#14 | pages 28-29",
+      "quality_flag": "probable",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 600 (RNPCP, Table 7-5)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Maximum length of 6” vent pipe in meters",
+      "choices": [
+        {
+          "label": "A",
+          "text": "91"
+        },
+        {
+          "label": "B",
+          "text": "119 ec. 155"
+        },
+        {
+          "label": "C",
+          "text": "155"
+        },
+        {
+          "label": "D",
+          "text": "228"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 228",
+      "explanation_long": ". 228 *[256 | 600 | 1320 | 3600 | 5600 | 8400 | 43353] 2165) 4285] 720°| 2646 4680 82005 19 [ass | 2e[ | Tas [84 | 256 | 600 [1380] 3600 | m9 [ass | 28 |",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#15 | pages 30-31",
+      "quality_flag": "candidate",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Lavatory minimum extension from wall",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14\""
+        },
+        {
+          "label": "B",
+          "text": "15\""
+        },
+        {
+          "label": "C",
+          "text": "16\""
+        },
+        {
+          "label": "D",
+          "text": "17”(Audel PPM) ees 1771430 mm) minimum extension from wall."
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "17\"",
+      "explanation_long": "17\" « 614\" (165 mm) maximum sink depth. « 34” (865 mm) maximum rim height of lavatory or sink above the floor. « 29” (735 mm) minimum clearance from the floor to the “ bottom of the front edge of the apron. « 8” (205 mm) minimum depth for clear knee space at 27” (685 mm) above the floor and 11” (280 mm) minimum depth at 9” (230 mm) above the floor. + 30” x 48” (760 mm x 1220 mm) clear floor space should extend not more than 19” (485 mm) under the sink or lavatory. Specifications for lavatory and sink installation.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#16 | pages 32-33",
+      "quality_flag": "probable",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> 17”(Audel PPM) ees 1771430 mm) minimum extension from wall."
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "According to table 12-1, what is the minimum horizontal distance of public water main from building sewer",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3m (pressure public main from building sewer; Table B-1)"
+        },
+        {
+          "label": "B",
+          "text": "0.3 m (RNPCP, Table 12-1)"
+        },
+        {
+          "label": "C",
+          "text": "On site domestic"
+        },
+        {
+          "label": "D",
+          "text": "Distribution box"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "55)",
+      "explanation_long": "55) | 15.2 m m TABLE B-1 Location of Sewage Disposal § TABLE 12-t Minimum Horizontal Distance In Clear Seepage Pit Minimura Horizontal Distance Required From: Building Sewer | Septic Fank | Disposal Field | or Cesspool Required From Building Sewer Buildings or structures’ Description Distance Pa . Property line 06m 214 adjoining private joining prt a ra ee property pS 2m Sm | osm | 3d . Water supply wells ~ Streams [4 =i. Trees ‘teal p Disposal field water service linc 10. Pressure public water main",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#17 | pages 34-35",
+      "quality_flag": "candidate",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Front clearance for cleanouts larger than 51mm",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 ft"
+        },
+        {
+          "label": "B",
+          "text": "1.48 ft (0.45m; RNPCP,Chapter 7)"
+        },
+        {
+          "label": "C",
+          "text": "45 mm"
+        },
+        {
+          "label": "D",
+          "text": "55 cm"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#18 | pages 36-37",
+      "quality_flag": "probable",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> (0.45m; RNPCP,Chapter 7)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q019",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "If the total permitted length of vent pipe is 155m, what is the allowable length to be installed in a horizontal position",
+      "choices": [
+        {
+          "label": "A",
+          "text": "52 m (RNPCP, Chapter 7; 1/3 of the total permitted length allowed by code to"
+        },
+        {
+          "label": "B",
+          "text": "39 m"
+        },
+        {
+          "label": "C",
+          "text": "77.5 m"
+        },
+        {
+          "label": "D",
+          "text": "51m"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "be installed in a horizontal position)",
+      "explanation_long": "be installed in a horizontal position) ec. 77.5 m",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#19 | pages 38-39",
+      "quality_flag": "probable",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 52 m (RNPCP, Chapter 7; 1/3 of the total permitted length allowed by code to"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Minimum rate of flow of individual grease traps",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20.61 gpm (equivalent to 1.3 L/s)"
+        },
+        {
+          "label": "B",
+          "text": "3.4 L/s"
+        },
+        {
+          "label": "C",
+          "text": "1.5 gpm"
+        },
+        {
+          "label": "D",
+          "text": "53.89 gpm"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". 53.89 gpm",
+      "explanation_long": ". 53.89 gpm",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#20 | pages 40-41",
+      "quality_flag": "probable",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (equivalent to 1.3 L/s)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "At least one shelf of all cabinets mounted above work counters should be no more than above the floor.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "24\""
+        },
+        {
+          "label": "B",
+          "text": "50\""
+        },
+        {
+          "label": "C",
+          "text": "48” (Audel PPM)"
+        },
+        {
+          "label": "D",
+          "text": "48\""
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "36\"",
+      "explanation_long": "36\"",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#21 | pages 42-43",
+      "quality_flag": "probable",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 48” (Audel PPM)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Minimum vertical clearance of the septic tank inlet pipe invert above the outlet pipe invert",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LTERATION oR REFIR, N EXISTING bm"
+        },
+        {
+          "label": "B",
+          "text": "ASED ON THE 1009 FEVISED NRNCNRL, PLUMBING CODE FTE PHILIPPINES - APPENDIX B.9 (8.5.4)"
+        },
+        {
+          "label": "C",
+          "text": "INPICAL OR ALL AN CONNECT WITH"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1.",
+      "explanation_long": "1. lf 5 5” VERTICAL LEGS) DEPTH ©) LIQUID DEPTH? 0.6m MIN. “WHEN NO PUBLIC SEWER INTENDED TO SERVE RNY LOT OR PREMISES IS AVPILABLE INVERT \" g RY COMPARTIVENT CAP.: + TRRINAGE PIPING soup +. 2/3 ToI-TRNK Lla.caP- uiguip > 4/5 70.tANK Lia.cap. FROM ANY PUILDING VOUME 4 2m? (8.5.4) VOuME 4m? (B.5A) ORWORKS SHALL BE a _ aod HPPRONED [5 (SBC. 1201-2) iin ie LENGTH > 4.5m / WIDTH z 0.9m (8.5.4) NO MINIMUM DIMENSIONS IF TOURL TANK CAPACITY < Om? SEPTIC TANK MINIMUM DIMENSIONS” tr=insr- ron INTERPRETED BY KARISON JOHN J. BAS6IG LENGIH > 1.5m INSTRUATION, OF PNY [SEPTIC TANK] FORANY LOT WHICH PUPLIC SEWER FROMTING THE LOT, (sec. 4201-5) PN",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#22 | pages 44-45-46",
+      "quality_flag": "candidate",
+      "source_pages": [
+        44,
+        45,
+        46
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Maximum number of days from the time of connection to the public sewer an abandoned disposal facility shall be filled",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 month"
+        },
+        {
+          "label": "B",
+          "text": "30 days (RNPCP, Chapter 12)"
+        },
+        {
+          "label": "C",
+          "text": "3 days"
+        },
+        {
+          "label": "D",
+          "text": "15 days"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". 15 days",
+      "explanation_long": ". 15 days",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#23 | pages 47-48",
+      "quality_flag": "probable",
+      "source_pages": [
+        47,
+        48
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (RNPCP, Chapter 12)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Minimum size of waste pipe and trap in any CW & VS in reference to the sizes required and tailpiece size . | pipe size larger . 51 mm dia.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 pipe size larger (minimum size of wet vent in reference to the sizes required)"
+        },
+        {
+          "label": "B",
+          "text": "51 mm dia. (minimum size of wet vent)"
+        },
+        {
+          "label": "C",
+          "text": "2 pipe size larger"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 76 m dia.",
+      "explanation_long": ". 76 m dia. . 76 m dia.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#24 | pages 49-50",
+      "quality_flag": "candidate",
+      "source_pages": [
+        49,
+        50
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "rage factor for laundries, laundromats 5 ce) 1",
+      "choices": [
+        {
+          "label": "A",
+          "text": "id"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "3",
+      "explanation_long": "3",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#25 | pages 51-52",
+      "quality_flag": "candidate",
+      "source_pages": [
+        51,
+        52
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Elevation of installations above the floor or grade to be provided with permanent platform",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.52m"
+        },
+        {
+          "label": "B",
+          "text": "3m"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "ec. 152 mm",
+      "explanation_long": "ec. 152 mm . 30.5 cm",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#26 | pages 53-54",
+      "quality_flag": "candidate",
+      "source_pages": [
+        53,
+        54
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Nonmetallic shower sub-pans or linings may be built up on the job site of not less than",
+      "choices": [
+        {
+          "label": "A",
+          "text": "three layers of 15 pound felt (6.8kg; RNPCP, Chapter 4)"
+        },
+        {
+          "label": "B",
+          "text": "two layers of 15 pound felt"
+        },
+        {
+          "label": "C",
+          "text": "four layers of 15 pound felt"
+        },
+        {
+          "label": "D",
+          "text": "one layer of 15 pound felt"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". two layers of 15 pound felt",
+      "explanation_long": ". two layers of 15 pound felt . four layers of 15 pound felt . one layer of 15 pound felt",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#27 | pages 55-56",
+      "quality_flag": "probable",
+      "source_pages": [
+        55,
+        56
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (6.8kg; RNPCP, Chapter 4)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Minimum dimension of a seepage pit inspection hole",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2\""
+        },
+        {
+          "label": "B",
+          "text": "9” (RNPCP, Appendix B)"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "4\"",
+      "explanation_long": "4\" 5”",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#29 | pages 59-60",
+      "quality_flag": "probable",
+      "source_pages": [
+        59,
+        60
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 9” (RNPCP, Appendix B)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "IF INLET COMPARTMENT LENGTH 7 3.7m ; ADDITIONAL MANHOLE OVER BAFFLE WALL (8.5.5)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LTERATION oR REFIR, N EXISTING bm"
+        },
+        {
+          "label": "B",
+          "text": "ASED ON THE 1009 FEVISED NRNCNRL, PLUMBING CODE FTE PHILIPPINES - APPENDIX B.9 (8.5.4)"
+        },
+        {
+          "label": "C",
+          "text": "INPICAL OR ALL AN CONNECT WITH"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "VERTICAL LEGS) DEPTH",
+      "explanation_long": "VERTICAL LEGS) DEPTH ©) LIQUID DEPTH? 0.6m MIN. “WHEN NO PUBLIC SEWER INTENDED TO SERVE RNY LOT OR PREMISES IS AVPILABLE INVERT \" g RY COMPARTIVENT CAP.: + TRRINAGE PIPING soup +. 2/3 ToI-TRNK Lla.caP- uiguip > 4/5 70.tANK Lia.cap. FROM ANY PUILDING VOUME 4 2m? (8.5.4) VOuME 4m? (B.5A) ORWORKS SHALL BE a _ aod HPPRONED [5 (SBC. 1201-2) iin ie LENGTH > 4.5m / WIDTH z 0.9m (8.5.4) NO MINIMUM DIMENSIONS IF TOURL TANK CAPACITY < Om? SEPTIC TANK MINIMUM DIMENSIONS” tr=insr- ron INTERPRETED BY KARISON JOHN J. BAS6IG LENGIH > 1.5m INSTRUATION, OF PNY [SEPTIC TANK] FORANY LOT WHICH PUPLIC SEWER FROMTING THE LOT, (sec. 4201-5) PN",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#30 | pages 61-62-63",
+      "quality_flag": "candidate",
+      "source_pages": [
+        61,
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Retention time for lint-silt (laundry)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.5 hrs"
+        },
+        {
+          "label": "B",
+          "text": "2 hrs (RNPCP, Recommended Design Criteria)"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". 1.5 hrs",
+      "explanation_long": ". 1.5 hrs . 2 hrs 2.5 hrs . 5S hrs 1ONAL CONSULTANCY Cc . 2.5 hrs . 5S hrs Ketention Tinies Conmmercial kitchen waste: Dishwasher and/or disposal Single service kitchen: Single serviig; with disposal Sand-silt-oil Lint-siht (laundry) 2.5 hours . 2.0 hours . 2.9 hours",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#31 | pages 64-65",
+      "quality_flag": "probable",
+      "source_pages": [
+        64,
+        65
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 2 hrs (RNPCP, Recommended Design Criteria)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Waste flow rate for food waste disposer . 1 gal . 2 gals",
+      "choices": [
+        {
+          "label": "A",
+          "text": "With dishwashing machine ..... & gallon (22.7 L) flow"
+        },
+        {
+          "label": "B",
+          "text": "Without dishwashing machine .. S gallon (18.9 L) flow"
+        },
+        {
+          "label": "C",
+          "text": "Single service kinchen . ne ee .. . 2 gation (7.6L) flow"
+        },
+        {
+          "label": "D",
+          "text": "Food waste disposer . .... I gatlon (3.8L) flow"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 6 gals",
+      "explanation_long": ". 6 gals",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#32 | pages 66-67",
+      "quality_flag": "candidate",
+      "source_pages": [
+        66,
+        67
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Minimum size of vent for bathtubs",
+      "choices": [
+        {
+          "label": "A",
+          "text": "%4\""
+        },
+        {
+          "label": "B",
+          "text": "1”"
+        },
+        {
+          "label": "C",
+          "text": "1%\""
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "~1%\"(or 32mm, minimum pipe diameter for a vent)",
+      "explanation_long": "~1%\"(or 32mm, minimum pipe diameter for a vent) 1%\"",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#33 | pages 68-69",
+      "quality_flag": "candidate",
+      "source_pages": [
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Medium",
+      "prompt": "fixture/s may be served by a common vertical vent pipe when they discharge into an approved double branch fitting with inlet openings at the same level",
+      "choices": [
+        {
+          "label": "A",
+          "text": "|"
+        },
+        {
+          "label": "B",
+          "text": "2 (RNPCP, Chapter 9)"
+        },
+        {
+          "label": "C",
+          "text": "No"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". Botha & b",
+      "explanation_long": ". Botha & b Cc . No . Botha & b",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#34 | pages 70-71",
+      "quality_flag": "probable",
+      "source_pages": [
+        70,
+        71
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (RNPCP, Chapter 9)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Medium",
+      "prompt": "Water heaters generating a glow, spark, or flame capable of igniting flammable vapors may be installed in a garage, provided the pilots, burners, heating elements, and switches are at least inches above the floor level in residential garages",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12\""
+        },
+        {
+          "label": "B",
+          "text": "18” (2024 UPC)"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". 18\"",
+      "explanation_long": ". 18\" . 24\" 24\" IGNITION/ DAMAGE PA TECTION QanAGE ~ TT",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#35 | pages 72-73",
+      "quality_flag": "candidate",
+      "source_pages": [
+        72,
+        73
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 18” (2024 UPC)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Soil and drainpipes located above food-handling establishments shall be subjected to a standing water test of not less than feet.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "25"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 15",
+      "explanation_long": ". 15 . 15",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#36 | pages 74-75",
+      "quality_flag": "candidate",
+      "source_pages": [
+        74,
+        75
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Mounting height of drinking fountain spout for adults",
+      "choices": [
+        {
+          "label": "A",
+          "text": "24\""
+        },
+        {
+          "label": "B",
+          "text": "30” (children)"
+        },
+        {
+          "label": "C",
+          "text": "36\""
+        },
+        {
+          "label": "D",
+          "text": "44\" (ASPE, Vol. 2)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#37 | pages 76-77",
+      "quality_flag": "review",
+      "source_pages": [
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Silver solder melting point",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ISOOF"
+        },
+        {
+          "label": "B",
+          "text": "1750F (Audel PPM)"
+        },
+        {
+          "label": "C",
+          "text": "2000F"
+        },
+        {
+          "label": "D",
+          "text": "2500F"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#38 | pages 78-79",
+      "quality_flag": "probable",
+      "source_pages": [
+        78,
+        79
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> (Audel PPM)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Unions shall be installed in a water supply system within to a water heater",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12” (0.30m; RNPCP, Chapter 6)"
+        },
+        {
+          "label": "B",
+          "text": "24\""
+        },
+        {
+          "label": "C",
+          "text": "36\""
+        },
+        {
+          "label": "D",
+          "text": "48\""
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". 24\"",
+      "explanation_long": ". 24\" . 36\" . 48\"",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#39 | pages 80-81",
+      "quality_flag": "probable",
+      "source_pages": [
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 12” (0.30m; RNPCP, Chapter 6)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "system with The aggregate cross-sectional area of all vents for a a required 4-inch sewer shall be at least .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12.56 square inches"
+        },
+        {
+          "label": "B",
+          "text": "4 square inches"
+        },
+        {
+          "label": "C",
+          "text": "7.06 square inches"
+        },
+        {
+          "label": "D",
+          "text": "18 square inches"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#40 | pages 82-83",
+      "quality_flag": "review",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "The maximum length for a 1-1/2-inch vent pipe is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "50 feet"
+        },
+        {
+          "label": "B",
+          "text": "60 feet"
+        },
+        {
+          "label": "C",
+          "text": "20 feet"
+        },
+        {
+          "label": "D",
+          "text": "30 feet"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "*[256 | 600 | 1320 | 3600 | 5600 | 8400 |",
+      "explanation_long": "*[256 | 600 | 1320 | 3600 | 5600 | 8400 | 43353] 2165) 4285] 720°| 2646 4680 82005 19 [ass | 2e[ | Tas [84 | 256 | 600 [1380] 3600 | m9 [ass | 28 |",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#41 | pages 84-85",
+      "quality_flag": "candidate",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "The minimum size of gas piping supply to a mobile home is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3/4 inch (2024 UPC)"
+        },
+        {
+          "label": "B",
+          "text": "1/2 inch 2 inches"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". | inch",
+      "explanation_long": ". | inch . | inch",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#42 | pages 86-87",
+      "quality_flag": "probable",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (2024 UPC)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "The maximum distance a gas shutoff valve may be from a gas appliance (except for range and dryer connectors) is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6 feet (2021 International Residential Code IRC)"
+        },
+        {
+          "label": "B",
+          "text": "10 feet Cc"
+        },
+        {
+          "label": "C",
+          "text": "3 feet"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 2 feet",
+      "explanation_long": ". 2 feet . 5 feet . 2 feet",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#453 | pages 88-89",
+      "quality_flag": "candidate",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "Minimum inlet for waste line carrying refrigeration waste",
+      "choices": [
+        {
+          "label": "A",
+          "text": "%\""
+        },
+        {
+          "label": "B",
+          "text": "1” Cc"
+        },
+        {
+          "label": "C",
+          "text": "1%”"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1%\"",
+      "explanation_long": "1%\"",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#44 | pages 90-91",
+      "quality_flag": "candidate",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "How much energy is required to heat 50g of water from 20C to 80C? The specific heat capacity of water is 4.184j/g C?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12,552 J (Specific Heat Capacity)"
+        },
+        {
+          "label": "B",
+          "text": "13,169 J"
+        },
+        {
+          "label": "C",
+          "text": "1,255 J"
+        },
+        {
+          "label": "D",
+          "text": "1,316 J"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "ec. 1,255 J",
+      "explanation_long": "ec. 1,255 J",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#45 | pages 92-93",
+      "quality_flag": "probable",
+      "source_pages": [
+        92,
+        93
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (Specific Heat Capacity)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "A cart that weighs 15 kg is rolling down a hill with a velocity of .2m/s. What is the kinetic energy of the cart?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "115.6 J"
+        },
+        {
+          "label": "B",
+          "text": "132.3 J"
+        },
+        {
+          "label": "C",
+          "text": "156.2 J"
+        },
+        {
+          "label": "D",
+          "text": "163.4 J"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#46 | pages 94-95",
+      "quality_flag": "review",
+      "source_pages": [
+        94,
+        95
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20 kg suitcase is raised 3.0 meters above the ground. What is 421.3 J"
+        },
+        {
+          "label": "B",
+          "text": "588.6 JCc"
+        },
+        {
+          "label": "C",
+          "text": "625.8 J"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "its potential energy?",
+      "explanation_long": "its potential energy? . 756. 2 J its potential energy? . 625.8 J . 756. 2 J",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#47 | pages 96-97",
+      "quality_flag": "candidate",
+      "source_pages": [
+        96,
+        97
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Hard",
+      "prompt": "Two liters of a gas is at 740mmHg pressure. What is its volume at standard pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.947 L (Boyle’s Law)"
+        },
+        {
+          "label": "B",
+          "text": "2.2L Cc"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 2.563 L",
+      "explanation_long": ". 2.563 L . 2.832 L . 2.563 L . 2.832 L",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#48 | pages 98-99",
+      "quality_flag": "candidate",
+      "source_pages": [
+        98,
+        99
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "At 10C, a gas exerts 0.95 atm of pressure. At what temperature in celcius will it exert a pressure of 0.75 atm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "223.5"
+        },
+        {
+          "label": "B",
+          "text": "49.6 (Gay Lussacs Law)"
+        },
+        {
+          "label": "C",
+          "text": "283.15"
+        },
+        {
+          "label": "D",
+          "text": "25.16"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". -25.16",
+      "explanation_long": ". -25.16",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#49 | pages 100-101",
+      "quality_flag": "candidate",
+      "source_pages": [
+        100,
+        101
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 49.6 (Gay Lussacs Law)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-09-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 9",
+      "difficulty": "Easy",
+      "prompt": "A gas in a container has an initial volume of 2L and an initial temperature of 25C. The final volume decreases to 0.25L. What is the final temperature in C?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "R. SEAN A. DUPAYA, UAP, RMP"
+        },
+        {
+          "label": "B",
+          "text": "235.27 (Charles Law)"
+        },
+        {
+          "label": "C",
+          "text": "298"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-09"
+      ],
+      "source_ref": "WEEK 9.pdf | Q#50 | pages 102-103-104",
+      "quality_flag": "review",
+      "source_pages": [
+        102,
+        103,
+        104
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

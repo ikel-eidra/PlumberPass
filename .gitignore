@@ -173,6 +173,7 @@ logs/
 *.temp
 *.bak
 *~
+tmp/
 
 # SSL certificates
 *.pem

@@ -19,3 +19,9 @@ body {
 button {
   font: inherit;
 }
+
+.ui-icon {
+  display: inline-flex;
+  flex: none;
+  vertical-align: middle;
+}

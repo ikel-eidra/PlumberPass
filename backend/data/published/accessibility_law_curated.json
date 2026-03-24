@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "generator": "scripts/publish_review_slice.py",
+    "generated_at": "2026-03-21T16:17:03.016431+00:00",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\spdi__accessibility-law__review__candidate__v1.json",
+    "promotion_strategy": "Filtered reference recall items only",
+    "flashcard_count": 12,
+    "identification_count": 0
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-504158da51e1",
+      "topic": "Accessibility Law",
+      "subtopic": "Law Summary",
+      "front": "What is BATASANG PAMBANSA 344?",
+      "back": "Accessibility law to enhance the mobility of disabled persons by requiring certain buildings, institutions, establishments, and public utilities to install facilities and other devices",
+      "explanation_short": "Accessibility law to enhance the mobility of disabled persons by requiring certain buildings, institutions, establishments, and public utilities to install facilities and other dev",
+      "explanation_long": "Accessibility law to enhance the mobility of disabled persons by requiring certain buildings, institutions, establishments, and public utilities to install facilities and other devices",
+      "tags": [
+        "accessibility-law",
+        "reference",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "3. Accessibility Law.pdf | p.1 | Accessibility Law",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c818e0d0e75b",
+      "topic": "Accessibility Law",
+      "subtopic": "Max. Headroom: 2.2m (2.0m – Old Bp 344)",
+      "front": "What is Should be: ▪ Following?",
+      "back": "straight forward routes with right angle turns ▪ Installed with directional tactile blocks at free & unobstructed walkways",
+      "explanation_short": "straight forward routes with right angle turns ▪ Installed with directional tactile blocks at free & unobstructed walkways",
+      "explanation_long": "straight forward routes with right angle turns ▪ Installed with directional tactile blocks at free & unobstructed walkways",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "max-headroom-2-2m-2-0m-old-bp-344",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. Accessibility Law.pdf | p.1 | Max. Headroom: 2.2m (2.0m – Old Bp 344)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-535b08f274a3",
+      "topic": "Accessibility Law",
+      "subtopic": "Max. Gradient: 1:20 (1:12 – Old Bp 344)",
+      "front": "What is MAX. LENGTH: 10.5m (to?",
+      "back": "provide 1.8m min. length intermediate landing)",
+      "explanation_short": "provide 1.8m min. length intermediate landing)",
+      "explanation_long": "provide 1.8m min. length intermediate landing)",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "max-gradient-1-20-1-12-old-bp-344",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. Accessibility Law.pdf | p.1 | Max. Gradient: 1:20 (1:12 – Old Bp 344)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-559ef7edc2f3",
+      "topic": "Accessibility Law",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Old BP 344: 6m (to?",
+      "back": "provide 1.5m min. length intermediate landing)",
+      "explanation_short": "provide 1.5m min. length intermediate landing)",
+      "explanation_long": "provide 1.5m min. length intermediate landing)",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "3. Accessibility Law.pdf | p.2 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3dbd26371bf3",
+      "topic": "Accessibility Law",
+      "subtopic": "Height From Finished Floor: 700mm And 900mm",
+      "front": "What is HORIZONTAL EXTENSION: 300mm (from?",
+      "back": "upper & lower ramp ends)",
+      "explanation_short": "upper & lower ramp ends)",
+      "explanation_long": "upper & lower ramp ends)",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "height-from-finished-floor-700mm-and-900mm",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. Accessibility Law.pdf | p.2 | Height From Finished Floor: 700mm And 900mm",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f5bb081517a9",
+      "topic": "Accessibility Law",
+      "subtopic": "Min. Depth: 600mm",
+      "front": "What is INSTALLED AT: 300mm (from?",
+      "back": "upper & lower ramp ends) & at center of each landing",
+      "explanation_short": "upper & lower ramp ends) & at center of each landing",
+      "explanation_long": "upper & lower ramp ends) & at center of each landing",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "min-depth-600mm",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. Accessibility Law.pdf | p.2 | Min. Depth: 600mm",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-576bfe00cf5a",
+      "topic": "Accessibility Law",
+      "subtopic": "Min. Depth: 600mm",
+      "front": "What is MIN. CLEAR DISTANCE: ▪ 50mm (from?",
+      "back": "the wall) ▪ 40mm (on ledges)",
+      "explanation_short": "the wall) ▪ 40mm (on ledges)",
+      "explanation_long": "the wall) ▪ 40mm (on ledges)",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "min-depth-600mm",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. Accessibility Law.pdf | p.2 | Min. Depth: 600mm",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-279c310094d8",
+      "topic": "Accessibility Law",
+      "subtopic": "Min. Depth: 600mm",
+      "front": "What is VEHICULAR TRAFFIC PROVISION: Any ramp?",
+      "back": "with a rise greater than 200 mm and leads down towards an area where vehicular traffic is possible, shall have a railing across the full width of its lower end, not less than 1800 mm from the foot f the ramp",
+      "explanation_short": "with a rise greater than 200 mm and leads down towards an area where vehicular traffic is possible, shall have a railing across the full width of its lower end, not less than 1800 ",
+      "explanation_long": "with a rise greater than 200 mm and leads down towards an area where vehicular traffic is possible, shall have a railing across the full width of its lower end, not less than 1800 mm from the foot f the ramp",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "min-depth-600mm",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. Accessibility Law.pdf | p.2 | Min. Depth: 600mm",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7c410535dc1c",
+      "topic": "Accessibility Law",
+      "subtopic": "Luminance Contrast: 30%",
+      "front": "What is EMERGENCY CALL BUTTON: 400-600mm?",
+      "back": "from floor WATER CLOSET (tank type with lever type flush valve)",
+      "explanation_short": "from floor WATER CLOSET (tank type with lever type flush valve)",
+      "explanation_long": "from floor WATER CLOSET (tank type with lever type flush valve)",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "luminance-contrast-30",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "3. Accessibility Law.pdf | p.3 | Luminance Contrast: 30%",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-54923a9a0e9d",
+      "topic": "Accessibility Law",
+      "subtopic": "Vertical Leg Clearance: 650mm (600 700mm – Old Bp 344)",
+      "front": "What is MAX. HEIGHT OF LIP: 350-400mm from floor (480mm – Old BP 344)?",
+      "back": "URINAL (wall-hung type)",
+      "explanation_short": "URINAL (wall-hung type)",
+      "explanation_long": "URINAL (wall-hung type)",
+      "tags": [
+        "accessibility-law",
+        "reference",
+        "vertical-leg-clearance-650mm-600-700mm-old-bp-344",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. Accessibility Law.pdf | p.3 | Vertical Leg Clearance: 650mm (600 700mm – Old Bp 344)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-9fd4ca636ff9",
+      "topic": "Accessibility Law",
+      "subtopic": "Vertical Leg Clearance: 650mm (600 700mm – Old Bp 344)",
+      "front": "What is CLEAR LEVEL SPACE: 900mm?",
+      "back": "x 900mm (in front of urinal)",
+      "explanation_short": "x 900mm (in front of urinal)",
+      "explanation_long": "x 900mm (in front of urinal)",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "vertical-leg-clearance-650mm-600-700mm-old-bp-344",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. Accessibility Law.pdf | p.3 | Vertical Leg Clearance: 650mm (600 700mm – Old Bp 344)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8288a63defde",
+      "topic": "Accessibility Law",
+      "subtopic": "Dimension: 1.8m X 1.8m",
+      "front": "What is CURBS: 12mm?",
+      "back": "min height (shall be beveled)",
+      "explanation_short": "min height (shall be beveled)",
+      "explanation_long": "min height (shall be beveled)",
+      "tags": [
+        "accessibility-law",
+        "definition",
+        "dimension-1-8m-x-1-8m",
+        "spdi",
+        "spdi__accessibility-law",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "3. Accessibility Law.pdf | p.3 | Dimension: 1.8m X 1.8m",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": []
+}

@@ -1,0 +1,2183 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "candidate": 30,
+      "review": 5,
+      "probable": 13
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-05",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 5.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T12:59:19.849069+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "MCQ bank still has too many unresolved answers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-05-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "Average water pressure of public water distribution system, adequate to serve building less than 5 storeys high",
+      "choices": [
+        {
+          "label": "A",
+          "text": "50 psi"
+        },
+        {
+          "label": "B",
+          "text": "40 psi"
+        },
+        {
+          "label": "C",
+          "text": "50 psi (PDE by Max Fajardo)"
+        },
+        {
+          "label": "D",
+          "text": "60 ; Public water distribution system pape bert."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". PSI age water pressure of 50 psi. that is only:",
+      "explanation_long": ". PSI age water pressure of 50 psi. that is only: building less than 5 storey high. Taller additional pump equipment prepared by fare neers who compute the probable demand and ak aan loss due to head and friction.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#1 | pages 2-3",
+      "quality_flag": "candidate",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Minimum width of colored’ stripe marked copper pipes to identify its type",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5.2 mm"
+        },
+        {
+          "label": "B",
+          "text": "5.0"
+        },
+        {
+          "label": "C",
+          "text": "5.5 mm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "mm",
+      "explanation_long": "mm 6.4 mm",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#2 | pages 4-5-6",
+      "quality_flag": "candidate",
+      "source_pages": [
+        4,
+        5,
+        6
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "It is sufficiently flexible to follow ground contours of snake around obstacles",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PVC (Polyvinyl Chloride; strong, rigid and economical; cons- hot water"
+        },
+        {
+          "label": "B",
+          "text": "uPVC (Unplasticized Polyvinyl Chloride; becoming popular choice for"
+        },
+        {
+          "label": "C",
+          "text": "PPR (Polypropylene Random Copolymer; can withstand high temperatures"
+        },
+        {
+          "label": "D",
+          "text": "PE (flexible pipe for pressure system; can’t be used in hot water"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "and sunlight; blue- potable; gray,orange, brown- toxic; excellent chemical",
+      "explanation_long": "and sunlight; blue- potable; gray,orange, brown- toxic; excellent chemical resistance) water and wastewater system) up to 95°C, making them suitable for use in hot water supply systems) system) *PB Pipe- flexible pipe for hot and coldwater pressure system; water service connection main to meter",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#3 | pages 7-8",
+      "quality_flag": "candidate",
+      "source_pages": [
+        7,
+        8
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Identify my +4 34-—--",
+      "choices": [
+        {
+          "label": "A",
+          "text": "tee outlet up - soldered"
+        },
+        {
+          "label": "B",
+          "text": "tee outlet up - bell & spigot"
+        },
+        {
+          "label": "C",
+          "text": "tee outlet down - soldered"
+        },
+        {
+          "label": "D",
+          "text": "tee outlet down - bell & spigot"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#4 | pages 9-10",
+      "quality_flag": "review",
+      "source_pages": [
+        9,
+        10
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "lt consists of two independently acting internally loaded check valves, a differential pressure relief valve, four properly located test cocks and two isolation gate valves.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atmospheric Vacuum Breaker"
+        },
+        {
+          "label": "B",
+          "text": "Double Check Valve Backflow Prevention Assembly"
+        },
+        {
+          "label": "C",
+          "text": "Pressure Vacuum Breaker Backflow Prevention Assembly"
+        },
+        {
+          "label": "D",
+          "text": "Reduced Pressure Principle Backflow Prevention Assembly"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "cweck = TEST vest",
+      "explanation_long": "cweck = TEST vest VALVE 1 =COCK2 VALVE? COCKS RP Backflow Prevention Assembly Pressure Vacuum Breaker Assembly",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#5 | pages 11-12-13",
+      "quality_flag": "candidate",
+      "source_pages": [
+        11,
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Side drain"
+        },
+        {
+          "label": "B",
+          "text": "Foot Valve (type of check valve, typically"
+        },
+        {
+          "label": "C",
+          "text": "Scupper"
+        },
+        {
+          "label": "D",
+          "text": "Isolation Valve"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Foot valve",
+      "explanation_long": "Foot valve lsolation valve installed at the base of the suction pipe)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#6 | pages 14-15",
+      "quality_flag": "candidate",
+      "source_pages": [
+        14,
+        15
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trough Sink"
+        },
+        {
+          "label": "B",
+          "text": "Scullery Sink"
+        },
+        {
+          "label": "C",
+          "text": "Trough Urinal"
+        },
+        {
+          "label": "D",
+          "text": "Double Compartment Dishwasher"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#7 | pages 16-17-18",
+      "quality_flag": "review",
+      "source_pages": [
+        16,
+        17,
+        18
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "Heightofunwettedwallinsidetheseptictank",
+      "choices": [
+        {
+          "label": "A",
+          "text": "101.6 mm (4%; min. extension of outlet and inlet pipe"
+        },
+        {
+          "label": "B",
+          "text": "50.8 mm (2”; min. vertical clearance of the inlet pipe"
+        },
+        {
+          "label": "C",
+          "text": "304.8 mm (12; min. extension of inlet and outlet pipe"
+        },
+        {
+          "label": "D",
+          "text": "228.6 mm (9\"; min extension of sidewalls above liquid"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "above the water surface)",
+      "explanation_long": "above the water surface) invert above the outlet pipe invert) below the water surtace) depth) iF INLET COMPARTMENT 508mm (MIN) = EXCEEDS 3.7m IN LENGTH -RNPCP, Appendix B Provisions on Septic Tank",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#8 | pages 19-20-21",
+      "quality_flag": "candidate",
+      "source_pages": [
+        19,
+        20,
+        21
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "An 8 meters aluminum ladder is used in delivering plumbing fixtures to the second floor of the building how many meters be the foot of the ladder shall be placed away from the wall of the building? . 2m",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 m (OSHA;the foot of the ladder away from the wall"
+        },
+        {
+          "label": "B",
+          "text": "2.5 mCc"
+        },
+        {
+          "label": "C",
+          "text": "53m"
+        },
+        {
+          "label": "D",
+          "text": "4m"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "must be % of the total ladder length)",
+      "explanation_long": "must be % of the total ladder length)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#9 | pages 22-23",
+      "quality_flag": "candidate",
+      "source_pages": [
+        22,
+        23
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 2 m (OSHA;the foot of the ladder away from the wall"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "What is the minimum length of time before a jointed plastic pipe be subjected to pressure test? .1.5 hours",
+      "choices": [
+        {
+          "label": "B",
+          "text": "2 hours(PDE by Max Fajardo)"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "ZA) WoO Do not disturb the pipe for Several iminutes\"attertne",
+      "explanation_long": "ZA) WoO Do not disturb the pipe for Several iminutes\"attertne 3 hours quarter turn, Wait for about 2 hours before testing the line under pressure. Drying of the cement must be far enough advance from 15 to 20 hours to permit use of the line.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#10 | pages 24-25",
+      "quality_flag": "probable",
+      "source_pages": [
+        24,
+        25
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 2 hours(PDE by Max Fajardo)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "In bending plastic, what will be the practical material to be used to prevent fattening of the pipe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sand"
+        },
+        {
+          "label": "B",
+          "text": "Gravel"
+        },
+        {
+          "label": "C",
+          "text": "Water"
+        },
+        {
+          "label": "D",
+          "text": "Metal spring"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#11 | pages 26-27",
+      "quality_flag": "review",
+      "source_pages": [
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Given the data below, find the size of a gutter. Roof Area - 369.8 sqm Location: Manila Pipe laid at 4%",
+      "choices": [
+        {
+          "label": "A",
+          "text": "152 mm figs! Rarwaterripng | ower aa"
+        },
+        {
+          "label": "B",
+          "text": "178 mm 18) = 1.86 3(A x1 —"
+        },
+        {
+          "label": "C",
+          "text": "203 mm"
+        },
+        {
+          "label": "D",
+          "text": "254 mm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Rainwater Piping Sizing Formulas",
+      "explanation_long": "Rainwater Piping Sizing Formulas",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#13 | pages 30-31",
+      "quality_flag": "candidate",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "An additional 2” within the elongated bowl, which provides a larger opening is often called as",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Target Area"
+        },
+        {
+          "label": "C",
+          "text": "Extra Space"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". Additional Area",
+      "explanation_long": ". Additional Area . Extra Zone Cc. Lira 140mm ____ Sur Target Area Extra Space Extra Zone",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#14 | pages 32-33",
+      "quality_flag": "probable",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> Extra Space"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "What is the recommended size of service pipe approved by MWSS for a 2 storey residential house?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 4\""
+        },
+        {
+          "label": "B",
+          "text": "1\" ©"
+        },
+        {
+          "label": "C",
+          "text": "LR\" O"
+        },
+        {
+          "label": "D",
+          "text": "%” @ (RNPCP, Chapter 6; No building water service pipe"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "shall be less than 19 mm in diameter)",
+      "explanation_long": "shall be less than 19 mm in diameter)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#15 | pages 34-35",
+      "quality_flag": "probable",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> %” @ (RNPCP, Chapter 6; No building water service pipe"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "What is an economical practice to avoid water seal evaporation when a family goes on a vacation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pour oil (Aude! Plumbers Pocket Manual, Chapter 5)"
+        },
+        {
+          "label": "B",
+          "text": "Install trap primer"
+        },
+        {
+          "label": "C",
+          "text": "Ask your closest relative to monitor and pour water regularly"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Install deep seal traps",
+      "explanation_long": "Install deep seal traps . Install trap primer . Install deep seal traps . Ask your closest relative to monitor and pour water regularly",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#16 | pages 36-37",
+      "quality_flag": "probable",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (Aude! Plumbers Pocket Manual, Chapter 5)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "The type of check valve that offers the pressure drop and simple automatic closure",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lift check valve (primarily for use with gases or compressed air or"
+        },
+        {
+          "label": "B",
+          "text": "Swing- type check valve (ASPE Vol. 4, Chapter 3; most common"
+        },
+        {
+          "label": "C",
+          "text": "Vertical check valve (are designed for vertically oriented pipelines."
+        },
+        {
+          "label": "D",
+          "text": "Ball check valve (ball check valves are reliable, low flow"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. Lift check valve . Swing- type check valve Vertical check valve . Ball check valve least in fluid systems where pressure drop is not critical) type of check valve) It is a non-return valve, allowing fluids to flow in the upward direction only) resistance, and require little maintenance, however, they are larger than other check valves)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#17 | pages 38-39-40",
+      "quality_flag": "candidate",
+      "source_pages": [
+        38,
+        39,
+        40
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Waterconsumptionforprivatelavatories",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2.2 gpm at 60 psi (ASPE Vol. 4)"
+        },
+        {
+          "label": "B",
+          "text": "0.50 gpm at 60 psi (water consumption for public"
+        },
+        {
+          "label": "C",
+          "text": "2.5 gpm at 80 psi (maximum flow rate for showers)"
+        },
+        {
+          "label": "D",
+          "text": "3.0 gpm at 80 psi Table 1-2 Faucet Flow Rate Restrictions"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "lavatories)",
+      "explanation_long": "lavatories) Lavatory faucet (public use, 0.25 gal per cycle metering)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#18 | pages 41-42",
+      "quality_flag": "candidate",
+      "source_pages": [
+        41,
+        42
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q019",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Howmanyeightbendsarerequiredtomakea 4 5 .? degturn",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 (3 6 0 x 1 / 8 = 4 5 deg)"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#19 | pages 43-44",
+      "quality_flag": "probable",
+      "source_pages": [
+        43,
+        44
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (3 6 0 x 1 / 8 = 4 5 deg)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "What force would be exerted on the gate of a closed 6” gate valve if the water acting on it measured 46 Psig.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "86/ pressure"
+        },
+        {
+          "label": "B",
+          "text": "1300"
+        },
+        {
+          "label": "C",
+          "text": "2604"
+        },
+        {
+          "label": "D",
+          "text": "5202 pressure"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "(Force= Pressure x Area; F = (46 psi) x (3.1416 x 3%2) = 1300.622 Ibf)",
+      "explanation_long": "(Force= Pressure x Area; F = (46 psi) x (3.1416 x 3%2) = 1300.622 Ibf)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#20 | pages 45-46",
+      "quality_flag": "candidate",
+      "source_pages": [
+        45,
+        46
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "Flowing stream of water has the tendency purify itself. Which term is not applicable purification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sedimentation (is the natural process of solid particles settling in"
+        },
+        {
+          "label": "B",
+          "text": "Infiltration (is the process by which precipitation or water soaks"
+        },
+        {
+          "label": "C",
+          "text": "Dilution (the process of making a substance weaker or less"
+        },
+        {
+          "label": "D",
+          "text": "Aeration (an artificial method of bringing water and air into direct"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Aeration",
+      "explanation_long": ". Aeration a liquid due to gravity) into subsurface soils and moves into rocks through cracks and pore spaces) concentrated) contact with each other)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#21 | pages 47-48",
+      "quality_flag": "candidate",
+      "source_pages": [
+        47,
+        48
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Copper pipes are sized",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1/8 bigger than their inside diameter (Aude! Plumbers"
+        },
+        {
+          "label": "B",
+          "text": "1/4 bigger than their inside diameter"
+        },
+        {
+          "label": "C",
+          "text": "3/16 bigger than their inside diameter"
+        },
+        {
+          "label": "D",
+          "text": "1/16 bigger than their inside diameter"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Pocket Manual!)",
+      "explanation_long": "Pocket Manual!)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#22 | pages 49-50",
+      "quality_flag": "candidate",
+      "source_pages": [
+        49,
+        50
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (Aude! Plumbers"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "What is the ideal time to clean a septic tank?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "When the sludge occupies 1/3 of the volume"
+        },
+        {
+          "label": "B",
+          "text": "When the sludge occupies 1/2 of the volume."
+        },
+        {
+          "label": "C",
+          "text": "When the sludge occupies 2/3 of the volume."
+        },
+        {
+          "label": "D",
+          "text": "When the sludge occupies 1/4 of the volume."
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "(Aude! Question and Answer)",
+      "explanation_long": "(Aude! Question and Answer)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#23 | pages 51-52",
+      "quality_flag": "probable",
+      "source_pages": [
+        51,
+        52
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "Pressure relief valve shall set pressure not more than?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "50 psi"
+        },
+        {
+          "label": "C",
+          "text": "100 psi"
+        },
+        {
+          "label": "D",
+          "text": "150 psi (1 psi= 6.895 kpa)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": ". 80 psi",
+      "explanation_long": ". 80 psi Each pressure relief valve shall be an approved automatic type with drain, and each such relief valve shall be set at a pressure of not more than 1033 kPa.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#24 | pages 53-54",
+      "quality_flag": "probable",
+      "source_pages": [
+        53,
+        54
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (1 psi= 6.895 kpa)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Globe valve for steam and hot water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Composition (PDE by Max Fajardo)"
+        },
+        {
+          "label": "B",
+          "text": "Wedge Plug"
+        },
+        {
+          "label": "C",
+          "text": "Angle Globe"
+        },
+        {
+          "label": "D",
+          "text": "Conventional"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Conventional (has a pressure tight bearing",
+      "explanation_long": "Conventional (has a pressure tight bearing between the disc and the seat; recommended for cold water and any temperature service)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#25 | pages 55-56",
+      "quality_flag": "probable",
+      "source_pages": [
+        55,
+        56
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (PDE by Max Fajardo)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "In what type of water heater does a flue is present? Cold Water Valwe",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Electric \\ ct"
+        },
+        {
+          "label": "B",
+          "text": "Gas"
+        },
+        {
+          "label": "C",
+          "text": "Tankless Overflow Pipe"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Hot Water Outlet",
+      "explanation_long": "Hot Water Outlet | |] Antico moesion d ° SO | adr = JI Dip Tube Upper Element Insulation Lower — Z Drain Valwe Control Valve Burner Louver Thermostat Upper Thermostat Gas Supply Shutoff . Thermocouple Electric Gas",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#26 | pages 57-58",
+      "quality_flag": "candidate",
+      "source_pages": [
+        57,
+        58
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "00 N + zo = 7) Ww =) Lo; Air Chamber",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air Chamber"
+        },
+        {
+          "label": "B",
+          "text": "Cold Water Line for Shower"
+        },
+        {
+          "label": "D",
+          "text": "Cut Pipe"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Identify letter “E”",
+      "explanation_long": "Identify letter “E” Identify letter “E”",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#28 | pages 61-62",
+      "quality_flag": "candidate",
+      "source_pages": [
+        61,
+        62
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Amount of waste discharged for a wastewater treatment facility",
+      "choices": [
+        {
+          "label": "A",
+          "text": "300 gpm"
+        },
+        {
+          "label": "B",
+          "text": "500 gpm"
+        },
+        {
+          "label": "C",
+          "text": "50 cu.m./day"
+        },
+        {
+          "label": "D",
+          "text": "50 cu.m./day"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#29 | pages 63-64",
+      "quality_flag": "review",
+      "source_pages": [
+        63,
+        64
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Is securing equipment or materials preparation for lifting by means of rope, chain or web sling",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rigging"
+        },
+        {
+          "label": "B",
+          "text": "Locking"
+        },
+        {
+          "label": "C",
+          "text": "Securing"
+        },
+        {
+          "label": "D",
+          "text": "All of the Above"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#30 | pages 65-66-67",
+      "quality_flag": "review",
+      "source_pages": [
+        65,
+        66,
+        67
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "The best solder for brazing/soldering joints is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "100 % Alloy"
+        },
+        {
+          "label": "B",
+          "text": "95% Tin- 5% Alloy (lead-free solder; canfieldmetal.com)"
+        },
+        {
+          "label": "C",
+          "text": "50% Tin-50% Alloy"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". 95% Tin- 5% Alloy",
+      "explanation_long": ". 95% Tin- 5% Alloy",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#31 | pages 68-69",
+      "quality_flag": "candidate",
+      "source_pages": [
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 95% Tin- 5% Alloy (lead-free solder; canfieldmetal.com)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "A tool fast and easy grip used on constricted spaces or close to a wall. It has a solid housing which keeps it from breaking or wrapping under normal use",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rap Wrench"
+        },
+        {
+          "label": "C",
+          "text": "Compound Leverage Wrench"
+        },
+        {
+          "label": "D",
+          "text": "End-Pipe Wrench"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Stillson Wrench",
+      "explanation_long": ". Stillson Wrench . Stillson Wrench",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#32 | pages 70-71-72",
+      "quality_flag": "candidate",
+      "source_pages": [
+        70,
+        71,
+        72
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "What are the two types of water pump commonly used for water distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Piston and Centrifugal"
+        },
+        {
+          "label": "B",
+          "text": "Positive Displacement and Centrifugal"
+        },
+        {
+          "label": "C",
+          "text": "Single and Double Action Pump"
+        },
+        {
+          "label": "D",
+          "text": "Duplex o Twin Pump"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. Piston and Centrifugal (PDE by Max Fajardo) . Positive Displacement and Centrifugal Single and Double Action Pump . Duplex o Twin Pump",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#33 | pages 73-74",
+      "quality_flag": "candidate",
+      "source_pages": [
+        73,
+        74
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "Gate valve used in drainage work having a 102 mm diameter or larger shall have bodies",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cast Iron"
+        },
+        {
+          "label": "B",
+          "text": "Cast Brass"
+        },
+        {
+          "label": "C",
+          "text": "Bronze"
+        },
+        {
+          "label": "D",
+          "text": "Galvanized Iron RNPCP, Chapter 6"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Valves up to and including 51 mm in size shall be brass or other approved materials. Sizes over",
+      "explanation_long": "Valves up to and including 51 mm in size shall be brass or other approved materials. Sizes over Cc. B ronze 51mm may have cast iron or brass Bodies! Each gate valve shall be a fullway type with working parts of non-corrosive materials. Section 605 — VALVES Section 1410 — VALVES AND FIITINGS Gate valves, when used in drainage work, shall be the fullway type with working parts of corrosion resistant metal. Sizes 102 mm or larger in diameter shall have cast iron bodies, and sizes less than 102 mm shall have cast brass or bronze bodies. Valves up to and including 51 mm in size shall be all brass or bronze metal. RNPCP, Chapter 14",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#34 | pages 75-76",
+      "quality_flag": "probable",
+      "source_pages": [
+        75,
+        76
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> RNPCP, Chapter 6"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "What type of water closet whose trap is found at the front of the bowl and the bowl flushed by small streams of water running down from the rim?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reverse Trap"
+        },
+        {
+          "label": "C",
+          "text": "Siphon Vortex"
+        },
+        {
+          "label": "D",
+          "text": "Wash Down"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Siphon Jet",
+      "explanation_long": ". Siphon Jet . Siphon Jet",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#35 | pages 77-78-79",
+      "quality_flag": "candidate",
+      "source_pages": [
+        77,
+        78,
+        79
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "What precaution should be taken when pliers are needed to loosen a chrome swing spout lock nut?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Do not apply too much pressure on the plier."
+        },
+        {
+          "label": "B",
+          "text": "Wrap round nuts with adhesive tape to avoid destroying"
+        },
+        {
+          "label": "C",
+          "text": "Use two pliers, one is for clamping while the other is"
+        },
+        {
+          "label": "D",
+          "text": "As not to destroy the chrome finish, use the pliers on the"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "the chrome finish.",
+      "explanation_long": "the chrome finish. used for turning. spout portion only. destroying the chrome finish. used for turning. spout portion only.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#36 | pages 80-81",
+      "quality_flag": "candidate",
+      "source_pages": [
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "What is the common repair required on fixture faucets? coo — CAn (mi . Handle Actes)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Replacement of washer"
+        },
+        {
+          "label": "B",
+          "text": "Replacement of seats = Stem Nut"
+        },
+        {
+          "label": "C",
+          "text": "Loose thread repair"
+        },
+        {
+          "label": "D",
+          "text": "Repair of broken handle say 4 ee faa"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Stem",
+      "explanation_long": "Stem Waster Threads — for Packing) => Saat Washer = poner Soren B tals Vahre Compression Washerless",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#37 | pages 82-83",
+      "quality_flag": "candidate",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "A type of copper tube used for hot water heating condensate return lines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RC tube efngeration and airconditioning hydronic heating"
+        },
+        {
+          "label": "B",
+          "text": "Type K"
+        },
+        {
+          "label": "C",
+          "text": "Type L"
+        },
+        {
+          "label": "D",
+          "text": "Type DWV"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "can be joined by soldering or brazing,",
+      "explanation_long": "can be joined by soldering or brazing, using capillary fittings and welding comes in straight langths can be joined by flaring and compression fittings comes in straight lengths and in coils Type M for straight lengths joined with fittings Type L soft temper where coils are more convenient Water distribution system Type M for above and below the ground Type M (up to 1°) Type DWV (1 1/4\" and larger) Drainage and vent system Type DWV Type L coils | Type M- straight lengths- radiant panel and annealed tube- soft Underground water services Chilled water mains Type M (up to 1 1/4\") Type DWV (1 1/4\" and larger)- hot water heating and low pressure steam Type L- condensate retum lines Fuel oil and underground gas use copper tube Oxygen systems Type KorL Copper Tube and Fittings Summary- Audel Plumbers Pocket Manual",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#38 | pages 84-85-86",
+      "quality_flag": "candidate",
+      "source_pages": [
+        84,
+        85,
+        86
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "What is the valve which is an adoption of ball valve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Butterfly Valve"
+        },
+        {
+          "label": "B",
+          "text": "Plug Valve"
+        },
+        {
+          "label": "C",
+          "text": "Globe Valve"
+        },
+        {
+          "label": "D",
+          "text": "Gate Valve"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Ball Valve",
+      "explanation_long": "Ball Valve",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#39 | pages 87-88",
+      "quality_flag": "candidate",
+      "source_pages": [
+        87,
+        88
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Ablution trough is made of what material?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stainless Steel"
+        },
+        {
+          "label": "B",
+          "text": "Ceramic"
+        },
+        {
+          "label": "C",
+          "text": "Vitreous China"
+        },
+        {
+          "label": "D",
+          "text": "Porcelain multiple use"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Ablution Trough - sanitary’ fixture’ for",
+      "explanation_long": "Ablution Trough - sanitary’ fixture’ for holding water for cleansing purposes which has a number of taps spaced to enable",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#40 | pages 89-90",
+      "quality_flag": "candidate",
+      "source_pages": [
+        89,
+        90
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "What is the other term for unit vent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dual Vent ans y"
+        },
+        {
+          "label": "B",
+          "text": "Revent"
+        },
+        {
+          "label": "C",
+          "text": "Backvent"
+        },
+        {
+          "label": "D",
+          "text": "Individual Vent"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Revent",
+      "explanation_long": "Revent Backvent Individual Vent Interchangeable’ terms- Z, Common Dual Unit Backvent Individual 5 Revent Unit Vent Back Vent",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#41 | pages 91-92",
+      "quality_flag": "candidate",
+      "source_pages": [
+        91,
+        92
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "As per code, no trap for any clotheswasher standpipe receptor shall be installed below the floor, what is the required roughed-in distance above the floor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "not less than 15cm and not more than 45cm"
+        },
+        {
+          "label": "B",
+          "text": "not less than 0.45m and not more than 0.8m"
+        },
+        {
+          "label": "C",
+          "text": "not less than 150mm and not more than 300mm"
+        },
+        {
+          "label": "D",
+          "text": "not less than 1” and not more than 4”"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "(RNPCP, Chapter 8)",
+      "explanation_long": "(RNPCP, Chapter 8)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#42 | pages 93-94-95",
+      "quality_flag": "candidate",
+      "source_pages": [
+        93,
+        94,
+        95
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "A bowl-shaped container with a handle and often with a cover. Generally used as a urinal in night.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urinating pot"
+        },
+        {
+          "label": "C",
+          "text": "Chamber pot (Arinola)"
+        },
+        {
+          "label": "D",
+          "text": "Pee pot"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". Sanitary pot",
+      "explanation_long": ". Sanitary pot . Pee pot . Sanitary pot",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#453 | pages 96-97",
+      "quality_flag": "candidate",
+      "source_pages": [
+        96,
+        97
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (Arinola)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Roughness coefficient of Cast Iron Pipes",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.09 (Plastic)"
+        },
+        {
+          "label": "B",
+          "text": "0.10 (Glass)"
+        },
+        {
+          "label": "C",
+          "text": "0.12"
+        },
+        {
+          "label": "D",
+          "text": "0.13 (VCP)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "0.12",
+      "explanation_long": "0.12 0.13",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#44 | pages 98-99",
+      "quality_flag": "candidate",
+      "source_pages": [
+        98,
+        99
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "Wall hung water closets must be capable supporting a load of .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "250 lbs"
+        },
+        {
+          "label": "B",
+          "text": "500 lbs"
+        },
+        {
+          "label": "C",
+          "text": "450 lbs"
+        },
+        {
+          "label": "D",
+          "text": "500 Ibs (ASPE Vol. 4, Chapter 1)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Wall-Hung Fixtures - wall-hung fixtures shall be rigidly supported by metal supporting",
+      "explanation_long": "Wall-Hung Fixtures - wall-hung fixtures shall be rigidly supported by metal supporting members or chairs so that no bending or pullout strain is transmitted to the wall. Approved non-corrosive screws or bolts shall secure water closet and urinal flush tanks and similar appurtenances.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#45 | pages 100-101",
+      "quality_flag": "probable",
+      "source_pages": [
+        100,
+        101
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> 500 Ibs (ASPE Vol. 4, Chapter 1)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Medium",
+      "prompt": "According to OSHA, what is the minimum and maximum safe level of oxygen in a confined space?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15% and 25%"
+        },
+        {
+          "label": "B",
+          "text": "15.5% and 25.5%"
+        },
+        {
+          "label": "C",
+          "text": "ONFINED SPACE - a room or space having a volume less than 14 cu.m with 250-kilogram calorie"
+        },
+        {
+          "label": "D",
+          "text": "19.5% and 23.5%"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "19.5% and 23.5%",
+      "explanation_long": "19.5% and 23.5% of the aggregate input rating of all fuel burning appliances installed in that space",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#46 | pages 102-103",
+      "quality_flag": "candidate",
+      "source_pages": [
+        102,
+        103
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "Gaskets must withstand pressure, temperature, and attack from the fluid in the pipe. Gaskets normally should beasas possible.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thin (ASPE Vol. 4; most of the standard gaskets"
+        },
+        {
+          "label": "B",
+          "text": "Thick"
+        },
+        {
+          "label": "C",
+          "text": "Durable"
+        },
+        {
+          "label": "D",
+          "text": "Small"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "are 1/16\" or 1/8\" thick. Gaskets should be as thin as",
+      "explanation_long": "are 1/16\" or 1/8\" thick. Gaskets should be as thin as possible to create an effective seal!)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#47 | pages 104-105",
+      "quality_flag": "probable",
+      "source_pages": [
+        104,
+        105
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (ASPE Vol. 4; most of the standard gaskets"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Commercial typical length available for PPR pipes is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.5. mSm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. - 4m (atlantaindustries.com) .- Om",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#48 | pages 106-107",
+      "quality_flag": "candidate",
+      "source_pages": [
+        106,
+        107
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Traparmsizeforadrinkingfountain",
+      "choices": [
+        {
+          "label": "A",
+          "text": "31 mm (RNPCP, Chapter 7)"
+        },
+        {
+          "label": "B",
+          "text": "3 2 mm"
+        },
+        {
+          "label": "C",
+          "text": "58 mm OFU"
+        },
+        {
+          "label": "D",
+          "text": "5 1 mm"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "d . S| mm “ MINIMUM TRAP DIAMETERS AND DRAINAGE FIXTURE UNIT VALUES",
+      "explanation_long": "d . S| mm “ MINIMUM TRAP DIAMETERS AND DRAINAGE FIXTURE UNIT VALUES Eeee | Bidets 8 PCiotheswashers* | 32 | st! | 5 [Drinking fountams",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#49 | pages 108-109",
+      "quality_flag": "probable",
+      "source_pages": [
+        108,
+        109
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 31 mm (RNPCP, Chapter 7)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-05-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "Length of the digestive chamber that requires to add an additional manhole",
+      "choices": [
+        {
+          "label": "A",
+          "text": "R. SEAN A. DUPAYA, UAP, RMP"
+        },
+        {
+          "label": "B",
+          "text": "3.7 m (RNPCP, Appendix B)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. 2.6 m eeeeeerr SEPTIC TANK PLAN Access to each septic tank shall be provided by at least two (2) manholes 508 mm in minimum dimension or by an equivalent removable cover slab. One access manhole shall be located over the inlet and one (1) access manhole shall be located over the outlet. Wherever a first compartment exceeds 3.7 m in length, an additional manhole shall be provided over the baffle wall.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#50 | pages 110-111-112-113",
+      "quality_flag": "probable",
+      "source_pages": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

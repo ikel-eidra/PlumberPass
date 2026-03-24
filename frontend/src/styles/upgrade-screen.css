@@ -1,0 +1,278 @@
+.upgrade-screen {
+  min-height: 100vh;
+  padding: 20px 18px 42px;
+  display: grid;
+  gap: 18px;
+  background:
+    radial-gradient(circle at top right, rgba(255, 133, 92, 0.16), transparent 28%),
+    radial-gradient(circle at top left, rgba(58, 221, 198, 0.16), transparent 32%),
+    linear-gradient(180deg, #09151e 0%, #0f1d29 46%, #132633 100%);
+  color: #f4fbff;
+  font-family: var(--font-sans);
+}
+
+.upgrade-screen__topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.upgrade-screen__icon,
+.upgrade-screen__ghost {
+  border: 0;
+  background: rgba(255, 255, 255, 0.08);
+  color: #f4fbff;
+}
+
+.upgrade-screen__icon {
+  height: 42px;
+  width: 42px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+
+.upgrade-screen__brand,
+.upgrade-screen__tier {
+  margin: 0;
+}
+
+.upgrade-screen__brand {
+  font-size: 13px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.upgrade-screen__tier {
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #7ce8d6;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-weight: 700;
+}
+
+.upgrade-screen__hero,
+.upgrade-card,
+.upgrade-screen__payments {
+  border-radius: 28px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 20px 36px rgba(2, 7, 13, 0.28);
+}
+
+.upgrade-screen__hero {
+  display: grid;
+  gap: 12px;
+  background:
+    radial-gradient(circle at top right, rgba(255, 133, 92, 0.18), transparent 28%),
+    linear-gradient(160deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.04)),
+    rgba(8, 19, 28, 0.72);
+}
+
+.upgrade-screen__eyebrow {
+  margin: 0;
+  color: #7ce8d6;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.upgrade-screen__hero h1 {
+  margin: 0;
+  font-size: clamp(34px, 9vw, 48px);
+  line-height: 0.96;
+}
+
+.upgrade-screen__hero p:last-of-type {
+  margin: 0;
+  color: #d4e5ec;
+  line-height: 1.6;
+}
+
+.upgrade-screen__hero-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.upgrade-screen__hero-pills span {
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  font-size: 12px;
+  color: #dcebf2;
+}
+
+.upgrade-screen__plans {
+  display: grid;
+  gap: 12px;
+}
+
+.upgrade-card {
+  display: grid;
+  gap: 10px;
+}
+
+.upgrade-card p,
+.upgrade-card h2,
+.upgrade-card strong,
+.upgrade-card span {
+  margin: 0;
+}
+
+.upgrade-card p {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: #a3c2cd;
+}
+
+.upgrade-card h2 {
+  font-size: 24px;
+}
+
+.upgrade-card strong {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.upgrade-card span {
+  color: #d1e3ea;
+  line-height: 1.5;
+}
+
+.upgrade-card ul {
+  margin: 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 8px;
+  color: #edf7fb;
+}
+
+.upgrade-card--free {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.upgrade-card--premium {
+  background: linear-gradient(135deg, rgba(255, 133, 92, 0.18), rgba(124, 232, 214, 0.08));
+}
+
+.upgrade-screen__section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.upgrade-screen__section-head h2,
+.upgrade-screen__section-head span {
+  margin: 0;
+}
+
+.upgrade-screen__section-head span {
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #7ce8d6;
+  font-weight: 700;
+}
+
+.upgrade-screen__payment-grid {
+  display: grid;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.upgrade-screen__payment-grid article {
+  display: grid;
+  gap: 8px;
+  padding: 16px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.upgrade-screen__payment-grid p,
+.upgrade-screen__payment-grid strong,
+.upgrade-screen__payment-grid span {
+  margin: 0;
+}
+
+.upgrade-screen__payment-grid p {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: #a3c2cd;
+}
+
+.upgrade-screen__payment-grid strong {
+  font-size: 18px;
+}
+
+.upgrade-screen__payment-grid span {
+  color: #d4e5ec;
+  line-height: 1.5;
+}
+
+.upgrade-screen__footer {
+  display: grid;
+  gap: 12px;
+}
+
+.upgrade-screen__status {
+  padding: 14px 16px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.upgrade-screen__status--success {
+  background: rgba(124, 232, 214, 0.14);
+  color: #dffcf6;
+}
+
+.upgrade-screen__status--error {
+  background: rgba(255, 106, 89, 0.14);
+  color: #ffe0da;
+}
+
+.upgrade-screen__primary,
+.upgrade-screen__ghost {
+  min-height: 54px;
+  border-radius: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 18px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.upgrade-screen__primary {
+  background: linear-gradient(135deg, #ff855c 0%, #ff6a59 100%);
+  color: #fffdf8;
+}
+
+.upgrade-screen__primary-button {
+  border: 0;
+  cursor: pointer;
+}
+
+.upgrade-screen__primary-button:disabled {
+  opacity: 0.72;
+  cursor: progress;
+}
+
+@media (min-width: 720px) {
+  .upgrade-screen__plans,
+  .upgrade-screen__payment-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

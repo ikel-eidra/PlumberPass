@@ -1,0 +1,703 @@
+{
+  "generated_at": "2026-03-21T13:17:45.423560+00:00",
+  "source_count": 32,
+  "classification": "review_queue",
+  "entries": [
+    {
+      "slug": "advance-qa__week-01",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 1 .pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-01__mcq__candidate__v1.json",
+      "question_count": 49,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "candidate": 25,
+        "review": 8,
+        "probable": 16
+      },
+      "quality_ratios": {
+        "candidate": 0.5102,
+        "review": 0.1633,
+        "probable": 0.3265
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-02",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 2.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-02__mcq__candidate__v1.json",
+      "question_count": 49,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "candidate": 30,
+        "probable": 16,
+        "review": 3
+      },
+      "quality_ratios": {
+        "candidate": 0.6122,
+        "probable": 0.3265,
+        "review": 0.0612
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-03",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 3.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-03__mcq__candidate__v1.json",
+      "question_count": 48,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "candidate": 31,
+        "probable": 15,
+        "review": 2
+      },
+      "quality_ratios": {
+        "candidate": 0.6458,
+        "probable": 0.3125,
+        "review": 0.0417
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-04",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 4.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-04__mcq__candidate__v1.json",
+      "question_count": 49,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "probable": 9,
+        "candidate": 33,
+        "review": 7
+      },
+      "quality_ratios": {
+        "probable": 0.1837,
+        "candidate": 0.6735,
+        "review": 0.1429
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-05",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 5.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-05__mcq__candidate__v1.json",
+      "question_count": 48,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "candidate": 30,
+        "review": 5,
+        "probable": 13
+      },
+      "quality_ratios": {
+        "candidate": 0.625,
+        "review": 0.1042,
+        "probable": 0.2708
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-07",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 7.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-07__mcq__candidate__v1.json",
+      "question_count": 50,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "probable": 17,
+        "candidate": 31,
+        "review": 2
+      },
+      "quality_ratios": {
+        "probable": 0.34,
+        "candidate": 0.62,
+        "review": 0.04
+      },
+      "notes": []
+    },
+    {
+      "slug": "advance-qa__week-10",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 10.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-10__mcq__candidate__v1.json",
+      "question_count": 50,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "probable": 11,
+        "candidate": 27,
+        "review": 12
+      },
+      "quality_ratios": {
+        "probable": 0.22,
+        "candidate": 0.54,
+        "review": 0.24
+      },
+      "notes": []
+    },
+    {
+      "slug": "terms-numbers__aspe-terminology",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TERMS & NUMBERS-20260126T193044Z-3-001\\ASPE PLUMBING TERMINOLOGY.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\terms-numbers__aspe-terminology__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 630,
+      "identification_count": 630,
+      "quality_summary": {
+        "review": 630
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "terms-numbers__important-numbers",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TERMS & NUMBERS-20260126T193044Z-3-001\\IMPORTANT NUMBERS.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\terms-numbers__important-numbers__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 334,
+      "identification_count": 334,
+      "quality_summary": {
+        "review": 334
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "terms-numbers__code-summary",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TERMS & NUMBERS-20260126T193044Z-3-001\\PLUMBING CODE SUMMARY.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\terms-numbers__code-summary__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 354,
+      "identification_count": 354,
+      "quality_summary": {
+        "review": 328,
+        "probable": 26
+      },
+      "quality_ratios": {
+        "review": 0.9266,
+        "probable": 0.0734
+      },
+      "notes": []
+    },
+    {
+      "slug": "terms-numbers__practical-problem-terms",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TERMS & NUMBERS-20260126T193044Z-3-001\\PRACTICAL PROBLEM TERMS.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\terms-numbers__practical-problem-terms__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 65,
+      "identification_count": 65,
+      "quality_summary": {
+        "review": 64,
+        "probable": 1
+      },
+      "quality_ratios": {
+        "review": 0.9846,
+        "probable": 0.0154
+      },
+      "notes": []
+    },
+    {
+      "slug": "tables__astm-nfpa",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\1. ASTM-NFPA.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\tables__astm-nfpa__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 16,
+      "identification_count": 16,
+      "quality_summary": {
+        "review": 16
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "tables__laws-rules-regulations",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\tables__laws-rules-regulations__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 4,
+      "identification_count": 4,
+      "quality_summary": {
+        "review": 4
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "tables__plumbing-tables-jam",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\3. PLUMBING TABLES by JAM.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\tables__plumbing-tables-jam__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 104,
+      "identification_count": 104,
+      "quality_summary": {
+        "probable": 4,
+        "review": 100
+      },
+      "quality_ratios": {
+        "probable": 0.0385,
+        "review": 0.9615
+      },
+      "notes": []
+    },
+    {
+      "slug": "tables__plumbing-tools-reference",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\4. PLUMBING TOOLS ALL REFERENCE.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\tables__plumbing-tools-reference__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 14,
+      "identification_count": 14,
+      "quality_summary": {
+        "review": 14
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "tables__useful-conversions",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs manual assessment"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\5. USEFUL CONVERSIONS.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\tables__useful-conversions__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 5,
+      "identification_count": 5,
+      "quality_summary": {
+        "probable": 3,
+        "review": 2
+      },
+      "quality_ratios": {
+        "probable": 0.6,
+        "review": 0.4
+      },
+      "notes": []
+    },
+    {
+      "slug": "spdi__water-supply-distribution",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\SPDI-20260126T193056Z-3-001\\1. Water Supply & Distribution Principles.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\spdi__water-supply-distribution__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 119,
+      "identification_count": 119,
+      "quality_summary": {
+        "review": 119
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "spdi__plumbing-materials",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\SPDI-20260126T193056Z-3-001\\2. Plumbing Materials.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\spdi__plumbing-materials__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 86,
+      "identification_count": 86,
+      "quality_summary": {
+        "review": 84,
+        "probable": 2
+      },
+      "quality_ratios": {
+        "review": 0.9767,
+        "probable": 0.0233
+      },
+      "notes": []
+    },
+    {
+      "slug": "spdi__accessibility-law",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\SPDI-20260126T193056Z-3-001\\3. Accessibility Law.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\spdi__accessibility-law__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 12,
+      "identification_count": 12,
+      "quality_summary": {
+        "review": 12
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__revised-national-plumbing-code",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\1. Revised National Plumbing Code of the Philippines.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__revised-national-plumbing-code__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 1543,
+      "identification_count": 1543,
+      "quality_summary": {
+        "review": 1504,
+        "probable": 39
+      },
+      "quality_ratios": {
+        "review": 0.9747,
+        "probable": 0.0253
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__illustrated-national-plumbing-code",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\1A. Illustrated National Plumbing Code of the Philippines.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__illustrated-national-plumbing-code__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 1125,
+      "identification_count": 1125,
+      "quality_summary": {
+        "review": 1102,
+        "probable": 23
+      },
+      "quality_ratios": {
+        "review": 0.9796,
+        "probable": 0.0204
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__plumbing-design-estimate-fajardo",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\2. Plumbing Design and Estimate by Max Fajardo.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__plumbing-design-estimate-fajardo__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 754,
+      "identification_count": 754,
+      "quality_summary": {
+        "review": 725,
+        "probable": 29
+      },
+      "quality_ratios": {
+        "review": 0.9615,
+        "probable": 0.0385
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__ra-1378-plumbing-law",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\3. RA-1378-Plumbing-Law.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__ra-1378-plumbing-law__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 26,
+      "identification_count": 26,
+      "quality_summary": {
+        "review": 26
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__ra-1364-sanitary-engineering-law",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\4. RA-1364-Sanitary-Engineering-Law.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__ra-1364-sanitary-engineering-law__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 59,
+      "identification_count": 59,
+      "quality_summary": {
+        "review": 59
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__ridgid-catalogue",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\5. Ridgid Catalogue.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__ridgid-catalogue__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 2247,
+      "identification_count": 2247,
+      "quality_summary": {
+        "review": 2242,
+        "probable": 5
+      },
+      "quality_ratios": {
+        "review": 0.9978,
+        "probable": 0.0022
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__audel-pocket-manual",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\6. AUDEL Plumbers Pocket Manual 10th Edition.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__audel-pocket-manual__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 1371,
+      "identification_count": 1371,
+      "quality_summary": {
+        "review": 1355,
+        "probable": 16
+      },
+      "quality_ratios": {
+        "review": 0.9883,
+        "probable": 0.0117
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__audel-questions-answers",
+      "converter": "mcq",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "MCQ bank still has too many unresolved answers"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__audel-questions-answers__mcq__candidate__v1.json",
+      "question_count": 32,
+      "flashcard_count": 0,
+      "identification_count": 0,
+      "quality_summary": {
+        "review": 32
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": [
+        "Large text-native question bank."
+      ]
+    },
+    {
+      "slug": "reference__fundamentals-of-plumbing-engineering",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\8. Fundamentals of Plumbing Engineering by ASPE.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__fundamentals-of-plumbing-engineering__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 3685,
+      "identification_count": 3685,
+      "quality_summary": {
+        "review": 3605,
+        "probable": 80
+      },
+      "quality_ratios": {
+        "review": 0.9783,
+        "probable": 0.0217
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__plumbing-engineering-design",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\9. Plumbing Engineering Design by ASPE.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__plumbing-engineering-design__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 3711,
+      "identification_count": 3711,
+      "quality_summary": {
+        "review": 3666,
+        "probable": 45
+      },
+      "quality_ratios": {
+        "review": 0.9879,
+        "probable": 0.0121
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__drinking-water-standards",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\11. Philippine National Standards for Drinking Water - PNSDW 2007.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__drinking-water-standards__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 312,
+      "identification_count": 312,
+      "quality_summary": {
+        "review": 312
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__bp344-amended-irr",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\12. AMENDED IRR BP344- OFFICIAL GAZETTE.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__bp344-amended-irr__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 733,
+      "identification_count": 733,
+      "quality_summary": {
+        "review": 731,
+        "probable": 2
+      },
+      "quality_ratios": {
+        "review": 0.9973,
+        "probable": 0.0027
+      },
+      "notes": []
+    },
+    {
+      "slug": "reference__green-building-code",
+      "converter": "facts",
+      "classification": "review_queue",
+      "classification_reasons": [
+        "Reference extraction needs filtering before publication"
+      ],
+      "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\13. PH GREEN BUILDING CODE.pdf",
+      "output_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\reference__green-building-code__review__candidate__v1.json",
+      "question_count": 0,
+      "flashcard_count": 547,
+      "identification_count": 547,
+      "quality_summary": {
+        "review": 547
+      },
+      "quality_ratios": {
+        "review": 1.0
+      },
+      "notes": []
+    }
+  ]
+}

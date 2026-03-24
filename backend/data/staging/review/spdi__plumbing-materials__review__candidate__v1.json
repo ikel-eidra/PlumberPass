@@ -1,0 +1,3647 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 84,
+      "probable": 2
+    },
+    "notes": [],
+    "source_slug": "spdi__plumbing-materials",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\SPDI-20260126T193056Z-3-001\\2. Plumbing Materials.pdf",
+    "material_group": "spdi",
+    "converter": "facts",
+    "generated_at": "2026-03-21T13:09:49.162420+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "Reference extraction needs filtering before publication"
+    ]
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-0ad21a20863b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "front": "What is PIPE?",
+      "back": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as pipe size, & is denoted by its interior diameter (I.D)",
+      "explanation_short": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as pipe size, & is denoted by its interior diameter (I.D)",
+      "explanation_long": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as pipe size, & is denoted by its interior diameter (I.D)",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d6f82ccaa050",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "front": "What is Tube?",
+      "back": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as tube size, & is denoted by its outside diameter (O.D)",
+      "explanation_short": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as tube size, & is denoted by its outside diameter (O.D)",
+      "explanation_long": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as tube size, & is denoted by its outside diameter (O.D)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f37075902749",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "front": "What is Invert?",
+      "back": "the lowest portion of the interior of any pipe or conduit",
+      "explanation_short": "the lowest portion of the interior of any pipe or conduit",
+      "explanation_long": "the lowest portion of the interior of any pipe or conduit",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d1f10bff522b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "front": "What is Springline- horizontal line?",
+      "back": "at the midpoint f the vertical axis of the pipe",
+      "explanation_short": "at the midpoint f the vertical axis of the pipe",
+      "explanation_long": "at the midpoint f the vertical axis of the pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-894af3be59ec",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "front": "What is Haunch –?",
+      "back": "the outside areas between the springline and the bottom of the pipe",
+      "explanation_short": "the outside areas between the springline and the bottom of the pipe",
+      "explanation_long": "the outside areas between the springline and the bottom of the pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d6b7e3bc1801",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "front": "What is All pipe materials?",
+      "back": "to be used in buildings shall conform to the Standard Specifications f the Philippine Standard Council. (NBC)",
+      "explanation_short": "to be used in buildings shall conform to the Standard Specifications f the Philippine Standard Council. (NBC)",
+      "explanation_long": "to be used in buildings shall conform to the Standard Specifications f the Philippine Standard Council. (NBC)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-26d935a043d1",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "front": "What is CAST IRON PIPE –?",
+      "back": "the most popular & generally specified material for drainage system in buildings of less than 25 story high. However, it is prone to corrosion and leaks in pipe joints when installed to heights greater than the said story",
+      "explanation_short": "the most popular & generally specified material for drainage system in buildings of less than 25 story high. However, it is prone to corrosion and leaks in pipe joints when install",
+      "explanation_long": "the most popular & generally specified material for drainage system in buildings of less than 25 story high. However, it is prone to corrosion and leaks in pipe joints when installed to heights greater than the said story",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ffea1e8fbf7b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "front": "What is XV –?",
+      "back": "for underground installations",
+      "explanation_short": "for underground installations",
+      "explanation_long": "for underground installations",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e56c9414b973",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "front": "What is Acid Resistant Cast Iron Pipe?",
+      "back": "made from alloy of cast iron & silicon widely used in installations that discharges acid waste brittle in character & require stronger support",
+      "explanation_short": "made from alloy of cast iron & silicon widely used in installations that discharges acid waste brittle in character & require stronger support",
+      "explanation_long": "made from alloy of cast iron & silicon widely used in installations that discharges acid waste brittle in character & require stronger support",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3306507cefb4",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Joint: 1. Caulked Joint?",
+      "back": "for bell-and-spigot cast iron soil pipe ▪ 25.4 mm",
+      "explanation_short": "for bell-and-spigot cast iron soil pipe ▪ 25.4 mm",
+      "explanation_long": "for bell-and-spigot cast iron soil pipe ▪ 25.4 mm",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.2 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-866f3a17b667",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is BITUMINOUS FIBER SEWER PIPE –?",
+      "back": "a Cheapest among sewer pipes (also known as",
+      "explanation_short": "a Cheapest among sewer pipes (also known as",
+      "explanation_long": "a Cheapest among sewer pipes (also known as",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7632999f120a",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is ORANGEBURG pipe)?",
+      "back": "Lightweight, slightly flexible which could take slight soil movement without danger f cracking or pulling out from its joint",
+      "explanation_short": "Lightweight, slightly flexible which could take slight soil movement without danger f cracking or pulling out from its joint",
+      "explanation_long": "Lightweight, slightly flexible which could take slight soil movement without danger f cracking or pulling out from its joint",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-90aa57ef054b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Made up?",
+      "back": "f Asbestos fiber (provides strength & rigidity) & Bitumen (asphalt/tar) (coats the fibers & acts as a binder & waterproofing agent)",
+      "explanation_short": "f Asbestos fiber (provides strength & rigidity) & Bitumen (asphalt/tar) (coats the fibers & acts as a binder & waterproofing agent)",
+      "explanation_long": "f Asbestos fiber (provides strength & rigidity) & Bitumen (asphalt/tar) (coats the fibers & acts as a binder & waterproofing agent)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-90ca2d908af0",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Disadvantage: Excessive hot water?",
+      "back": "r chemical flow may soften or damage the pipe",
+      "explanation_short": "r chemical flow may soften or damage the pipe",
+      "explanation_long": "r chemical flow may soften or damage the pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b713e68ca403",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is ASBESTOS PIPE –?",
+      "back": "a Made of Asbestos fibers & Portland Cement",
+      "explanation_short": "a Made of Asbestos fibers & Portland Cement",
+      "explanation_long": "a Made of Asbestos fibers & Portland Cement",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c85415cf6c53",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Thickness of?",
+      "back": "this pipe is twice as that of standard cast iron pipe",
+      "explanation_short": "this pipe is twice as that of standard cast iron pipe",
+      "explanation_long": "this pipe is twice as that of standard cast iron pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2577949382e1",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Used as?",
+      "back": "soil, waste, ventilation and downspout",
+      "explanation_short": "soil, waste, ventilation and downspout",
+      "explanation_long": "soil, waste, ventilation and downspout",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e0a0400c43d8",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Remarkably superior?",
+      "back": "for embedment in concrete structure for having the same material properties",
+      "explanation_short": "for embedment in concrete structure for having the same material properties",
+      "explanation_long": "for embedment in concrete structure for having the same material properties",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b515e24cba56",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Used in relatively thin slabs?",
+      "back": "for shingles, wallboards, and siding",
+      "explanation_short": "for shingles, wallboards, and siding",
+      "explanation_long": "for shingles, wallboards, and siding",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ac5675f3a7d0",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Joints: Mechanical Joints – shall be?",
+      "back": "a sleeve coupling of the same composition as the pipe or f other approved materials, and sealed with neoprene rubber rings or joined by an approved type compression coupling",
+      "explanation_short": "a sleeve coupling of the same composition as the pipe or f other approved materials, and sealed with neoprene rubber rings or joined by an approved type compression coupling",
+      "explanation_long": "a sleeve coupling of the same composition as the pipe or f other approved materials, and sealed with neoprene rubber rings or joined by an approved type compression coupling",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4e14b13a1211",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "front": "What is CONCRETE PIPE – used?",
+      "back": "for sanitary sewers, storm sewers, culverts, detention systems, and low-pressure force mains",
+      "explanation_short": "for sanitary sewers, storm sewers, culverts, detention systems, and low-pressure force mains",
+      "explanation_long": "for sanitary sewers, storm sewers, culverts, detention systems, and low-pressure force mains",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-434e98e1ad35",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "front": "What is Reinforced concrete pipe?",
+      "back": "is the most durable and economical of all piping products. It is recommended for installations where low, moderate, or severe cover and/or live load conditions exist and structural failure might endanger life or property. Reinforced pipe, even after ultimate failure, retains its shape and will not collapse",
+      "explanation_short": "is the most durable and economical of all piping products. It is recommended for installations where low, moderate, or severe cover and/or live load conditions exist and structural",
+      "explanation_long": "is the most durable and economical of all piping products. It is recommended for installations where low, moderate, or severe cover and/or live load conditions exist and structural failure might endanger life or property. Reinforced pipe, even after ultimate failure, retains its shape and will not collapse",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ecb5f00a5779",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "front": "What is Joints: Cement Mortar Joints (for gravity sewers), Mechanical Joints (for pressure pipelines)?",
+      "back": "Casted in 1m lengths",
+      "explanation_short": "Casted in 1m lengths",
+      "explanation_long": "Casted in 1m lengths",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5ea53392fae4",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "front": "What is VITRIFIED CLAY PIPE – one?",
+      "back": "f the oldest material used for sewer lines",
+      "explanation_short": "f the oldest material used for sewer lines",
+      "explanation_long": "f the oldest material used for sewer lines",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-20c4e4356e42",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "front": "What is Made of clay, cast?",
+      "back": "into length of 75 cm",
+      "explanation_short": "into length of 75 cm",
+      "explanation_long": "into length of 75 cm",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b0a68c2ef70d",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "front": "What is Durable material for underground installations like public sewer, house sewer, or storm drain?",
+      "back": "Highly resistant to most acid wastes",
+      "explanation_short": "Highly resistant to most acid wastes",
+      "explanation_long": "Highly resistant to most acid wastes",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8fa45bb13c4c",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "front": "What is Should not be laid?",
+      "back": "n unstable ground base",
+      "explanation_short": "n unstable ground base",
+      "explanation_long": "n unstable ground base",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c90987cbd874",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is LEAD PIPE –?",
+      "back": "a One of the oldest plumbing materials used by Egyptians, Greeks, & Romans",
+      "explanation_short": "a One of the oldest plumbing materials used by Egyptians, Greeks, & Romans",
+      "explanation_long": "a One of the oldest plumbing materials used by Egyptians, Greeks, & Romans",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1e38021ea638",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is Disadvantage: Poisonous & injurious to human health?",
+      "back": "Suitable for underground use",
+      "explanation_short": "Suitable for underground use",
+      "explanation_long": "Suitable for underground use",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-6238974da9c4",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is Joints: Wipe Joint?",
+      "back": "Wiped lead joints shall have an exposed surface on each side of a joint not less than 19 mm (RNPCP)",
+      "explanation_short": "Wiped lead joints shall have an exposed surface on each side of a joint not less than 19 mm (RNPCP)",
+      "explanation_long": "Wiped lead joints shall have an exposed surface on each side of a joint not less than 19 mm (RNPCP)",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f53ca9b823c8",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is Joints between lead pipe?",
+      "back": "and other piping material shall be made by a wiped joint to a caulking ferrule, soldering nipple or bushing or made with an approved adapter fitting",
+      "explanation_short": "and other piping material shall be made by a wiped joint to a caulking ferrule, soldering nipple or bushing or made with an approved adapter fitting",
+      "explanation_long": "and other piping material shall be made by a wiped joint to a caulking ferrule, soldering nipple or bushing or made with an approved adapter fitting",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1e14370f72b3",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is CAULKING FERRULE?",
+      "back": "a metal sleeve or short fitting, usually made of brass or copper alloy, used to make a watertight connection between a lead pipe and a cast-iron, copper or brass pipe or fitting",
+      "explanation_short": "a metal sleeve or short fitting, usually made of brass or copper alloy, used to make a watertight connection between a lead pipe and a cast-iron, copper or brass pipe or fitting",
+      "explanation_long": "a metal sleeve or short fitting, usually made of brass or copper alloy, used to make a watertight connection between a lead pipe and a cast-iron, copper or brass pipe or fitting",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5bd23ff0cf36",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is SOLDERING NIPPLE?",
+      "back": "a short piece of brass or copper pipe, threaded on one end and plain (smooth) on the other, designed so that the plain end can be soldered to a lead pipe or another metallic pipe, and the threaded end can be screwed into a fitting of another piping material",
+      "explanation_short": "a short piece of brass or copper pipe, threaded on one end and plain (smooth) on the other, designed so that the plain end can be soldered to a lead pipe or another metallic pipe, ",
+      "explanation_long": "a short piece of brass or copper pipe, threaded on one end and plain (smooth) on the other, designed so that the plain end can be soldered to a lead pipe or another metallic pipe, and the threaded end can be screwed into a fitting of another piping material",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c1591a32ab57",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is GALVANIZED STEEL PIPE – Made out?",
+      "back": "f mild steel, drawn through a die and welded",
+      "explanation_short": "f mild steel, drawn through a die and welded",
+      "explanation_long": "f mild steel, drawn through a die and welded",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-104c25b8ce86",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is Disadvantage: Easily corroded by acidic & alkaline water; Deteriorate faster when used as hot water supply line?",
+      "back": "Cast into 6.0 m long",
+      "explanation_short": "Cast into 6.0 m long",
+      "explanation_long": "Cast into 6.0 m long",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-177fcd1f229e",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is Black Pipe: steel pipe?",
+      "back": "that has not been galvanized",
+      "explanation_short": "that has not been galvanized",
+      "explanation_long": "that has not been galvanized",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-628be42723cd",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is GALVANIZED WROUGHT IRON PIPE – Better?",
+      "back": "in quality than the steel pipe for plumbing installation; More resistant to acid waste than the steel pipe",
+      "explanation_short": "in quality than the steel pipe for plumbing installation; More resistant to acid waste than the steel pipe",
+      "explanation_long": "in quality than the steel pipe for plumbing installation; More resistant to acid waste than the steel pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-37f52d4b207d",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "front": "What is Joints between galvanized steel, galvanized wrought-iron,?",
+      "back": "r steel pipe shall be made with standard pipe threads, flanges, or approved couplings",
+      "explanation_short": "r steel pipe shall be made with standard pipe threads, flanges, or approved couplings",
+      "explanation_long": "r steel pipe shall be made with standard pipe threads, flanges, or approved couplings",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4c49f8ee0513",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is BRASS PIPE?",
+      "back": "Most expensive type of pipe",
+      "explanation_short": "Most expensive type of pipe",
+      "explanation_long": "Most expensive type of pipe",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ea08cab4c090",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Made of alloy?",
+      "back": "f Zinc & Copper (15% & 85% proportion respectively)",
+      "explanation_short": "f Zinc & Copper (15% & 85% proportion respectively)",
+      "explanation_long": "f Zinc & Copper (15% & 85% proportion respectively)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-25192c8b599e",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Superior material?",
+      "back": "for waste and water supply installations because of its smooth surface & high acid resistance",
+      "explanation_short": "for waste and water supply installations because of its smooth surface & high acid resistance",
+      "explanation_long": "for waste and water supply installations because of its smooth surface & high acid resistance",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7c5ea809aa26",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Brass fittings are?",
+      "back": "f recessed type similar in design with galvanized steel pipe",
+      "explanation_short": "f recessed type similar in design with galvanized steel pipe",
+      "explanation_long": "f recessed type similar in design with galvanized steel pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d44191a319cb",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is COPPER PIPE –?",
+      "back": "a Durable and extremely corrosive resistant material",
+      "explanation_short": "a Durable and extremely corrosive resistant material",
+      "explanation_long": "a Durable and extremely corrosive resistant material",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-a433a7f67cf3",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "front": "What is Easy to install compared?",
+      "back": "with other types of pipes",
+      "explanation_short": "with other types of pipes",
+      "explanation_long": "with other types of pipes",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-80896de37d63",
+      "topic": "Plumbing Materials",
+      "subtopic": "K",
+      "front": "What is Heaviest?",
+      "back": "Suitable for underground installation",
+      "explanation_short": "Suitable for underground installation",
+      "explanation_long": "Suitable for underground installation",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "k",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | K",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-0f4de0963efd",
+      "topic": "Plumbing Materials",
+      "subtopic": "L",
+      "front": "What is Minimum requirement for water supply piping?",
+      "back": "blue",
+      "explanation_short": "blue",
+      "explanation_long": "blue",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "l",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | L",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8d9dde601e0a",
+      "topic": "Plumbing Materials",
+      "subtopic": "L",
+      "front": "What is Available in?",
+      "back": "both rigid & flexible form",
+      "explanation_short": "both rigid & flexible form",
+      "explanation_long": "both rigid & flexible form",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "l",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | L",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-23f4760bb864",
+      "topic": "Plumbing Materials",
+      "subtopic": "M",
+      "front": "What is Thinnest & available only in rigid form?",
+      "back": "red",
+      "explanation_short": "red",
+      "explanation_long": "red",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "m",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | M",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-00b65fe0d70e",
+      "topic": "Plumbing Materials",
+      "subtopic": "M",
+      "front": "What is Used in water piping when piping?",
+      "back": "is above ground or atop a building, or underground outside of structures with outside protective coating",
+      "explanation_short": "is above ground or atop a building, or underground outside of structures with outside protective coating",
+      "explanation_long": "is above ground or atop a building, or underground outside of structures with outside protective coating",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "m",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | M",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7090019f1553",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "front": "What is For underground and above ground drainage and vent piping?",
+      "back": "yellow",
+      "explanation_short": "yellow",
+      "explanation_long": "yellow",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-36974c5fdb23",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "front": "What is Hard drawn (rigid?",
+      "back": "copper tube) – cold – drawn (stretched and hardened during production)",
+      "explanation_short": "copper tube) – cold – drawn (stretched and hardened during production)",
+      "explanation_long": "copper tube) – cold – drawn (stretched and hardened during production)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-a5b886acf639",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "front": "What is Joint: by soldering?",
+      "back": "r brazing, by using capillary fittings(brass or copper), or by welding",
+      "explanation_short": "r brazing, by using capillary fittings(brass or copper), or by welding",
+      "explanation_long": "r brazing, by using capillary fittings(brass or copper), or by welding",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8a39747989b7",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "front": "What is 2. Annealed (soft or flexible copper tube)?",
+      "back": "heated and slowly cooled to remove hardness",
+      "explanation_short": "heated and slowly cooled to remove hardness",
+      "explanation_long": "heated and slowly cooled to remove hardness",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-febc28f697fb",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Proven to be superior as sewer and cold water supply line because of:?",
+      "back": "Developed in Germany in midyear 1935",
+      "explanation_short": "Developed in Germany in midyear 1935",
+      "explanation_long": "Developed in Germany in midyear 1935",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d0febb263627",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Water conveyed has no pipe taste?",
+      "back": "More resistance to rust and corrosion",
+      "explanation_short": "More resistance to rust and corrosion",
+      "explanation_long": "More resistance to rust and corrosion",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4f19c633af20",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Lightweight?",
+      "back": "Cast into longer length and easy to cut & install",
+      "explanation_short": "Cast into longer length and easy to cut & install",
+      "explanation_long": "Cast into longer length and easy to cut & install",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-eba35384cf42",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Connected to existing metal pipe?",
+      "back": "with threaded adaptor",
+      "explanation_short": "with threaded adaptor",
+      "explanation_long": "with threaded adaptor",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-bedbbd024e22",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Acid proof?",
+      "back": "Manufactured in two general types:",
+      "explanation_short": "Manufactured in two general types:",
+      "explanation_long": "Manufactured in two general types:",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-87458477d087",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Thermoset (permanently rigid?",
+      "back": "and not affected by heat)",
+      "explanation_short": "and not affected by heat)",
+      "explanation_long": "and not affected by heat)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-12ac00d3220e",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Thermoplastic (have?",
+      "back": "the property of softening when heated and hardening when cooled)",
+      "explanation_short": "the property of softening when heated and hardening when cooled)",
+      "explanation_long": "the property of softening when heated and hardening when cooled)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5a0f12bce207",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is POLYBUTYLENE (PB)?",
+      "back": "flexible thermoplastic that was manufactured to pipe and tubing specifications. PB tubing is no longer manufactured but is listed here in the event that repairs or modifications are made to existing systems",
+      "explanation_short": "flexible thermoplastic that was manufactured to pipe and tubing specifications. PB tubing is no longer manufactured but is listed here in the event that repairs or modifications ar",
+      "explanation_long": "flexible thermoplastic that was manufactured to pipe and tubing specifications. PB tubing is no longer manufactured but is listed here in the event that repairs or modifications are made to existing systems",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4bc487566d65",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "front": "What is Application: hydronic?",
+      "back": "slab heating systems, fire sprinklers systems, hot and cold water distribution, and plumbing and water supply",
+      "explanation_short": "slab heating systems, fire sprinklers systems, hot and cold water distribution, and plumbing and water supply",
+      "explanation_long": "slab heating systems, fire sprinklers systems, hot and cold water distribution, and plumbing and water supply",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-71f078c7bcc6",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Compression Joints",
+      "front": "What is POLYETHYLENE (PE) –?",
+      "back": "a Chemically resistant and has good structural resistance to high pressure",
+      "explanation_short": "a Chemically resistant and has good structural resistance to high pressure",
+      "explanation_long": "a Chemically resistant and has good structural resistance to high pressure",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-compression-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Joints: Compression Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-226acc036078",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Compression Joints",
+      "front": "What is Available in 2 Resins: ▪ MDPE (medium density) – used in buried gas transmission industry ▪ HDPE (high density) has a wide variety of belowground and aboveground applications?",
+      "back": "Blue or Black for water application",
+      "explanation_short": "Blue or Black for water application",
+      "explanation_long": "Blue or Black for water application",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-compression-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Joints: Compression Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-0ecf43145d6b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Compression Joints",
+      "front": "What is the equivalent of Upper Operating Max. Temp?",
+      "back": "160° F",
+      "explanation_short": "160° F",
+      "explanation_long": "Upper Operating Max. Temp = 160° F",
+      "tags": [
+        "plumbing-materials",
+        "conversion",
+        "joints-compression-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Joints: Compression Joints",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-de131e0575ac",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "front": "What is CROSSLINKED – POLYETHYLENE –?",
+      "back": "a specially controlled chemical reaction takes place during the manufacturing of the polyethylene pipe to form PEX",
+      "explanation_short": "a specially controlled chemical reaction takes place during the manufacturing of the polyethylene pipe to form PEX",
+      "explanation_long": "a specially controlled chemical reaction takes place during the manufacturing of the polyethylene pipe to form PEX",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-79cf91ae9028",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "front": "What is Cross-linked molecular structuring gives?",
+      "back": "the pipe greater resistance to rupture ver a wider range of temperatures and pressures than PB, PE, and PP. PEX is then flexible, allowing it to be bent",
+      "explanation_short": "the pipe greater resistance to rupture ver a wider range of temperatures and pressures than PB, PE, and PP. PEX is then flexible, allowing it to be bent",
+      "explanation_long": "the pipe greater resistance to rupture ver a wider range of temperatures and pressures than PB, PE, and PP. PEX is then flexible, allowing it to be bent",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-886417482efe",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "front": "What is Maximum Service Temperature = 180 °F?",
+      "back": "The method of joining is mechanical joints (barbed joints and compression fittings)",
+      "explanation_short": "The method of joining is mechanical joints (barbed joints and compression fittings)",
+      "explanation_long": "The method of joining is mechanical joints (barbed joints and compression fittings)",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d7a283457b28",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "front": "What is POLYPROPYLENE –?",
+      "back": "a Hard, tough thermoplastic resin",
+      "explanation_short": "a Hard, tough thermoplastic resin",
+      "explanation_long": "a Hard, tough thermoplastic resin",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2fd8e6189e9a",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "front": "What is Lightweight material suitable?",
+      "back": "for lower pressure application",
+      "explanation_short": "for lower pressure application",
+      "explanation_long": "for lower pressure application",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-700447942e72",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "front": "What is Flame Retardant & used?",
+      "back": "for a wide range of industrial liquids, salt water disposal, and corrosive waste systems",
+      "explanation_short": "for a wide range of industrial liquids, salt water disposal, and corrosive waste systems",
+      "explanation_long": "for a wide range of industrial liquids, salt water disposal, and corrosive waste systems",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4fbe308cfb00",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Chloride",
+      "front": "What is (PVC) –?",
+      "back": "a rigid, pressure- or drainage-type pipe that resists chemicals and corrosion",
+      "explanation_short": "a rigid, pressure- or drainage-type pipe that resists chemicals and corrosion",
+      "explanation_long": "a rigid, pressure- or drainage-type pipe that resists chemicals and corrosion",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "polyvinyl-chloride",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Polyvinyl Chloride",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-6abb7f648867",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joint: Solvent Cement Joint",
+      "front": "What is UNPLASTICIZED POLYVINYL CHLORIDE (UPVC) –?",
+      "back": "a type of Polyvinyl",
+      "explanation_short": "a type of Polyvinyl",
+      "explanation_long": "a type of Polyvinyl",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joint-solvent-cement-joint",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Joint: Solvent Cement Joint",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1c89c8e0da8b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joint: Solvent Cement Joint",
+      "front": "What is Chloride without any plasticizer added?",
+      "back": "to it to reduce the brittleness of the plastic",
+      "explanation_short": "to it to reduce the brittleness of the plastic",
+      "explanation_long": "to it to reduce the brittleness of the plastic",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joint-solvent-cement-joint",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Joint: Solvent Cement Joint",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-6ad79bbd02cb",
+      "topic": "Plumbing Materials",
+      "subtopic": "Chlorinated Polyvinyl",
+      "front": "What is CHLORIDE (CPVC) –?",
+      "back": "a thermoplastc produced by chlorination of polyvinyl chloride resin. It is similar to PVC in strength and overall chemical resistance, but is significantly more flexible than PVC. Used in application in hot and cold water distribution and chemical process piping. Has excellent chemical, crush, and fire resistance, high impact and tensile strength, and non – toxic",
+      "explanation_short": "a thermoplastc produced by chlorination of polyvinyl chloride resin. It is similar to PVC in strength and overall chemical resistance, but is significantly more flexible than PVC. ",
+      "explanation_long": "a thermoplastc produced by chlorination of polyvinyl chloride resin. It is similar to PVC in strength and overall chemical resistance, but is significantly more flexible than PVC. Used in application in hot and cold water distribution and chemical process piping. Has excellent chemical, crush, and fire resistance, high impact and tensile strength, and non – toxic",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "chlorinated-polyvinyl",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Chlorinated Polyvinyl",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c027347d81c4",
+      "topic": "Plumbing Materials",
+      "subtopic": "Chlorinated Polyvinyl",
+      "front": "What is Max Service Temperature: 180 °F?",
+      "back": "at 100psi (standard)",
+      "explanation_short": "at 100psi (standard)",
+      "explanation_long": "at 100psi (standard)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "chlorinated-polyvinyl",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Chlorinated Polyvinyl",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f7a784ab0098",
+      "topic": "Plumbing Materials",
+      "subtopic": "Chlorinated Polyvinyl",
+      "front": "What is Minimum 200 psi?",
+      "back": "at 73.5 °F for aboveground interior building installation (Audel)",
+      "explanation_short": "at 73.5 °F for aboveground interior building installation (Audel)",
+      "explanation_long": "at 73.5 °F for aboveground interior building installation (Audel)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "chlorinated-polyvinyl",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Chlorinated Polyvinyl",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4ba2e3303797",
+      "topic": "Plumbing Materials",
+      "subtopic": "Acrylonitrile – Butadiene –",
+      "front": "What is STYRENE (ABS) – Known?",
+      "back": "for its high impact strength and durability which combine for exceptional toughness",
+      "explanation_short": "for its high impact strength and durability which combine for exceptional toughness",
+      "explanation_long": "for its high impact strength and durability which combine for exceptional toughness",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "acrylonitrile-butadiene",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Acrylonitrile – Butadiene –",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7954be5ba4c5",
+      "topic": "Plumbing Materials",
+      "subtopic": "Acrylonitrile – Butadiene –",
+      "front": "What is Commonly used?",
+      "back": "for DWV plumbing , main sanitary and storm sewers, underground electrical conduits, and applications in the chemical and petroleum industries",
+      "explanation_short": "for DWV plumbing , main sanitary and storm sewers, underground electrical conduits, and applications in the chemical and petroleum industries",
+      "explanation_long": "for DWV plumbing , main sanitary and storm sewers, underground electrical conduits, and applications in the chemical and petroleum industries",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "acrylonitrile-butadiene",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Acrylonitrile – Butadiene –",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-75f43914784f",
+      "topic": "Plumbing Materials",
+      "subtopic": "Acrylonitrile – Butadiene –",
+      "front": "What is Maximum Service Temperature?",
+      "back": "140 °F (160 °F at lower pressures)",
+      "explanation_short": "140 °F (160 °F at lower pressures)",
+      "explanation_long": "140 °F (160 °F at lower pressures)",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "acrylonitrile-butadiene",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Acrylonitrile – Butadiene –",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-56300e801971",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "front": "What is Notable for its ability to withstand high temperatures for elevated- temperature cleaning?",
+      "back": "Available in 10 ft lengths",
+      "explanation_short": "Available in 10 ft lengths",
+      "explanation_long": "Available in 10 ft lengths",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-6dd3b3134c4b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "front": "What is the equivalent of Maximum Service Temperature?",
+      "back": "220 °F ASPE (280 °F from Audel)",
+      "explanation_short": "220 °F ASPE (280 °F from Audel)",
+      "explanation_long": "Maximum Service Temperature = 220 °F ASPE (280 °F from Audel)",
+      "tags": [
+        "plumbing-materials",
+        "conversion",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-e81c11e05c26",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "front": "What is Joints are made mechanically?",
+      "back": "r by heat fusion (electric coil or socket fusion)",
+      "explanation_short": "r by heat fusion (electric coil or socket fusion)",
+      "explanation_long": "r by heat fusion (electric coil or socket fusion)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-16004ffecb9e",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "front": "What is POLYTETRAFLUOROETHYLENE (PTFE) – Has outstanding resistance?",
+      "back": "to chemical attack by most chemicals and solvents",
+      "explanation_short": "to chemical attack by most chemicals and solvents",
+      "explanation_long": "to chemical attack by most chemicals and solvents",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-fcf53386fff6",
+      "topic": "Plumbing Materials",
+      "subtopic": "White On Blue",
+      "front": "What is Any vopot?",
+      "back": "r gos under Pwnite on Grey pressure that does not fit canon coors Black on White",
+      "explanation_short": "r gos under Pwnite on Grey pressure that does not fit canon coors Black on White",
+      "explanation_long": "r gos under Pwnite on Grey pressure that does not fit canon coors Black on White",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "white-on-blue",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.10 | White On Blue",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-eb0130f92b7e",
+      "topic": "Plumbing Materials",
+      "subtopic": "George Salvan",
+      "front": "What is LIGHT GRAY?",
+      "back": "OR ORANGE - electric conduit",
+      "explanation_short": "OR ORANGE - electric conduit",
+      "explanation_long": "OR ORANGE - electric conduit",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "george-salvan",
+        "spdi",
+        "spdi__plumbing-materials",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.10 | George Salvan",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": [
+    {
+      "id": "id-718f4dea3ac5",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "prompt": "What is PIPE?",
+      "accepted_answers": [
+        "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as pipe size, & is denoted by its interior diameter (I.D)",
+        "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as pipe size, & is denoted by its interior diameter"
+      ],
+      "explanation_short": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as pipe size, & is denoted by its interior diameter (I.D)",
+      "explanation_long": "a cylindrical conduit or conductor conforming to the particular dimensions commonly known as pipe size, & is denoted by its interior diameter (I.D)",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d188c41aaac6",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "prompt": "What term matches this definition? a cylindrical conduit or conductor conforming to the particular dimensions commonly known as tube size, & is denoted by its outside diameter (O.D)",
+      "accepted_answers": [
+        "Tube"
+      ],
+      "explanation_short": "Tube",
+      "explanation_long": "Tube: a cylindrical conduit or conductor conforming to the particular dimensions commonly known as tube size, & is denoted by its outside diameter (O.D)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b97d5b8a36ba",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "prompt": "What term matches this definition? the lowest portion of the interior of any pipe or conduit",
+      "accepted_answers": [
+        "Invert"
+      ],
+      "explanation_short": "Invert",
+      "explanation_long": "Invert: the lowest portion of the interior of any pipe or conduit",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-37b28660c6a8",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "prompt": "What term matches this definition? at the midpoint f the vertical axis of the pipe",
+      "accepted_answers": [
+        "Springline- horizontal line"
+      ],
+      "explanation_short": "Springline- horizontal line",
+      "explanation_long": "Springline- horizontal line: at the midpoint f the vertical axis of the pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5fb731bbf5f4",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plumbing Materials And Identification",
+      "prompt": "What term matches this definition? the outside areas between the springline and the bottom of the pipe",
+      "accepted_answers": [
+        "Haunch –"
+      ],
+      "explanation_short": "Haunch –",
+      "explanation_long": "Haunch –: the outside areas between the springline and the bottom of the pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plumbing-materials-and-identification",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Plumbing Materials And Identification",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0a49d7eb0502",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "prompt": "What term matches this definition? to be used in buildings shall conform to the Standard Specifications f the Philippine Standard Council. (NBC)",
+      "accepted_answers": [
+        "All pipe materials"
+      ],
+      "explanation_short": "All pipe materials",
+      "explanation_long": "All pipe materials: to be used in buildings shall conform to the Standard Specifications f the Philippine Standard Council. (NBC)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b9bff1be2e4c",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "prompt": "What term matches this definition? the most popular & generally specified material for drainage system in buildings of less than 25 story high. However, it is prone to corrosion and leaks in pipe joints when installed to heights greater than the said story",
+      "accepted_answers": [
+        "CAST IRON PIPE –"
+      ],
+      "explanation_short": "CAST IRON PIPE –",
+      "explanation_long": "CAST IRON PIPE –: the most popular & generally specified material for drainage system in buildings of less than 25 story high. However, it is prone to corrosion and leaks in pipe joints when installed to heights greater than the said story",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ffe31225a599",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "prompt": "What term matches this definition? for underground installations",
+      "accepted_answers": [
+        "XV –"
+      ],
+      "explanation_short": "XV –",
+      "explanation_long": "XV –: for underground installations",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-79e8e6cb9a87",
+      "topic": "Plumbing Materials",
+      "subtopic": "Pipe Materials",
+      "prompt": "What is Acid Resistant Cast Iron Pipe?",
+      "accepted_answers": [
+        "made from alloy of cast iron & silicon widely used in installations that discharges acid waste brittle in character & require stronger support"
+      ],
+      "explanation_short": "made from alloy of cast iron & silicon widely used in installations that discharges acid waste brittle in character & require stronger support",
+      "explanation_long": "made from alloy of cast iron & silicon widely used in installations that discharges acid waste brittle in character & require stronger support",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "pipe-materials",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.1 | Pipe Materials",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f6e0f4412058",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What is Joint: 1. Caulked Joint?",
+      "accepted_answers": [
+        "for bell-and-spigot cast iron soil pipe ▪ 25.4 mm"
+      ],
+      "explanation_short": "for bell-and-spigot cast iron soil pipe ▪ 25.4 mm",
+      "explanation_long": "for bell-and-spigot cast iron soil pipe ▪ 25.4 mm",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.2 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-08fc37ea9864",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? a Cheapest among sewer pipes (also known as",
+      "accepted_answers": [
+        "BITUMINOUS FIBER SEWER PIPE –"
+      ],
+      "explanation_short": "BITUMINOUS FIBER SEWER PIPE –",
+      "explanation_long": "BITUMINOUS FIBER SEWER PIPE –: a Cheapest among sewer pipes (also known as",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-418879b38f4d",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What is ORANGEBURG pipe)?",
+      "accepted_answers": [
+        "Lightweight, slightly flexible which could take slight soil movement without danger f cracking or pulling out from its joint"
+      ],
+      "explanation_short": "Lightweight, slightly flexible which could take slight soil movement without danger f cracking or pulling out from its joint",
+      "explanation_long": "Lightweight, slightly flexible which could take slight soil movement without danger f cracking or pulling out from its joint",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0835af5119a8",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? f Asbestos fiber (provides strength & rigidity) & Bitumen (asphalt/tar) (coats the fibers & acts as a binder & waterproofing agent)",
+      "accepted_answers": [
+        "Made up"
+      ],
+      "explanation_short": "Made up",
+      "explanation_long": "Made up: f Asbestos fiber (provides strength & rigidity) & Bitumen (asphalt/tar) (coats the fibers & acts as a binder & waterproofing agent)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-70b846bd1ee4",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? r chemical flow may soften or damage the pipe",
+      "accepted_answers": [
+        "Disadvantage: Excessive hot water"
+      ],
+      "explanation_short": "Disadvantage: Excessive hot water",
+      "explanation_long": "Disadvantage: Excessive hot water: r chemical flow may soften or damage the pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-958b2eb37cf2",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? a Made of Asbestos fibers & Portland Cement",
+      "accepted_answers": [
+        "ASBESTOS PIPE –"
+      ],
+      "explanation_short": "ASBESTOS PIPE –",
+      "explanation_long": "ASBESTOS PIPE –: a Made of Asbestos fibers & Portland Cement",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e426c15a5ec9",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? this pipe is twice as that of standard cast iron pipe",
+      "accepted_answers": [
+        "Thickness of"
+      ],
+      "explanation_short": "Thickness of",
+      "explanation_long": "Thickness of: this pipe is twice as that of standard cast iron pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9b10b8329393",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? soil, waste, ventilation and downspout",
+      "accepted_answers": [
+        "Used as"
+      ],
+      "explanation_short": "Used as",
+      "explanation_long": "Used as: soil, waste, ventilation and downspout",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7122e6ba2c81",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? for embedment in concrete structure for having the same material properties",
+      "accepted_answers": [
+        "Remarkably superior"
+      ],
+      "explanation_short": "Remarkably superior",
+      "explanation_long": "Remarkably superior: for embedment in concrete structure for having the same material properties",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d4792c63c3fe",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? for shingles, wallboards, and siding",
+      "accepted_answers": [
+        "Used in relatively thin slabs"
+      ],
+      "explanation_short": "Used in relatively thin slabs",
+      "explanation_long": "Used in relatively thin slabs: for shingles, wallboards, and siding",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7fdab8f6ee77",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? a sleeve coupling of the same composition as the pipe or f other approved materials, and sealed with neoprene rubber rings or joined by an approved type compression coupling",
+      "accepted_answers": [
+        "Joints: Mechanical Joints – shall be"
+      ],
+      "explanation_short": "Joints: Mechanical Joints – shall be",
+      "explanation_long": "Joints: Mechanical Joints – shall be: a sleeve coupling of the same composition as the pipe or f other approved materials, and sealed with neoprene rubber rings or joined by an approved type compression coupling",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-30cc483db09a",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "prompt": "What term matches this definition? for sanitary sewers, storm sewers, culverts, detention systems, and low-pressure force mains",
+      "accepted_answers": [
+        "CONCRETE PIPE – used"
+      ],
+      "explanation_short": "CONCRETE PIPE – used",
+      "explanation_long": "CONCRETE PIPE – used: for sanitary sewers, storm sewers, culverts, detention systems, and low-pressure force mains",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c179dee6d5f0",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "prompt": "What term matches this definition? is the most durable and economical of all piping products. It is recommended for installations where low, moderate, or severe cover and/or live load conditions exist and structural failure might endanger life or property. Reinforced pipe, even after ultimate failure, retains its shape and will not collapse",
+      "accepted_answers": [
+        "Reinforced concrete pipe"
+      ],
+      "explanation_short": "Reinforced concrete pipe",
+      "explanation_long": "Reinforced concrete pipe: is the most durable and economical of all piping products. It is recommended for installations where low, moderate, or severe cover and/or live load conditions exist and structural failure might endanger life or property. Reinforced pipe, even after ultimate failure, retains its shape and will not collapse",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5b8f0216c3f8",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "prompt": "What is Joints: Cement Mortar Joints (for gravity sewers), Mechanical Joints (for pressure pipelines)?",
+      "accepted_answers": [
+        "Casted in 1m lengths"
+      ],
+      "explanation_short": "Casted in 1m lengths",
+      "explanation_long": "Casted in 1m lengths",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5a91fafecb23",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "prompt": "What term matches this definition? f the oldest material used for sewer lines",
+      "accepted_answers": [
+        "VITRIFIED CLAY PIPE – one"
+      ],
+      "explanation_short": "VITRIFIED CLAY PIPE – one",
+      "explanation_long": "VITRIFIED CLAY PIPE – one: f the oldest material used for sewer lines",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c51b6f6c4bce",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "prompt": "What term matches this definition? into length of 75 cm",
+      "accepted_answers": [
+        "Made of clay, cast"
+      ],
+      "explanation_short": "Made of clay, cast",
+      "explanation_long": "Made of clay, cast: into length of 75 cm",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7a6bbd14f69b",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "prompt": "What is Durable material for underground installations like public sewer, house sewer, or storm drain?",
+      "accepted_answers": [
+        "Highly resistant to most acid wastes"
+      ],
+      "explanation_short": "Highly resistant to most acid wastes",
+      "explanation_long": "Highly resistant to most acid wastes",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-54775e0a1cf4",
+      "topic": "Plumbing Materials",
+      "subtopic": "(rnpcp)",
+      "prompt": "What term matches this definition? n unstable ground base",
+      "accepted_answers": [
+        "Should not be laid"
+      ],
+      "explanation_short": "Should not be laid",
+      "explanation_long": "Should not be laid: n unstable ground base",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rnpcp",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.3 | (rnpcp)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ad2be824c2ac",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What term matches this definition? a One of the oldest plumbing materials used by Egyptians, Greeks, & Romans",
+      "accepted_answers": [
+        "LEAD PIPE –"
+      ],
+      "explanation_short": "LEAD PIPE –",
+      "explanation_long": "LEAD PIPE –: a One of the oldest plumbing materials used by Egyptians, Greeks, & Romans",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4eca25d834d1",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What is Disadvantage: Poisonous & injurious to human health?",
+      "accepted_answers": [
+        "Suitable for underground use"
+      ],
+      "explanation_short": "Suitable for underground use",
+      "explanation_long": "Suitable for underground use",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-39d48d87d246",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What is Joints: Wipe Joint?",
+      "accepted_answers": [
+        "Wiped lead joints shall have an exposed surface on each side of a joint not less than 19 mm (RNPCP)",
+        "Wiped lead joints shall have an exposed surface on each side of a joint not less than 19 mm"
+      ],
+      "explanation_short": "Wiped lead joints shall have an exposed surface on each side of a joint not less than 19 mm (RNPCP)",
+      "explanation_long": "Wiped lead joints shall have an exposed surface on each side of a joint not less than 19 mm (RNPCP)",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-3bca16873dbd",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What term matches this definition? and other piping material shall be made by a wiped joint to a caulking ferrule, soldering nipple or bushing or made with an approved adapter fitting",
+      "accepted_answers": [
+        "Joints between lead pipe"
+      ],
+      "explanation_short": "Joints between lead pipe",
+      "explanation_long": "Joints between lead pipe: and other piping material shall be made by a wiped joint to a caulking ferrule, soldering nipple or bushing or made with an approved adapter fitting",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-23832fba06d3",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What is CAULKING FERRULE?",
+      "accepted_answers": [
+        "a metal sleeve or short fitting, usually made of brass or copper alloy, used to make a watertight connection between a lead pipe and a cast-iron, copper or brass pipe or fitting"
+      ],
+      "explanation_short": "a metal sleeve or short fitting, usually made of brass or copper alloy, used to make a watertight connection between a lead pipe and a cast-iron, copper or brass pipe or fitting",
+      "explanation_long": "a metal sleeve or short fitting, usually made of brass or copper alloy, used to make a watertight connection between a lead pipe and a cast-iron, copper or brass pipe or fitting",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f52184b1282a",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What is SOLDERING NIPPLE?",
+      "accepted_answers": [
+        "a short piece of brass or copper pipe, threaded on one end and plain (smooth) on the other, designed so that the plain end can be soldered to a lead pipe or another metallic pipe, and the threaded end can be screwed into a fitting of another piping material",
+        "a short piece of brass or copper pipe, threaded on one end and plain on the other, designed so that the plain end can be soldered to a lead pipe or another metallic pipe, and the threaded end can be screwed into a fitting of another piping material"
+      ],
+      "explanation_short": "a short piece of brass or copper pipe, threaded on one end and plain (smooth) on the other, designed so that the plain end can be soldered to a lead pipe or another metallic pipe, ",
+      "explanation_long": "a short piece of brass or copper pipe, threaded on one end and plain (smooth) on the other, designed so that the plain end can be soldered to a lead pipe or another metallic pipe, and the threaded end can be screwed into a fitting of another piping material",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-41df51aeee95",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What term matches this definition? f mild steel, drawn through a die and welded",
+      "accepted_answers": [
+        "GALVANIZED STEEL PIPE – Made out"
+      ],
+      "explanation_short": "GALVANIZED STEEL PIPE – Made out",
+      "explanation_long": "GALVANIZED STEEL PIPE – Made out: f mild steel, drawn through a die and welded",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-77626220ccb7",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What is Disadvantage: Easily corroded by acidic & alkaline water; Deteriorate faster when used as hot water supply line?",
+      "accepted_answers": [
+        "Cast into 6.0 m long"
+      ],
+      "explanation_short": "Cast into 6.0 m long",
+      "explanation_long": "Cast into 6.0 m long",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9bdcd199dfcf",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What term matches this definition? that has not been galvanized",
+      "accepted_answers": [
+        "Black Pipe: steel pipe"
+      ],
+      "explanation_short": "Black Pipe: steel pipe",
+      "explanation_long": "Black Pipe: steel pipe: that has not been galvanized",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-de27364a1a6f",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What term matches this definition? in quality than the steel pipe for plumbing installation; More resistant to acid waste than the steel pipe",
+      "accepted_answers": [
+        "GALVANIZED WROUGHT IRON PIPE – Better"
+      ],
+      "explanation_short": "GALVANIZED WROUGHT IRON PIPE – Better",
+      "explanation_long": "GALVANIZED WROUGHT IRON PIPE – Better: in quality than the steel pipe for plumbing installation; More resistant to acid waste than the steel pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1c6db829a906",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mortar Joint , Mechanical Joints",
+      "prompt": "What term matches this definition? r steel pipe shall be made with standard pipe threads, flanges, or approved couplings",
+      "accepted_answers": [
+        "Joints between galvanized steel, galvanized wrought-iron,"
+      ],
+      "explanation_short": "Joints between galvanized steel, galvanized wrought-iron,",
+      "explanation_long": "Joints between galvanized steel, galvanized wrought-iron,: r steel pipe shall be made with standard pipe threads, flanges, or approved couplings",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mortar-joint-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.4 | Joints: Mortar Joint , Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-af3328d7d03f",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What is BRASS PIPE?",
+      "accepted_answers": [
+        "Most expensive type of pipe"
+      ],
+      "explanation_short": "Most expensive type of pipe",
+      "explanation_long": "Most expensive type of pipe",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d4a13af9cf88",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? f Zinc & Copper (15% & 85% proportion respectively)",
+      "accepted_answers": [
+        "Made of alloy"
+      ],
+      "explanation_short": "Made of alloy",
+      "explanation_long": "Made of alloy: f Zinc & Copper (15% & 85% proportion respectively)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7a402649273a",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? for waste and water supply installations because of its smooth surface & high acid resistance",
+      "accepted_answers": [
+        "Superior material"
+      ],
+      "explanation_short": "Superior material",
+      "explanation_long": "Superior material: for waste and water supply installations because of its smooth surface & high acid resistance",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f3f60003519b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? f recessed type similar in design with galvanized steel pipe",
+      "accepted_answers": [
+        "Brass fittings are"
+      ],
+      "explanation_short": "Brass fittings are",
+      "explanation_long": "Brass fittings are: f recessed type similar in design with galvanized steel pipe",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-6bb197f4181b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? a Durable and extremely corrosive resistant material",
+      "accepted_answers": [
+        "COPPER PIPE –"
+      ],
+      "explanation_short": "COPPER PIPE –",
+      "explanation_long": "COPPER PIPE –: a Durable and extremely corrosive resistant material",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-201fc4b3fb06",
+      "topic": "Plumbing Materials",
+      "subtopic": "Rjes – Engr. Josh Malto",
+      "prompt": "What term matches this definition? with other types of pipes",
+      "accepted_answers": [
+        "Easy to install compared"
+      ],
+      "explanation_short": "Easy to install compared",
+      "explanation_long": "Easy to install compared: with other types of pipes",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "rjes-engr-josh-malto",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Rjes – Engr. Josh Malto",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c54cdca14dcf",
+      "topic": "Plumbing Materials",
+      "subtopic": "K",
+      "prompt": "What term matches this definition? Suitable for underground installation",
+      "accepted_answers": [
+        "Heaviest"
+      ],
+      "explanation_short": "Heaviest",
+      "explanation_long": "Heaviest: Suitable for underground installation",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "k",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | K",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-db660407be15",
+      "topic": "Plumbing Materials",
+      "subtopic": "L",
+      "prompt": "What is Minimum requirement for water supply piping?",
+      "accepted_answers": [
+        "blue"
+      ],
+      "explanation_short": "blue",
+      "explanation_long": "blue",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "l",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | L",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-379ce868560f",
+      "topic": "Plumbing Materials",
+      "subtopic": "L",
+      "prompt": "What term matches this definition? both rigid & flexible form",
+      "accepted_answers": [
+        "Available in"
+      ],
+      "explanation_short": "Available in",
+      "explanation_long": "Available in: both rigid & flexible form",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "l",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | L",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-dbd8bb1df86c",
+      "topic": "Plumbing Materials",
+      "subtopic": "M",
+      "prompt": "What is Thinnest & available only in rigid form?",
+      "accepted_answers": [
+        "red"
+      ],
+      "explanation_short": "red",
+      "explanation_long": "red",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "m",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | M",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a0ff535ab7c5",
+      "topic": "Plumbing Materials",
+      "subtopic": "M",
+      "prompt": "What term matches this definition? is above ground or atop a building, or underground outside of structures with outside protective coating",
+      "accepted_answers": [
+        "Used in water piping when piping"
+      ],
+      "explanation_short": "Used in water piping when piping",
+      "explanation_long": "Used in water piping when piping: is above ground or atop a building, or underground outside of structures with outside protective coating",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "m",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | M",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f7bce3657e3c",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "prompt": "What is For underground and above ground drainage and vent piping?",
+      "accepted_answers": [
+        "yellow"
+      ],
+      "explanation_short": "yellow",
+      "explanation_long": "yellow",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0ec58cca7d3f",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "prompt": "What term matches this definition? copper tube) – cold – drawn (stretched and hardened during production)",
+      "accepted_answers": [
+        "Hard drawn (rigid"
+      ],
+      "explanation_short": "Hard drawn (rigid",
+      "explanation_long": "Hard drawn (rigid: copper tube) – cold – drawn (stretched and hardened during production)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-fc5e02fb07f2",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "prompt": "What term matches this definition? r brazing, by using capillary fittings(brass or copper), or by welding",
+      "accepted_answers": [
+        "Joint: by soldering"
+      ],
+      "explanation_short": "Joint: by soldering",
+      "explanation_long": "Joint: by soldering: r brazing, by using capillary fittings(brass or copper), or by welding",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-3f5a9fe889fd",
+      "topic": "Plumbing Materials",
+      "subtopic": "Dwv",
+      "prompt": "What is 2. Annealed (soft or flexible copper tube)?",
+      "accepted_answers": [
+        "heated and slowly cooled to remove hardness"
+      ],
+      "explanation_short": "heated and slowly cooled to remove hardness",
+      "explanation_long": "heated and slowly cooled to remove hardness",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "dwv",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.5 | Dwv",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-fc0ea2869921",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What is Proven to be superior as sewer and cold water supply line because of:?",
+      "accepted_answers": [
+        "Developed in Germany in midyear 1935"
+      ],
+      "explanation_short": "Developed in Germany in midyear 1935",
+      "explanation_long": "Developed in Germany in midyear 1935",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8d6f115bcfcc",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What is Water conveyed has no pipe taste?",
+      "accepted_answers": [
+        "More resistance to rust and corrosion"
+      ],
+      "explanation_short": "More resistance to rust and corrosion",
+      "explanation_long": "More resistance to rust and corrosion",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f6bf7d6f52a1",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What term matches this definition? Cast into longer length and easy to cut & install",
+      "accepted_answers": [
+        "Lightweight"
+      ],
+      "explanation_short": "Lightweight",
+      "explanation_long": "Lightweight: Cast into longer length and easy to cut & install",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5dbb847024e0",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What term matches this definition? with threaded adaptor",
+      "accepted_answers": [
+        "Connected to existing metal pipe"
+      ],
+      "explanation_short": "Connected to existing metal pipe",
+      "explanation_long": "Connected to existing metal pipe: with threaded adaptor",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5e4e9b868572",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What term matches this definition? Manufactured in two general types:",
+      "accepted_answers": [
+        "Acid proof"
+      ],
+      "explanation_short": "Acid proof",
+      "explanation_long": "Acid proof: Manufactured in two general types:",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1bce3f4fad7b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What term matches this definition? and not affected by heat)",
+      "accepted_answers": [
+        "Thermoset (permanently rigid"
+      ],
+      "explanation_short": "Thermoset (permanently rigid",
+      "explanation_long": "Thermoset (permanently rigid: and not affected by heat)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4f1840afd874",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What term matches this definition? the property of softening when heated and hardening when cooled)",
+      "accepted_answers": [
+        "Thermoplastic (have"
+      ],
+      "explanation_short": "Thermoplastic (have",
+      "explanation_long": "Thermoplastic (have: the property of softening when heated and hardening when cooled)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f51fec199aee",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What is POLYBUTYLENE (PB)?",
+      "accepted_answers": [
+        "flexible thermoplastic that was manufactured to pipe and tubing specifications. PB tubing is no longer manufactured but is listed here in the event that repairs or modifications are made to existing systems"
+      ],
+      "explanation_short": "flexible thermoplastic that was manufactured to pipe and tubing specifications. PB tubing is no longer manufactured but is listed here in the event that repairs or modifications ar",
+      "explanation_long": "flexible thermoplastic that was manufactured to pipe and tubing specifications. PB tubing is no longer manufactured but is listed here in the event that repairs or modifications are made to existing systems",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-46f7a8cba956",
+      "topic": "Plumbing Materials",
+      "subtopic": "Plastic Pipes",
+      "prompt": "What term matches this definition? slab heating systems, fire sprinklers systems, hot and cold water distribution, and plumbing and water supply",
+      "accepted_answers": [
+        "Application: hydronic"
+      ],
+      "explanation_short": "Application: hydronic",
+      "explanation_long": "Application: hydronic: slab heating systems, fire sprinklers systems, hot and cold water distribution, and plumbing and water supply",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "plastic-pipes",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Plastic Pipes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-171dceac9bd9",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Compression Joints",
+      "prompt": "What term matches this definition? a Chemically resistant and has good structural resistance to high pressure",
+      "accepted_answers": [
+        "POLYETHYLENE (PE) –",
+        "POLYETHYLENE –"
+      ],
+      "explanation_short": "POLYETHYLENE (PE) –",
+      "explanation_long": "POLYETHYLENE (PE) –: a Chemically resistant and has good structural resistance to high pressure",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-compression-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Joints: Compression Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1d33a8fe000c",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Compression Joints",
+      "prompt": "What is Available in 2 Resins: ▪ MDPE (medium density) – used in buried gas transmission industry ▪ HDPE (high density) has a wide variety of belowground and aboveground applications?",
+      "accepted_answers": [
+        "Blue or Black for water application"
+      ],
+      "explanation_short": "Blue or Black for water application",
+      "explanation_long": "Blue or Black for water application",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "joints-compression-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Joints: Compression Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d9dc008f99f7",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Compression Joints",
+      "prompt": "What is the equivalent of Upper Operating Max. Temp?",
+      "accepted_answers": [
+        "160° F"
+      ],
+      "explanation_short": "160° F",
+      "explanation_long": "Upper Operating Max. Temp = 160° F",
+      "tags": [
+        "plumbing-materials",
+        "conversion",
+        "joints-compression-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.6 | Joints: Compression Joints",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-1006c0ab4ee6",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "prompt": "What term matches this definition? a specially controlled chemical reaction takes place during the manufacturing of the polyethylene pipe to form PEX",
+      "accepted_answers": [
+        "CROSSLINKED – POLYETHYLENE –"
+      ],
+      "explanation_short": "CROSSLINKED – POLYETHYLENE –",
+      "explanation_long": "CROSSLINKED – POLYETHYLENE –: a specially controlled chemical reaction takes place during the manufacturing of the polyethylene pipe to form PEX",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0eaec505bb1c",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "prompt": "What term matches this definition? the pipe greater resistance to rupture ver a wider range of temperatures and pressures than PB, PE, and PP. PEX is then flexible, allowing it to be bent",
+      "accepted_answers": [
+        "Cross-linked molecular structuring gives"
+      ],
+      "explanation_short": "Cross-linked molecular structuring gives",
+      "explanation_long": "Cross-linked molecular structuring gives: the pipe greater resistance to rupture ver a wider range of temperatures and pressures than PB, PE, and PP. PEX is then flexible, allowing it to be bent",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-01cd4626a501",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "prompt": "What is Maximum Service Temperature = 180 °F?",
+      "accepted_answers": [
+        "The method of joining is mechanical joints (barbed joints and compression fittings)",
+        "The method of joining is mechanical joints"
+      ],
+      "explanation_short": "The method of joining is mechanical joints (barbed joints and compression fittings)",
+      "explanation_long": "The method of joining is mechanical joints (barbed joints and compression fittings)",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 4,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-2037675f7756",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "prompt": "What term matches this definition? a Hard, tough thermoplastic resin",
+      "accepted_answers": [
+        "POLYPROPYLENE –"
+      ],
+      "explanation_short": "POLYPROPYLENE –",
+      "explanation_long": "POLYPROPYLENE –: a Hard, tough thermoplastic resin",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8c9e4d18880e",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "prompt": "What term matches this definition? for lower pressure application",
+      "accepted_answers": [
+        "Lightweight material suitable"
+      ],
+      "explanation_short": "Lightweight material suitable",
+      "explanation_long": "Lightweight material suitable: for lower pressure application",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ffb121a30b4f",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joints: Mechanical Joints",
+      "prompt": "What term matches this definition? for a wide range of industrial liquids, salt water disposal, and corrosive waste systems",
+      "accepted_answers": [
+        "Flame Retardant & used"
+      ],
+      "explanation_short": "Flame Retardant & used",
+      "explanation_long": "Flame Retardant & used: for a wide range of industrial liquids, salt water disposal, and corrosive waste systems",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joints-mechanical-joints",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Joints: Mechanical Joints",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b34b3664da83",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Chloride",
+      "prompt": "What term matches this definition? a rigid, pressure- or drainage-type pipe that resists chemicals and corrosion",
+      "accepted_answers": [
+        "(PVC) –",
+        "–"
+      ],
+      "explanation_short": "(PVC) –",
+      "explanation_long": "(PVC) –: a rigid, pressure- or drainage-type pipe that resists chemicals and corrosion",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "polyvinyl-chloride",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.7 | Polyvinyl Chloride",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-49763e134628",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joint: Solvent Cement Joint",
+      "prompt": "What term matches this definition? a type of Polyvinyl",
+      "accepted_answers": [
+        "UNPLASTICIZED POLYVINYL CHLORIDE (UPVC) –",
+        "UNPLASTICIZED POLYVINYL CHLORIDE –"
+      ],
+      "explanation_short": "UNPLASTICIZED POLYVINYL CHLORIDE (UPVC) –",
+      "explanation_long": "UNPLASTICIZED POLYVINYL CHLORIDE (UPVC) –: a type of Polyvinyl",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joint-solvent-cement-joint",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Joint: Solvent Cement Joint",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-92b7e8c9c398",
+      "topic": "Plumbing Materials",
+      "subtopic": "Joint: Solvent Cement Joint",
+      "prompt": "What term matches this definition? to it to reduce the brittleness of the plastic",
+      "accepted_answers": [
+        "Chloride without any plasticizer added"
+      ],
+      "explanation_short": "Chloride without any plasticizer added",
+      "explanation_long": "Chloride without any plasticizer added: to it to reduce the brittleness of the plastic",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "joint-solvent-cement-joint",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Joint: Solvent Cement Joint",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d946b7f3c7f2",
+      "topic": "Plumbing Materials",
+      "subtopic": "Chlorinated Polyvinyl",
+      "prompt": "What term matches this definition? a thermoplastc produced by chlorination of polyvinyl chloride resin. It is similar to PVC in strength and overall chemical resistance, but is significantly more flexible than PVC. Used in application in hot and cold water distribution and chemical process piping. Has excellent chemical, crush, and fire resistance, high impact and tensile strength, and non – toxic",
+      "accepted_answers": [
+        "CHLORIDE (CPVC) –",
+        "CHLORIDE –"
+      ],
+      "explanation_short": "CHLORIDE (CPVC) –",
+      "explanation_long": "CHLORIDE (CPVC) –: a thermoplastc produced by chlorination of polyvinyl chloride resin. It is similar to PVC in strength and overall chemical resistance, but is significantly more flexible than PVC. Used in application in hot and cold water distribution and chemical process piping. Has excellent chemical, crush, and fire resistance, high impact and tensile strength, and non – toxic",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "chlorinated-polyvinyl",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Chlorinated Polyvinyl",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a5e49500f944",
+      "topic": "Plumbing Materials",
+      "subtopic": "Chlorinated Polyvinyl",
+      "prompt": "What term matches this definition? at 100psi (standard)",
+      "accepted_answers": [
+        "Max Service Temperature: 180 °F"
+      ],
+      "explanation_short": "Max Service Temperature: 180 °F",
+      "explanation_long": "Max Service Temperature: 180 °F: at 100psi (standard)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "chlorinated-polyvinyl",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Chlorinated Polyvinyl",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-556cd888bb59",
+      "topic": "Plumbing Materials",
+      "subtopic": "Chlorinated Polyvinyl",
+      "prompt": "What term matches this definition? at 73.5 °F for aboveground interior building installation (Audel)",
+      "accepted_answers": [
+        "Minimum 200 psi"
+      ],
+      "explanation_short": "Minimum 200 psi",
+      "explanation_long": "Minimum 200 psi: at 73.5 °F for aboveground interior building installation (Audel)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "chlorinated-polyvinyl",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Chlorinated Polyvinyl",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-6ec5c593654d",
+      "topic": "Plumbing Materials",
+      "subtopic": "Acrylonitrile – Butadiene –",
+      "prompt": "What term matches this definition? for its high impact strength and durability which combine for exceptional toughness",
+      "accepted_answers": [
+        "STYRENE (ABS) – Known",
+        "STYRENE – Known"
+      ],
+      "explanation_short": "STYRENE (ABS) – Known",
+      "explanation_long": "STYRENE (ABS) – Known: for its high impact strength and durability which combine for exceptional toughness",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "acrylonitrile-butadiene",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Acrylonitrile – Butadiene –",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a37d004bf140",
+      "topic": "Plumbing Materials",
+      "subtopic": "Acrylonitrile – Butadiene –",
+      "prompt": "What term matches this definition? for DWV plumbing , main sanitary and storm sewers, underground electrical conduits, and applications in the chemical and petroleum industries",
+      "accepted_answers": [
+        "Commonly used"
+      ],
+      "explanation_short": "Commonly used",
+      "explanation_long": "Commonly used: for DWV plumbing , main sanitary and storm sewers, underground electrical conduits, and applications in the chemical and petroleum industries",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "acrylonitrile-butadiene",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Acrylonitrile – Butadiene –",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-75f8c727e7b9",
+      "topic": "Plumbing Materials",
+      "subtopic": "Acrylonitrile – Butadiene –",
+      "prompt": "What is Maximum Service Temperature?",
+      "accepted_answers": [
+        "140 °F (160 °F at lower pressures)",
+        "140 °F"
+      ],
+      "explanation_short": "140 °F (160 °F at lower pressures)",
+      "explanation_long": "140 °F (160 °F at lower pressures)",
+      "tags": [
+        "plumbing-materials",
+        "law-summary",
+        "acrylonitrile-butadiene",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.8 | Acrylonitrile – Butadiene –",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1973c40497ba",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "prompt": "What is Notable for its ability to withstand high temperatures for elevated- temperature cleaning?",
+      "accepted_answers": [
+        "Available in 10 ft lengths"
+      ],
+      "explanation_short": "Available in 10 ft lengths",
+      "explanation_long": "Available in 10 ft lengths",
+      "tags": [
+        "plumbing-materials",
+        "reference",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 4,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e64f0f44823c",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "prompt": "What is the equivalent of Maximum Service Temperature?",
+      "accepted_answers": [
+        "220 °F ASPE (280 °F from Audel)",
+        "220 °F ASPE"
+      ],
+      "explanation_short": "220 °F ASPE (280 °F from Audel)",
+      "explanation_long": "Maximum Service Temperature = 220 °F ASPE (280 °F from Audel)",
+      "tags": [
+        "plumbing-materials",
+        "conversion",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-357d9ec1265e",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "prompt": "What term matches this definition? r by heat fusion (electric coil or socket fusion)",
+      "accepted_answers": [
+        "Joints are made mechanically"
+      ],
+      "explanation_short": "Joints are made mechanically",
+      "explanation_long": "Joints are made mechanically: r by heat fusion (electric coil or socket fusion)",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f4d17634ea7b",
+      "topic": "Plumbing Materials",
+      "subtopic": "Polyvinyl Fluoride (pvdf) – A",
+      "prompt": "What term matches this definition? to chemical attack by most chemicals and solvents",
+      "accepted_answers": [
+        "POLYTETRAFLUOROETHYLENE (PTFE) – Has outstanding resistance",
+        "POLYTETRAFLUOROETHYLENE – Has outstanding resistance"
+      ],
+      "explanation_short": "POLYTETRAFLUOROETHYLENE (PTFE) – Has outstanding resistance",
+      "explanation_long": "POLYTETRAFLUOROETHYLENE (PTFE) – Has outstanding resistance: to chemical attack by most chemicals and solvents",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "polyvinyl-fluoride-pvdf-a",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.9 | Polyvinyl Fluoride (pvdf) – A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0c93786c029a",
+      "topic": "Plumbing Materials",
+      "subtopic": "White On Blue",
+      "prompt": "What term matches this definition? r gos under Pwnite on Grey pressure that does not fit canon coors Black on White",
+      "accepted_answers": [
+        "Any vopot"
+      ],
+      "explanation_short": "Any vopot",
+      "explanation_long": "Any vopot: r gos under Pwnite on Grey pressure that does not fit canon coors Black on White",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "white-on-blue",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "2. Plumbing Materials.pdf | p.10 | White On Blue",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1fe9299c0a58",
+      "topic": "Plumbing Materials",
+      "subtopic": "George Salvan",
+      "prompt": "What term matches this definition? OR ORANGE - electric conduit",
+      "accepted_answers": [
+        "LIGHT GRAY"
+      ],
+      "explanation_short": "LIGHT GRAY",
+      "explanation_long": "LIGHT GRAY: OR ORANGE - electric conduit",
+      "tags": [
+        "plumbing-materials",
+        "definition",
+        "george-salvan",
+        "spdi",
+        "spdi__plumbing-materials",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "2. Plumbing Materials.pdf | p.10 | George Salvan",
+      "quality_flag": "review"
+    }
+  ]
+}

@@ -1,0 +1,2260 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "probable": 9,
+      "candidate": 33,
+      "review": 7
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-04",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 4.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T12:57:41.232719+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "MCQ bank still has too many unresolved answers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-04-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Is recommended when the length of a pipe needed is more than 150 cm long wherein cutting is not necessary",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Double Hub (recommended when the length of a"
+        },
+        {
+          "label": "B",
+          "text": "Single Hub (PDE by Max Fajardo, Chapter 3)"
+        },
+        {
+          "label": "C",
+          "text": "Hubless (cheaper and easily connected using a"
+        },
+        {
+          "label": "D",
+          "text": "Standard"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "pipe needed is shorter than 150 cm long)",
+      "explanation_long": "pipe needed is shorter than 150 cm long) neoprene rubber sleeves)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#1 | pages 2-3-4",
+      "quality_flag": "probable",
+      "source_pages": [
+        2,
+        3,
+        4
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "That part of the lowest horizontal piping of a drainage system which receives the discharge from soil, waste and other drainage pipes inside the walls of the building and conveys it to the building sewer",
+      "choices": [
+        {
+          "label": "A",
+          "text": "House Sewer"
+        },
+        {
+          "label": "C",
+          "text": "House Drain"
+        },
+        {
+          "label": "D",
+          "text": "Building Subdrain"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Building Drain",
+      "explanation_long": ". Building Drain . Building Drain",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#2 | pages 5-6-7",
+      "quality_flag": "candidate",
+      "source_pages": [
+        5,
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "The level in a fixture at which water begins to overflow over the top or rim of the fixture",
+      "choices": [
+        {
+          "label": "A",
+          "text": "VB for Flushometer Valve"
+        },
+        {
+          "label": "B",
+          "text": "Flood Level Rim (is the top edge of a receptacle from where"
+        },
+        {
+          "label": "C",
+          "text": "Flooded (a fixture is flooded when the liquid therein rises to"
+        },
+        {
+          "label": "D",
+          "text": "Critical Level"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Flood Level Rim",
+      "explanation_long": ". Flood Level Rim . Critical Level water overflows) the flood level rim) (C-L or C/L marking on a backflow prevention device or vacuum breaker is a point conforming to approved standards established by the testing laboratory (usually stamped on the device by the manufacturer) which determines the minimum elevation above the flood level rim of the fixture or receptacle served where the device may be installed. When a backflow prevention device does not bear a critical level marking, the bottom of the vacuum breaker, combination valve or the bottom of any such approved device shall constitute the critical level)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#3 | pages 8-9-10",
+      "quality_flag": "candidate",
+      "source_pages": [
+        8,
+        9,
+        10
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "MSDS stands for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kempen AOC LEO MOTE MD Gemeaey) AA, Gare odpaTl kel OERI ote of"
+        },
+        {
+          "label": "B",
+          "text": "Material Safety Data Sheet (is a crucial document"
+        },
+        {
+          "label": "C",
+          "text": "Main Supply Delivery Sheet"
+        },
+        {
+          "label": "D",
+          "text": "Metro Manila Sewerage and Drainage Supervision"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "that provides detailed information about hazardous",
+      "explanation_long": "that provides detailed information about hazardous chemicals, ensuring safe handling and compliance with regulations) = ome OR 20 eae a aa Lee ber Tek beats Tay fa aU Mano EDO Ee CF tT nts Ie Red a Ts SG Foi Petrie sFe oper - iprnmaniniomraton otis ramet Tampon ie Tet epee a theo Ke oe Rarearioe anne Fe NE 1nd hd Repay Ceram] Thani OEE aeem race ymFe nha Tara sR Se ry paw duyns ene a uvvaynnn nn Malsria’ Sotery Data Sees ete are ep aman dh Gee pe rye orem ear the Lyi! wf ne batie Spat rail tee! ey WimBen ane anal Mearns inern Oar epee h ep aap rd ees fale ag alge amar een ee em Napa a om pel mT asm ean Dp Feteetel Hewe Eee Se. (Ceca oth Pee bape os eae aleeeeee hee pead eee meAbe Beane Page ma Ne aed bem hee Rommel Hygiene te feoetacie Ser eee Peed, og, bee eee eee Petmerial tease HPaste bates Agere ha ope ofoe eae ERRT watt IE Treg are amaEee Seeceee tee a perterata wep cares eae Sample MSDS for a Fire SEDren bas rman ant nan cena teeter Sree hep 3 . ' Extinguisher are tet Rat i papsty of pee mates | TF Amr Boe wn mae 1G: ease Cha wed et mee Cape ele Gate Tae aoe ae",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#4 | pages 11-12-13",
+      "quality_flag": "candidate",
+      "source_pages": [
+        11,
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "Is a device located at the bottom of the tank for the purpose of flushing water closet and similar fixtures.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flush Tank (tank located above or integral with water closet, urinal or"
+        },
+        {
+          "label": "B",
+          "text": "Flush Valve"
+        },
+        {
+          "label": "C",
+          "text": "Flushometer Tank (is integrated within an air accumulator vessel which is"
+        },
+        {
+          "label": "D",
+          "text": "Flushometer Valve (is a device, which discharges a predetermined quantity"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "similar fixtures for flushing or removing excrements in the fixture)",
+      "explanation_long": "similar fixtures for flushing or removing excrements in the fixture) designed to discharge a predetermined quantity of water into fixtures for flushing purposes) of water into fixtures for flushing purposes and is actuated by direct water pressure) Tank Flushometer Valve ~ Flush Tank RS Float Rod Flush Lever Fill Valve Tank-To-Bowl Bolts Tank-To-Bowl Gasket Refill tube Toilet Tank Float Ball Tank Lift Wires Tank Ball Flush Valve Flush Valve Flush Valve Gasket with Tank Ball Flush Valve",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#5 | pages 14-15-16",
+      "quality_flag": "probable",
+      "source_pages": [
+        14,
+        15,
+        16
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "Fittings and connections shall be of sufficient strength to withstand of water pressure when ready for service",
+      "choices": [
+        {
+          "label": "A",
+          "text": "300 psi (2/ kg/ cm’; RA 9514)"
+        },
+        {
+          "label": "B",
+          "text": "100 psi"
+        },
+        {
+          "label": "C",
+          "text": "50 psi (all dry standpipes shall be tested"
+        },
+        {
+          "label": "D",
+          "text": "150 psi"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "hydrostatically to withstand not less than 50 psi (3.5",
+      "explanation_long": "hydrostatically to withstand not less than 50 psi (3.5 kg Jom’;) above the maximum working pressure)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#6 | pages 17-18",
+      "quality_flag": "candidate",
+      "source_pages": [
+        17,
+        18
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plug- Bull (Be// and Spigot) —(>"
+        },
+        {
+          "label": "B",
+          "text": "Plug- Bull (Flanged) —_,"
+        },
+        {
+          "label": "C",
+          "text": "Plug- Pipe (Screwed) —+<__"
+        },
+        {
+          "label": "D",
+          "text": "Cap (Bell and Spigot) ——— ="
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#7 | pages 19-20",
+      "quality_flag": "review",
+      "source_pages": [
+        19,
+        20
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "The recommended septic tank capacity three-bedroom home is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "75 O Minimum"
+        },
+        {
+          "label": "B",
+          "text": "9° O O of Bedrooms Apartments - One | Fixture Units (DFU)"
+        },
+        {
+          "label": "C",
+          "text": "1000"
+        },
+        {
+          "label": "D",
+          "text": "1250 2000 | (7570)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Single Faniily Multiple Dwelling ‘Other Uses: Septic Tank",
+      "explanation_long": "Single Faniily Multiple Dwelling ‘Other Uses: Septic Tank Dwellings - Number i Maximum Drainage Capacity in Bedroom Each | Served per Tale 72 (liters) 1000(RNPCP) L500 | (3677.5) 2250_| (85163) 2500 [ (9462.5) via (10408.8) 1)355 Extra bedrowm, $67.8 liters each, Fxua dwelling units over 10, 946.3 liters each, Fxira fixture wnils over 100, 94.6 liters per fixture unit. *Note: Septic tank sizes in this table include sludge storage capacity and the connection dispsal_ of domestic food waste units without further volume increase.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#8 | pages 21-22",
+      "quality_flag": "candidate",
+      "source_pages": [
+        21,
+        22
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "An interceptor of at least 3 cubic meters capacity to serve one or more fixtures and which is remotely located",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grease Trap (device designed to retain grease from one to a"
+        },
+        {
+          "label": "B",
+          "text": "P-Trap (is a p-shaped bend pipe used in drainpipes to connect your"
+        },
+        {
+          "label": "C",
+          "text": "Clarifier (or interceptor- is a device designed and installed to"
+        },
+        {
+          "label": "D",
+          "text": "Grease Interceptor"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Grease Interceptor",
+      "explanation_long": ". Grease Interceptor maximum of four fixtures) sink's drain directly to the sewer system or septic tank) separate and retain deleterious, hazardous or undesirable matters from normal wastes and permits normal sewage or liquid wastes to discharge into the disposal terminal by gravity)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#9 | pages 23-24",
+      "quality_flag": "candidate",
+      "source_pages": [
+        23,
+        24
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "A horizontal vent connecting one or more individual vertical back vents with the vent stack or stack vent.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branch Vent . Branch"
+        },
+        {
+          "label": "B",
+          "text": "Branch (any part of the piping system other than a main, riser or"
+        },
+        {
+          "label": "C",
+          "text": "Loop Vent (a vertical vent connection ona horizontal soil or waste"
+        },
+        {
+          "label": "D",
+          "text": "Circuit Vent (connected to vent stack, main vent)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "stack)",
+      "explanation_long": "stack) pipe branch ata point downstream of the last fixture connection and turning to a horizontal line above the highest overflow level of the highest fixture connected thereat; connected to stack vent)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#10 | pages 25-26-27",
+      "quality_flag": "probable",
+      "source_pages": [
+        25,
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "What are the two types of hearing protection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hearing Aid and Earplugs"
+        },
+        {
+          "label": "B",
+          "text": "Earmuffs and Earplugs"
+        },
+        {
+          "label": "C",
+          "text": "Headphones and Earplugs"
+        },
+        {
+          "label": "D",
+          "text": "Earmutfs and Hearing Aid"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Earmufts and Earplugs",
+      "explanation_long": ". Earmufts and Earplugs Earmuffs Earplugs",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#11 | pages 28-29",
+      "quality_flag": "candidate",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "A type of support or fastener, usually constructed in cantilevered manner Bracket",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trapeze"
+        },
+        {
+          "label": "B",
+          "text": "RACKET TYPE 34"
+        },
+        {
+          "label": "C",
+          "text": "Clevis"
+        },
+        {
+          "label": "D",
+          "text": "Clevis"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "“O\" BRACKET SIDE BEAM BRAGEET",
+      "explanation_long": "“O\" BRACKET SIDE BEAM BRAGEET Brackets Pipe Clamps TORE TYRE aPEe. SPE SLAM STEEL THREE BOLT TYRE =. PE SLAM TYPE 3 Pipe Clamps",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#12 | pages 30-31-32",
+      "quality_flag": "candidate",
+      "source_pages": [
+        30,
+        31,
+        32
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "What is a narrow strip of a vegetated area that redirects and filters stormwater?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bioswales"
+        },
+        {
+          "label": "B",
+          "text": "French Drain (is a type of drainage system designed to redirect"
+        },
+        {
+          "label": "C",
+          "text": "Green Roof (is a roof of a building that is partially or"
+        },
+        {
+          "label": "D",
+          "text": "Rain Garden (focus on localized absorption, making them great"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "surface water and groundwater away from an area. It typically",
+      "explanation_long": "surface water and groundwater away from an area. It typically consists of a trench filled with gravel or rock, often containing a perforated pipe that allows water to flow through) completely covered with vegetation and a growing medium, planted over a waterproofing membrane) for low areas near downspouts)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#13 | pages 33-34-35",
+      "quality_flag": "probable",
+      "source_pages": [
+        33,
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "The highest concentration of gas or vapor which will burn or explode if ignited",
+      "choices": [
+        {
+          "label": "A",
+          "text": "UFL (Upper Flammability Limit- highest concentration (percentage)"
+        },
+        {
+          "label": "B",
+          "text": "UEL (Upper Explosive Limit)"
+        },
+        {
+          "label": "C",
+          "text": "LEL (the Lower Explosive Limit or LEL of a vapor or gaseous"
+        },
+        {
+          "label": "D",
+          "text": "LFL (Lower Flammability Limit -the lowest concentration"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "of a gas or a vapor in air capable of producing a flash of fire in the",
+      "explanation_long": "of a gas or a vapor in air capable of producing a flash of fire in the presence of an ignition source (arc, flame, heat)) substance is the lowest concentration of the gas in the air required to ignite/burn and explode in the presence of an ignition source) (percentage) of a gas or a vapor in air capable of producing a flash of fire in the presence of an ignition source (arc, flame, heat).",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#14 | pages 36-37",
+      "quality_flag": "candidate",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "What size pipe should be used to connect to a shower? . 1/2 inch . 1/4 inch . 3/4 inch . | inch",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 / 2 inch"
+        },
+        {
+          "label": "B",
+          "text": "1 / 4 inch"
+        },
+        {
+          "label": "C",
+          "text": "3 / 4 inch"
+        },
+        {
+          "label": "D",
+          "text": "1 inch"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc",
+      "explanation_long": "Cc",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#15 | pages 38-39",
+      "quality_flag": "candidate",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "ocr",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "What pipe is indicated in the plumbing plan with a solid line?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drainage Line"
+        },
+        {
+          "label": "B",
+          "text": "Cold Water Line"
+        },
+        {
+          "label": "C",
+          "text": "Vacuum Cleaning"
+        },
+        {
+          "label": "D",
+          "text": "Fire Line"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "——\\/_\\/_—_—",
+      "explanation_long": "——\\/_\\/_—_— —__F_F__",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#16 | pages 40-41",
+      "quality_flag": "candidate",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "Why are the tank type water closets seldom used in public toilet rooms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The flush valve is preterred as it will not occupy a"
+        },
+        {
+          "label": "B",
+          "text": "Because of the longer time needed to refill the"
+        },
+        {
+          "label": "C",
+          "text": "Maintenance is a factor in dealing with tank type"
+        },
+        {
+          "label": "D",
+          "text": "Tank breakage is a common problem encountered"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "larger space compared to closets with tanks",
+      "explanation_long": "larger space compared to closets with tanks tank after each flushing of water closets in tank type closets used in public larger space compared to closets with tanks tank after each flushing of water closets in tank type closets used in public",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#17 | pages 42-43",
+      "quality_flag": "candidate",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "According to RA 9514, what is the height of a street front fire service connection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "46 - 122 cm"
+        },
+        {
+          "label": "B",
+          "text": "0.30- 1.20 m (NBCP; above grade height of fire service"
+        },
+        {
+          "label": "C",
+          "text": "61-122 cm (FCP; height of dry standpipe outlets above"
+        },
+        {
+          "label": "D",
+          "text": "91 - 182 cm (NBCP; height of wet standpipe outlets"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "connection in street front)",
+      "explanation_long": "connection in street front) the floor of each storey) above the floor)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#18 | pages 44-45",
+      "quality_flag": "probable",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q019",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Maxtraploadingforpipesizeof 3 ” diameter",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 FU TABLE 7-1"
+        },
+        {
+          "label": "B",
+          "text": "4 FU MAXIMUM TRAP LOADING"
+        },
+        {
+          "label": "C",
+          "text": "6 FU"
+        },
+        {
+          "label": "D",
+          "text": "8 FU"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Exception: On self-service laundries.",
+      "explanation_long": "Exception: On self-service laundries.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#19 | pages 46-47",
+      "quality_flag": "candidate",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45 deg elbow"
+        },
+        {
+          "label": "B",
+          "text": "Waste Stack"
+        },
+        {
+          "label": "C",
+          "text": "Waste Pipe"
+        },
+        {
+          "label": "D",
+          "text": "Combo Fitting"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "PDE by Max Fajardo",
+      "explanation_long": "PDE by Max Fajardo",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#20 | pages 48-49",
+      "quality_flag": "candidate",
+      "source_pages": [
+        48,
+        49
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Which is not a primary objective of a stormwater management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduce risk of tlooding"
+        },
+        {
+          "label": "C",
+          "text": "Water pollution control"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Erosion control",
+      "explanation_long": "Erosion control Erosion control",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#21 | pages 50-51",
+      "quality_flag": "candidate",
+      "source_pages": [
+        50,
+        51
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "Refrigeration Wastes",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Section 819"
+        },
+        {
+          "label": "B",
+          "text": "Section 817"
+        },
+        {
+          "label": "C",
+          "text": "Section 818 (RNPCP, Chapter 8)"
+        },
+        {
+          "label": "D",
+          "text": "Section 819.1"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Section 81/7",
+      "explanation_long": ". Section 81/7 Section 818 — REFRIGERATION WASTES The indirect waste lines carrying refrigeration waste shall not be smaller than shown in the following pipe size schedule: 32 mm - 1 inlet serving not more than 2.8 m? of refrigeration space; 5l mm - 4to 12m’; 32 mm inlets or the equivalent refrigeration space; 76mm - 13 to 36m’; 32 mm inlets or the equivalent refrigeration space",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#22 | pages 52-53",
+      "quality_flag": "candidate",
+      "source_pages": [
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Identify this plumbing tool",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closet Auger"
+        },
+        {
+          "label": "B",
+          "text": "Fishing Rod"
+        },
+        {
+          "label": "C",
+          "text": "Flat Sewer Rod"
+        },
+        {
+          "label": "D",
+          "text": "Sink Auger"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Sink Auger Flat Sewer Rod",
+      "explanation_long": "Sink Auger Flat Sewer Rod",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#23 | pages 54-55",
+      "quality_flag": "candidate",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "Defined as the gravitational force exerted on a given mass ata particular location",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acceleration (is the rate of change of the velocity of an object"
+        },
+        {
+          "label": "B",
+          "text": "Gravity"
+        },
+        {
+          "label": "C",
+          "text": "Weight (weight (newton) = mass (kg) x acceleration due to gravity"
+        },
+        {
+          "label": "D",
+          "text": "Specific Gravity (defined as the ratio of the density (mass of a"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "with respect to time; acceleration= change in velocity/ time; SI unit:",
+      "explanation_long": "with respect to time; acceleration= change in velocity/ time; SI unit: m/s 2) (9.81)) unit volume) of a substance to the density of a given reference material)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#24 | pages 56-57",
+      "quality_flag": "probable",
+      "source_pages": [
+        56,
+        57
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "What UL stands for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unilab"
+        },
+        {
+          "label": "B",
+          "text": "United Laboratories"
+        },
+        {
+          "label": "C",
+          "text": "Underwriter’s Laboratories, Incorporated"
+        },
+        {
+          "label": "D",
+          "text": "Ultra Laboratory"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#25 | pages 58-59",
+      "quality_flag": "probable",
+      "source_pages": [
+        58,
+        59
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: D -> Ultra Laboratory"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "What is the maximum length of pipe for size 1550 mm@ PVC that could freely drain. Assume flow is equals to 15.9 liters per second, 0.9 m/sec velocity and chezy constant at 55. Consider full bore for hydraulic mean",
+      "choices": [
+        {
+          "label": "A",
+          "text": "155 meters"
+        },
+        {
+          "label": "B",
+          "text": "140 meters"
+        },
+        {
+          "label": "C",
+          "text": "160 meters"
+        },
+        {
+          "label": "D",
+          "text": "150 meters"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#26 | pages 60-61",
+      "quality_flag": "review",
+      "source_pages": [
+        60,
+        61
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "What is the capacity of a double acting pump in gpm when it makes 60 strokes per minute if the cylinder is 9 inches diameter and the strokes is 10 inches?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "156.2 gpm"
+        },
+        {
+          "label": "B",
+          "text": "165.2 gpm"
+        },
+        {
+          "label": "C",
+          "text": "125.6 gpm"
+        },
+        {
+          "label": "D",
+          "text": "126.5 gpm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#27 | pages 62-63",
+      "quality_flag": "review",
+      "source_pages": [
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "A rectangular channel with depth of 300mm and width of 450mm the average flow velocity is 0.8 m/sec and C = 55. Calculate the gradient.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1:700m is required"
+        },
+        {
+          "label": "B",
+          "text": "1:750m is required"
+        },
+        {
+          "label": "C",
+          "text": "1:650m is required"
+        },
+        {
+          "label": "D",
+          "text": "1:608m is required"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#28 | pages 64-65",
+      "quality_flag": "review",
+      "source_pages": [
+        64,
+        65
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "What pipe material does this power tool used for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Copper Pipes"
+        },
+        {
+          "label": "B",
+          "text": "Pex-Al-Pex Pipes"
+        },
+        {
+          "label": "C",
+          "text": "Plastic Pipe"
+        },
+        {
+          "label": "D",
+          "text": "Galvanized Steel Pipes"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. Copper Pipes Pex-Al-Pex Pipes Plastic Pipe Galvanized Steel Pipes Acronis ered FE-M, Layer Aurru Leyers fa SF ont’ PEX-AL-PEX piping is a coextruded crosslinked polyethylene composite pressure pipe with a welded aluminum tube reinforcement between the inner and outer layers. The inner and outer crosslinked polyethylene layers are bonded to the aluminum tube by a melt adhesive) Copper Press Fittings",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#29 | pages 66-67",
+      "quality_flag": "candidate",
+      "source_pages": [
+        66,
+        67
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Identify the total number 4\"x2\" wye reducers used . 2 . 3",
+      "choices": [],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#30 | pages 68-69",
+      "quality_flag": "review",
+      "source_pages": [
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Top Beam Clamp"
+        },
+        {
+          "label": "B",
+          "text": "Side Beam Adjustable Hanger"
+        },
+        {
+          "label": "C",
+          "text": "Center I- Beam Clamp"
+        },
+        {
+          "label": "D",
+          "text": "Universal I- Beam Clamp"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#32 | pages 72-73-74",
+      "quality_flag": "probable",
+      "source_pages": [
+        72,
+        73,
+        74
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> Side Beam Adjustable Hanger"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Instrument Bender"
+        },
+        {
+          "label": "B",
+          "text": "Plumbing Bender (designed to bend soft"
+        },
+        {
+          "label": "C",
+          "text": "Tri- Bender (designed to easily bend"
+        },
+        {
+          "label": "D",
+          "text": "Tube Expanders"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "copper tubing to a maximum of 180°)",
+      "explanation_long": "copper tubing to a maximum of 180°) three different sizes of soft copper tubing: 1/4\", 5/16\" and 3/8\" with the same tool. Ideal for plumbing and HVAC applications)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#33 | pages 75-76-77",
+      "quality_flag": "candidate",
+      "source_pages": [
+        75,
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "Identify the image shown, it is used as a second tool in line, breaks up remains of stoppage left by a straight auger",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Funnel Auger"
+        },
+        {
+          "label": "B",
+          "text": "Drophead Auger (for cleaning back-to- cable"
+        },
+        {
+          "label": "C",
+          "text": "Hook Auger (for heavy and dense root"
+        },
+        {
+          "label": "D",
+          "text": "Retrieving Auger (for searching for"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "back mounted fixtures e.g., sinks where",
+      "explanation_long": "back mounted fixtures e.g., sinks where needs to be led into down pipe) stoppages in pipes that require hooking and breaking up) cable which is broken or lost in line)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#34 | pages 78-79-80",
+      "quality_flag": "probable",
+      "source_pages": [
+        78,
+        79,
+        80
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "During a 24- hour period, a lift station in a system serving a community of 27,000 people pumped 5000 gpm of wastewater. What was’ the quantity of wastewater generated per capita expressed on a daily basis? Assume the pump station ran 10 hours on the day in question?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "420 L/d"
+        },
+        {
+          "label": "B",
+          "text": "195 gpd"
+        },
+        {
+          "label": "C",
+          "text": "1008 L/d"
+        },
+        {
+          "label": "D",
+          "text": "78 gpd"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#35 | pages 81-82",
+      "quality_flag": "review",
+      "source_pages": [
+        81,
+        82
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "What is the correct order of valves or devices a water service and building supply system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Check Valve, Gate Valve, Water Meter"
+        },
+        {
+          "label": "B",
+          "text": "Water Meter, Check Valve, Gate Valve"
+        },
+        {
+          "label": "C",
+          "text": "Gate Valve, Check Valve, Water Meter"
+        },
+        {
+          "label": "D",
+          "text": "Gate Valve, Water Meter, Check Valve"
+        },
+        {
+          "label": "E",
+          "text": "LEVATION"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "WATER METER DETAILS",
+      "explanation_long": "WATER METER DETAILS",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#36 | pages 83-84-85",
+      "quality_flag": "candidate",
+      "source_pages": [
+        83,
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "How many lavatories serving 240 males assembly places- for permanent employee use",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6 (RNPCP, Table 4.1- Minimum Plumbing Facilities)"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "10 Thcaicra, Coovonticn Thalia, ta"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Ppa of Buildicg | Water Closets",
+      "explanation_long": "Ppa of Buildicg | Water Closets d _ 12 (Fintures per Person) ‘Asemtly laces - ec- for permanent | Qeer $5, add 1 ficture for fm coe) : explayet USC each aLlitional 4) persons = ref Tule",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#37 | pages 86-87",
+      "quality_flag": "candidate",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "Howmanyturnsdoesittaketooperatea 6 ” double -? diskvalve",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 6. 5"
+        },
+        {
+          "label": "B",
+          "text": "20.5 (the AWWA operating formula for"
+        },
+        {
+          "label": "C",
+          "text": "1 7. 5"
+        },
+        {
+          "label": "D",
+          "text": "1 8. 5"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "opening/closing a gate valve is 3 times the nominal",
+      "explanation_long": "opening/closing a gate valve is 3 times the nominal valve size plus 2 or 3 turns of the operating nut; (3 x 6”)+(2 to 3)=20.5",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#38 | pages 88-89",
+      "quality_flag": "candidate",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 20.5 (the AWWA operating formula for"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "The water hp of a jet pump is 3 hp and the brake is 3.4 hp. What is the efficiency of the motor? . 88.24 % . 113 % . 29",
+      "choices": [
+        {
+          "label": "D",
+          "text": "2.9%"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. 88.24 % 113 % 29 ‘ 2.9% pump efficiency= output/ input= WHP/BHP refers to the ratio of power output to power input; it is the water HP divided by the brake HP(multiplied by 100 to present it as a percentage)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#39 | pages 90-91",
+      "quality_flag": "candidate",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Which tool is recommended for removing assembling of lavatory fittings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spud Wrench"
+        },
+        {
+          "label": "B",
+          "text": "Monkey Wrench"
+        },
+        {
+          "label": "C",
+          "text": "Basin Wrench"
+        },
+        {
+          "label": "D",
+          "text": "Crescent Wrench"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#40 | pages 92-93-94",
+      "quality_flag": "review",
+      "source_pages": [
+        92,
+        93,
+        94
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "How do you seal a national pipe straight?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Teflon . Tape"
+        },
+        {
+          "label": "C",
+          "text": "O-ring or Gasket"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Metal-to-metal wedging",
+      "explanation_long": ". Metal-to-metal wedging Teflon . Tape . O-ring or Gasket NPT = _Metal-to-metal wedging (NPT) Tapered Thread Straight Thread Seal is accomplished via meétal-to-metal wedging: National Pipe Tapered (NPT) National Pipe Straight (NPS)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#41 | pages 95-96",
+      "quality_flag": "candidate",
+      "source_pages": [
+        95,
+        96
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "A tool which is made of boxwood, dogwood, or lignum vitae and it is used for dressing or working sheet lead, lead pipe bends and bath traps",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Turn Pin"
+        },
+        {
+          "label": "B",
+          "text": "Shave Hook (is a specialized hand tool used primarily in"
+        },
+        {
+          "label": "C",
+          "text": "Drift Plug (is a hardwood plug that is conical or has"
+        },
+        {
+          "label": "D",
+          "text": "Dresser"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "woodworking and carpentry for scraping or removing paint,",
+      "explanation_long": "woodworking and carpentry for scraping or removing paint, varnish, and other finishes from wooden surfaces) rounded ends to be driven into or through a lead pipe to flare itorto straighten a buckle)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#42 | pages 97-98-99",
+      "quality_flag": "candidate",
+      "source_pages": [
+        97,
+        98,
+        99
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Identify what type of water closet according to design is shown below",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One Piece Water Closet"
+        },
+        {
+          "label": "B",
+          "text": "Close- Coupled"
+        },
+        {
+          "label": "C",
+          "text": "Two- Piece Water Closet Ties phesa/llose Gomalec"
+        },
+        {
+          "label": "D",
+          "text": "BothB & C"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Both B & C Water Closet",
+      "explanation_long": "Both B & C Water Closet",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#453 | pages 100-101",
+      "quality_flag": "candidate",
+      "source_pages": [
+        100,
+        101
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "Calculate the mass flow rate of a given fluid whose specific gravity is 0.7, velocity is 30 and cross-sectional area of 0.40 sq.m",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8400 kg/s"
+        },
+        {
+          "label": "B",
+          "text": "840 kg/s"
+        },
+        {
+          "label": "C",
+          "text": "84000 kg/s"
+        },
+        {
+          "label": "D",
+          "text": "84 kg/s m/s,"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Density of Substance= Density of Water (kg/m3) X Specific Gravity",
+      "explanation_long": "Density of Substance= Density of Water (kg/m3) X Specific Gravity Mass Flow Rate(kg/s)= density(kgZm3) x flow velocity (m/s) x cross sectional area(m2); is the mass of a liquid substance passing per unit time",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#44 | pages 102-103",
+      "quality_flag": "candidate",
+      "source_pages": [
+        102,
+        103
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "The stage of fire when heat, oxygen and fuel source combine, easiest to suppress",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ignition"
+        },
+        {
+          "label": "B",
+          "text": "Growth (it becomes harder to control after"
+        },
+        {
+          "label": "C",
+          "text": "Flashover (a transitional phase in the development"
+        },
+        {
+          "label": "D",
+          "text": "Decay (the phase when the fire decreases in"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Flashover",
+      "explanation_long": "Flashover Decay ignition) of a compartment fire) intensity until it is either a smolder or non-existent)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#45 | pages 104-105-106",
+      "quality_flag": "candidate",
+      "source_pages": [
+        104,
+        105,
+        106
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "Gravity grease interceptors shall not be installed in any part of the building where?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "food is handled (UPC) NSI/CAN/IAPMO Z1001 shall not be installed in a ing Jurisdiction."
+        },
+        {
+          "label": "B",
+          "text": "laundry is held"
+        },
+        {
+          "label": "C",
+          "text": "the fixture served is on the second floor"
+        },
+        {
+          "label": "D",
+          "text": "itis installed in public area"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "1014.3.4 Location. Each grease interceptor shall be so",
+      "explanation_long": "1014.3.4 Location. Each grease interceptor shall be so installed and connected that it shall be easily accessible for inspection, cleaning, and removal of the intercepted grease. A gravity grease interceptor that complies with building where food is handled. Location of the grease interceptor shall meet the approval of the Authority Hav-",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#46 | pages 107-108",
+      "quality_flag": "candidate",
+      "source_pages": [
+        107,
+        108
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (UPC) NSI/CAN/IAPMO Z1001 shall not be installed in a ing Jurisdiction."
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "Howmanystrokesperminuteistheproperusage ? ofahacksaw",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 0 - 3 0"
+        },
+        {
+          "label": "B",
+          "text": "40-50 (heimduo.org)"
+        },
+        {
+          "label": "C",
+          "text": "6 0 - 7 0"
+        },
+        {
+          "label": "D",
+          "text": "8 0 - 1 0 0"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "(maximum of 1 stroke per second)",
+      "explanation_long": "(maximum of 1 stroke per second)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#47 | pages 109-110",
+      "quality_flag": "candidate",
+      "source_pages": [
+        109,
+        110
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 40-50 (heimduo.org)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "Water with velocity of 8m/s flows through a pipe with a diameter of 4m. If the diameter is increased to 5m, what will be the flow speed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "7.89m/s"
+        },
+        {
+          "label": "B",
+          "text": "7.15 m/s"
+        },
+        {
+          "label": "C",
+          "text": "5.12 m/s"
+        },
+        {
+          "label": "D",
+          "text": "5.12 m/s"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ".- 4.95 m/s",
+      "explanation_long": ".- 4.95 m/s Continuity Equation- an equation that describes the transport of some quantity AixVq = A2 x V2 A= area of pipe V= velocity of pipe",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#48 | pages 111-112",
+      "quality_flag": "candidate",
+      "source_pages": [
+        111,
+        112
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "A tank is 120' x 50' x 14' deep. The flow is 2.8 mgd. What is the detention time in hours?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3.8 hours"
+        },
+        {
+          "label": "C",
+          "text": "5.4 hours"
+        },
+        {
+          "label": "D",
+          "text": "6.2 hours"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 4.4 hours",
+      "explanation_long": ". 4.4 hours Detention time- is the length of time in minutes or hours for one gallon of water to pass through a tank . 4.4 hours ec. 5.4 hours Detention time- is the length of time in minutes or hours for one gallon of water to pass through a tank",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#49 | pages 113-114",
+      "quality_flag": "candidate",
+      "source_pages": [
+        113,
+        114
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-04-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Hard",
+      "prompt": "If the grade of a sanitary sewer has a lope of 0.10% for 1,200 ft, what is the rise of the pipe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "R. SEAN A. DUPAYA, UAP, RMP"
+        },
+        {
+          "label": "C",
+          "text": "1.20 ft"
+        },
+        {
+          "label": "D",
+          "text": "0.12 ft"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 0.01 ft",
+      "explanation_long": ". 0.01 ft . 0.01 ft slope=rise / run",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#50 | pages 115-116-117",
+      "quality_flag": "candidate",
+      "source_pages": [
+        115,
+        116,
+        117
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

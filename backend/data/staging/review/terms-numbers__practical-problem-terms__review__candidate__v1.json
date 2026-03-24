@@ -1,0 +1,2729 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 64,
+      "probable": 1
+    },
+    "notes": [],
+    "source_slug": "terms-numbers__practical-problem-terms",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TERMS & NUMBERS-20260126T193044Z-3-001\\PRACTICAL PROBLEM TERMS.pdf",
+    "material_group": "terms-numbers",
+    "converter": "facts",
+    "generated_at": "2026-03-21T13:09:33.621877+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "Reference extraction needs filtering before publication"
+    ]
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-fffb6241b2e4",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Wrenches?",
+      "back": "is a tool operated by hand, and is made for tightening or loosening bolts, or anything that needs to be turned. The English call it a “Spanner”",
+      "explanation_short": "is a tool operated by hand, and is made for tightening or loosening bolts, or anything that needs to be turned. The English call it a “Spanner”",
+      "explanation_long": "is a tool operated by hand, and is made for tightening or loosening bolts, or anything that needs to be turned. The English call it a “Spanner”",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3e80ada54d58",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Pipe Wrench?",
+      "back": "A hand tool having one jaw movable and the other relatively fixed, the two parallel jaws are opened or closed when placed on a pipe and rotated in one direction",
+      "explanation_short": "A hand tool having one jaw movable and the other relatively fixed, the two parallel jaws are opened or closed when placed on a pipe and rotated in one direction",
+      "explanation_long": "A hand tool having one jaw movable and the other relatively fixed, the two parallel jaws are opened or closed when placed on a pipe and rotated in one direction",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c4024727bac6",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Stillson Wrench?",
+      "back": "it is a variation of pipe wrench with a swiveling seriated jaw and knurled control knob located between the frame forming the head and the handle of the wrench. Daniel Stillson",
+      "explanation_short": "it is a variation of pipe wrench with a swiveling seriated jaw and knurled control knob located between the frame forming the head and the handle of the wrench. Daniel Stillson",
+      "explanation_long": "it is a variation of pipe wrench with a swiveling seriated jaw and knurled control knob located between the frame forming the head and the handle of the wrench. Daniel Stillson",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ceedda17b543",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is End pipe Wrench?",
+      "back": "A tool fast and easy grip used on constricted spaces or close to a wall where pipes alter their course (for example where they bend with a 90-degree angle). They are set at a slight angle to the wrenches’ handles and they have teeth in the jaw for an improved grip",
+      "explanation_short": "A tool fast and easy grip used on constricted spaces or close to a wall where pipes alter their course (for example where they bend with a 90-degree angle). They are set at a sligh",
+      "explanation_long": "A tool fast and easy grip used on constricted spaces or close to a wall where pipes alter their course (for example where they bend with a 90-degree angle). They are set at a slight angle to the wrenches’ handles and they have teeth in the jaw for an improved grip",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-637a775361fc",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Rap wrench?",
+      "back": "a variation of a pipe wrench; has a deeper and broader hook jaw housing which provides a smooth, flat surface that may be occasionally used as a hammer",
+      "explanation_short": "a variation of a pipe wrench; has a deeper and broader hook jaw housing which provides a smooth, flat surface that may be occasionally used as a hammer",
+      "explanation_long": "a variation of a pipe wrench; has a deeper and broader hook jaw housing which provides a smooth, flat surface that may be occasionally used as a hammer",
+      "tags": [
+        "practical-problems",
+        "law-summary",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7ee2aa4d1c46",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Compound Leverage Wrench?",
+      "back": "A unique type of pipe wrench in which the turning force applied is multiplied. Ideal for freeing locked couplings and joints frozen by age or damage",
+      "explanation_short": "A unique type of pipe wrench in which the turning force applied is multiplied. Ideal for freeing locked couplings and joints frozen by age or damage",
+      "explanation_long": "A unique type of pipe wrench in which the turning force applied is multiplied. Ideal for freeing locked couplings and joints frozen by age or damage",
+      "tags": [
+        "practical-problems",
+        "law-summary",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-70e9bb91ee19",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Offset Pipe Wrench?",
+      "back": "A unique type of pipe wrench featuring a jaw opening parallel to the handle and a narrower hook jaw which provides easy entry into tight spaces",
+      "explanation_short": "A unique type of pipe wrench featuring a jaw opening parallel to the handle and a narrower hook jaw which provides easy entry into tight spaces",
+      "explanation_long": "A unique type of pipe wrench featuring a jaw opening parallel to the handle and a narrower hook jaw which provides easy entry into tight spaces",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d4022bff01a3",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Adjustable Spud Wrench?",
+      "back": "It has un-serrated jaws, used to turn fittings of minimum strength, such as copper and brass valve and drain trap fitting or sinks and lavatories",
+      "explanation_short": "It has un-serrated jaws, used to turn fittings of minimum strength, such as copper and brass valve and drain trap fitting or sinks and lavatories",
+      "explanation_long": "It has un-serrated jaws, used to turn fittings of minimum strength, such as copper and brass valve and drain trap fitting or sinks and lavatories",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7cfb18051caa",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Adjustable Wrench / Crescent wrench?",
+      "back": "Any one of the several types of wrenches having one jaw fixed and the other adjustable; set to a desired size or opening by means of knurled. Crescent is a brand name",
+      "explanation_short": "Any one of the several types of wrenches having one jaw fixed and the other adjustable; set to a desired size or opening by means of knurled. Crescent is a brand name",
+      "explanation_long": "Any one of the several types of wrenches having one jaw fixed and the other adjustable; set to a desired size or opening by means of knurled. Crescent is a brand name",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-fcc7c2527c02",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is Locking pliers, Mole grips (Mole wrench)?",
+      "back": "r Vise-Grips - are pliers that can be locked into position, using an over- center action. Vise grip and Mole grips are brand names",
+      "explanation_short": "r Vise-Grips - are pliers that can be locked into position, using an over- center action. Vise grip and Mole grips are brand names",
+      "explanation_long": "r Vise-Grips - are pliers that can be locked into position, using an over- center action. Vise grip and Mole grips are brand names",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-3b0c12fcd819",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 1 of 14",
+      "explanation_short": "and Definition Page 1 of 14",
+      "explanation_long": "and Definition Page 1 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5f2f4db081e2",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Monkey Wrench?",
+      "back": "A tool which resembles a pipe wrench, except for its smooth jaws. It is used to hold or turn hardware having flat surfaces, such as nuts and drain fittings. An open end or adjustable wrench may be substituted for this purpose. Invented by Charles Moncky",
+      "explanation_short": "A tool which resembles a pipe wrench, except for its smooth jaws. It is used to hold or turn hardware having flat surfaces, such as nuts and drain fittings. An open end or adjustab",
+      "explanation_long": "A tool which resembles a pipe wrench, except for its smooth jaws. It is used to hold or turn hardware having flat surfaces, such as nuts and drain fittings. An open end or adjustable wrench may be substituted for this purpose. Invented by Charles Moncky",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-27090d7ea55a",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Jaw Dropper Wrench?",
+      "back": "For tightening taps without isolating the water supply. Adjustable jaws allow for access to both the pipe union nut and the tap back nut with the same spanner. Double-ended design allows use on all standard sink and bath nuts",
+      "explanation_short": "For tightening taps without isolating the water supply. Adjustable jaws allow for access to both the pipe union nut and the tap back nut with the same spanner. Double-ended design ",
+      "explanation_long": "For tightening taps without isolating the water supply. Adjustable jaws allow for access to both the pipe union nut and the tap back nut with the same spanner. Double-ended design allows use on all standard sink and bath nuts",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-20e676ad07ba",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Strap Wrench?",
+      "back": "This is used for any polished pipes particularly plastic or synthetic and this walled or plated which are relatively soft or may be scratched or crushed by a wrench with serrated jaws. It has a long nylon strap which gives a tight grip",
+      "explanation_short": "This is used for any polished pipes particularly plastic or synthetic and this walled or plated which are relatively soft or may be scratched or crushed by a wrench with serrated j",
+      "explanation_long": "This is used for any polished pipes particularly plastic or synthetic and this walled or plated which are relatively soft or may be scratched or crushed by a wrench with serrated jaws. It has a long nylon strap which gives a tight grip",
+      "tags": [
+        "practical-problems",
+        "law-summary",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b9523556673d",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is UST Wrench?",
+      "back": "this is an innovative wrench specifically designed to allow quick, easy removal and installation of all steel rise piping on underground storage tanks. It features an adjustable chain vise that quickly mounts to 3 to 4 inches riser pipes and nipples, submersible pump housing, leak detection device on submersible pumps and 4 to 2 inches reduces. It is operable in confined spaces (as small as 14 inches diameter); ideal for use in spill containment reservoirs and manholes",
+      "explanation_short": "this is an innovative wrench specifically designed to allow quick, easy removal and installation of all steel rise piping on underground storage tanks. It features an adjustable ch",
+      "explanation_long": "this is an innovative wrench specifically designed to allow quick, easy removal and installation of all steel rise piping on underground storage tanks. It features an adjustable chain vise that quickly mounts to 3 to 4 inches riser pipes and nipples, submersible pump housing, leak detection device on submersible pumps and 4 to 2 inches reduces. It is operable in confined spaces (as small as 14 inches diameter); ideal for use in spill containment reservoirs and manholes",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c9160a672424",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Torque Wrench?",
+      "back": "A type of wrench used in No hub soil pipe installation. It is used to ensure tight, leak free joints. The drive tightness with a fast ratchet until the wrench clicks for an accurate 60-pound torque for every application",
+      "explanation_short": "A type of wrench used in No hub soil pipe installation. It is used to ensure tight, leak free joints. The drive tightness with a fast ratchet until the wrench clicks for an accurat",
+      "explanation_long": "A type of wrench used in No hub soil pipe installation. It is used to ensure tight, leak free joints. The drive tightness with a fast ratchet until the wrench clicks for an accurate 60-pound torque for every application",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-62739a185a06",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Internal Wrench —?",
+      "back": "A type of wrench used to install or extract 1 through 2 inches nipples. It is composed of serrated slotted disks of different diameters attached to a shaft, these disks expand by eccentric action and provide tight grip between the interior walls of the pipe and the disk. This is used to hold closet spuds and bath, basin and sink strainers with a diameter up to 2 inches",
+      "explanation_short": "A type of wrench used to install or extract 1 through 2 inches nipples. It is composed of serrated slotted disks of different diameters attached to a shaft, these disks expand by e",
+      "explanation_long": "A type of wrench used to install or extract 1 through 2 inches nipples. It is composed of serrated slotted disks of different diameters attached to a shaft, these disks expand by eccentric action and provide tight grip between the interior walls of the pipe and the disk. This is used to hold closet spuds and bath, basin and sink strainers with a diameter up to 2 inches",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-01dafd33eeda",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Hex Wrench —?",
+      "back": "A wrench with a hexagonal jaw which is multi-side, used to provide a secure grip on all hexagonal nuts, square nuts, unions, and valve packing nuts. The extra-wide opening offset is ideal for securing drain nut on sinks and tubs",
+      "explanation_short": "A wrench with a hexagonal jaw which is multi-side, used to provide a secure grip on all hexagonal nuts, square nuts, unions, and valve packing nuts. The extra-wide opening offset i",
+      "explanation_long": "A wrench with a hexagonal jaw which is multi-side, used to provide a secure grip on all hexagonal nuts, square nuts, unions, and valve packing nuts. The extra-wide opening offset is ideal for securing drain nut on sinks and tubs",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d27f9ef0e2a5",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Allen Wrench?",
+      "back": "A wrench screws with hexagonally shaped recess in its head",
+      "explanation_short": "A wrench screws with hexagonally shaped recess in its head",
+      "explanation_long": "A wrench screws with hexagonally shaped recess in its head",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-a8fe24db92ac",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Valve Seat Wrench?",
+      "back": "This is used to remove faucet valve seat",
+      "explanation_short": "This is used to remove faucet valve seat",
+      "explanation_long": "This is used to remove faucet valve seat",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-35355627fc9c",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Closet Wrench?",
+      "back": "A tool designed to fasten the closet seat to the closet bowl",
+      "explanation_short": "A tool designed to fasten the closet seat to the closet bowl",
+      "explanation_long": "A tool designed to fasten the closet seat to the closet bowl",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d9bd8b50cb34",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 2 of 14",
+      "explanation_short": "and Definition Page 2 of 14",
+      "explanation_long": "and Definition Page 2 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c9661b6467b5",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Basin Wrench?",
+      "back": "r Sink wrench- This wrench has a swiveling jaw that enables a plumber to reach into places not easily accessible with conventional wrenches. One of the primary uses of this type of wrench is to loosen and tighten nuts that hold faucets, but the tool might be adapted for other close-fit applications",
+      "explanation_short": "r Sink wrench- This wrench has a swiveling jaw that enables a plumber to reach into places not easily accessible with conventional wrenches. One of the primary uses of this type of",
+      "explanation_long": "r Sink wrench- This wrench has a swiveling jaw that enables a plumber to reach into places not easily accessible with conventional wrenches. One of the primary uses of this type of wrench is to loosen and tighten nuts that hold faucets, but the tool might be adapted for other close-fit applications",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-317950991335",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Packing Nut Socket Wrenches?",
+      "back": "These are available in sets and fir nearly all tub, tub and shower valves. They are hexagonal on both ends and hollow core to fit over faucet stem handles. Their importance lie on the fact that faucet valve packing nuts and stem assemblies are brass; If the workman uses an open-ended or adjustable wrench, strong pressure may warp or break the nut thimble. These are practically impossible to replace without tearing out the walls",
+      "explanation_short": "These are available in sets and fir nearly all tub, tub and shower valves. They are hexagonal on both ends and hollow core to fit over faucet stem handles. Their importance lie on ",
+      "explanation_long": "These are available in sets and fir nearly all tub, tub and shower valves. They are hexagonal on both ends and hollow core to fit over faucet stem handles. Their importance lie on the fact that faucet valve packing nuts and stem assemblies are brass; If the workman uses an open-ended or adjustable wrench, strong pressure may warp or break the nut thimble. These are practically impossible to replace without tearing out the walls",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f69045bf4433",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Basket Strainer Wrench —?",
+      "back": "A tool used to tighten the nut that secures the basket to the sink",
+      "explanation_short": "A tool used to tighten the nut that secures the basket to the sink",
+      "explanation_long": "A tool used to tighten the nut that secures the basket to the sink",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-04f872b980b4",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is Chain Wrench/ Chain Tong?",
+      "back": "a type of wrench having a sprocket chain that is slipped a \\round a pipe and then attached to the wrench handle",
+      "explanation_short": "a type of wrench having a sprocket chain that is slipped a \\round a pipe and then attached to the wrench handle",
+      "explanation_long": "a type of wrench having a sprocket chain that is slipped a \\round a pipe and then attached to the wrench handle",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-39afd878625e",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 3 of 14",
+      "explanation_short": "and Definition Page 3 of 14",
+      "explanation_long": "and Definition Page 3 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c65880ea1908",
+      "topic": "Practical Problems",
+      "subtopic": "Compound Leverage Wrench",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 4 of 14",
+      "explanation_short": "and Definition Page 4 of 14",
+      "explanation_long": "and Definition Page 4 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "compound-leverage-wrench",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.4 | Compound Leverage Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-197b13f05e0b",
+      "topic": "Practical Problems",
+      "subtopic": "Wrench",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 5 of 14",
+      "explanation_short": "and Definition Page 5 of 14",
+      "explanation_long": "and Definition Page 5 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "wrench",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.5 | Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-77906efa1631",
+      "topic": "Practical Problems",
+      "subtopic": "Allen Wrench",
+      "front": "What is the equivalent of A mee?",
+      "back": "\\ @",
+      "explanation_short": "\\ @",
+      "explanation_long": "A mee = \\ @",
+      "tags": [
+        "practical-problems",
+        "conversion",
+        "allen-wrench",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.6 | Allen Wrench",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-1795679cd43e",
+      "topic": "Practical Problems",
+      "subtopic": "Crawfoot",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 6 of 14",
+      "explanation_short": "and Definition Page 6 of 14",
+      "explanation_long": "and Definition Page 6 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "crawfoot",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.6 | Crawfoot",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5ba028ba77c0",
+      "topic": "Practical Problems",
+      "subtopic": "Chain Whrench Or Chain",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 7 of 14",
+      "explanation_short": "and Definition Page 7 of 14",
+      "explanation_long": "and Definition Page 7 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "chain-whrench-or-chain",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.7 | Chain Whrench Or Chain",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c7da95c22b29",
+      "topic": "Practical Problems",
+      "subtopic": "Consultancy",
+      "front": "What is Pipe Cutter/Tube Cutter —?",
+      "back": "A hand tool for cutting or tubing; one end of the tool, which partially encircles the pipe carries one or more sharp wheels, the cutting edge of the wheels is forced against the pipe by a screw on the other end of the tool; cutting us done by rotating the tool around the pipe progressively",
+      "explanation_short": "A hand tool for cutting or tubing; one end of the tool, which partially encircles the pipe carries one or more sharp wheels, the cutting edge of the wheels is forced against the pi",
+      "explanation_long": "A hand tool for cutting or tubing; one end of the tool, which partially encircles the pipe carries one or more sharp wheels, the cutting edge of the wheels is forced against the pipe by a screw on the other end of the tool; cutting us done by rotating the tool around the pipe progressively",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.8 | Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d0ea7e4e7805",
+      "topic": "Practical Problems",
+      "subtopic": "Mini Tube Cutter",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 8 of 14",
+      "explanation_short": "and Definition Page 8 of 14",
+      "explanation_long": "and Definition Page 8 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "mini-tube-cutter",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.8 | Mini Tube Cutter",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-969f29f108ee",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes Educa",
+      "front": "What is Hacksaw?",
+      "back": "A tool for cutting plastic and metal pipes. It use blades with 16 teeth per inch for saving 1/8 to % inch tubing and thin-walled pipe",
+      "explanation_short": "A tool for cutting plastic and metal pipes. It use blades with 16 teeth per inch for saving 1/8 to % inch tubing and thin-walled pipe",
+      "explanation_long": "A tool for cutting plastic and metal pipes. It use blades with 16 teeth per inch for saving 1/8 to % inch tubing and thin-walled pipe",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes-educa",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Rjes Educa",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d65095dffe44",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes Educa",
+      "front": "What is Flaring Tool —?",
+      "back": "A tool used to make watertight joints between flexible copper tubing and fitting or valve. The end of the tubing is slipped into yoke and a countersunk compressor screw is slowly tightened forming a bell- shaped tube end",
+      "explanation_short": "A tool used to make watertight joints between flexible copper tubing and fitting or valve. The end of the tubing is slipped into yoke and a countersunk compressor screw is slowly t",
+      "explanation_long": "A tool used to make watertight joints between flexible copper tubing and fitting or valve. The end of the tubing is slipped into yoke and a countersunk compressor screw is slowly tightened forming a bell- shaped tube end",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "rjes-educa",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Rjes Educa",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b534435144a0",
+      "topic": "Practical Problems",
+      "subtopic": "Type Of Flaring Tool",
+      "front": "What is 1. Hammer Type Flaring Tool Yoke?",
+      "back": "and Screw Type Flaring Tool",
+      "explanation_short": "and Screw Type Flaring Tool",
+      "explanation_long": "and Screw Type Flaring Tool",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "type-of-flaring-tool",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Type Of Flaring Tool",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b13207fa9b8f",
+      "topic": "Practical Problems",
+      "subtopic": "Type Of Flaring Tool",
+      "front": "What is Pipe Tap —?",
+      "back": "A tool usually made from carbon steel. Pipe taps are used to create a threading system inside a hollow pipe. It is used to create internal threads or to rethread metal piping and fittings, or other metal fabricated objects. These taps can be used with aluminum, brass, copper, or steel",
+      "explanation_short": "A tool usually made from carbon steel. Pipe taps are used to create a threading system inside a hollow pipe. It is used to create internal threads or to rethread metal piping and f",
+      "explanation_long": "A tool usually made from carbon steel. Pipe taps are used to create a threading system inside a hollow pipe. It is used to create internal threads or to rethread metal piping and fittings, or other metal fabricated objects. These taps can be used with aluminum, brass, copper, or steel",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "type-of-flaring-tool",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Type Of Flaring Tool",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e7b9a521912c",
+      "topic": "Practical Problems",
+      "subtopic": "Pipe Threader",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 9 of 14",
+      "explanation_short": "and Definition Page 9 of 14",
+      "explanation_long": "and Definition Page 9 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "pipe-threader",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Pipe Threader",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-01d6f9e51145",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Pipe Reamer —?",
+      "back": "A tapered bit having sharp, spiral fluted edges along the shaft; Used to enlarge an opening, or remove burrs from the inside of a pipe especially after cutting etc",
+      "explanation_short": "A tapered bit having sharp, spiral fluted edges along the shaft; Used to enlarge an opening, or remove burrs from the inside of a pipe especially after cutting etc",
+      "explanation_long": "A tapered bit having sharp, spiral fluted edges along the shaft; Used to enlarge an opening, or remove burrs from the inside of a pipe especially after cutting etc",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2d4e702c9de3",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Combination Pipe Reamer —?",
+      "back": "A type of pipe reamer used to remove the internal and external burrs of a pipe that had resulted from cutting; usually applicable on plastic and ther thin-walled pipe or tubing",
+      "explanation_short": "A type of pipe reamer used to remove the internal and external burrs of a pipe that had resulted from cutting; usually applicable on plastic and ther thin-walled pipe or tubing",
+      "explanation_long": "A type of pipe reamer used to remove the internal and external burrs of a pipe that had resulted from cutting; usually applicable on plastic and ther thin-walled pipe or tubing",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5ded7faf0b26",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Pipe Extractor?",
+      "back": "a tool used to remove broken threaded ends of pipe, plugs, fittings, etc",
+      "explanation_short": "a tool used to remove broken threaded ends of pipe, plugs, fittings, etc",
+      "explanation_long": "a tool used to remove broken threaded ends of pipe, plugs, fittings, etc",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-549753e383cf",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Tube Bender?",
+      "back": "a tool used to bend flexible copper tubing without distortion",
+      "explanation_short": "a tool used to bend flexible copper tubing without distortion",
+      "explanation_long": "a tool used to bend flexible copper tubing without distortion",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d1d0e647994a",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Bending Iron?",
+      "back": "a tool used to straighten or to expand flexible pipe, especially lead pipe",
+      "explanation_short": "a tool used to straighten or to expand flexible pipe, especially lead pipe",
+      "explanation_long": "a tool used to straighten or to expand flexible pipe, especially lead pipe",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-dae03e07766e",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Bending Pin- one?",
+      "back": "f a number of pins in a set in a staggered arrangement in a block which are used in bending iron or lead pipe",
+      "explanation_short": "f a number of pins in a set in a staggered arrangement in a block which are used in bending iron or lead pipe",
+      "explanation_long": "f a number of pins in a set in a staggered arrangement in a block which are used in bending iron or lead pipe",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-08020bd843d8",
+      "topic": "Practical Problems",
+      "subtopic": "Bender",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 10 of 14",
+      "explanation_short": "and Definition Page 10 of 14",
+      "explanation_long": "and Definition Page 10 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "bender",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Bender",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-9d6dad6e940f",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Tube Expander?",
+      "back": "a hand-operated, single stage expander used to expand tubing such as copper, aluminum and soft steel tube",
+      "explanation_short": "a hand-operated, single stage expander used to expand tubing such as copper, aluminum and soft steel tube",
+      "explanation_long": "a hand-operated, single stage expander used to expand tubing such as copper, aluminum and soft steel tube",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5e5676bb0d5a",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Pipe Vise?",
+      "back": "a vise for holding pipe or tubing during cutting or threading operations; the pipe is held in a V- shaped serrated jaws or (for larger pipes) bye chains",
+      "explanation_short": "a vise for holding pipe or tubing during cutting or threading operations; the pipe is held in a V- shaped serrated jaws or (for larger pipes) bye chains",
+      "explanation_long": "a vise for holding pipe or tubing during cutting or threading operations; the pipe is held in a V- shaped serrated jaws or (for larger pipes) bye chains",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4b54caa942f5",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "front": "What is 1. Portable Tri-stand chain vise?",
+      "back": "it has internal legs and tray hat folds in for easy carrying and set-up large vise base overhangs front legs for clear tool swing; it has complete slots for hanging plumbing tools, has pipe rest and three pipe benders and ceiling base crew",
+      "explanation_short": "it has internal legs and tray hat folds in for easy carrying and set-up large vise base overhangs front legs for clear tool swing; it has complete slots for hanging plumbing tools,",
+      "explanation_long": "it has internal legs and tray hat folds in for easy carrying and set-up large vise base overhangs front legs for clear tool swing; it has complete slots for hanging plumbing tools, has pipe rest and three pipe benders and ceiling base crew",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2b51c4093ee7",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "front": "What is 2. Bench Yoke Vice- yoke?",
+      "back": "and base are made of strong, dependable iron. It has hardened alloy steel jaws and convenient pipe rest and bender",
+      "explanation_short": "and base are made of strong, dependable iron. It has hardened alloy steel jaws and convenient pipe rest and bender",
+      "explanation_long": "and base are made of strong, dependable iron. It has hardened alloy steel jaws and convenient pipe rest and bender",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-caa16aedef3a",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "front": "What is 3. Bench chain Vise?",
+      "back": "it has crank handle on base, rugged cast iron base has jaws of hardened alloy steel with handy pipe rest, pipe bender. Toothless jaws and neoprene coated to prevent scratching of pipe",
+      "explanation_short": "it has crank handle on base, rugged cast iron base has jaws of hardened alloy steel with handy pipe rest, pipe bender. Toothless jaws and neoprene coated to prevent scratching of p",
+      "explanation_long": "it has crank handle on base, rugged cast iron base has jaws of hardened alloy steel with handy pipe rest, pipe bender. Toothless jaws and neoprene coated to prevent scratching of pipe",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-0a455d6e7484",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "front": "What is 4. Stand Chain Vise?",
+      "back": "a handy stand chain vise is made of sturdy cast iron frame with allows steel jaws. It is equipped with pipe rest, pipe bender and tool tray",
+      "explanation_short": "a handy stand chain vise is made of sturdy cast iron frame with allows steel jaws. It is equipped with pipe rest, pipe bender and tool tray",
+      "explanation_long": "a handy stand chain vise is made of sturdy cast iron frame with allows steel jaws. It is equipped with pipe rest, pipe bender and tool tray",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-59c476636bd7",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "front": "What is 5. Portable Chain?",
+      "back": "and Yoke Vise- a light, strong, portable post chain vise which fits any kind of post. It is equipped with tray for oil can and handy pipe bender",
+      "explanation_short": "and Yoke Vise- a light, strong, portable post chain vise which fits any kind of post. It is equipped with tray for oil can and handy pipe bender",
+      "explanation_long": "and Yoke Vise- a light, strong, portable post chain vise which fits any kind of post. It is equipped with tray for oil can and handy pipe bender",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e01f4ed7ac93",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "front": "What is 6. Pipe Welding Vise?",
+      "back": "made of durable performance-proven material and designed to resist strain, heat and warping during tacking. Machine swivel nuts and pins together with special chain screws give smooth and trouble- free assembling of vise onto pipe",
+      "explanation_short": "made of durable performance-proven material and designed to resist strain, heat and warping during tacking. Machine swivel nuts and pins together with special chain screws give smo",
+      "explanation_long": "made of durable performance-proven material and designed to resist strain, heat and warping during tacking. Machine swivel nuts and pins together with special chain screws give smooth and trouble- free assembling of vise onto pipe",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5afede39921e",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 11 of 14",
+      "explanation_short": "and Definition Page 11 of 14",
+      "explanation_long": "and Definition Page 11 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7bbb40468c3c",
+      "topic": "Practical Problems",
+      "subtopic": "Flange Pipe Welding Vise",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 12 of 14",
+      "explanation_short": "and Definition Page 12 of 14",
+      "explanation_long": "and Definition Page 12 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "flange-pipe-welding-vise",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.12 | Flange Pipe Welding Vise",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-18b59e713e93",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Cut-off Chisel?",
+      "back": "a chisel with a cutting edge formed of tempered steel, used for cutting metal especially cast iron",
+      "explanation_short": "a chisel with a cutting edge formed of tempered steel, used for cutting metal especially cast iron",
+      "explanation_long": "a chisel with a cutting edge formed of tempered steel, used for cutting metal especially cast iron",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4c3ef2d1b79a",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Yarning Iron?",
+      "back": "a chisel-like tool used to pack and compress hemp rope into the bell of a cast iron pipe for the purpose of making a joint",
+      "explanation_short": "a chisel-like tool used to pack and compress hemp rope into the bell of a cast iron pipe for the purpose of making a joint",
+      "explanation_long": "a chisel-like tool used to pack and compress hemp rope into the bell of a cast iron pipe for the purpose of making a joint",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-0395ac0fcd6a",
+      "topic": "Practical Problems",
+      "subtopic": "Offset Yarning Iron Outside)",
+      "front": "What is Caulking Iron- used upon pouring of molten lead to ensure air bubbles in the material are removed and provide a leak- free joint?",
+      "back": "Long curved offset Iron (square end)",
+      "explanation_short": "Long curved offset Iron (square end)",
+      "explanation_long": "Long curved offset Iron (square end)",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "offset-yarning-iron-outside",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Offset Yarning Iron Outside)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e7f7d398b861",
+      "topic": "Practical Problems",
+      "subtopic": "Runner",
+      "front": "What is Pick-out iron?",
+      "back": "has a diamond- shaped flat point; it is used to remove the lead and oakum from a joint",
+      "explanation_short": "has a diamond- shaped flat point; it is used to remove the lead and oakum from a joint",
+      "explanation_long": "has a diamond- shaped flat point; it is used to remove the lead and oakum from a joint",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "runner",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Runner",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-dd0ddbb7e190",
+      "topic": "Practical Problems",
+      "subtopic": "S Type Caulking Iron",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 13 of 14",
+      "explanation_short": "and Definition Page 13 of 14",
+      "explanation_long": "and Definition Page 13 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "s-type-caulking-iron",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | S Type Caulking Iron",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7dfef6e85765",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Cold Chisel?",
+      "back": "a chisel used for cutting metal",
+      "explanation_short": "a chisel used for cutting metal",
+      "explanation_long": "a chisel used for cutting metal",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-cea0ab5323de",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "front": "What is Flat File?",
+      "back": "a steel hand tool with small sharp teeth on some or alll its surfaces; used for smoothing wood or metal",
+      "explanation_short": "a steel hand tool with small sharp teeth on some or alll its surfaces; used for smoothing wood or metal",
+      "explanation_long": "a steel hand tool with small sharp teeth on some or alll its surfaces; used for smoothing wood or metal",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1d32e2560886",
+      "topic": "Practical Problems",
+      "subtopic": "Toilet Plunger Accordion Plunger = Ajr Operated",
+      "front": "What is SHARING OUR REFERENCES?",
+      "back": "TO NON-RJES REVIEWEE IS STRICTLY PROHIBITED. GOOD LUCK SA REVIEW, MASTERS!",
+      "explanation_short": "TO NON-RJES REVIEWEE IS STRICTLY PROHIBITED. GOOD LUCK SA REVIEW, MASTERS!",
+      "explanation_long": "TO NON-RJES REVIEWEE IS STRICTLY PROHIBITED. GOOD LUCK SA REVIEW, MASTERS!",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "toilet-plunger-accordion-plunger-ajr-operated",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Toilet Plunger Accordion Plunger = Ajr Operated",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2686d40036f3",
+      "topic": "Practical Problems",
+      "subtopic": "Toilet Plunger Accordion Plunger = Ajr Operated",
+      "front": "What is PRACTICAL PROBLEMS Tools: Figures?",
+      "back": "and Definition Page 14 of 14",
+      "explanation_short": "and Definition Page 14 of 14",
+      "explanation_long": "and Definition Page 14 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "toilet-plunger-accordion-plunger-ajr-operated",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Toilet Plunger Accordion Plunger = Ajr Operated",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": [
+    {
+      "id": "id-0a1bc0cdbfcf",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Wrenches?",
+      "accepted_answers": [
+        "is a tool operated by hand, and is made for tightening or loosening bolts, or anything that needs to be turned. The English call it a “Spanner”"
+      ],
+      "explanation_short": "is a tool operated by hand, and is made for tightening or loosening bolts, or anything that needs to be turned. The English call it a “Spanner”",
+      "explanation_long": "is a tool operated by hand, and is made for tightening or loosening bolts, or anything that needs to be turned. The English call it a “Spanner”",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-cc350092b9e2",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Pipe Wrench?",
+      "accepted_answers": [
+        "A hand tool having one jaw movable and the other relatively fixed, the two parallel jaws are opened or closed when placed on a pipe and rotated in one direction"
+      ],
+      "explanation_short": "A hand tool having one jaw movable and the other relatively fixed, the two parallel jaws are opened or closed when placed on a pipe and rotated in one direction",
+      "explanation_long": "A hand tool having one jaw movable and the other relatively fixed, the two parallel jaws are opened or closed when placed on a pipe and rotated in one direction",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b968b8aef36d",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Stillson Wrench?",
+      "accepted_answers": [
+        "it is a variation of pipe wrench with a swiveling seriated jaw and knurled control knob located between the frame forming the head and the handle of the wrench. Daniel Stillson"
+      ],
+      "explanation_short": "it is a variation of pipe wrench with a swiveling seriated jaw and knurled control knob located between the frame forming the head and the handle of the wrench. Daniel Stillson",
+      "explanation_long": "it is a variation of pipe wrench with a swiveling seriated jaw and knurled control knob located between the frame forming the head and the handle of the wrench. Daniel Stillson",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7d5619bcab52",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is End pipe Wrench?",
+      "accepted_answers": [
+        "A tool fast and easy grip used on constricted spaces or close to a wall where pipes alter their course (for example where they bend with a 90-degree angle). They are set at a slight angle to the wrenches’ handles and they have teeth in the jaw for an improved grip",
+        "A tool fast and easy grip used on constricted spaces or close to a wall where pipes alter their course. They are set at a slight angle to the wrenches’ handles and they have teeth in the jaw for an improved grip"
+      ],
+      "explanation_short": "A tool fast and easy grip used on constricted spaces or close to a wall where pipes alter their course (for example where they bend with a 90-degree angle). They are set at a sligh",
+      "explanation_long": "A tool fast and easy grip used on constricted spaces or close to a wall where pipes alter their course (for example where they bend with a 90-degree angle). They are set at a slight angle to the wrenches’ handles and they have teeth in the jaw for an improved grip",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-dab131d43f15",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Rap wrench?",
+      "accepted_answers": [
+        "a variation of a pipe wrench; has a deeper and broader hook jaw housing which provides a smooth, flat surface that may be occasionally used as a hammer"
+      ],
+      "explanation_short": "a variation of a pipe wrench; has a deeper and broader hook jaw housing which provides a smooth, flat surface that may be occasionally used as a hammer",
+      "explanation_long": "a variation of a pipe wrench; has a deeper and broader hook jaw housing which provides a smooth, flat surface that may be occasionally used as a hammer",
+      "tags": [
+        "practical-problems",
+        "law-summary",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 4,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-612b52247fe2",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Compound Leverage Wrench?",
+      "accepted_answers": [
+        "A unique type of pipe wrench in which the turning force applied is multiplied. Ideal for freeing locked couplings and joints frozen by age or damage"
+      ],
+      "explanation_short": "A unique type of pipe wrench in which the turning force applied is multiplied. Ideal for freeing locked couplings and joints frozen by age or damage",
+      "explanation_long": "A unique type of pipe wrench in which the turning force applied is multiplied. Ideal for freeing locked couplings and joints frozen by age or damage",
+      "tags": [
+        "practical-problems",
+        "law-summary",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8dad935b0705",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Offset Pipe Wrench?",
+      "accepted_answers": [
+        "A unique type of pipe wrench featuring a jaw opening parallel to the handle and a narrower hook jaw which provides easy entry into tight spaces"
+      ],
+      "explanation_short": "A unique type of pipe wrench featuring a jaw opening parallel to the handle and a narrower hook jaw which provides easy entry into tight spaces",
+      "explanation_long": "A unique type of pipe wrench featuring a jaw opening parallel to the handle and a narrower hook jaw which provides easy entry into tight spaces",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d9afb5a08fad",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Adjustable Spud Wrench?",
+      "accepted_answers": [
+        "It has un-serrated jaws, used to turn fittings of minimum strength, such as copper and brass valve and drain trap fitting or sinks and lavatories"
+      ],
+      "explanation_short": "It has un-serrated jaws, used to turn fittings of minimum strength, such as copper and brass valve and drain trap fitting or sinks and lavatories",
+      "explanation_long": "It has un-serrated jaws, used to turn fittings of minimum strength, such as copper and brass valve and drain trap fitting or sinks and lavatories",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-2d0531ab6782",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What is Adjustable Wrench / Crescent wrench?",
+      "accepted_answers": [
+        "Any one of the several types of wrenches having one jaw fixed and the other adjustable; set to a desired size or opening by means of knurled. Crescent is a brand name"
+      ],
+      "explanation_short": "Any one of the several types of wrenches having one jaw fixed and the other adjustable; set to a desired size or opening by means of knurled. Crescent is a brand name",
+      "explanation_long": "Any one of the several types of wrenches having one jaw fixed and the other adjustable; set to a desired size or opening by means of knurled. Crescent is a brand name",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f12af76bd6a8",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What term matches this definition? r Vise-Grips - are pliers that can be locked into position, using an over- center action. Vise grip and Mole grips are brand names",
+      "accepted_answers": [
+        "Locking pliers, Mole grips (Mole wrench)",
+        "Locking pliers, Mole grips"
+      ],
+      "explanation_short": "Locking pliers, Mole grips (Mole wrench)",
+      "explanation_long": "Locking pliers, Mole grips (Mole wrench): r Vise-Grips - are pliers that can be locked into position, using an over- center action. Vise grip and Mole grips are brand names",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1f8ae07c7070",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes",
+      "prompt": "What term matches this definition? and Definition Page 1 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 1 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "rjes",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.1 | Rjes",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-fef6821f19b4",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is Monkey Wrench?",
+      "accepted_answers": [
+        "A tool which resembles a pipe wrench, except for its smooth jaws. It is used to hold or turn hardware having flat surfaces, such as nuts and drain fittings. An open end or adjustable wrench may be substituted for this purpose. Invented by Charles Moncky"
+      ],
+      "explanation_short": "A tool which resembles a pipe wrench, except for its smooth jaws. It is used to hold or turn hardware having flat surfaces, such as nuts and drain fittings. An open end or adjustab",
+      "explanation_long": "A tool which resembles a pipe wrench, except for its smooth jaws. It is used to hold or turn hardware having flat surfaces, such as nuts and drain fittings. An open end or adjustable wrench may be substituted for this purpose. Invented by Charles Moncky",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-bf7f168446e6",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? For tightening taps without isolating the water supply. Adjustable jaws allow for access to both the pipe union nut and the tap back nut with the same spanner. Double-ended design allows use on all standard sink and bath nuts",
+      "accepted_answers": [
+        "Jaw Dropper Wrench"
+      ],
+      "explanation_short": "Jaw Dropper Wrench",
+      "explanation_long": "Jaw Dropper Wrench: For tightening taps without isolating the water supply. Adjustable jaws allow for access to both the pipe union nut and the tap back nut with the same spanner. Double-ended design allows use on all standard sink and bath nuts",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-3fdc5a553820",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is Strap Wrench?",
+      "accepted_answers": [
+        "This is used for any polished pipes particularly plastic or synthetic and this walled or plated which are relatively soft or may be scratched or crushed by a wrench with serrated jaws. It has a long nylon strap which gives a tight grip"
+      ],
+      "explanation_short": "This is used for any polished pipes particularly plastic or synthetic and this walled or plated which are relatively soft or may be scratched or crushed by a wrench with serrated j",
+      "explanation_long": "This is used for any polished pipes particularly plastic or synthetic and this walled or plated which are relatively soft or may be scratched or crushed by a wrench with serrated jaws. It has a long nylon strap which gives a tight grip",
+      "tags": [
+        "practical-problems",
+        "law-summary",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-81bc70b692b8",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is UST Wrench?",
+      "accepted_answers": [
+        "this is an innovative wrench specifically designed to allow quick, easy removal and installation of all steel rise piping on underground storage tanks. It features an adjustable chain vise that quickly mounts to 3 to 4 inches riser pipes and nipples, submersible pump housing, leak detection device on submersible pumps and 4 to 2 inches reduces. It is operable in confined spaces (as small as 14 inches diameter); ideal for use in spill containment reservoirs and manholes",
+        "this is an innovative wrench specifically designed to allow quick, easy removal and installation of all steel rise piping on underground storage tanks. It features an adjustable chain vise that quickly mounts to 3 to 4 inches riser pipes and nipples, submersible pump housing, leak detection device on submersible pumps and 4 to 2 inches reduces. It is operable in confined spaces; ideal for use in spill containment reservoirs and manholes"
+      ],
+      "explanation_short": "this is an innovative wrench specifically designed to allow quick, easy removal and installation of all steel rise piping on underground storage tanks. It features an adjustable ch",
+      "explanation_long": "this is an innovative wrench specifically designed to allow quick, easy removal and installation of all steel rise piping on underground storage tanks. It features an adjustable chain vise that quickly mounts to 3 to 4 inches riser pipes and nipples, submersible pump housing, leak detection device on submersible pumps and 4 to 2 inches reduces. It is operable in confined spaces (as small as 14 inches diameter); ideal for use in spill containment reservoirs and manholes",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-aa7fc2837cab",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is Torque Wrench?",
+      "accepted_answers": [
+        "A type of wrench used in No hub soil pipe installation. It is used to ensure tight, leak free joints. The drive tightness with a fast ratchet until the wrench clicks for an accurate 60-pound torque for every application"
+      ],
+      "explanation_short": "A type of wrench used in No hub soil pipe installation. It is used to ensure tight, leak free joints. The drive tightness with a fast ratchet until the wrench clicks for an accurat",
+      "explanation_long": "A type of wrench used in No hub soil pipe installation. It is used to ensure tight, leak free joints. The drive tightness with a fast ratchet until the wrench clicks for an accurate 60-pound torque for every application",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c42e1b4e51a7",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? A type of wrench used to install or extract 1 through 2 inches nipples. It is composed of serrated slotted disks of different diameters attached to a shaft, these disks expand by eccentric action and provide tight grip between the interior walls of the pipe and the disk. This is used to hold closet spuds and bath, basin and sink strainers with a diameter up to 2 inches",
+      "accepted_answers": [
+        "Internal Wrench —"
+      ],
+      "explanation_short": "Internal Wrench —",
+      "explanation_long": "Internal Wrench —: A type of wrench used to install or extract 1 through 2 inches nipples. It is composed of serrated slotted disks of different diameters attached to a shaft, these disks expand by eccentric action and provide tight grip between the interior walls of the pipe and the disk. This is used to hold closet spuds and bath, basin and sink strainers with a diameter up to 2 inches",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-3843c7fd4c04",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? A wrench with a hexagonal jaw which is multi-side, used to provide a secure grip on all hexagonal nuts, square nuts, unions, and valve packing nuts. The extra-wide opening offset is ideal for securing drain nut on sinks and tubs",
+      "accepted_answers": [
+        "Hex Wrench —"
+      ],
+      "explanation_short": "Hex Wrench —",
+      "explanation_long": "Hex Wrench —: A wrench with a hexagonal jaw which is multi-side, used to provide a secure grip on all hexagonal nuts, square nuts, unions, and valve packing nuts. The extra-wide opening offset is ideal for securing drain nut on sinks and tubs",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e9e5a3fdd681",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is Allen Wrench?",
+      "accepted_answers": [
+        "A wrench screws with hexagonally shaped recess in its head"
+      ],
+      "explanation_short": "A wrench screws with hexagonally shaped recess in its head",
+      "explanation_long": "A wrench screws with hexagonally shaped recess in its head",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-9f2a9416e332",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? This is used to remove faucet valve seat",
+      "accepted_answers": [
+        "Valve Seat Wrench"
+      ],
+      "explanation_short": "Valve Seat Wrench",
+      "explanation_long": "Valve Seat Wrench: This is used to remove faucet valve seat",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-edc8ef436dd0",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is Closet Wrench?",
+      "accepted_answers": [
+        "A tool designed to fasten the closet seat to the closet bowl"
+      ],
+      "explanation_short": "A tool designed to fasten the closet seat to the closet bowl",
+      "explanation_long": "A tool designed to fasten the closet seat to the closet bowl",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0f611b95e77d",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? and Definition Page 2 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 2 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.2",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5f54bf268f1c",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? r Sink wrench- This wrench has a swiveling jaw that enables a plumber to reach into places not easily accessible with conventional wrenches. One of the primary uses of this type of wrench is to loosen and tighten nuts that hold faucets, but the tool might be adapted for other close-fit applications",
+      "accepted_answers": [
+        "Basin Wrench"
+      ],
+      "explanation_short": "Basin Wrench",
+      "explanation_long": "Basin Wrench: r Sink wrench- This wrench has a swiveling jaw that enables a plumber to reach into places not easily accessible with conventional wrenches. One of the primary uses of this type of wrench is to loosen and tighten nuts that hold faucets, but the tool might be adapted for other close-fit applications",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-40832c546d11",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is Packing Nut Socket Wrenches?",
+      "accepted_answers": [
+        "These are available in sets and fir nearly all tub, tub and shower valves. They are hexagonal on both ends and hollow core to fit over faucet stem handles. Their importance lie on the fact that faucet valve packing nuts and stem assemblies are brass; If the workman uses an open-ended or adjustable wrench, strong pressure may warp or break the nut thimble. These are practically impossible to replace without tearing out the walls"
+      ],
+      "explanation_short": "These are available in sets and fir nearly all tub, tub and shower valves. They are hexagonal on both ends and hollow core to fit over faucet stem handles. Their importance lie on ",
+      "explanation_long": "These are available in sets and fir nearly all tub, tub and shower valves. They are hexagonal on both ends and hollow core to fit over faucet stem handles. Their importance lie on the fact that faucet valve packing nuts and stem assemblies are brass; If the workman uses an open-ended or adjustable wrench, strong pressure may warp or break the nut thimble. These are practically impossible to replace without tearing out the walls",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-b4d5c4f71f0d",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? A tool used to tighten the nut that secures the basket to the sink",
+      "accepted_answers": [
+        "Basket Strainer Wrench —"
+      ],
+      "explanation_short": "Basket Strainer Wrench —",
+      "explanation_long": "Basket Strainer Wrench —: A tool used to tighten the nut that secures the basket to the sink",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a9271c72ee6a",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What is Chain Wrench/ Chain Tong?",
+      "accepted_answers": [
+        "a type of wrench having a sprocket chain that is slipped a \\round a pipe and then attached to the wrench handle"
+      ],
+      "explanation_short": "a type of wrench having a sprocket chain that is slipped a \\round a pipe and then attached to the wrench handle",
+      "explanation_long": "a type of wrench having a sprocket chain that is slipped a \\round a pipe and then attached to the wrench handle",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-a2c4a60e6384",
+      "topic": "Practical Problems",
+      "subtopic": "Terms",
+      "prompt": "What term matches this definition? and Definition Page 3 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 3 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.3",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5c485235dad5",
+      "topic": "Practical Problems",
+      "subtopic": "Compound Leverage Wrench",
+      "prompt": "What term matches this definition? and Definition Page 4 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 4 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "compound-leverage-wrench",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.4 | Compound Leverage Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-be27d18d0c7c",
+      "topic": "Practical Problems",
+      "subtopic": "Wrench",
+      "prompt": "What term matches this definition? and Definition Page 5 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 5 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "wrench",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.5 | Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-14dd85e69c7e",
+      "topic": "Practical Problems",
+      "subtopic": "Allen Wrench",
+      "prompt": "What is the equivalent of A mee?",
+      "accepted_answers": [
+        "\\ @"
+      ],
+      "explanation_short": "\\ @",
+      "explanation_long": "A mee = \\ @",
+      "tags": [
+        "practical-problems",
+        "conversion",
+        "allen-wrench",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.6 | Allen Wrench",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-daec592bb039",
+      "topic": "Practical Problems",
+      "subtopic": "Crawfoot",
+      "prompt": "What term matches this definition? and Definition Page 6 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 6 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "crawfoot",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.6 | Crawfoot",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7ce33c1b7ed0",
+      "topic": "Practical Problems",
+      "subtopic": "Chain Whrench Or Chain",
+      "prompt": "What term matches this definition? and Definition Page 7 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 7 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "chain-whrench-or-chain",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.7 | Chain Whrench Or Chain",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-22048e95b267",
+      "topic": "Practical Problems",
+      "subtopic": "Consultancy",
+      "prompt": "What term matches this definition? A hand tool for cutting or tubing; one end of the tool, which partially encircles the pipe carries one or more sharp wheels, the cutting edge of the wheels is forced against the pipe by a screw on the other end of the tool; cutting us done by rotating the tool around the pipe progressively",
+      "accepted_answers": [
+        "Pipe Cutter/Tube Cutter —",
+        "Pipe Cutter",
+        "Tube Cutter —"
+      ],
+      "explanation_short": "Pipe Cutter/Tube Cutter —",
+      "explanation_long": "Pipe Cutter/Tube Cutter —: A hand tool for cutting or tubing; one end of the tool, which partially encircles the pipe carries one or more sharp wheels, the cutting edge of the wheels is forced against the pipe by a screw on the other end of the tool; cutting us done by rotating the tool around the pipe progressively",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.8 | Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e78a9dca7228",
+      "topic": "Practical Problems",
+      "subtopic": "Mini Tube Cutter",
+      "prompt": "What term matches this definition? and Definition Page 8 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 8 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "mini-tube-cutter",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.8 | Mini Tube Cutter",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-826b219312cc",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes Educa",
+      "prompt": "What is Hacksaw?",
+      "accepted_answers": [
+        "A tool for cutting plastic and metal pipes. It use blades with 16 teeth per inch for saving 1/8 to % inch tubing and thin-walled pipe",
+        "A tool for cutting plastic and metal pipes. It use blades with 16 teeth per inch for saving 1",
+        "8 to % inch tubing and thin-walled pipe"
+      ],
+      "explanation_short": "A tool for cutting plastic and metal pipes. It use blades with 16 teeth per inch for saving 1/8 to % inch tubing and thin-walled pipe",
+      "explanation_long": "A tool for cutting plastic and metal pipes. It use blades with 16 teeth per inch for saving 1/8 to % inch tubing and thin-walled pipe",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "rjes-educa",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Rjes Educa",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8f55ca841f28",
+      "topic": "Practical Problems",
+      "subtopic": "Rjes Educa",
+      "prompt": "What term matches this definition? A tool used to make watertight joints between flexible copper tubing and fitting or valve. The end of the tubing is slipped into yoke and a countersunk compressor screw is slowly tightened forming a bell- shaped tube end",
+      "accepted_answers": [
+        "Flaring Tool —"
+      ],
+      "explanation_short": "Flaring Tool —",
+      "explanation_long": "Flaring Tool —: A tool used to make watertight joints between flexible copper tubing and fitting or valve. The end of the tubing is slipped into yoke and a countersunk compressor screw is slowly tightened forming a bell- shaped tube end",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "rjes-educa",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Rjes Educa",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1fa6c9806c94",
+      "topic": "Practical Problems",
+      "subtopic": "Type Of Flaring Tool",
+      "prompt": "What term matches this definition? and Screw Type Flaring Tool",
+      "accepted_answers": [
+        "1. Hammer Type Flaring Tool Yoke"
+      ],
+      "explanation_short": "1. Hammer Type Flaring Tool Yoke",
+      "explanation_long": "1. Hammer Type Flaring Tool Yoke: and Screw Type Flaring Tool",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "type-of-flaring-tool",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Type Of Flaring Tool",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-27d39d0e7c6e",
+      "topic": "Practical Problems",
+      "subtopic": "Type Of Flaring Tool",
+      "prompt": "What term matches this definition? A tool usually made from carbon steel. Pipe taps are used to create a threading system inside a hollow pipe. It is used to create internal threads or to rethread metal piping and fittings, or other metal fabricated objects. These taps can be used with aluminum, brass, copper, or steel",
+      "accepted_answers": [
+        "Pipe Tap —"
+      ],
+      "explanation_short": "Pipe Tap —",
+      "explanation_long": "Pipe Tap —: A tool usually made from carbon steel. Pipe taps are used to create a threading system inside a hollow pipe. It is used to create internal threads or to rethread metal piping and fittings, or other metal fabricated objects. These taps can be used with aluminum, brass, copper, or steel",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "type-of-flaring-tool",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Type Of Flaring Tool",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-53b3547ba59d",
+      "topic": "Practical Problems",
+      "subtopic": "Pipe Threader",
+      "prompt": "What term matches this definition? and Definition Page 9 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 9 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "pipe-threader",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.9 | Pipe Threader",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-2474b115716d",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? A tapered bit having sharp, spiral fluted edges along the shaft; Used to enlarge an opening, or remove burrs from the inside of a pipe especially after cutting etc",
+      "accepted_answers": [
+        "Pipe Reamer —"
+      ],
+      "explanation_short": "Pipe Reamer —",
+      "explanation_long": "Pipe Reamer —: A tapered bit having sharp, spiral fluted edges along the shaft; Used to enlarge an opening, or remove burrs from the inside of a pipe especially after cutting etc",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-1ea80ec6ab8b",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? A type of pipe reamer used to remove the internal and external burrs of a pipe that had resulted from cutting; usually applicable on plastic and ther thin-walled pipe or tubing",
+      "accepted_answers": [
+        "Combination Pipe Reamer —"
+      ],
+      "explanation_short": "Combination Pipe Reamer —",
+      "explanation_long": "Combination Pipe Reamer —: A type of pipe reamer used to remove the internal and external burrs of a pipe that had resulted from cutting; usually applicable on plastic and ther thin-walled pipe or tubing",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8c0bb94c3b67",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? a tool used to remove broken threaded ends of pipe, plugs, fittings, etc",
+      "accepted_answers": [
+        "Pipe Extractor"
+      ],
+      "explanation_short": "Pipe Extractor",
+      "explanation_long": "Pipe Extractor: a tool used to remove broken threaded ends of pipe, plugs, fittings, etc",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-18ac98534a72",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What is Tube Bender?",
+      "accepted_answers": [
+        "a tool used to bend flexible copper tubing without distortion"
+      ],
+      "explanation_short": "a tool used to bend flexible copper tubing without distortion",
+      "explanation_long": "a tool used to bend flexible copper tubing without distortion",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e8990101d15c",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? a tool used to straighten or to expand flexible pipe, especially lead pipe",
+      "accepted_answers": [
+        "Bending Iron"
+      ],
+      "explanation_short": "Bending Iron",
+      "explanation_long": "Bending Iron: a tool used to straighten or to expand flexible pipe, especially lead pipe",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-0ca6852a0d22",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? f a number of pins in a set in a staggered arrangement in a block which are used in bending iron or lead pipe",
+      "accepted_answers": [
+        "Bending Pin- one"
+      ],
+      "explanation_short": "Bending Pin- one",
+      "explanation_long": "Bending Pin- one: f a number of pins in a set in a staggered arrangement in a block which are used in bending iron or lead pipe",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-dedfd598ce1c",
+      "topic": "Practical Problems",
+      "subtopic": "Bender",
+      "prompt": "What term matches this definition? and Definition Page 10 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 10 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "bender",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.10 | Bender",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4fc900933483",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? a hand-operated, single stage expander used to expand tubing such as copper, aluminum and soft steel tube",
+      "accepted_answers": [
+        "Tube Expander"
+      ],
+      "explanation_short": "Tube Expander",
+      "explanation_long": "Tube Expander: a hand-operated, single stage expander used to expand tubing such as copper, aluminum and soft steel tube",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7e78df52ca50",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? a vise for holding pipe or tubing during cutting or threading operations; the pipe is held in a V- shaped serrated jaws or (for larger pipes) bye chains",
+      "accepted_answers": [
+        "Pipe Vise"
+      ],
+      "explanation_short": "Pipe Vise",
+      "explanation_long": "Pipe Vise: a vise for holding pipe or tubing during cutting or threading operations; the pipe is held in a V- shaped serrated jaws or (for larger pipes) bye chains",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d68af5ad6bbc",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "prompt": "What term matches this definition? it has internal legs and tray hat folds in for easy carrying and set-up large vise base overhangs front legs for clear tool swing; it has complete slots for hanging plumbing tools, has pipe rest and three pipe benders and ceiling base crew",
+      "accepted_answers": [
+        "1. Portable Tri-stand chain vise"
+      ],
+      "explanation_short": "1. Portable Tri-stand chain vise",
+      "explanation_long": "1. Portable Tri-stand chain vise: it has internal legs and tray hat folds in for easy carrying and set-up large vise base overhangs front legs for clear tool swing; it has complete slots for hanging plumbing tools, has pipe rest and three pipe benders and ceiling base crew",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-030ec55166d4",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "prompt": "What term matches this definition? and base are made of strong, dependable iron. It has hardened alloy steel jaws and convenient pipe rest and bender",
+      "accepted_answers": [
+        "2. Bench Yoke Vice- yoke"
+      ],
+      "explanation_short": "2. Bench Yoke Vice- yoke",
+      "explanation_long": "2. Bench Yoke Vice- yoke: and base are made of strong, dependable iron. It has hardened alloy steel jaws and convenient pipe rest and bender",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-85067efef11f",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "prompt": "What term matches this definition? it has crank handle on base, rugged cast iron base has jaws of hardened alloy steel with handy pipe rest, pipe bender. Toothless jaws and neoprene coated to prevent scratching of pipe",
+      "accepted_answers": [
+        "3. Bench chain Vise"
+      ],
+      "explanation_short": "3. Bench chain Vise",
+      "explanation_long": "3. Bench chain Vise: it has crank handle on base, rugged cast iron base has jaws of hardened alloy steel with handy pipe rest, pipe bender. Toothless jaws and neoprene coated to prevent scratching of pipe",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-72e91fc8c36d",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "prompt": "What term matches this definition? a handy stand chain vise is made of sturdy cast iron frame with allows steel jaws. It is equipped with pipe rest, pipe bender and tool tray",
+      "accepted_answers": [
+        "4. Stand Chain Vise"
+      ],
+      "explanation_short": "4. Stand Chain Vise",
+      "explanation_long": "4. Stand Chain Vise: a handy stand chain vise is made of sturdy cast iron frame with allows steel jaws. It is equipped with pipe rest, pipe bender and tool tray",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-05f9f3f5ad88",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "prompt": "What term matches this definition? and Yoke Vise- a light, strong, portable post chain vise which fits any kind of post. It is equipped with tray for oil can and handy pipe bender",
+      "accepted_answers": [
+        "5. Portable Chain"
+      ],
+      "explanation_short": "5. Portable Chain",
+      "explanation_long": "5. Portable Chain: and Yoke Vise- a light, strong, portable post chain vise which fits any kind of post. It is equipped with tray for oil can and handy pipe bender",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-98fc889d0b33",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "prompt": "What is 6. Pipe Welding Vise?",
+      "accepted_answers": [
+        "made of durable performance-proven material and designed to resist strain, heat and warping during tacking. Machine swivel nuts and pins together with special chain screws give smooth and trouble- free assembling of vise onto pipe"
+      ],
+      "explanation_short": "made of durable performance-proven material and designed to resist strain, heat and warping during tacking. Machine swivel nuts and pins together with special chain screws give smo",
+      "explanation_long": "made of durable performance-proven material and designed to resist strain, heat and warping during tacking. Machine swivel nuts and pins together with special chain screws give smooth and trouble- free assembling of vise onto pipe",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ed6526662b56",
+      "topic": "Practical Problems",
+      "subtopic": "Types Of Vises",
+      "prompt": "What term matches this definition? and Definition Page 11 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 11 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "types-of-vises",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.11 | Types Of Vises",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-6a87fba73edd",
+      "topic": "Practical Problems",
+      "subtopic": "Flange Pipe Welding Vise",
+      "prompt": "What term matches this definition? and Definition Page 12 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 12 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "flange-pipe-welding-vise",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.12 | Flange Pipe Welding Vise",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-7a264e1f88a0",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? a chisel with a cutting edge formed of tempered steel, used for cutting metal especially cast iron",
+      "accepted_answers": [
+        "Cut-off Chisel"
+      ],
+      "explanation_short": "Cut-off Chisel",
+      "explanation_long": "Cut-off Chisel: a chisel with a cutting edge formed of tempered steel, used for cutting metal especially cast iron",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f4cc9538c6a6",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What term matches this definition? a chisel-like tool used to pack and compress hemp rope into the bell of a cast iron pipe for the purpose of making a joint",
+      "accepted_answers": [
+        "Yarning Iron"
+      ],
+      "explanation_short": "Yarning Iron",
+      "explanation_long": "Yarning Iron: a chisel-like tool used to pack and compress hemp rope into the bell of a cast iron pipe for the purpose of making a joint",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8f3984144237",
+      "topic": "Practical Problems",
+      "subtopic": "Offset Yarning Iron Outside)",
+      "prompt": "What is Caulking Iron- used upon pouring of molten lead to ensure air bubbles in the material are removed and provide a leak- free joint?",
+      "accepted_answers": [
+        "Long curved offset Iron (square end)",
+        "Long curved offset Iron"
+      ],
+      "explanation_short": "Long curved offset Iron (square end)",
+      "explanation_long": "Long curved offset Iron (square end)",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "offset-yarning-iron-outside",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Offset Yarning Iron Outside)",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-597143868256",
+      "topic": "Practical Problems",
+      "subtopic": "Runner",
+      "prompt": "What is Pick-out iron?",
+      "accepted_answers": [
+        "has a diamond- shaped flat point; it is used to remove the lead and oakum from a joint"
+      ],
+      "explanation_short": "has a diamond- shaped flat point; it is used to remove the lead and oakum from a joint",
+      "explanation_long": "has a diamond- shaped flat point; it is used to remove the lead and oakum from a joint",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "runner",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | Runner",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c98b587be5c8",
+      "topic": "Practical Problems",
+      "subtopic": "S Type Caulking Iron",
+      "prompt": "What term matches this definition? and Definition Page 13 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 13 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "s-type-caulking-iron",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.13 | S Type Caulking Iron",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-69b7862c21a3",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What is Cold Chisel?",
+      "accepted_answers": [
+        "a chisel used for cutting metal"
+      ],
+      "explanation_short": "a chisel used for cutting metal",
+      "explanation_long": "a chisel used for cutting metal",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-85666bd67b4d",
+      "topic": "Practical Problems",
+      "subtopic": "Nal Consultancy",
+      "prompt": "What is Flat File?",
+      "accepted_answers": [
+        "a steel hand tool with small sharp teeth on some or alll its surfaces; used for smoothing wood or metal"
+      ],
+      "explanation_short": "a steel hand tool with small sharp teeth on some or alll its surfaces; used for smoothing wood or metal",
+      "explanation_long": "a steel hand tool with small sharp teeth on some or alll its surfaces; used for smoothing wood or metal",
+      "tags": [
+        "practical-problems",
+        "reference",
+        "nal-consultancy",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Nal Consultancy",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-41fee410e487",
+      "topic": "Practical Problems",
+      "subtopic": "Toilet Plunger Accordion Plunger = Ajr Operated",
+      "prompt": "What term matches this definition? TO NON-RJES REVIEWEE IS STRICTLY PROHIBITED. GOOD LUCK SA REVIEW, MASTERS!",
+      "accepted_answers": [
+        "SHARING OUR REFERENCES"
+      ],
+      "explanation_short": "SHARING OUR REFERENCES",
+      "explanation_long": "SHARING OUR REFERENCES: TO NON-RJES REVIEWEE IS STRICTLY PROHIBITED. GOOD LUCK SA REVIEW, MASTERS!",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "toilet-plunger-accordion-plunger-ajr-operated",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Toilet Plunger Accordion Plunger = Ajr Operated",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-4a4639e08d4f",
+      "topic": "Practical Problems",
+      "subtopic": "Toilet Plunger Accordion Plunger = Ajr Operated",
+      "prompt": "What term matches this definition? and Definition Page 14 of 14",
+      "accepted_answers": [
+        "PRACTICAL PROBLEMS Tools: Figures"
+      ],
+      "explanation_short": "PRACTICAL PROBLEMS Tools: Figures",
+      "explanation_long": "PRACTICAL PROBLEMS Tools: Figures: and Definition Page 14 of 14",
+      "tags": [
+        "practical-problems",
+        "definition",
+        "toilet-plunger-accordion-plunger-ajr-operated",
+        "terms-numbers",
+        "terms-numbers__practical-problem-terms",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "PRACTICAL PROBLEM TERMS.pdf | p.14 | Toilet Plunger Accordion Plunger = Ajr Operated",
+      "quality_flag": "review"
+    }
+  ]
+}

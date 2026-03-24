@@ -1,0 +1,693 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 16
+    },
+    "notes": [],
+    "source_slug": "tables__astm-nfpa",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\1. ASTM-NFPA.pdf",
+    "material_group": "tables",
+    "converter": "facts",
+    "generated_at": "2026-03-21T13:09:33.651219+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "Reference extraction needs filtering before publication"
+    ]
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-a579ae031f7d",
+      "topic": "Codes and Standards",
+      "subtopic": "A",
+      "front": "What is Ferrous Metal?",
+      "back": "and Products (Carbon Steel,Alloy",
+      "explanation_short": "and Products (Carbon Steel,Alloy",
+      "explanation_long": "and Products (Carbon Steel,Alloy",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "a",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.1 | A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-1cc8bfd3df75",
+      "topic": "Codes and Standards",
+      "subtopic": "A252",
+      "front": "What is Standard Specification?",
+      "back": "for Welded and",
+      "explanation_short": "for Welded and",
+      "explanation_long": "for Welded and",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "a252",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.1 | A252",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7c30a6ea610d",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard Specification For Hubless Cast Iron",
+      "front": "What is Soil Pipe?",
+      "back": "and Fittings for Sanitary and Storm",
+      "explanation_short": "and Fittings for Sanitary and Storm",
+      "explanation_long": "and Fittings for Sanitary and Storm",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-specification-for-hubless-cast-iron",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.2 | Standard Specification For Hubless Cast Iron",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-82e8dcb466c2",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard Specification For Polybutylene",
+      "front": "What is (PB) Plastic Hot?",
+      "back": "and Cold-Water Distribution",
+      "explanation_short": "and Cold-Water Distribution",
+      "explanation_long": "and Cold-Water Distribution",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-specification-for-polybutylene",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard Specification For Polybutylene",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5e2f8485e3aa",
+      "topic": "Codes and Standards",
+      "subtopic": "Fire Code",
+      "front": "What is Standard for Commissioning?",
+      "back": "f Fire Protection",
+      "explanation_short": "f Fire Protection",
+      "explanation_long": "f Fire Protection",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "fire-code",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Fire Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d7c274caf184",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard On Carbon Dioxide Extinguishing",
+      "front": "What is System?",
+      "back": "Standard for the Installation of Sprinkler Systems",
+      "explanation_short": "Standard for the Installation of Sprinkler Systems",
+      "explanation_long": "Standard for the Installation of Sprinkler Systems",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-on-carbon-dioxide-extinguishing",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard On Carbon Dioxide Extinguishing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b5ad6ac6cc7e",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard On Carbon Dioxide Extinguishing",
+      "front": "What is Standard for?",
+      "back": "the Installation of Standpipe and",
+      "explanation_short": "the Installation of Standpipe and",
+      "explanation_long": "the Installation of Standpipe and",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-on-carbon-dioxide-extinguishing",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard On Carbon Dioxide Extinguishing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-72e765a977a9",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard For Wet Chemical Fire Extinguishing",
+      "front": "What is Systems?",
+      "back": "Standard for the Installation of Stationary Pumps",
+      "explanation_short": "Standard for the Installation of Stationary Pumps",
+      "explanation_long": "Standard for the Installation of Stationary Pumps",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-for-wet-chemical-fire-extinguishing",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard For Wet Chemical Fire Extinguishing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-361f2a380637",
+      "topic": "Codes and Standards",
+      "subtopic": "For Fire Protection",
+      "front": "What is Standard for?",
+      "back": "the Installation of Private Fire",
+      "explanation_short": "the Installation of Private Fire",
+      "explanation_long": "the Installation of Private Fire",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "for-fire-protection",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | For Fire Protection",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ad8e1b01c65d",
+      "topic": "Codes and Standards",
+      "subtopic": "For Fire Protection",
+      "front": "What is Service Mains?",
+      "back": "and their Appurtenances",
+      "explanation_short": "and their Appurtenances",
+      "explanation_long": "and their Appurtenances",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "for-fire-protection",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | For Fire Protection",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b450b91603d8",
+      "topic": "Codes and Standards",
+      "subtopic": "Codes And Standards",
+      "front": "What is Standard for?",
+      "back": "the Inspection, Testing, and",
+      "explanation_short": "the Inspection, Testing, and",
+      "explanation_long": "the Inspection, Testing, and",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f9919f022576",
+      "topic": "Codes and Standards",
+      "subtopic": "Fire Protection For Electronic Data Processing",
+      "front": "What is Equipment?",
+      "back": "Standard for the Fire Protection of",
+      "explanation_short": "Standard for the Fire Protection of",
+      "explanation_long": "Standard for the Fire Protection of",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "fire-protection-for-electronic-data-processing",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Fire Protection For Electronic Data Processing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8b3ab68c0279",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "front": "What is Standard for Emergency?",
+      "back": "and Standby Power",
+      "explanation_short": "and Standby Power",
+      "explanation_long": "and Standby Power",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-ad00bbe2b8e4",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "front": "What is Systems?",
+      "back": "Standard for Fire Safety and Emergency",
+      "explanation_short": "Standard for Fire Safety and Emergency",
+      "explanation_long": "Standard for Fire Safety and Emergency",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b11c68063d8b",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "front": "What is Symbols?",
+      "back": "Standard on Types of Building Construction",
+      "explanation_short": "Standard on Types of Building Construction",
+      "explanation_long": "Standard on Types of Building Construction",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-0a9fe76f28ff",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "front": "What is Standard for?",
+      "back": "the Installation of Carbon Monoxide (CO) Detection and Warning Equipment",
+      "explanation_short": "the Installation of Carbon Monoxide (CO) Detection and Warning Equipment",
+      "explanation_long": "the Installation of Carbon Monoxide (CO) Detection and Warning Equipment",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": [
+    {
+      "id": "id-f7b20468fb2d",
+      "topic": "Codes and Standards",
+      "subtopic": "A",
+      "prompt": "What term matches this definition? and Products (Carbon Steel,Alloy",
+      "accepted_answers": [
+        "Ferrous Metal"
+      ],
+      "explanation_short": "Ferrous Metal",
+      "explanation_long": "Ferrous Metal: and Products (Carbon Steel,Alloy",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "a",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.1 | A",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-3f53610df88d",
+      "topic": "Codes and Standards",
+      "subtopic": "A252",
+      "prompt": "What term matches this definition? for Welded and",
+      "accepted_answers": [
+        "Standard Specification"
+      ],
+      "explanation_short": "Standard Specification",
+      "explanation_long": "Standard Specification: for Welded and",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "a252",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.1 | A252",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-077c41827e8b",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard Specification For Hubless Cast Iron",
+      "prompt": "What term matches this definition? and Fittings for Sanitary and Storm",
+      "accepted_answers": [
+        "Soil Pipe"
+      ],
+      "explanation_short": "Soil Pipe",
+      "explanation_long": "Soil Pipe: and Fittings for Sanitary and Storm",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-specification-for-hubless-cast-iron",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.2 | Standard Specification For Hubless Cast Iron",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-69873e14aec4",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard Specification For Polybutylene",
+      "prompt": "What term matches this definition? and Cold-Water Distribution",
+      "accepted_answers": [
+        "(PB) Plastic Hot",
+        "Plastic Hot"
+      ],
+      "explanation_short": "(PB) Plastic Hot",
+      "explanation_long": "(PB) Plastic Hot: and Cold-Water Distribution",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-specification-for-polybutylene",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard Specification For Polybutylene",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ef820fcc3bf2",
+      "topic": "Codes and Standards",
+      "subtopic": "Fire Code",
+      "prompt": "What term matches this definition? f Fire Protection",
+      "accepted_answers": [
+        "Standard for Commissioning"
+      ],
+      "explanation_short": "Standard for Commissioning",
+      "explanation_long": "Standard for Commissioning: f Fire Protection",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "fire-code",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Fire Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f6e19851ec74",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard On Carbon Dioxide Extinguishing",
+      "prompt": "What term matches this definition? Standard for the Installation of Sprinkler Systems",
+      "accepted_answers": [
+        "System"
+      ],
+      "explanation_short": "System",
+      "explanation_long": "System: Standard for the Installation of Sprinkler Systems",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-on-carbon-dioxide-extinguishing",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard On Carbon Dioxide Extinguishing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-94974b2c7843",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard On Carbon Dioxide Extinguishing",
+      "prompt": "What term matches this definition? the Installation of Standpipe and",
+      "accepted_answers": [
+        "Standard for"
+      ],
+      "explanation_short": "Standard for",
+      "explanation_long": "Standard for: the Installation of Standpipe and",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-on-carbon-dioxide-extinguishing",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard On Carbon Dioxide Extinguishing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-07a9eff6d397",
+      "topic": "Codes and Standards",
+      "subtopic": "Standard For Wet Chemical Fire Extinguishing",
+      "prompt": "What term matches this definition? Standard for the Installation of Stationary Pumps",
+      "accepted_answers": [
+        "Systems"
+      ],
+      "explanation_short": "Systems",
+      "explanation_long": "Systems: Standard for the Installation of Stationary Pumps",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "standard-for-wet-chemical-fire-extinguishing",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | Standard For Wet Chemical Fire Extinguishing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-eaf31e1072c0",
+      "topic": "Codes and Standards",
+      "subtopic": "For Fire Protection",
+      "prompt": "What term matches this definition? the Installation of Private Fire",
+      "accepted_answers": [
+        "Standard for"
+      ],
+      "explanation_short": "Standard for",
+      "explanation_long": "Standard for: the Installation of Private Fire",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "for-fire-protection",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | For Fire Protection",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5af2add53177",
+      "topic": "Codes and Standards",
+      "subtopic": "For Fire Protection",
+      "prompt": "What term matches this definition? and their Appurtenances",
+      "accepted_answers": [
+        "Service Mains"
+      ],
+      "explanation_short": "Service Mains",
+      "explanation_long": "Service Mains: and their Appurtenances",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "for-fire-protection",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.3 | For Fire Protection",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-01fc9d1c1270",
+      "topic": "Codes and Standards",
+      "subtopic": "Codes And Standards",
+      "prompt": "What term matches this definition? the Inspection, Testing, and",
+      "accepted_answers": [
+        "Standard for"
+      ],
+      "explanation_short": "Standard for",
+      "explanation_long": "Standard for: the Inspection, Testing, and",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5e1623d1c67b",
+      "topic": "Codes and Standards",
+      "subtopic": "Fire Protection For Electronic Data Processing",
+      "prompt": "What term matches this definition? Standard for the Fire Protection of",
+      "accepted_answers": [
+        "Equipment"
+      ],
+      "explanation_short": "Equipment",
+      "explanation_long": "Equipment: Standard for the Fire Protection of",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "fire-protection-for-electronic-data-processing",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Fire Protection For Electronic Data Processing",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e249df844982",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "prompt": "What term matches this definition? and Standby Power",
+      "accepted_answers": [
+        "Standard for Emergency"
+      ],
+      "explanation_short": "Standard for Emergency",
+      "explanation_long": "Standard for Emergency: and Standby Power",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-26c5b09712c7",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "prompt": "What term matches this definition? Standard for Fire Safety and Emergency",
+      "accepted_answers": [
+        "Systems"
+      ],
+      "explanation_short": "Systems",
+      "explanation_long": "Systems: Standard for Fire Safety and Emergency",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-bc7578af1a0a",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "prompt": "What term matches this definition? Standard on Types of Building Construction",
+      "accepted_answers": [
+        "Symbols"
+      ],
+      "explanation_short": "Symbols",
+      "explanation_long": "Symbols: Standard on Types of Building Construction",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-96d674896f7a",
+      "topic": "Codes and Standards",
+      "subtopic": "Life Safety Code",
+      "prompt": "What term matches this definition? the Installation of Carbon Monoxide (CO) Detection and Warning Equipment",
+      "accepted_answers": [
+        "Standard for"
+      ],
+      "explanation_short": "Standard for",
+      "explanation_long": "Standard for: the Installation of Carbon Monoxide (CO) Detection and Warning Equipment",
+      "tags": [
+        "codes-and-standards",
+        "definition",
+        "life-safety-code",
+        "tables",
+        "tables__astm-nfpa",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "1. ASTM-NFPA.pdf | p.4 | Life Safety Code",
+      "quality_flag": "review"
+    }
+  ]
+}

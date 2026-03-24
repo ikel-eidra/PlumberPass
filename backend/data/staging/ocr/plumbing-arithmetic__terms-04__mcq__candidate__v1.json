@@ -1,0 +1,1450 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 7,
+      "probable": 24
+    },
+    "notes": [
+      "OCR-heavy question bank."
+    ],
+    "source_slug": "plumbing-arithmetic__terms-04",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\PLUMBING ARITHMETIC-20260126T193107Z-3-001\\PA - TERMS 4.pdf",
+    "material_group": "plumbing-arithmetic",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:07:46.969954+00:00",
+    "classification": "ocr_queue",
+    "classification_reasons": [
+      "Source notes mark this file as OCR-heavy"
+    ]
+  },
+  "questions": [
+    {
+      "id": "plumbing-arithmetic__terms-04-q001",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The equation y = a1 + a2x isan algebraic expression of a .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Straight Line"
+        },
+        {
+          "label": "B",
+          "text": "Hyperbola"
+        },
+        {
+          "label": "C",
+          "text": "Polar Coordinate of a Circle"
+        },
+        {
+          "label": "D",
+          "text": "Fibonacci Series"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer highlight not detected automatically.",
+      "explanation_long": "Answer highlight not detected automatically.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#1 | pages 1-2",
+      "quality_flag": "review",
+      "source_pages": [
+        1,
+        2
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No red highlight rectangle matched a choice row on the paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q002",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The equation y = a1 + a2x isan algebraic expression of a .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Instantaneous Speed"
+        },
+        {
+          "label": "B",
+          "text": "Hyperbola"
+        },
+        {
+          "label": "C",
+          "text": "Polar Coordinate of a Circle"
+        },
+        {
+          "label": "D",
+          "text": "Fibonacci Series"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer highlight not detected automatically.",
+      "explanation_long": "Answer highlight not detected automatically.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#2 | pages 3-4",
+      "quality_flag": "review",
+      "source_pages": [
+        3,
+        4
+      ],
+      "extraction_methods": [
+        "direct",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "No red highlight rectangle matched a choice row on the paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q003",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The speedometer in your car tells you the of your car.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Instantaneous Speed"
+        },
+        {
+          "label": "B",
+          "text": "Acceleration"
+        },
+        {
+          "label": "C",
+          "text": "Acceleration"
+        },
+        {
+          "label": "D",
+          "text": "Direction"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer highlight not detected automatically.",
+      "explanation_long": "Answer highlight not detected automatically.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#3 | pages 5-6",
+      "quality_flag": "review",
+      "source_pages": [
+        5,
+        6
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "No red highlight rectangle matched a choice row on the paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q004",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "To report the of an object, we must specify both its speed and its direction.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixed Assets"
+        },
+        {
+          "label": "B",
+          "text": "Acceleration"
+        },
+        {
+          "label": "C",
+          "text": "Frozen Assets"
+        },
+        {
+          "label": "D",
+          "text": "Current Assets"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer highlight not detected automatically.",
+      "explanation_long": "Answer highlight not detected automatically.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#4 | pages 7-8",
+      "quality_flag": "review",
+      "source_pages": [
+        7,
+        8
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No red highlight rectangle matched a choice row on the paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q005",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "Lands, buildings, plant and machinery are example of .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angle of Elevation"
+        },
+        {
+          "label": "B",
+          "text": "Angle of Depression"
+        },
+        {
+          "label": "C",
+          "text": "Perspective Angle"
+        },
+        {
+          "label": "D",
+          "text": "Current Assets"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer highlight not detected automatically.",
+      "explanation_long": "Answer highlight not detected automatically.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#5 | pages 9-10",
+      "quality_flag": "review",
+      "source_pages": [
+        9,
+        10
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No red highlight rectangle matched a choice row on the paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q006",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "An angle that measures from the horizontal upward to an object.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angle of Elevation"
+        },
+        {
+          "label": "B",
+          "text": "Angle of Depression"
+        },
+        {
+          "label": "C",
+          "text": "Perspective Angle"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer highlight not detected automatically.",
+      "explanation_long": "Answer highlight not detected automatically.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#6 | pages 11-12",
+      "quality_flag": "review",
+      "source_pages": [
+        11,
+        12
+      ],
+      "extraction_methods": [
+        "direct",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "No red highlight rectangle matched a choice row on the paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q007",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The of an object on the Earth’s surface are directly proportional to each other.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mass and weight"
+        },
+        {
+          "label": "B",
+          "text": "Speed and Velocity"
+        },
+        {
+          "label": "C",
+          "text": "Speed and Weight"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer highlight not detected automatically.",
+      "explanation_long": "Answer highlight not detected automatically.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#7 | pages 13-14",
+      "quality_flag": "review",
+      "source_pages": [
+        13,
+        14
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No red highlight rectangle matched a choice row on the paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q008",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "Bernoulli’s principle explains why…",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liquid rises in a drinking straw"
+        },
+        {
+          "label": "B",
+          "text": "Dead fish float"
+        },
+        {
+          "label": "C",
+          "text": "A hot air balloon rises"
+        },
+        {
+          "label": "D",
+          "text": "Airplanes fly"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for Bernoulli’s principle explains why….",
+      "explanation_long": "Detected from highlighted answer slide for Bernoulli’s principle explains why….",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#8 | pages 16-17",
+      "quality_flag": "probable",
+      "source_pages": [
+        16,
+        17
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q009",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Hard",
+      "prompt": "It describes the size or quantity of the collections of objects like 1,2,3….1000 and so on & so forth.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardinal Number"
+        },
+        {
+          "label": "B",
+          "text": "Exponent"
+        },
+        {
+          "label": "C",
+          "text": "Ordinal Number"
+        },
+        {
+          "label": "D",
+          "text": "Logarithm"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for It describes the size or quantity of the collections of objects like 1,2,3….1000 and so on & so forth..",
+      "explanation_long": "Detected from highlighted answer slide for It describes the size or quantity of the collections of objects like 1,2,3….1000 and so on & so forth..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#9 | pages 18-19",
+      "quality_flag": "probable",
+      "source_pages": [
+        18,
+        19
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q010",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "It is the sum of real and imaginary numbers which expressed in “x+yi”",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Imaginary Numbers"
+        },
+        {
+          "label": "B",
+          "text": "Complex number"
+        },
+        {
+          "label": "C",
+          "text": "Irrational Number"
+        },
+        {
+          "label": "D",
+          "text": "Rational Number"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for It is the sum of real and imaginary numbers which expressed in “x+yi”.",
+      "explanation_long": "Detected from highlighted answer slide for It is the sum of real and imaginary numbers which expressed in “x+yi”.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#10 | pages 20-21",
+      "quality_flag": "probable",
+      "source_pages": [
+        20,
+        21
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q011",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "Is the number that cannot be expressed into ratio of two integers.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Imaginary Numbers"
+        },
+        {
+          "label": "B",
+          "text": "Complex number"
+        },
+        {
+          "label": "C",
+          "text": "Irrational Number"
+        },
+        {
+          "label": "D",
+          "text": "Rational Number"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for Is the number that cannot be expressed into ratio of two integers..",
+      "explanation_long": "Detected from highlighted answer slide for Is the number that cannot be expressed into ratio of two integers..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#11 | pages 22-23",
+      "quality_flag": "probable",
+      "source_pages": [
+        22,
+        23
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q012",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "Is any positive integer (excluding 1) having no integral factors other than itself and unity.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rational Number"
+        },
+        {
+          "label": "B",
+          "text": "Complex Number"
+        },
+        {
+          "label": "C",
+          "text": "Imaginary Number"
+        },
+        {
+          "label": "D",
+          "text": "Prime Number"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for Is any positive integer (excluding 1) having no integral factors other than itself and unity..",
+      "explanation_long": "Detected from highlighted answer slide for Is any positive integer (excluding 1) having no integral factors other than itself and unity..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#12 | pages 24-25",
+      "quality_flag": "probable",
+      "source_pages": [
+        24,
+        25
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q013",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "What do you call this laws or properties of equality in algebra, (x+y) + z = x + (y+z)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Associative Law of Multiplication"
+        },
+        {
+          "label": "B",
+          "text": "Commutative Law of Multiplication"
+        },
+        {
+          "label": "C",
+          "text": "Commutative Law of Addition"
+        },
+        {
+          "label": "D",
+          "text": "Associative Law of Addition"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, (x+y) + z = x + (y+z).",
+      "explanation_long": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, (x+y) + z = x + (y+z).",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#13 | pages 26-27",
+      "quality_flag": "probable",
+      "source_pages": [
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q014",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "What do you call this laws or properties of equality in algebra, (xy)z = x(yz) ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Associative Law of Multiplication"
+        },
+        {
+          "label": "B",
+          "text": "Commutative Law of Multiplication"
+        },
+        {
+          "label": "C",
+          "text": "Commutative Law of Addition"
+        },
+        {
+          "label": "D",
+          "text": "Associative Law of Addition"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, (xy)z = x(yz) .",
+      "explanation_long": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, (xy)z = x(yz) .",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#14 | pages 28-29",
+      "quality_flag": "probable",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q015",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "What do you call this laws or properties of equality in algebra, x + 0 =? x",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additive Inverse Property"
+        },
+        {
+          "label": "B",
+          "text": "Inverse Property"
+        },
+        {
+          "label": "C",
+          "text": "Additive Identity Property"
+        },
+        {
+          "label": "D",
+          "text": "Symmetric Property"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, x + 0 =? x.",
+      "explanation_long": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, x + 0 =? x.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#15 | pages 30-31",
+      "quality_flag": "probable",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q016",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "What do you call this laws or properties of equality in algebra, x =? x",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additive Inverse Property"
+        },
+        {
+          "label": "B",
+          "text": "Reflexive Property"
+        },
+        {
+          "label": "C",
+          "text": "Symmetric Property"
+        },
+        {
+          "label": "D",
+          "text": "Additive Identity Property"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, x =? x.",
+      "explanation_long": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, x =? x.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#16 | pages 32-33",
+      "quality_flag": "probable",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q017",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "What do you call this laws or properties of equality in algebra, x = y and y =? x",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additive Symmetric Property"
+        },
+        {
+          "label": "B",
+          "text": "Additive Identity Property"
+        },
+        {
+          "label": "C",
+          "text": "Reflective Property"
+        },
+        {
+          "label": "D",
+          "text": "Symmetric Property"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, x = y and y =? x.",
+      "explanation_long": "Detected from highlighted answer slide for What do you call this laws or properties of equality in algebra, x = y and y =? x.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#17 | pages 34-35",
+      "quality_flag": "probable",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q018",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "Itisa sequence of numbers in which the reciprocals form an arithmetic progression.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Harmonic Progression"
+        },
+        {
+          "label": "B",
+          "text": "Geometric Progression"
+        },
+        {
+          "label": "C",
+          "text": "Arithmetic Progression"
+        },
+        {
+          "label": "D",
+          "text": "Combination"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for Itisa sequence of numbers in which the reciprocals form an arithmetic progression..",
+      "explanation_long": "Detected from highlighted answer slide for Itisa sequence of numbers in which the reciprocals form an arithmetic progression..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#18 | pages 36-37",
+      "quality_flag": "probable",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q019",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "It is an ordered arrangement of any element ina set.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Statistics"
+        },
+        {
+          "label": "B",
+          "text": "Permutation"
+        },
+        {
+          "label": "C",
+          "text": "Combination"
+        },
+        {
+          "label": "D",
+          "text": "Probability"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for It is an ordered arrangement of any element ina set..",
+      "explanation_long": "Detected from highlighted answer slide for It is an ordered arrangement of any element ina set..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#19 | pages 38-39",
+      "quality_flag": "probable",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q020",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "It is an equation when the number of equations is less than the number of unknown.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Number Theory"
+        },
+        {
+          "label": "B",
+          "text": "Quadratic Equation"
+        },
+        {
+          "label": "C",
+          "text": "Diophantine Equation"
+        },
+        {
+          "label": "D",
+          "text": "Darsho’s Equation"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for It is an equation when the number of equations is less than the number of unknown..",
+      "explanation_long": "Detected from highlighted answer slide for It is an equation when the number of equations is less than the number of unknown..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#20 | pages 40-41",
+      "quality_flag": "probable",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q021",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "It is the space between intersecting rays or lines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angle"
+        },
+        {
+          "label": "B",
+          "text": "Sides"
+        },
+        {
+          "label": "C",
+          "text": "Segment"
+        },
+        {
+          "label": "D",
+          "text": "Chord"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for It is the space between intersecting rays or lines.",
+      "explanation_long": "Detected from highlighted answer slide for It is the space between intersecting rays or lines.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#21 | pages 42-43",
+      "quality_flag": "probable",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q022",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "It occurs when a decrease in the selling price produces a less than proportionate increase in sales",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral Monopoly"
+        },
+        {
+          "label": "B",
+          "text": "Unitary elasticity of demand"
+        },
+        {
+          "label": "C",
+          "text": "Elastic demand"
+        },
+        {
+          "label": "D",
+          "text": "Inelastic demand"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for It occurs when a decrease in the selling price produces a less than proportionate increase in sales.",
+      "explanation_long": "Detected from highlighted answer slide for It occurs when a decrease in the selling price produces a less than proportionate increase in sales.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#22 | pages 44-45",
+      "quality_flag": "probable",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q023",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The study of motion without reference to the forces which causes motion is known as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Physics"
+        },
+        {
+          "label": "B",
+          "text": "Kinematics"
+        },
+        {
+          "label": "C",
+          "text": "Statics"
+        },
+        {
+          "label": "D",
+          "text": "Dynamics"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for The study of motion without reference to the forces which causes motion is known as:.",
+      "explanation_long": "Detected from highlighted answer slide for The study of motion without reference to the forces which causes motion is known as:.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#23 | pages 46-47",
+      "quality_flag": "probable",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q024",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The point through which the resultant of the distributed gravity force passes regardless of the orientation of the body in space is known as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inertia"
+        },
+        {
+          "label": "B",
+          "text": "Center of Gravity"
+        },
+        {
+          "label": "C",
+          "text": "Poles"
+        },
+        {
+          "label": "D",
+          "text": "Moment of Intertia"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for The point through which the resultant of the distributed gravity force passes regardless of the orientation of the body in space is known as:.",
+      "explanation_long": "Detected from highlighted answer slide for The point through which the resultant of the distributed gravity force passes regardless of the orientation of the body in space is known as:.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#24 | pages 48-49",
+      "quality_flag": "probable",
+      "source_pages": [
+        48,
+        49
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q025",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "A square which can be dissected into a number of smaller squares with no to equal.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perfect Cube"
+        },
+        {
+          "label": "B",
+          "text": "Trinomial"
+        },
+        {
+          "label": "C",
+          "text": "Square Trinomial"
+        },
+        {
+          "label": "D",
+          "text": "Perfect Square"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for A square which can be dissected into a number of smaller squares with no to equal..",
+      "explanation_long": "Detected from highlighted answer slide for A square which can be dissected into a number of smaller squares with no to equal..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#25 | pages 50-51",
+      "quality_flag": "probable",
+      "source_pages": [
+        50,
+        51
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q026",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The path of the projectile",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parabola"
+        },
+        {
+          "label": "B",
+          "text": "Ellipse"
+        },
+        {
+          "label": "C",
+          "text": "Circular"
+        },
+        {
+          "label": "D",
+          "text": "Hyperbola"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for The path of the projectile.",
+      "explanation_long": "Detected from highlighted answer slide for The path of the projectile.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#26 | pages 52-53",
+      "quality_flag": "probable",
+      "source_pages": [
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q027",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "Heat transmission carried by the movement of heated fluids away from a hot body, as in the heating of water by a hot surface.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conduction"
+        },
+        {
+          "label": "B",
+          "text": "Convection"
+        },
+        {
+          "label": "C",
+          "text": "Radiation"
+        },
+        {
+          "label": "D",
+          "text": "Evaporation"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for Heat transmission carried by the movement of heated fluids away from a hot body, as in the heating of water by a hot surface..",
+      "explanation_long": "Detected from highlighted answer slide for Heat transmission carried by the movement of heated fluids away from a hot body, as in the heating of water by a hot surface..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#27 | pages 54-55",
+      "quality_flag": "probable",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q028",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "The amount received from the sale of an additional unit of a product.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Marginal Return"
+        },
+        {
+          "label": "B",
+          "text": "Marginal Utility"
+        },
+        {
+          "label": "C",
+          "text": "Marginal Cost"
+        },
+        {
+          "label": "D",
+          "text": "Marginal Revenue"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for The amount received from the sale of an additional unit of a product..",
+      "explanation_long": "Detected from highlighted answer slide for The amount received from the sale of an additional unit of a product..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#28 | pages 56-57",
+      "quality_flag": "probable",
+      "source_pages": [
+        56,
+        57
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q029",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "A change in position, specified by a length and a direction.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Displacement"
+        },
+        {
+          "label": "B",
+          "text": "Speed"
+        },
+        {
+          "label": "C",
+          "text": "Instantaneous Speed"
+        },
+        {
+          "label": "D",
+          "text": "Forces"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for A change in position, specified by a length and a direction..",
+      "explanation_long": "Detected from highlighted answer slide for A change in position, specified by a length and a direction..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#29 | pages 58-59",
+      "quality_flag": "probable",
+      "source_pages": [
+        58,
+        59
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q030",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "An accounting book where the original record of all transactions is ordinarily recorded.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Record Book"
+        },
+        {
+          "label": "B",
+          "text": "Logbook"
+        },
+        {
+          "label": "C",
+          "text": "Journal"
+        },
+        {
+          "label": "D",
+          "text": "Credit Card"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for An accounting book where the original record of all transactions is ordinarily recorded..",
+      "explanation_long": "Detected from highlighted answer slide for An accounting book where the original record of all transactions is ordinarily recorded..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#30 | pages 60-61",
+      "quality_flag": "probable",
+      "source_pages": [
+        60,
+        61
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-04-q031",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 4",
+      "difficulty": "Easy",
+      "prompt": "In analytic geometry that if the line is inclined right, the slope (m) is?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive"
+        },
+        {
+          "label": "B",
+          "text": "Negative"
+        },
+        {
+          "label": "C",
+          "text": "Zero"
+        },
+        {
+          "label": "D",
+          "text": "Infinity"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for In analytic geometry that if the line is inclined right, the slope (m) is.",
+      "explanation_long": "Detected from highlighted answer slide for In analytic geometry that if the line is inclined right, the slope (m) is.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-04"
+      ],
+      "source_ref": "PA - TERMS 4.pdf | Q#31 | pages 62-63",
+      "quality_flag": "probable",
+      "source_pages": [
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

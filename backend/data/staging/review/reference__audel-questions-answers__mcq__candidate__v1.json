@@ -1,0 +1,1355 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 32
+    },
+    "notes": [
+      "Large text-native question bank."
+    ],
+    "source_slug": "reference__audel-questions-answers",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf",
+    "material_group": "reference-books",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:15:45.444358+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "MCQ bank still has too many unresolved answers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "reference__audel-questions-answers-q001",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "The question clearly states that you are newly appointed. Would it not be wise to perform whatever duties you are assigned in the best possible manner? In this way, you would not only use the opportu- nity to become acquainted with procedures, but also to demonstrate your abilities. Choice (c) suggests a course of action that will beneﬁt you and the location in which you are working. That is because it will get needed work done. Now drop choice (b) and retain choice",
+      "choices": [
+        {
+          "label": "A",
+          "text": "pprentice plumbers. Choice (c), when compared to choice (d), is far better and, therefore, should be selected as the best choice."
+        },
+        {
+          "label": "C",
+          "text": "onsider another multiple choice question: An off-duty police ofﬁcer in civilian clothes is riding in the rear of a city bus and notices two teenage boys tampering with the rear emergency door. The most appropriate action for the ofﬁcer to take would be to ."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#1 | pages 27",
+      "quality_flag": "review",
+      "source_pages": [
+        27
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q002",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Water distribution pipe is classiﬁed into four categories. Which of the following is not one of them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lead"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Plastic"
+        },
+        {
+          "label": "D",
+          "text": "Brass"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#2 | pages 34",
+      "quality_flag": "review",
+      "source_pages": [
+        34
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q003",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "What is the BOCA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "British Overseas Aircraft Company"
+        },
+        {
+          "label": "B",
+          "text": "Broadband on all cars"
+        },
+        {
+          "label": "C",
+          "text": "Building Ofﬁcials and Code Administration"
+        },
+        {
+          "label": "D",
+          "text": "Building Ofﬁces and Code Alterations"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#3 | pages 34",
+      "quality_flag": "review",
+      "source_pages": [
+        34
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q004",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Which of the following is a type of corrosion that a plumber should know about?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concentrated cell corrosion"
+        },
+        {
+          "label": "B",
+          "text": "Acid corrosion"
+        },
+        {
+          "label": "C",
+          "text": "Degenerative corrosion"
+        },
+        {
+          "label": "D",
+          "text": "Just plain corrosion Copper pipe is classiﬁed into four categories. Which of these is not one of them?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#4 | pages 35",
+      "quality_flag": "review",
+      "source_pages": [
+        35
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q005",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Underground drainage and vent pipe can be made of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brass"
+        },
+        {
+          "label": "B",
+          "text": "Buildings with plumbing ﬁxtures and devices shall be pro- vided with a supply of water in sufﬁcient volume and to enable them to operate in a satisfactory manner at all times."
+        },
+        {
+          "label": "C",
+          "text": "Concrete"
+        },
+        {
+          "label": "D",
+          "text": "Plastic"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#5 | pages 35",
+      "quality_flag": "review",
+      "source_pages": [
+        35
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q006",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Medium",
+      "prompt": "6 Chapter 1 Galvanic action/galvanic corrosion is caused by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The galvanizing action during the application of a zinc coat- ing of steel."
+        },
+        {
+          "label": "B",
+          "text": "The plating action of unlike metals."
+        },
+        {
+          "label": "C",
+          "text": "Two dissimilar metals coming in contact with a liquid or electrolyte covering them."
+        },
+        {
+          "label": "D",
+          "text": "Two acids and galvanic steel being mixed."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#6 | pages 36",
+      "quality_flag": "review",
+      "source_pages": [
+        36
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q007",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Mathematics 47 Which of these symbols is used to indicate square root?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "X"
+        },
+        {
+          "label": "B",
+          "text": "÷ √"
+        },
+        {
+          "label": "D",
+          "text": "±"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#7 | pages 77",
+      "quality_flag": "review",
+      "source_pages": [
+        77
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q008",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "In addition to common math symbols, the plumber should be familiar with the diameter, degrees, square feet, and square inch. Which of the following symbols represents square feet?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "′"
+        },
+        {
+          "label": "B",
+          "text": "≤"
+        },
+        {
+          "label": "C",
+          "text": "∅"
+        },
+        {
+          "label": "D",
+          "text": "∇ Cubic measure is used to represent ."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#8 | pages 77",
+      "quality_flag": "review",
+      "source_pages": [
+        77
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q009",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Medium",
+      "prompt": "48 Chapter 3 Which Greek letter is used to represent 3.1416?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "φ"
+        },
+        {
+          "label": "B",
+          "text": "Finding the volume of a solid involves the of three"
+        },
+        {
+          "label": "C",
+          "text": "µ"
+        },
+        {
+          "label": "D",
+          "text": "imensions (namely, length, breadth, and thickness)."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#9 | pages 78",
+      "quality_flag": "review",
+      "source_pages": [
+        78
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q010",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Materials and Fittings 51 4-5 Are there recommended weights and sizes for brass caulking ferrules for plumbing work installation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "nd Sizes for Brass Caulking Ferrules Pipe Size Actual Inside Diameter Length Weight 2 inches 21/4 inches 41/2 inches 1 lb, 0 oz 3 inches 31/4 inches 41/2 inches 1 lb, 12 oz 4 inches 41/4 inches 41/2 inches 2 lbs, 8 oz 4-6 What are the recommended weights and sizes for soldering bush- ings in plumbing systems? Soldering bushings for plumbing installations are recommended to be of red brass pipe or of heavy cast red brass of a standard size or of dimensions listed in Table 4-3. Table 4-3 General Recommended Weights and Sizes for Plumbing Brass Soldering Bushings Pipe Size Minimum Weight Pipe Size Minimum Weight (inches) (each per foot) (inches) (each per foot) 11/4 6 oz 21/2 1 lb, 6 oz 11/2 8 oz 3 2 lbs 2 14 oz 4 3 lbs, 8 oz 4-7 Does a minimum thickness requirement exist for water-ﬂushed toilet ﬂoor and wall ﬂanges? Recommended ﬂoor- and wall-ﬂange thickness for water-ﬂushed"
+        },
+        {
+          "label": "B",
+          "text": "rass with weights and dimensions in accordance with Table 4-2. Table 4-2 General Plumbing Code Recommended Weights"
+        },
+        {
+          "label": "C",
+          "text": "losets are that they not be less than 3/16 inch thick when cast iron"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#10 | pages 81",
+      "quality_flag": "review",
+      "source_pages": [
+        81
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q011",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "60 Chapter 4 Figure 4-16 Cast-iron elbows with side joints. Figure 4-17 Various pipe caps. 4-21 What is a piping ﬂange? Flanges (sometimes called blind ﬂanges) are cast-iron discs for",
+      "choices": [
+        {
+          "label": "B",
+          "text": "les 4-4 and 4-5 list the dimensions for standard and extra-heavy ﬂanges."
+        },
+        {
+          "label": "C",
+          "text": "losing ﬂanged ﬁttings or ﬂanged pipelines (see Figure 4-18). Ta-"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#11 | pages 90",
+      "quality_flag": "review",
+      "source_pages": [
+        90
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q012",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Medium",
+      "prompt": "92 Chapter 6 Where are plumbing traps re- quired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In all ﬂoor drains of tall build- ings."
+        },
+        {
+          "label": "B",
+          "text": "On all equipment used in the home."
+        },
+        {
+          "label": "C",
+          "text": "On a combination ﬁxture with up to two laundry trays and one sink."
+        },
+        {
+          "label": "D",
+          "text": "On dishwashers."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#12 | pages 122",
+      "quality_flag": "review",
+      "source_pages": [
+        122
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q013",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Which of these is not a trap-seal primer required installation? Figure 6-22 A pipe plug a. Kitchen sink used in bell-type pipe. b. Toilets",
+      "choices": [
+        {
+          "label": "C",
+          "text": "ourtesy General Engineering Co.) c. Drinking fountains"
+        },
+        {
+          "label": "D",
+          "text": "Garbage disposals Where are traps prohibited?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#13 | pages 122",
+      "quality_flag": "review",
+      "source_pages": [
+        122
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q014",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "How many gallons per ﬂush do most low-consumption toilets need?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.6"
+        },
+        {
+          "label": "B",
+          "text": "3.5"
+        },
+        {
+          "label": "C",
+          "text": "2.0"
+        },
+        {
+          "label": "D",
+          "text": "5.0"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#14 | pages 145",
+      "quality_flag": "review",
+      "source_pages": [
+        145
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q015",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "What do you use the strap wrench for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To remove the ﬂushometer couplings"
+        },
+        {
+          "label": "B",
+          "text": "To install the ﬂushometer couplings"
+        },
+        {
+          "label": "C",
+          "text": "To install the Optima Plus locking ring"
+        },
+        {
+          "label": "D",
+          "text": "To remove and reinstall the batteries"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#15 | pages 145",
+      "quality_flag": "review",
+      "source_pages": [
+        145
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q016",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "How are the ﬂush volume regulators identiﬁed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By their size"
+        },
+        {
+          "label": "B",
+          "text": "By their shape"
+        },
+        {
+          "label": "C",
+          "text": "By their edges"
+        },
+        {
+          "label": "D",
+          "text": "By their color"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#16 | pages 145",
+      "quality_flag": "review",
+      "source_pages": [
+        145
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q017",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "What is the light beam range in the G-2 Optima Plus when used on water closets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15 inches to 30 inches"
+        },
+        {
+          "label": "B",
+          "text": "22 inches to 42 inches"
+        },
+        {
+          "label": "C",
+          "text": "10 inches to 20 inches"
+        },
+        {
+          "label": "D",
+          "text": "32 inches to 52 inches"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#17 | pages 145",
+      "quality_flag": "review",
+      "source_pages": [
+        145
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q018",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "How many gallons per ﬂush are needed for modern urinals?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.6 gallons"
+        },
+        {
+          "label": "B",
+          "text": "1.0 gallon"
+        },
+        {
+          "label": "C",
+          "text": "1.2 gallons"
+        },
+        {
+          "label": "D",
+          "text": "5.0 gallons"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#18 | pages 146",
+      "quality_flag": "review",
+      "source_pages": [
+        146
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q019",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "What is the voltage output of the transformer made for the ﬂushometer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12 volts"
+        },
+        {
+          "label": "B",
+          "text": "24 volts"
+        },
+        {
+          "label": "C",
+          "text": "30 volts"
+        },
+        {
+          "label": "D",
+          "text": "120 volts"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#19 | pages 146",
+      "quality_flag": "review",
+      "source_pages": [
+        146
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q020",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Interceptors and Special and Indirect Plumbing Wastes 167 9-4 What are the preferable locations for installing grease intercep- tors on drainage lines?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "grease interceptor shall be placed as near as practical to the ﬁxture from which it receives its discharge, and be located outside the building if practical. Protection from freezing is required. 9-5 Must an interceptor be readily accessible for cleaning? Each interceptor must be readily accessible for cleaning and ser- vicing. Covers shall be easily removable, and when covers are se-"
+        },
+        {
+          "label": "B",
+          "text": "asin with a minimum width of 24 inches and a depth below the water level of the basin of at least 24 inches meets requirements. Fig- ure 9-10 shows a typical oil interceptor. Figure 9-11 shows an oil in- terceptor installed in a drain trench. A sediment or hair interceptor with a removable perforated copper basket having a sloping bottom is illustrated in Figure 9-12. Figure 9-13 illustrates a typical lavatory sediment or hair interceptor. 9-9 Are interceptors required for packing and bottling plants? Interceptors are required in packing and bottling plants to pre- vent discharge into the drainage system of materials that could clog"
+        },
+        {
+          "label": "C",
+          "text": "odes generally require that interceptors be installed in locations where motor vehicles are serviced and in locations where exces- sive sediment and/or hair may enter the drainage lines. For motor- servicing locations, design normally requires catch basins of the ﬁxture to be of a size to hold oil, sand, or dirt washings reach- ing the interceptor during any 10-hour period. In most instances, a"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#20 | pages 197",
+      "quality_flag": "review",
+      "source_pages": [
+        197
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q021",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Medium",
+      "prompt": "Interceptors and Special and Indirect Plumbing Wastes 173 9-14 Can waste water piping from swimming and wading pools, swimming pool scum gutters, or ﬂoor drains be directly installed into the drainage system? Wastes from swimming pools and their drainage accessories shall",
+      "choices": [
+        {
+          "label": "A",
+          "text": "sump pump is an automatic water pump that is powered by"
+        },
+        {
+          "label": "B",
+          "text": "e processed through indirect waste pipe with an approved air gap. 9-15 What is a sump pump?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#21 | pages 203",
+      "quality_flag": "review",
+      "source_pages": [
+        203
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q022",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "194 Chapter 10 10-36 What is a revent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "revent is a pipe installed speciﬁ-"
+        },
+        {
+          "label": "C",
+          "text": "ally to vent a ﬁxture trap. It connects with the vent system above the ﬁxture served by the process. 10-37 What is a plumbing code?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#22 | pages 224",
+      "quality_flag": "review",
+      "source_pages": [
+        224
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q023",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Which one of the following is not a prohibited drainage pipe ﬁtting or connection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tapping or drilling of drainage or vent piping."
+        },
+        {
+          "label": "B",
+          "text": "Fittings having a hub in the direction opposite to ﬂow."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#23 | pages 225",
+      "quality_flag": "review",
+      "source_pages": [
+        225
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q024",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "11-7 Are valve controls required for the water distribution system within the building other than that provided for the main service entrance? It is recommended that valve controls within a building be pro- vided for each hot-water tank, water closet, urinal, and lawn sprin- kler. These valves are not always required in single-family dwellings. However, in public buildings or multiple-dwelling units, a valve is recommended for control at the base of each riser, and for each",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ll water supply and distribution systems shall be provided with"
+        },
+        {
+          "label": "D",
+          "text": "ent riser. Control valves are also recommended for installation of ﬁxtures isolated from a group. On the exterior of the building, a main shutoff valve shall be installed near the street curb and gutter line. 11-8 What are the requirements, or remedy, for the suppression of noise or water pressure hazards in water distribution systems?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#24 | pages 233",
+      "quality_flag": "review",
+      "source_pages": [
+        233
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q025",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "Water Supply and Distribution 207 11-11 What is the effect of pipe friction loss in a water distribution system? The friction loss in piping is an important factor and must be taken into account when evaluating a water distribution system. The friction loss shown in Table 11-3 is based on a section of 15-year-old pipe. With reference to this table, the friction loss through any one of the pipe sizes shown for any ﬂow of water can be determined. For example, a glance at the friction loss table indicates that a discharge rate of 5 gallons per minute (gpm) through 100 feet of 1-inch iron pipe results in a friction loss of 3.25 feet. The same gpm through 100 feet of 3/4-inch pipe will result in a friction loss of 10.5 feet. From the foregoing, it will be noted that pipe friction must be taken into",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ll domestic hot-water boilers or hot-water storage tanks of the"
+        },
+        {
+          "label": "B",
+          "text": "e placed between the relief valve and a hot-water boiler."
+        },
+        {
+          "label": "C",
+          "text": "losed type shall be provided with approved safety devices that meet the current requirements of a recognized testing organization, lab- oratory, or administrative authority. Typical safety devices include the following: r A combination pressure and temperature relief valve r An individual pressure relief valve and energy cutoff device r Separate pressure relief and temperature relief valves NOTE Relief valves shall be installed at a distance of not more than 18 inches from a hot-water tank or boiler, and no shutoff valve of any type shall"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#25 | pages 237",
+      "quality_flag": "review",
+      "source_pages": [
+        237
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q026",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "What size pipe should be used to connect to a shower?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1/2 inch"
+        },
+        {
+          "label": "B",
+          "text": "Automatic and semiautomatic pump installations for water supply purposes generally employ types of pumps, all"
+        },
+        {
+          "label": "C",
+          "text": "onforming to the same general principles."
+        },
+        {
+          "label": "D",
+          "text": "1 inch"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#26 | pages 247",
+      "quality_flag": "review",
+      "source_pages": [
+        247
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q027",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "Private Sewage Treatment Facilities 225 12-11 What types of backﬁll materials are recommended for septic tank installations?",
+      "choices": [
+        {
+          "label": "B",
+          "text": "e gravel, sand, crushed limestone, or granite not exceeding No. 14 standard size material carefully tamped in place (size of materials should not exceed standard No. 14 stone and/or materials of such size that will pass a 1/2-inch screen). 12-12 Are there recommended procedures for the disposal of efﬂuent from septic tanks? It is recommended that the efﬂuent from septic tanks be disposed of by the soil absorption system, or in a manner approved by the local code administrative authority. 12-13 When should a private domestic sewage septic tank be"
+        },
+        {
+          "label": "C",
+          "text": "leaned? Tanks should be cleaned when scum or sludge occupies one-third of the tank volume. 12-14 What procedures are used for septic tank sludge disposal? Sludge from septic tanks is disposed of in accordance with the state and/or local code administrative authority (usually at a pre-"
+        },
+        {
+          "label": "D",
+          "text": "etermined site), or by discharge into a public sewerage system. If these facilities are not available, the following disposal methods are generally recommended: r By burial under 42 inches of earth at a minimum distance of 55 feet from a well or water source, and at least 550 feet from"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#27 | pages 255",
+      "quality_flag": "review",
+      "source_pages": [
+        255
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q028",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "226 Chapter 12 facilities and wheels (which allow the unit to be moved from one locality to another). 12-17 Which is considered the left side of the trailer? The left side of the trailer is considered to be that section farthest from the curb when the unit is being towed. 12-18 Are there light and ventilation requirements for trailer toilet",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ll pipe and conduit openings through ﬂoors and walls shall be sealed with permanent materials attached so as to prevent entrance of vermin and rodents. 12-20 Does a requirement exist for proper slope and alignment of horizontal drainage piping and the proper securing of pipe and ﬁxtures in residential trailers? Horizontal drainage piping shall be installed in alignment at a uniform slope of not less than 1/8 inch per foot. All piping shall be in good alignment, with provisions for contraction and expansion. In cold climates, ﬁxtures shall be securely fastened and protected"
+        },
+        {
+          "label": "C",
+          "text": "ompartments? General plumbing codes state that all trailer toilet compartments shall be provided with adequate light and ventilation facilities, par- ticularly if permanently parked. 12-19 Is rodent- and vermin-prooﬁng required for residential trailers?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#28 | pages 256",
+      "quality_flag": "review",
+      "source_pages": [
+        256
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q029",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "228 Chapter 12 12-29 Some trailer parks provide hot-water facilities. If such hot- water piping is available, what is the minimum recommended water- heater storage capacity for residential type trailers? Only approved automatic water heaters with minimum 5-gallon storage capacities are generally recommended for trailer use at trailer parks where hot-water piping is available for hookup. 12-30 Are safety devices required for trailer water heaters? Water heaters for residential trailers shall be provided with a",
+      "choices": [
+        {
+          "label": "A",
+          "text": "nd piped to permit draining to the outside of the trailer. 12-31 What is a sanitary sewer?"
+        },
+        {
+          "label": "C",
+          "text": "ombination pressure and temperature relief valve approved by a nationally recognized testing association or laboratory. Relief valves shall be installed not more than 4 inches from the top of the water heater. Water heater tanks shall be subjected to not less than a 300- pound hydrostatic pressure test. Tank outlets for draining shall be provided with shutoff valves"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#29 | pages 258",
+      "quality_flag": "review",
+      "source_pages": [
+        258
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q030",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "Plastic Pipe and Fittings 235 made of the expansion likely to be encountered over the operating range of PVC piping. (Dimensions given in Table 13-1 are only the theoretical expansion criteria for PVC piping.) 13-7 What are the underground installation procedures for plastic piping? To ensure good underground installation permanence for plastic pipe, the following procedures are recommended: Preparation of trench",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The bottom of the trench should be sloped in drainage ap- plications to ensure adequate pipe pitch (minimum of 1/8 inch per foot)."
+        },
+        {
+          "label": "B",
+          "text": "ottom for the installed pipe to rest on a 3-inch bed for up to 4-inch diameter pipe, or a 4-inch bed for up to 8-inch"
+        },
+        {
+          "label": "D",
+          "text": "iameter pipe. Initial backﬁll"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#30 | pages 265",
+      "quality_flag": "review",
+      "source_pages": [
+        265
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q031",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Hard",
+      "prompt": "250 Chapter 14 14-5 Is it necessary to test the water supply system? Water supply systems shall be tested for tightness under a water pressure of not less than 50 percent greater than the proposed-use water pressure. Only approved potable water shall be used for this test. 14-6 Are there plumbing system maintenance requirements?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "safe, sanitary operating condition at all times. 14-7 How are plumbing permits obtained?"
+        },
+        {
+          "label": "B",
+          "text": "uilding plumbing and drainage systems shall be maintained in"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#31 | pages 280",
+      "quality_flag": "review",
+      "source_pages": [
+        280
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__audel-questions-answers-q032",
+      "topic": "Plumber Examination Questions",
+      "subtopic": "AUDEL Questions and Answers",
+      "difficulty": "Easy",
+      "prompt": "License Requirements and Applications 287 Question: May I work as a plumber without a license?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "nswer: It is unlawful to act in the capacity of a plumbing"
+        },
+        {
+          "label": "C",
+          "text": "ommission. Note that in the application for journeyman plumber the exami- nation fee is $30.00. The fees are nonrefundable and nontransferable in case you don’t show up for the test. Michigan"
+        },
+        {
+          "label": "D",
+          "text": "iana Professional Licensing Agency is responsible for making sure the schools meet the state laws and rules of the Indiana Plumbing"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__audel-questions-answers"
+      ],
+      "source_ref": "7. AUDEL Questions and Answers for Plumbers Examination 4th Edition.pdf | Q#32 | pages 317",
+      "quality_flag": "review",
+      "source_pages": [
+        317
+      ],
+      "extraction_methods": [
+        "direct"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

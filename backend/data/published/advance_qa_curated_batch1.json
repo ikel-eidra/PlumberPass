@@ -1,0 +1,600 @@
+{
+  "metadata": {
+    "generator": "scripts/publish_curated_mcqs.py",
+    "generated_at": "2026-03-21T18:51:27.499466+00:00",
+    "promotion_strategy": "Manual shortlist from review_queue Advance Q&A weeks 1, 2, 3, 5, and 7",
+    "source_files": [
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-01__mcq__candidate__v1.json",
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-02__mcq__candidate__v1.json",
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-03__mcq__candidate__v1.json",
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-05__mcq__candidate__v1.json",
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-07__mcq__candidate__v1.json"
+    ],
+    "question_count": 16,
+    "notes": [
+      "Each item was manually selected from the staged review queue.",
+      "Prompt and choice text were lightly cleaned for launch-safe use.",
+      "Only four-choice questions with confirmed answer keys were included."
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-01-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 1",
+      "difficulty": "Easy",
+      "prompt": "According to ASPE, which range describes very hard water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0-75 mg/L as CaCO3"
+        },
+        {
+          "label": "B",
+          "text": "76-150 mg/L as CaCO3"
+        },
+        {
+          "label": "C",
+          "text": "151-300 mg/L as CaCO3"
+        },
+        {
+          "label": "D",
+          "text": "Over 300 mg/L as CaCO3"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "ASPE classifies water over 300 mg/L as CaCO3 as very hard.",
+      "explanation_long": "ASPE hardness categories place very hard water above 300 mg/L as calcium carbonate (CaCO3).",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-01",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 1 .pdf | Q#13 | pages 27-28",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-01-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 1",
+      "difficulty": "Easy",
+      "prompt": "Which of the following is NOT an equivalent expression for the density of water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 gram/mm3"
+        },
+        {
+          "label": "B",
+          "text": "62.4 lb/ft3"
+        },
+        {
+          "label": "C",
+          "text": "1000 kg/m3"
+        },
+        {
+          "label": "D",
+          "text": "9.81 kN/m3"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Water density is commonly expressed as 1 g/cm3, 1000 kg/m3, 62.4 lb/ft3, or 9.81 kN/m3.",
+      "explanation_long": "The exception is 1 gram/mm3. Standard equivalents for water are 1 g/cm3, 1000 kg/m3, 62.4 lb/ft3, and 9.81 kN/m3.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-01",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 1 .pdf | Q#20 | pages 41-42",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-01-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 1",
+      "difficulty": "Hard",
+      "prompt": "Plumbing fixtures classified as Class 3 are intended for:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Office"
+        },
+        {
+          "label": "B",
+          "text": "Condominium"
+        },
+        {
+          "label": "C",
+          "text": "Factory"
+        },
+        {
+          "label": "D",
+          "text": "Cinema"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Class 3 fixtures are for public or unrestricted use.",
+      "explanation_long": "The extracted classification notes that Class 3 fixtures are for public use or unrestricted use settings such as schools, terminals, comfort rooms, and similar public occupancies. A cinema fits that class.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-01",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 1 .pdf | Q#42 | pages 85-86",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-02-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "Discharge from a sump pump with 7 gpm of flow is equivalent to how many fixture units?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.936 FU"
+        },
+        {
+          "label": "B",
+          "text": "5.5 FU"
+        },
+        {
+          "label": "C",
+          "text": "21 FU"
+        },
+        {
+          "label": "D",
+          "text": "14 FU"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Continuous flow from a sump pump is rated at 2 fixture units per gpm.",
+      "explanation_long": "RNPCP Appendix guidance treats continuous flow from sump pumps and similar devices as 2 fixture units for every 1 gpm (0.063 L/s). At 7 gpm, that equals 14 fixture units.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#6 | pages 12-13",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-02-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "A pump capable of generating 150 feet of head of gasoline would provide a pressure of about:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "55.50 psig"
+        },
+        {
+          "label": "B",
+          "text": "45.50 psig"
+        },
+        {
+          "label": "C",
+          "text": "95.50 psig"
+        },
+        {
+          "label": "D",
+          "text": "60.50 psig"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Use 150 ft / 2.31 ft per psi, then multiply by gasoline specific gravity 0.70.",
+      "explanation_long": "Water pressure head converts at about 2.31 ft per psi. For gasoline, multiply by the specific gravity: (150 / 2.31) x 0.70 = about 45.5 psig.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#31 | pages 65-66",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-02-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "Which form of precipitation is sometimes called mist and consists of tiny liquid droplets about 0.1 mm to 0.5 mm in diameter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rain"
+        },
+        {
+          "label": "B",
+          "text": "Hail"
+        },
+        {
+          "label": "C",
+          "text": "Drizzle"
+        },
+        {
+          "label": "D",
+          "text": "Glaze"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Drizzle is made of very small liquid droplets, often mist-like in appearance.",
+      "explanation_long": "Drizzle refers to very small liquid water droplets, usually around 0.1 mm to 0.5 mm in diameter, which makes it finer than ordinary rain.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#34 | pages 71-72",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-02-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "When a gutter has a semi-circular bottom, what is the depth of the equivalent rectangular gutter area?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.392 x diameter"
+        },
+        {
+          "label": "B",
+          "text": "0.8862 x diameter"
+        },
+        {
+          "label": "C",
+          "text": "0.7762 x diameter"
+        },
+        {
+          "label": "D",
+          "text": "0.492 x diameter"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "The equivalent rectangular gutter depth is 0.392 times the diameter.",
+      "explanation_long": "RNPCP gutter sizing references use 0.392 x diameter as the depth of the equivalent rectangular gutter when the actual gutter bottom is semi-circular.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#40 | pages 84-85",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-03-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "If a pressure reading is 120 m of water head, what is the equivalent pressure in kPa?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1069 kPa"
+        },
+        {
+          "label": "B",
+          "text": "2717 kPa"
+        },
+        {
+          "label": "C",
+          "text": "6274 kPa"
+        },
+        {
+          "label": "D",
+          "text": "1177 kPa"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Convert head using 1 m of water head = 9.81 kPa.",
+      "explanation_long": "Multiply 120 m by 9.81 kPa per meter of water head. That gives 1177.2 kPa, which rounds to 1177 kPa.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#11 | pages 23-24",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-03-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "A closed cylindrical container is filled with a fluid that has a specific gravity of 1.7. What pressure does this fluid exert at a depth of 15 m?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "250,155 Pa"
+        },
+        {
+          "label": "B",
+          "text": "209,000 Pa"
+        },
+        {
+          "label": "C",
+          "text": "240,000 Pa"
+        },
+        {
+          "label": "D",
+          "text": "203,700 Pa"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Use P = rho x g x h with rho = 1700 kg/m3.",
+      "explanation_long": "Specific gravity 1.7 means the fluid density is 1700 kg/m3. Using P = rho x g x h gives 1700 x 9.81 x 15 = 250,155 Pa.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#14 | pages 29-30",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-03-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "If flow through a 12-inch pipe is 830 gpm, what is the velocity in feet per second?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2.35 ft/s"
+        },
+        {
+          "label": "B",
+          "text": "2.80 ft/s"
+        },
+        {
+          "label": "C",
+          "text": "3.00 ft/s"
+        },
+        {
+          "label": "D",
+          "text": "2.00 ft/s"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Use the volumetric flow relation Q = V x A.",
+      "explanation_long": "Convert 830 gpm to cubic feet per second, compute the cross-sectional area of a 12-inch pipe, and use Q = V x A. The velocity comes out to about 2.35 ft/s.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#15 | pages 31-32",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-03-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "What type of pump uses an impeller mounted on a rotating shaft to increase water velocity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gear pump"
+        },
+        {
+          "label": "B",
+          "text": "Rotary vane pump"
+        },
+        {
+          "label": "C",
+          "text": "Piston pump"
+        },
+        {
+          "label": "D",
+          "text": "Centrifugal pump"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "A centrifugal pump raises fluid velocity by spinning an impeller.",
+      "explanation_long": "Centrifugal pumps use an impeller on a rotating shaft. The impeller imparts velocity to the water, which is then converted into pressure energy.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#23 | pages 49-50-51",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-05-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Easy",
+      "prompt": "Which solder alloy is best for plumbing brazing or soldering joints in this reviewer set?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "100% alloy"
+        },
+        {
+          "label": "B",
+          "text": "95% tin, 5% alloy"
+        },
+        {
+          "label": "C",
+          "text": "50% tin, 50% alloy"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "The keyed answer in the source material is 95% tin and 5% alloy.",
+      "explanation_long": "This reviewer item keys the best solder choice as 95% tin and 5% alloy, which matches the extracted explanation in the source pages.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#31 | pages 68-69",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-05-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 5",
+      "difficulty": "Hard",
+      "prompt": "Gaskets must withstand pressure, temperature, and chemical attack. Gaskets normally should be as ____ as possible.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thin"
+        },
+        {
+          "label": "B",
+          "text": "Thick"
+        },
+        {
+          "label": "C",
+          "text": "Durable"
+        },
+        {
+          "label": "D",
+          "text": "Small"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Standard gaskets are thin so they can form an effective seal.",
+      "explanation_long": "The extracted explanation notes that most standard gaskets are about 1/16 inch or 1/8 inch thick and should be as thin as possible while still creating an effective seal.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-05",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 5.pdf | Q#47 | pages 104-105",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-07-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the minimum size of the waste pipe and trap in a CW and VS relative to the required pipe size and tailpiece size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 pipe size larger"
+        },
+        {
+          "label": "B",
+          "text": "51 mm"
+        },
+        {
+          "label": "C",
+          "text": "2 pipe sizes larger"
+        },
+        {
+          "label": "D",
+          "text": "76 mm"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "The waste pipe and trap must be at least two pipe sizes larger.",
+      "explanation_long": "RNPCP Chapter 8 requires each waste pipe and trap in any CW and VS to be at least two pipe sizes larger than the size required by code and at least two pipe sizes larger than any fixture tailpiece or connection.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#27 | pages 56-57",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-07-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the fixture unit rating of clothes washers when installed in groups of three or more?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 FU"
+        },
+        {
+          "label": "B",
+          "text": "6 FU"
+        },
+        {
+          "label": "C",
+          "text": "9 FU"
+        },
+        {
+          "label": "D",
+          "text": "10 FU"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Clothes washers in groups of three or more are rated at 6 fixture units each.",
+      "explanation_long": "The extracted RNPCP guidance states that clothes washers in groups of three or more shall be rated at six fixture units each for the common horizontal and vertical waste pipe.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#35 | pages 72-73",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-07-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "What is the water supply fixture unit (WFSU) value for a public flushometer valve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "RNPCP Table 6-5 lists a public flushometer valve at 10 WFSU.",
+      "explanation_long": "This reviewer item aligns with RNPCP Table 6-5 on equivalent water supply fixture units, where the keyed value for a public flushometer valve is 10 WFSU.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07",
+        "advance-qa-curated",
+        "launch-batch-1"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#46 | pages 95-96",
+      "quality_flag": "verified"
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

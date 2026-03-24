@@ -1,0 +1,314 @@
+{
+  "visual_review": [
+    {
+      "id": "visual__fundamentals-square",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Formulas and Figures",
+      "prompt": "Study the illustration, then name the figure before checking the answer.",
+      "answer": "Square",
+      "accepted_answers": [
+        "square"
+      ],
+      "caption": "Figure 1-1 Square",
+      "image_path": "/visual-review/fundamentals-square.png",
+      "explanation_short": "This is the square figure paired with the basic area relation A = bh.",
+      "explanation_long": "Use this card to lock in the visual shape and the way the formulas chapter labels the square before moving to similar four-sided figures.",
+      "tags": [
+        "visual-review",
+        "geometry",
+        "figure-1-1-square",
+        "fundamentals"
+      ],
+      "difficulty": 1,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.21 | Figure 1 1 Square",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-rhombus",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Formulas and Figures",
+      "prompt": "Look at the drawing and identify the geometry figure.",
+      "answer": "Rhombus",
+      "accepted_answers": [
+        "rhombus"
+      ],
+      "caption": "Figure 1-3 Rhombus",
+      "image_path": "/visual-review/fundamentals-rhombus.png",
+      "explanation_short": "The slanted four-sided figure is a rhombus.",
+      "explanation_long": "This card helps separate the rhombus from the rectangle-like and trapezium figures shown on the same reference page.",
+      "tags": [
+        "visual-review",
+        "geometry",
+        "figure-1-3-rhombus",
+        "fundamentals"
+      ],
+      "difficulty": 1,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.22 | Figure 1 3 Rhombus",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-trapezium",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Formulas and Figures",
+      "prompt": "Identify the figure shown in the illustration.",
+      "answer": "Trapezium",
+      "accepted_answers": [
+        "trapezium"
+      ],
+      "caption": "Figure 1-6 Trapezium",
+      "image_path": "/visual-review/fundamentals-trapezium.png",
+      "explanation_short": "The illustrated figure is a trapezium.",
+      "explanation_long": "Focus on the unequal top and bottom spans and the extra side labels used in the formulas page to distinguish the trapezium from simpler quadrilaterals.",
+      "tags": [
+        "visual-review",
+        "geometry",
+        "figure-1-6-trapezium",
+        "fundamentals"
+      ],
+      "difficulty": 2,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.22 | Figure 1 6 Trapezium",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-right-angle-triangle",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Formulas and Figures",
+      "prompt": "Name the triangle shown in this figure.",
+      "answer": "Right-Angle Triangle",
+      "accepted_answers": [
+        "right-angle triangle",
+        "right angle triangle",
+        "right triangle"
+      ],
+      "caption": "Figure 1-7 Right-Angle Triangle",
+      "image_path": "/visual-review/fundamentals-right-angle-triangle.png",
+      "explanation_short": "The vertical and horizontal sides identify a right-angle triangle.",
+      "explanation_long": "This card is for quick visual separation of the right-angle triangle from the isosceles triangle that appears immediately below it.",
+      "tags": [
+        "visual-review",
+        "geometry",
+        "figure-1-7-right-angle-triangle",
+        "fundamentals"
+      ],
+      "difficulty": 1,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.22 | Figure 1 7 Right Angle Triangle",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-isosceles-triangle",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Formulas and Figures",
+      "prompt": "Study the drawing and identify the triangle type.",
+      "answer": "Isosceles Triangle",
+      "accepted_answers": [
+        "isosceles triangle",
+        "isosceles"
+      ],
+      "caption": "Figure 1-8 Isosceles Triangle",
+      "image_path": "/visual-review/fundamentals-isosceles-triangle.png",
+      "explanation_short": "The centered apex and matching sloped sides mark it as an isosceles triangle.",
+      "explanation_long": "Use this visual to quickly separate the isosceles-triangle profile from the right-angle triangle on the same formulas page.",
+      "tags": [
+        "visual-review",
+        "geometry",
+        "figure-1-8-isosceles-triangle",
+        "fundamentals"
+      ],
+      "difficulty": 1,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.22 | Figure 1 8 Isosceles Triangle",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-cylinder",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Formulas and Figures",
+      "prompt": "Identify the three-dimensional figure shown.",
+      "answer": "Cylinder",
+      "accepted_answers": [
+        "cylinder"
+      ],
+      "caption": "Figure 1-10 Cylinder",
+      "image_path": "/visual-review/fundamentals-cylinder.png",
+      "explanation_short": "The figure is a cylinder with diameter and height labels.",
+      "explanation_long": "This card builds quick recognition of the cylinder drawing used with surface-area and volume relations in the arithmetic reference.",
+      "tags": [
+        "visual-review",
+        "geometry",
+        "figure-1-10-cylinder",
+        "fundamentals"
+      ],
+      "difficulty": 1,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.22 | Figure 1 10 Cylinder",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-cone",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Formulas and Figures",
+      "prompt": "Name the illustrated solid figure.",
+      "answer": "Cone",
+      "accepted_answers": [
+        "cone"
+      ],
+      "caption": "Figure 1-13 Cone",
+      "image_path": "/visual-review/fundamentals-cone.png",
+      "explanation_short": "The tapering sides and circular base identify a cone.",
+      "explanation_long": "This card sharpens recognition of the cone against the cylinder and pyramid figures found in the same formulas sequence.",
+      "tags": [
+        "visual-review",
+        "geometry",
+        "figure-1-13-cone",
+        "fundamentals"
+      ],
+      "difficulty": 1,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.22 | Figure 1 13 Cone",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-pipe-sleeve-floor-penetration",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Acoustics in Plumbing Systems",
+      "prompt": "Study the detail drawing, then name the plumbing acoustics figure.",
+      "answer": "Pipe-Sleeve Floor Penetration",
+      "accepted_answers": [
+        "pipe-sleeve floor penetration",
+        "pipe sleeve floor penetration"
+      ],
+      "caption": "Figure 10-1 Pipe-Sleeve Floor Penetration",
+      "image_path": "/visual-review/fundamentals-pipe-sleeve-floor-penetration.png",
+      "explanation_short": "This figure shows a pipe-sleeve floor penetration detail.",
+      "explanation_long": "The cue is the pipe crossing the floor slab with resilient mounting and sleeve treatment identified around the penetration.",
+      "tags": [
+        "visual-review",
+        "acoustics",
+        "figure-10-1-pipe-sleeve-floor-penetration",
+        "fundamentals"
+      ],
+      "difficulty": 2,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.219 | Figure 10 1 Pipe Sleeve Floor Penetration",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-acoustical-treatment",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Acoustics in Plumbing Systems",
+      "prompt": "Name the acoustical treatment detail shown in the illustration.",
+      "answer": "Acoustical Treatment for Pipe-Sleeve Penetration at Spaces with Inner Wall on Neoprene Isolators",
+      "accepted_answers": [
+        "acoustical treatment for pipe-sleeve penetration at spaces with inner wall on neoprene isolators",
+        "acoustical treatment for pipe sleeve penetration at spaces with inner wall on neoprene isolators",
+        "pipe-sleeve penetration with inner wall on neoprene isolators"
+      ],
+      "caption": "Figure 10-2 Acoustical Treatment for Pipe-Sleeve Penetration at Spaces with Inner Wall on Neoprene Isolators",
+      "image_path": "/visual-review/fundamentals-acoustical-treatment.png",
+      "explanation_short": "This is the acoustical treatment detail for pipe-sleeve penetration with inner wall neoprene isolators.",
+      "explanation_long": "The figure is recognized by the inner wall on neoprene isolators, sleeve packing, and resilient sway braces used to reduce transmission.",
+      "tags": [
+        "visual-review",
+        "acoustics",
+        "figure-10-2-acoustical-treatment",
+        "fundamentals"
+      ],
+      "difficulty": 3,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.219 | Figure 10 2 Acoustical Treatment for Pipe-Sleeve Penetration at Spaces with Inner Wall on Neoprene Isolators",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__fundamentals-acoustical-seals",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Acoustics in Plumbing Systems",
+      "prompt": "Identify the acoustical penetration-seal detail.",
+      "answer": "Acoustical Pipe-Penetration Seals",
+      "accepted_answers": [
+        "acoustical pipe-penetration seals",
+        "acoustical pipe penetration seals"
+      ],
+      "caption": "Figure 10-3 Acoustical Pipe-Penetration Seals",
+      "image_path": "/visual-review/fundamentals-acoustical-seals.png",
+      "explanation_short": "The illustration is the acoustical pipe-penetration seals detail.",
+      "explanation_long": "This figure shows the sealed pipe-penetration arrangement used to reduce sound transfer through wall or floor penetrations.",
+      "tags": [
+        "visual-review",
+        "acoustics",
+        "figure-10-3-acoustical-pipe-penetration-seals",
+        "fundamentals"
+      ],
+      "difficulty": 2,
+      "source_ref": "8. Fundamentals of Plumbing Engineering by ASPE.pdf | p.219 | Figure 10 3 Acoustical Pipe Penetration Seals",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__design-lavatory-installation",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Plumbing Fixtures",
+      "prompt": "Study the fixture illustration, then identify the figure.",
+      "answer": "Recommended Installation Dimensions for a Lavatory",
+      "accepted_answers": [
+        "recommended installation dimensions for a lavatory",
+        "lavatory installation dimensions",
+        "recommended lavatory installation dimensions"
+      ],
+      "caption": "Figure 1-11 Recommended Installation Dimensions for a Lavatory",
+      "image_path": "/visual-review/design-lavatory-installation.png",
+      "explanation_short": "This figure shows recommended installation dimensions for a lavatory.",
+      "explanation_long": "The cue is the lavatory elevation with drain, hot-water, and cold-water references and installation heights.",
+      "tags": [
+        "visual-review",
+        "fixtures",
+        "figure-1-11-recommended-installation",
+        "engineering-design"
+      ],
+      "difficulty": 2,
+      "source_ref": "9. Plumbing Engineering Design by ASPE.pdf | p.35 | Figure 1 11 Recommended Installation Dimensions for a Lavatory",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__design-copper-pipe-mechanical-t-joint",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Piping Systems",
+      "prompt": "Identify the piping-system image before revealing the answer.",
+      "answer": "Copper Pipe Mechanical T-Joint",
+      "accepted_answers": [
+        "copper pipe mechanical t-joint",
+        "copper pipe mechanical t joint"
+      ],
+      "caption": "Figure 2-15 Copper Pipe Mechanical T-joint",
+      "image_path": "/visual-review/design-copper-pipe-mechanical-t-joint.png",
+      "explanation_short": "The photo shows a copper pipe mechanical T-joint.",
+      "explanation_long": "This visual helps with quick recognition of the mechanically formed copper tee fitting used in the piping systems chapter.",
+      "tags": [
+        "visual-review",
+        "piping",
+        "figure-2-15-copper-pipe-mechanical-t-joint",
+        "engineering-design"
+      ],
+      "difficulty": 2,
+      "source_ref": "9. Plumbing Engineering Design by ASPE.pdf | p.85 | Figure 2 15 Copper Pipe Mechanical T-joint",
+      "quality_flag": "curated_visual"
+    },
+    {
+      "id": "visual__design-typical-steel-spring-mounting",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Acoustics and Vibration Control",
+      "prompt": "Study the illustration and identify the vibration-control figure.",
+      "answer": "Typical Steel Spring Mounting",
+      "accepted_answers": [
+        "typical steel spring mounting",
+        "steel spring mounting"
+      ],
+      "caption": "Figure 7-5 Typical Steel Spring Mounting",
+      "image_path": "/visual-review/design-typical-steel-spring-mounting.png",
+      "explanation_short": "The figure shows a typical steel spring mounting assembly.",
+      "explanation_long": "The large spring-isolator illustration is used to explain vibration control and resilient equipment support in plumbing engineering design.",
+      "tags": [
+        "visual-review",
+        "acoustics",
+        "figure-7-5-typical-steel-spring-mounting",
+        "engineering-design"
+      ],
+      "difficulty": 2,
+      "source_ref": "9. Plumbing Engineering Design by ASPE.pdf | p.174 | Figure 7 5 Typical Steel Spring Mounting",
+      "quality_flag": "curated_visual"
+    }
+  ]
+}

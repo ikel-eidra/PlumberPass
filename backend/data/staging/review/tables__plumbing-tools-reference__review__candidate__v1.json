@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 14
+    },
+    "notes": [],
+    "source_slug": "tables__plumbing-tools-reference",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\4. PLUMBING TOOLS ALL REFERENCE.pdf",
+    "material_group": "tables",
+    "converter": "facts",
+    "generated_at": "2026-03-21T13:09:48.139068+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "Reference extraction needs filtering before publication"
+    ]
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-fd8254ccf1c0",
+      "topic": "Plumbing Tools",
+      "subtopic": "Stillson Wrench",
+      "front": "What is Rapidgrip quick?",
+      "back": "ne handed operation",
+      "explanation_short": "ne handed operation",
+      "explanation_long": "ne handed operation",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "stillson-wrench",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Stillson Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-c858c6b756c8",
+      "topic": "Plumbing Tools",
+      "subtopic": "Basin Wrench Sink Wrench",
+      "front": "What is Packing nut?",
+      "back": "socket Wrenches available in sets",
+      "explanation_short": "socket Wrenches available in sets",
+      "explanation_long": "socket Wrenches available in sets",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "basin-wrench-sink-wrench",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Basin Wrench Sink Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-4457e258cf16",
+      "topic": "Plumbing Tools",
+      "subtopic": "Reversible Chain Tong",
+      "front": "What is Single ended?",
+      "back": "jaw Chain Tong extra leverage for toughest jobs",
+      "explanation_short": "jaw Chain Tong extra leverage for toughest jobs",
+      "explanation_long": "jaw Chain Tong extra leverage for toughest jobs",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "reversible-chain-tong",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Reversible Chain Tong",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-426fda607935",
+      "topic": "Plumbing Tools",
+      "subtopic": "Soil Pipe Cutter",
+      "front": "What is Hacksaw 16tpi,?",
+      "back": "for plastic and metal pipe",
+      "explanation_short": "for plastic and metal pipe",
+      "explanation_long": "for plastic and metal pipe",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "soil-pipe-cutter",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Soil Pipe Cutter",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-b93216654fd6",
+      "topic": "Plumbing Tools",
+      "subtopic": "Stand Chain Vise",
+      "front": "What is Portable chain and yoke Vise fits with any kind of post, tray for oil can and handy pipe bender?",
+      "back": "with tool tray",
+      "explanation_short": "with tool tray",
+      "explanation_long": "with tool tray",
+      "tags": [
+        "plumbing-tools",
+        "reference",
+        "stand-chain-vise",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.2 | Stand Chain Vise",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-58f31af4039c",
+      "topic": "Plumbing Tools",
+      "subtopic": "Chamber Pot",
+      "front": "What is Arinola, mompot,?",
+      "back": "jordan, jerry, guzunder, pot de chamber, piss pot, thunder pot and honey pot",
+      "explanation_short": "jordan, jerry, guzunder, pot de chamber, piss pot, thunder pot and honey pot",
+      "explanation_long": "jordan, jerry, guzunder, pot de chamber, piss pot, thunder pot and honey pot",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "chamber-pot",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 2,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Chamber Pot",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-7016225f9b5f",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "front": "What is Claw woodwork?",
+      "back": "Ball peen rounding metalworks cross peen blade like pin, perpendicular to the handle straight peen blade parallel to the handle",
+      "explanation_short": "Ball peen rounding metalworks cross peen blade like pin, perpendicular to the handle straight peen blade parallel to the handle",
+      "explanation_long": "Ball peen rounding metalworks cross peen blade like pin, perpendicular to the handle straight peen blade parallel to the handle",
+      "tags": [
+        "plumbing-tools",
+        "law-summary",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-2cf5150e020d",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "front": "What is Sledge break?",
+      "back": "up concrete, or masonry",
+      "explanation_short": "up concrete, or masonry",
+      "explanation_long": "up concrete, or masonry",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-53cc97a27065",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "front": "What is Tinner sharpened cross peen brick split bricks club light demolition curved claw finish or trim hammers deadblow absorb tremors?",
+      "back": "Engineer baby sledge hammer",
+      "explanation_short": "Engineer baby sledge hammer",
+      "explanation_long": "Engineer baby sledge hammer",
+      "tags": [
+        "plumbing-tools",
+        "reference",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 4,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-11bb3e435d16",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "front": "What is Power power?",
+      "back": "nailers, fitting nails and staples",
+      "explanation_short": "nailers, fitting nails and staples",
+      "explanation_long": "nailers, fitting nails and staples",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-5a356858ca41",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "front": "What is Hand drilling?",
+      "back": "drill steel into rock",
+      "explanation_short": "drill steel into rock",
+      "explanation_long": "drill steel into rock",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-f42773c159b3",
+      "topic": "Plumbing Tools",
+      "subtopic": "Reference",
+      "front": "What is Screwdriver?",
+      "back": "Flat head slotted screws",
+      "explanation_short": "Flat head slotted screws",
+      "explanation_long": "Flat head slotted screws",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-8af345d25b6f",
+      "topic": "Plumbing Tools",
+      "subtopic": "Smooth Jawed",
+      "front": "What is Crimping joining two pieces?",
+      "back": "f metals by deforming one or both of them",
+      "explanation_short": "f metals by deforming one or both of them",
+      "explanation_long": "f metals by deforming one or both of them",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "smooth-jawed",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.4 | Smooth Jawed",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-d625d229a1dd",
+      "topic": "Plumbing Tools",
+      "subtopic": "Cut Off Chisel",
+      "front": "What is Yarning iron to pack hemp?",
+      "back": "a chisel with cutting edge",
+      "explanation_short": "a chisel with cutting edge",
+      "explanation_long": "a chisel with cutting edge",
+      "tags": [
+        "plumbing-tools",
+        "reference",
+        "cut-off-chisel",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.4 | Cut Off Chisel",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": [
+    {
+      "id": "id-d1d7ea982462",
+      "topic": "Plumbing Tools",
+      "subtopic": "Stillson Wrench",
+      "prompt": "What term matches this definition? ne handed operation",
+      "accepted_answers": [
+        "Rapidgrip quick"
+      ],
+      "explanation_short": "Rapidgrip quick",
+      "explanation_long": "Rapidgrip quick: ne handed operation",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "stillson-wrench",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Stillson Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-52292030a375",
+      "topic": "Plumbing Tools",
+      "subtopic": "Basin Wrench Sink Wrench",
+      "prompt": "What term matches this definition? socket Wrenches available in sets",
+      "accepted_answers": [
+        "Packing nut"
+      ],
+      "explanation_short": "Packing nut",
+      "explanation_long": "Packing nut: socket Wrenches available in sets",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "basin-wrench-sink-wrench",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Basin Wrench Sink Wrench",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c2b367c38bce",
+      "topic": "Plumbing Tools",
+      "subtopic": "Reversible Chain Tong",
+      "prompt": "What term matches this definition? jaw Chain Tong extra leverage for toughest jobs",
+      "accepted_answers": [
+        "Single ended"
+      ],
+      "explanation_short": "Single ended",
+      "explanation_long": "Single ended: jaw Chain Tong extra leverage for toughest jobs",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "reversible-chain-tong",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Reversible Chain Tong",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c19f59607822",
+      "topic": "Plumbing Tools",
+      "subtopic": "Soil Pipe Cutter",
+      "prompt": "What term matches this definition? for plastic and metal pipe",
+      "accepted_answers": [
+        "Hacksaw 16tpi,"
+      ],
+      "explanation_short": "Hacksaw 16tpi,",
+      "explanation_long": "Hacksaw 16tpi,: for plastic and metal pipe",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "soil-pipe-cutter",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.1 | Soil Pipe Cutter",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-5ee8db5a21fc",
+      "topic": "Plumbing Tools",
+      "subtopic": "Stand Chain Vise",
+      "prompt": "What is Portable chain and yoke Vise fits with any kind of post, tray for oil can and handy pipe bender?",
+      "accepted_answers": [
+        "with tool tray"
+      ],
+      "explanation_short": "with tool tray",
+      "explanation_long": "with tool tray",
+      "tags": [
+        "plumbing-tools",
+        "reference",
+        "stand-chain-vise",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.2 | Stand Chain Vise",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-059b1444d560",
+      "topic": "Plumbing Tools",
+      "subtopic": "Chamber Pot",
+      "prompt": "What term matches this definition? jordan, jerry, guzunder, pot de chamber, piss pot, thunder pot and honey pot",
+      "accepted_answers": [
+        "Arinola, mompot,"
+      ],
+      "explanation_short": "Arinola, mompot,",
+      "explanation_long": "Arinola, mompot,: jordan, jerry, guzunder, pot de chamber, piss pot, thunder pot and honey pot",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "chamber-pot",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 2,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Chamber Pot",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-ce059c757174",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "prompt": "What is Claw woodwork?",
+      "accepted_answers": [
+        "Ball peen rounding metalworks cross peen blade like pin, perpendicular to the handle straight peen blade parallel to the handle"
+      ],
+      "explanation_short": "Ball peen rounding metalworks cross peen blade like pin, perpendicular to the handle straight peen blade parallel to the handle",
+      "explanation_long": "Ball peen rounding metalworks cross peen blade like pin, perpendicular to the handle straight peen blade parallel to the handle",
+      "tags": [
+        "plumbing-tools",
+        "law-summary",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 4,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c702efd9b317",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "prompt": "What term matches this definition? up concrete, or masonry",
+      "accepted_answers": [
+        "Sledge break"
+      ],
+      "explanation_short": "Sledge break",
+      "explanation_long": "Sledge break: up concrete, or masonry",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-bfde065059fb",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "prompt": "What is Tinner sharpened cross peen brick split bricks club light demolition curved claw finish or trim hammers deadblow absorb tremors?",
+      "accepted_answers": [
+        "Engineer baby sledge hammer"
+      ],
+      "explanation_short": "Engineer baby sledge hammer",
+      "explanation_long": "Engineer baby sledge hammer",
+      "tags": [
+        "plumbing-tools",
+        "reference",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 4,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-d45f3c70b860",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "prompt": "What term matches this definition? nailers, fitting nails and staples",
+      "accepted_answers": [
+        "Power power"
+      ],
+      "explanation_short": "Power power",
+      "explanation_long": "Power power: nailers, fitting nails and staples",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-f7ceced30ca8",
+      "topic": "Plumbing Tools",
+      "subtopic": "Pressure Test Pumps",
+      "prompt": "What term matches this definition? drill steel into rock",
+      "accepted_answers": [
+        "Hand drilling"
+      ],
+      "explanation_short": "Hand drilling",
+      "explanation_long": "Hand drilling: drill steel into rock",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "pressure-test-pumps",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.3 | Pressure Test Pumps",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-8f08e8ab6c3d",
+      "topic": "Plumbing Tools",
+      "subtopic": "Reference",
+      "prompt": "What term matches this definition? Flat head slotted screws",
+      "accepted_answers": [
+        "Screwdriver"
+      ],
+      "explanation_short": "Screwdriver",
+      "explanation_long": "Screwdriver: Flat head slotted screws",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.4",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-67aeb1ce6153",
+      "topic": "Plumbing Tools",
+      "subtopic": "Smooth Jawed",
+      "prompt": "What term matches this definition? f metals by deforming one or both of them",
+      "accepted_answers": [
+        "Crimping joining two pieces"
+      ],
+      "explanation_short": "Crimping joining two pieces",
+      "explanation_long": "Crimping joining two pieces: f metals by deforming one or both of them",
+      "tags": [
+        "plumbing-tools",
+        "definition",
+        "smooth-jawed",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.4 | Smooth Jawed",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-c671171a2106",
+      "topic": "Plumbing Tools",
+      "subtopic": "Cut Off Chisel",
+      "prompt": "What is Yarning iron to pack hemp?",
+      "accepted_answers": [
+        "a chisel with cutting edge"
+      ],
+      "explanation_short": "a chisel with cutting edge",
+      "explanation_long": "a chisel with cutting edge",
+      "tags": [
+        "plumbing-tools",
+        "reference",
+        "cut-off-chisel",
+        "tables",
+        "tables__plumbing-tools-reference",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "4. PLUMBING TOOLS ALL REFERENCE.pdf | p.4 | Cut Off Chisel",
+      "quality_flag": "review"
+    }
+  ]
+}

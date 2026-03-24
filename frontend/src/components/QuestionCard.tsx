@@ -1,10 +1,12 @@
-import type { PointerEvent } from "react";
+import { useRef, type PointerEvent } from "react";
 import type { Mode, Question } from "../App";
 
 interface QuestionCardProps {
   question: Question;
   mode: Mode;
   showExplanation: boolean;
+  allowExplanation?: boolean;
+  revealAnswer?: boolean;
   onToggleExplanation: () => void;
   onAnswer: (choiceLabel: string) => void;
   selectedAnswer: string | null;
@@ -15,15 +17,17 @@ interface QuestionCardProps {
 }
 
 const voiceHints: Record<Mode, string> = {
-  Voice: "Say A, B, C, D, or E. Use ‘Repeat’ or ‘Next’.",
+  Voice: "Say A-E or speak the option text itself. You can also tap the choice.",
   Screen: "Tap an option or swipe for the next question.",
-  Hybrid: "Listen + tap, or answer by voice A–E."
+  Hybrid: "Listen first, then answer by voice or by tapping the option."
 };
 
 export default function QuestionCard({
   question,
   mode,
   showExplanation,
+  allowExplanation = true,
+  revealAnswer = true,
   onToggleExplanation,
   onAnswer,
   selectedAnswer,
@@ -32,18 +36,40 @@ export default function QuestionCard({
   onSwipeUp,
   onSwipeDown
 }: QuestionCardProps) {
-  let startX = 0;
-  let startY = 0;
+  const swipeStartRef = useRef<{ x: number; y: number; tracking: boolean }>({
+    x: 0,
+    y: 0,
+    tracking: false,
+  });
+  const isAnswered = selectedAnswer !== null;
+
+  const isInteractiveTarget = (target: EventTarget | null) =>
+    target instanceof HTMLElement &&
+    Boolean(target.closest("button, a, input, select, textarea, label"));
 
   const handlePointerDown = (event: PointerEvent<HTMLElement>) => {
-    startX = event.clientX;
-    startY = event.clientY;
+    if (isInteractiveTarget(event.target)) {
+      swipeStartRef.current = { x: 0, y: 0, tracking: false };
+      return;
+    }
+
+    swipeStartRef.current = {
+      x: event.clientX,
+      y: event.clientY,
+      tracking: true,
+    };
   };
 
   const handlePointerUp = (event: PointerEvent<HTMLElement>) => {
-    const deltaX = event.clientX - startX;
-    const deltaY = event.clientY - startY;
+    if (!swipeStartRef.current.tracking || isInteractiveTarget(event.target)) {
+      swipeStartRef.current.tracking = false;
+      return;
+    }
+
+    const deltaX = event.clientX - swipeStartRef.current.x;
+    const deltaY = event.clientY - swipeStartRef.current.y;
     const threshold = 60;
+    swipeStartRef.current.tracking = false;
 
     if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > threshold) {
       if (deltaX > 0) {
@@ -80,24 +106,66 @@ export default function QuestionCard({
       </header>
 
       <div className="choices">
-        {question.choices.map((choice) => (
-          <button
-            key={choice.label}
-            type="button"
-            className={`choice ${selectedAnswer === choice.label ? "selected" : ""}`}
-            onClick={() => onAnswer(choice.label)}
-          >
-            <span className="choice-label">{choice.label}</span>
-            <span>{choice.text}</span>
-          </button>
-        ))}
+        {question.choices.map((choice) => {
+          const isSelected = selectedAnswer === choice.label;
+          const isCorrect = choice.label === question.answer_key;
+          const stateClass = isAnswered && revealAnswer
+            ? isCorrect
+              ? "is-correct"
+              : isSelected
+              ? "is-wrong"
+              : "is-muted"
+            : "";
+
+          return (
+            <button
+              key={choice.label}
+              type="button"
+              className={`choice ${isSelected ? "selected" : ""} ${stateClass}`}
+              onPointerDown={(event) => event.stopPropagation()}
+              onPointerUp={(event) => event.stopPropagation()}
+              onClick={() => onAnswer(choice.label)}
+            >
+              <span className="choice-label">{choice.label}</span>
+              <span>{choice.text}</span>
+            </button>
+          );
+        })}
       </div>
 
-      <button type="button" className="explain-toggle" onClick={onToggleExplanation}>
-        {showExplanation ? "Hide explanation" : "Explain"}
-      </button>
+      {isAnswered ? (
+        <div className="answer-reveal">
+          {revealAnswer ? (
+            <>
+              <strong>Correct answer: {question.answer_key}</strong>
+              <span>
+                {selectedAnswer === question.answer_key
+                  ? "Locked in correctly."
+                  : "Review the correction, then move to the next card."}
+              </span>
+            </>
+          ) : (
+            <>
+              <strong>Answer locked.</strong>
+              <span>Mock answers stay hidden until the pressure run is finished.</span>
+            </>
+          )}
+        </div>
+      ) : null}
 
-      {showExplanation && (
+      {allowExplanation ? (
+        <button
+          type="button"
+          className="explain-toggle"
+          onPointerDown={(event) => event.stopPropagation()}
+          onPointerUp={(event) => event.stopPropagation()}
+          onClick={onToggleExplanation}
+        >
+          {showExplanation ? "Hide explanation" : "Explain"}
+        </button>
+      ) : null}
+
+      {allowExplanation && showExplanation && (
         <div className="explanation">
           <p className="short">{question.explanation_short}</p>
           <p className="long">{question.explanation_long}</p>

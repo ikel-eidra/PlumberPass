@@ -1,0 +1,4576 @@
+{
+  "metadata": {
+    "generator": "scripts/publish_derived_mcqs.py",
+    "generated_at": "2026-03-22T08:02:59.180760+00:00",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\reference_materials_generated.json",
+    "promotion_strategy": "Derived MCQs from raw ASPE term-definition reference items",
+    "candidate_count": 123,
+    "target_count": 120,
+    "question_count": 120,
+    "deduped_against": "aspe_glossary_mcq_curated.json"
+  },
+  "questions": [
+    {
+      "id": "aspe-ref-derived__refaspealarmid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any audible or visible signal indicating the existence of any condition or operation outside a preset normal.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alarm"
+        },
+        {
+          "label": "B",
+          "text": "Aerobic"
+        },
+        {
+          "label": "C",
+          "text": "Analysis"
+        },
+        {
+          "label": "D",
+          "text": "Approved"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Alarm",
+      "explanation_long": "Alarm: Any audible or visible signal indicating the existence of any condition or operation outside a preset normal.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Alarm",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspetemperedwaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Hot and cold water mixed to obtain an intermediate temperature, generally from 80°F to 100°F (29°C to 43°C).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Turbulence"
+        },
+        {
+          "label": "B",
+          "text": "Tempered water"
+        },
+        {
+          "label": "C",
+          "text": "Bathroom group"
+        },
+        {
+          "label": "D",
+          "text": "Vitrified clay"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Tempered water",
+      "explanation_long": "Tempered water: Hot and cold water mixed to obtain an intermediate temperature, generally from 80°F to 100°F (29°C to 43°C).",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Tempered water",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspechemicalwastesystemid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Piping that conveys corrosive or harmful industrial, chemical, or processed wastes to a separate drainage system.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Construction documents"
+        },
+        {
+          "label": "B",
+          "text": "Clearwater waste"
+        },
+        {
+          "label": "C",
+          "text": "Chemical waste system"
+        },
+        {
+          "label": "D",
+          "text": "Curb box"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Chemical waste system",
+      "explanation_long": "Chemical waste system: Piping that conveys corrosive or harmful industrial, chemical, or processed wastes to a separate drainage system.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Chemical waste system",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeavailabilityofa-sewerid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The closeness of a public sewer to a building based on code requirements, generally 500 ft (151 m) or less.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Authority having jurisdiction (AHJ)"
+        },
+        {
+          "label": "B",
+          "text": "Adiabatic compression"
+        },
+        {
+          "label": "C",
+          "text": "Availability of a sewer"
+        },
+        {
+          "label": "D",
+          "text": "Activated sludge"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Availability of a sewer",
+      "explanation_long": "Availability of a sewer: The closeness of a public sewer to a building based on code requirements, generally 500 ft (151 m) or less.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Availability of a sewer",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeautoignitionid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? The temperature at which a material will ignite and sustain combustion in the absence of a spark or flame.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaerobic"
+        },
+        {
+          "label": "B",
+          "text": "Analysis"
+        },
+        {
+          "label": "C",
+          "text": "Autoignition"
+        },
+        {
+          "label": "D",
+          "text": "Approved"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Autoignition",
+      "explanation_long": "Autoignition: The temperature at which a material will ignite and sustain combustion in the absence of a spark or flame.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Autoignition",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebackpressureid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Negative pressure created by any means in the potable water distribution system which causes a potential backflow.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronzemounted"
+        },
+        {
+          "label": "B",
+          "text": "Backpressure"
+        },
+        {
+          "label": "C",
+          "text": "Backfill"
+        },
+        {
+          "label": "D",
+          "text": "Backflow"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Backpressure",
+      "explanation_long": "Backpressure: Negative pressure created by any means in the potable water distribution system which causes a potential backflow.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Backpressure",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeprecisionid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? The degree of mutual agreement between individual measurements, namely repeatability and repro ducibility.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Precision"
+        },
+        {
+          "label": "B",
+          "text": "Percolation"
+        },
+        {
+          "label": "C",
+          "text": "Putrefaction"
+        },
+        {
+          "label": "D",
+          "text": "Precipitation"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Precision",
+      "explanation_long": "Precision: The degree of mutual agreement between individual measurements, namely repeatability and repro ducibility.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Precision",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeventloopid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any vent connecting a horizontal branch or fixture drain with the stack vent of the originating waste or soil stack.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vertical pipe"
+        },
+        {
+          "label": "B",
+          "text": "Vent, loop"
+        },
+        {
+          "label": "C",
+          "text": "Vitrified clay"
+        },
+        {
+          "label": "D",
+          "text": "Velocity"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Vent, loop",
+      "explanation_long": "Vent, loop: Any vent connecting a horizontal branch or fixture drain with the stack vent of the originating waste or soil stack.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Vent, loop",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecalibrationid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Comparison of the graduation of an instrument with a standard of known accuracy to eliminate variation.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Condensate"
+        },
+        {
+          "label": "B",
+          "text": "Calibration"
+        },
+        {
+          "label": "C",
+          "text": "Cavitation"
+        },
+        {
+          "label": "D",
+          "text": "Cryogenic"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Calibration",
+      "explanation_long": "Calibration: Comparison of the graduation of an instrument with a standard of known accuracy to eliminate variation.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Calibration",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeindustrialwasteid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? All liquid or waterborne waste from industrial or commercial processes that has properties other than domestic sewage.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Induced siphonage"
+        },
+        {
+          "label": "B",
+          "text": "Industrial waste"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration"
+        },
+        {
+          "label": "D",
+          "text": "Impurity"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Industrial waste",
+      "explanation_long": "Industrial waste: All liquid or waterborne waste from industrial or commercial processes that has properties other than domestic sewage.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Industrial waste",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebronzemountedid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Where internal water contact parts of valves known as trim materials (stem, disc, seat rings, etc.) are made of bronze.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Backpressure"
+        },
+        {
+          "label": "B",
+          "text": "Bronzemounted"
+        },
+        {
+          "label": "C",
+          "text": "Backfill"
+        },
+        {
+          "label": "D",
+          "text": "Backflow"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Bronzemounted",
+      "explanation_long": "Bronzemounted: Where internal water contact parts of valves known as trim materials (stem, disc, seat rings, etc.) are made of bronze.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Bronzemounted",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeclearwaterwasteid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Clear wastewater drainage from equipment, rooms, and other areas that does not contain contaminants considered harmful.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Construction documents"
+        },
+        {
+          "label": "B",
+          "text": "Clearwater waste"
+        },
+        {
+          "label": "C",
+          "text": "Curb box"
+        },
+        {
+          "label": "D",
+          "text": "Calibration"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Clearwater waste",
+      "explanation_long": "Clearwater waste: Clear wastewater drainage from equipment, rooms, and other areas that does not contain contaminants considered harmful.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Clearwater waste",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspestopvalveid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Commonly called an angle stop, a valve used to control the water supply, usually to a single fixture.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Soil pipe"
+        },
+        {
+          "label": "B",
+          "text": "Stop valve"
+        },
+        {
+          "label": "C",
+          "text": "Super flush"
+        },
+        {
+          "label": "D",
+          "text": "Significant digit"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Stop valve",
+      "explanation_long": "Stop valve: Commonly called an angle stop, a valve used to control the water supply, usually to a single fixture.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Stop valve",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebathroomgroupid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Several plumbing fixtures located together on the same level, generally a water closet, lavatory, and shower or bathtub.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bathroom group"
+        },
+        {
+          "label": "B",
+          "text": "Black pipe"
+        },
+        {
+          "label": "C",
+          "text": "Bellandspigot joint"
+        },
+        {
+          "label": "D",
+          "text": "Bronzemounted"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Bathroom group",
+      "explanation_long": "Bathroom group: Several plumbing fixtures located together on the same level, generally a water closet, lavatory, and shower or bathtub.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Bathroom group",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeexactid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? These conversions denote the precise (or direct) conversion to the SI unit value, accurate to a number of decimal places.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erosion"
+        },
+        {
+          "label": "B",
+          "text": "Effluent"
+        },
+        {
+          "label": "C",
+          "text": "Extra heavy"
+        },
+        {
+          "label": "D",
+          "text": "Exact"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Exact",
+      "explanation_long": "Exact: These conversions denote the precise (or direct) conversion to the SI unit value, accurate to a number of decimal places.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Exact",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspehublessid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Soil piping with plain ends, with a joint consisting of a stainless steel or castiron clamp and neoprene gasket assembly.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hard"
+        },
+        {
+          "label": "B",
+          "text": "Hubless"
+        },
+        {
+          "label": "C",
+          "text": "Hub drain"
+        },
+        {
+          "label": "D",
+          "text": "Hydraulically remote"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Hubless",
+      "explanation_long": "Hubless: Soil piping with plain ends, with a joint consisting of a stainless steel or castiron clamp and neoprene gasket assembly.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Hubless",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeactivatedsludgeid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Sewage sediment, rich in destructive bacteria, that can be used to break down fresh sewage quickly.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air, compressed"
+        },
+        {
+          "label": "B",
+          "text": "Adapter fitting"
+        },
+        {
+          "label": "C",
+          "text": "Activated sludge"
+        },
+        {
+          "label": "D",
+          "text": "Air, standard"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Activated sludge",
+      "explanation_long": "Activated sludge: Sewage sediment, rich in destructive bacteria, that can be used to break down fresh sewage quickly.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Activated sludge",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeverticalpipeid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Any pipe or fitting installed in a vertical position or that makes an angle of not more than 45 degrees with the vertical.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitrified clay"
+        },
+        {
+          "label": "B",
+          "text": "Vent, loop"
+        },
+        {
+          "label": "C",
+          "text": "Vertical pipe"
+        },
+        {
+          "label": "D",
+          "text": "Velocity"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Vertical pipe",
+      "explanation_long": "Vertical pipe: Any pipe or fitting installed in a vertical position or that makes an angle of not more than 45 degrees with the vertical.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Vertical pipe",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedoublediscid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? When two wedges acting as a closure member in a gate valve are in contact with the seating faces.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Design point"
+        },
+        {
+          "label": "B",
+          "text": "Double offset"
+        },
+        {
+          "label": "C",
+          "text": "Domestic water"
+        },
+        {
+          "label": "D",
+          "text": "Double disc"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Double disc",
+      "explanation_long": "Double disc: When two wedges acting as a closure member in a gate valve are in contact with the seating faces.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Double disc",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebritishthermalunitbtuid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The amount of heat required to raise the temperature of 1 pound (0.45 kg) of water 1°F (0.565°C).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Battery of fixtures"
+        },
+        {
+          "label": "B",
+          "text": "British thermal unit (Btu)"
+        },
+        {
+          "label": "C",
+          "text": "Bellandspigot joint"
+        },
+        {
+          "label": "D",
+          "text": "Bathroom group"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "British thermal unit (Btu)",
+      "explanation_long": "British thermal unit (Btu): The amount of heat required to raise the temperature of 1 pound (0.45 kg) of water 1°F (0.565°C).",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | British thermal unit (Btu)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeadapterfittingid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any fitting that mates or connects two pipes or fittings of different size, material, or design.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air, compressed"
+        },
+        {
+          "label": "B",
+          "text": "Activated sludge"
+        },
+        {
+          "label": "C",
+          "text": "Air, standard"
+        },
+        {
+          "label": "D",
+          "text": "Adapter fitting"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Adapter fitting",
+      "explanation_long": "Adapter fitting: Any fitting that mates or connects two pipes or fittings of different size, material, or design.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Adapter fitting",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecurbboxid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? An enclosure or chamber located at the curb that contains a shutoff valve on the supply line for gas or water to a building.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clearwater waste"
+        },
+        {
+          "label": "B",
+          "text": "Capacity"
+        },
+        {
+          "label": "C",
+          "text": "Curb box"
+        },
+        {
+          "label": "D",
+          "text": "Coliform"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Curb box",
+      "explanation_long": "Curb box: An enclosure or chamber located at the curb that contains a shutoff valve on the supply line for gas or water to a building.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Curb box",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refasperainfallintensityid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Commonly called the rate of rainfall, the amount of rain measured in inches per hour (mm/hour).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rainfall intensity"
+        },
+        {
+          "label": "B",
+          "text": "Residual pressure"
+        },
+        {
+          "label": "C",
+          "text": "Raw water"
+        },
+        {
+          "label": "D",
+          "text": "Eccentric fittings"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Rainfall intensity",
+      "explanation_long": "Rainfall intensity: Commonly called the rate of rainfall, the amount of rain measured in inches per hour (mm/hour).",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Rainfall intensity",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecodeid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Regulations, subsequent amendments thereto, and any emergency rules that the department having jurisdiction may lawfully adopt.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Code"
+        },
+        {
+          "label": "B",
+          "text": "Cock"
+        },
+        {
+          "label": "C",
+          "text": "Capacity"
+        },
+        {
+          "label": "D",
+          "text": "Coliform"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Code",
+      "explanation_long": "Code: Regulations, subsequent amendments thereto, and any emergency rules that the department having jurisdiction may lawfully adopt.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Code",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspehydraulicallyremoteid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Furthest from the source of supply in terms of total pressure lost through the entire system.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hub drain"
+        },
+        {
+          "label": "B",
+          "text": "Hydraulically remote"
+        },
+        {
+          "label": "C",
+          "text": "Hubless"
+        },
+        {
+          "label": "D",
+          "text": "Hard"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Hydraulically remote",
+      "explanation_long": "Hydraulically remote: Furthest from the source of supply in terms of total pressure lost through the entire system.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Hydraulically remote",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspestandardtemperatureandpressureid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Conforming to the temperature and pressure requirements of the authority having jurisdiction.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SI Units and Symbols"
+        },
+        {
+          "label": "B",
+          "text": "Standard temperature and pressure"
+        },
+        {
+          "label": "C",
+          "text": "Standard dimensional ratio"
+        },
+        {
+          "label": "D",
+          "text": "Service hot water"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Standard temperature and pressure",
+      "explanation_long": "Standard temperature and pressure: Conforming to the temperature and pressure requirements of the authority having jurisdiction.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Standard temperature and pressure",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspesewageid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any liquid waste containing animal, vegetable, or chemical wastes in suspension or solution.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Strain"
+        },
+        {
+          "label": "B",
+          "text": "Sewage"
+        },
+        {
+          "label": "C",
+          "text": "Stress"
+        },
+        {
+          "label": "D",
+          "text": "Soft"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Sewage",
+      "explanation_long": "Sewage: Any liquid waste containing animal, vegetable, or chemical wastes in suspension or solution.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Sewage",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedomesticwaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Water primarily indented for direct human use, such as that supplied to plumbing fixtures.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Double offset"
+        },
+        {
+          "label": "B",
+          "text": "Dryweather flow"
+        },
+        {
+          "label": "C",
+          "text": "Domestic water"
+        },
+        {
+          "label": "D",
+          "text": "Design point"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Domestic water",
+      "explanation_long": "Domestic water: Water primarily indented for direct human use, such as that supplied to plumbing fixtures.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Domestic water",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspelistedid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Equipment, products, or materials approved by a thirdparty testing organization and acceptable to the authority having jurisdiction.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Listed"
+        },
+        {
+          "label": "B",
+          "text": "Leader"
+        },
+        {
+          "label": "C",
+          "text": "Labeled"
+        },
+        {
+          "label": "D",
+          "text": "Light hazard"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Listed",
+      "explanation_long": "Listed: Equipment, products, or materials approved by a thirdparty testing organization and acceptable to the authority having jurisdiction.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Listed",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebaseid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? 1. The lowest point of a stack of vertical pipe. 2. A liquid with a pH of 7.0 or higher.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bell"
+        },
+        {
+          "label": "B",
+          "text": "Btuh"
+        },
+        {
+          "label": "C",
+          "text": "Base"
+        },
+        {
+          "label": "D",
+          "text": "Branch"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Base",
+      "explanation_long": "Base: 1. The lowest point of a stack of vertical pipe. 2. A liquid with a pH of 7.0 or higher.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Base",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeextrahazardgroup-2-id",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Occupancies with moderate to substantial amounts of flammable or combustible liquids or where shielding of combustibles is extensive.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extra hazard group 2"
+        },
+        {
+          "label": "B",
+          "text": "Extra hazard group 1"
+        },
+        {
+          "label": "C",
+          "text": "Eccentric fittings"
+        },
+        {
+          "label": "D",
+          "text": "Extra heavy"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Extra hazard group 2",
+      "explanation_long": "Extra hazard group 2: Occupancies with moderate to substantial amounts of flammable or combustible liquids or where shielding of combustibles is extensive.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Extra hazard group 2",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebackfillid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Material used to replace excavated material for piping installed in an earthen trench.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Backflow"
+        },
+        {
+          "label": "B",
+          "text": "Bedding"
+        },
+        {
+          "label": "C",
+          "text": "Backfill"
+        },
+        {
+          "label": "D",
+          "text": "Branch"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Backfill",
+      "explanation_long": "Backfill: Material used to replace excavated material for piping installed in an earthen trench.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Backfill",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeanglestopid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Common term for rightangle valves used to control water supplies to plumbing fixtures.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air, free"
+        },
+        {
+          "label": "B",
+          "text": "Air lock"
+        },
+        {
+          "label": "C",
+          "text": "Angle stop"
+        },
+        {
+          "label": "D",
+          "text": "Air, standard"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Angle stop",
+      "explanation_long": "Angle stop: Common term for rightangle valves used to control water supplies to plumbing fixtures.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Angle stop",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedurationid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? The concentration of a rainstorm, used in the design of a stormwater drainage system.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Demand"
+        },
+        {
+          "label": "B",
+          "text": "Dampen"
+        },
+        {
+          "label": "C",
+          "text": "Duration"
+        },
+        {
+          "label": "D",
+          "text": "Durion"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Duration",
+      "explanation_long": "Duration: The concentration of a rainstorm, used in the design of a stormwater drainage system.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Duration",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeservicehotwaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Hot water for other than potable use, intended for commercial or industrial purposes.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Standard dimensional ratio"
+        },
+        {
+          "label": "B",
+          "text": "Significant digit"
+        },
+        {
+          "label": "C",
+          "text": "Supplementary units"
+        },
+        {
+          "label": "D",
+          "text": "Service hot water"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Service hot water",
+      "explanation_long": "Service hot water: Hot water for other than potable use, intended for commercial or industrial purposes.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Service hot water",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedrainid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any pipe that carries wastewater or waterborne wastes in a building drainage system.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drain"
+        },
+        {
+          "label": "B",
+          "text": "Digit"
+        },
+        {
+          "label": "C",
+          "text": "Demand"
+        },
+        {
+          "label": "D",
+          "text": "Down"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Drain",
+      "explanation_long": "Drain: Any pipe that carries wastewater or waterborne wastes in a building drainage system.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Drain",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebeddingid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any material in direct contact with a pipe that is under and up to its centerline.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Backfill"
+        },
+        {
+          "label": "B",
+          "text": "Bedding"
+        },
+        {
+          "label": "C",
+          "text": "Branch"
+        },
+        {
+          "label": "D",
+          "text": "Backflow"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Bedding",
+      "explanation_long": "Bedding: Any material in direct contact with a pipe that is under and up to its centerline.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Bedding",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecavitationid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The formation of bubbles in a liquid because of a partial vacuum, which damages adjacent parts when these bubbles revert back to a liquid.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Condensate"
+        },
+        {
+          "label": "B",
+          "text": "Calibration"
+        },
+        {
+          "label": "C",
+          "text": "Cavitation"
+        },
+        {
+          "label": "D",
+          "text": "Cryogenic"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Cavitation",
+      "explanation_long": "Cavitation: The formation of bubbles in a liquid because of a partial vacuum, which damages adjacent parts when these bubbles revert back to a liquid.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Cavitation",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspestormwaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Rainwater, snow, ice, or other natural precipitation from site or roof surfaces.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sanitary"
+        },
+        {
+          "label": "B",
+          "text": "Sewage"
+        },
+        {
+          "label": "C",
+          "text": "Strain"
+        },
+        {
+          "label": "D",
+          "text": "Stormwater"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Stormwater",
+      "explanation_long": "Stormwater: Rainwater, snow, ice, or other natural precipitation from site or roof surfaces.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Stormwater",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedoubleoffsetid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Two changes of direction installed in succession, or series, in continuous pipe.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Design point"
+        },
+        {
+          "label": "B",
+          "text": "Domestic water"
+        },
+        {
+          "label": "C",
+          "text": "Double offset"
+        },
+        {
+          "label": "D",
+          "text": "Double disc"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Double offset",
+      "explanation_long": "Double offset: Two changes of direction installed in succession, or series, in continuous pipe.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Double offset",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspestandarddimensionalratioid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Regarding plastic pipe, the diameter of the pipe divided by the wall thickness.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Service hot water"
+        },
+        {
+          "label": "B",
+          "text": "Standard dimensional ratio"
+        },
+        {
+          "label": "C",
+          "text": "SI Units and Symbols"
+        },
+        {
+          "label": "D",
+          "text": "Supplementary units"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Standard dimensional ratio",
+      "explanation_long": "Standard dimensional ratio: Regarding plastic pipe, the diameter of the pipe divided by the wall thickness.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Standard dimensional ratio",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspehardid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? These conversions denote that the product or material characteristics are physically changed from existing values to preferred SI unit values.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hubless"
+        },
+        {
+          "label": "B",
+          "text": "Hub drain"
+        },
+        {
+          "label": "C",
+          "text": "Hard"
+        },
+        {
+          "label": "D",
+          "text": "Hydraulically remote"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Hard",
+      "explanation_long": "Hard: These conversions denote that the product or material characteristics are physically changed from existing values to preferred SI unit values.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Hard",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeinflowid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Surface water flowing into a catch basin, manhole, or other collection device.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inflow"
+        },
+        {
+          "label": "B",
+          "text": "Impurity"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration"
+        },
+        {
+          "label": "D",
+          "text": "Industrial waste"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Inflow",
+      "explanation_long": "Inflow: Surface water flowing into a catch basin, manhole, or other collection device.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Inflow",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspepercolationid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Also called infiltration, the rate that a liquid will flow deeper into a soil.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Percolation"
+        },
+        {
+          "label": "B",
+          "text": "Putrefaction"
+        },
+        {
+          "label": "C",
+          "text": "Precision"
+        },
+        {
+          "label": "D",
+          "text": "Precipitation"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Percolation",
+      "explanation_long": "Percolation: Also called infiltration, the rate that a liquid will flow deeper into a soil.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Percolation",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspesupplementaryunitsid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? These units are used to denote angles. There are two supplementary units: Quantity Unit Symbol Plane angle radian rad Solid angle steradian sr",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supplementary units"
+        },
+        {
+          "label": "B",
+          "text": "Significant digit"
+        },
+        {
+          "label": "C",
+          "text": "Super flush"
+        },
+        {
+          "label": "D",
+          "text": "Stop valve"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Supplementary units",
+      "explanation_long": "Supplementary units: These units are used to denote angles. There are two supplementary units: Quantity Unit Symbol Plane angle radian rad Solid angle steradian sr",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Supplementary units",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeflashingid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any waterproof material fitted over a surface where water is expected to run.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flammable"
+        },
+        {
+          "label": "B",
+          "text": "Flashing"
+        },
+        {
+          "label": "C",
+          "text": "Flammable gas"
+        },
+        {
+          "label": "D",
+          "text": "Duration"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Flashing",
+      "explanation_long": "Flashing: Any waterproof material fitted over a surface where water is expected to run.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Flashing",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeputrefactionid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Biological decomposition of organic matter with the production of illsmelling products, usually occurring when there is a deficiency of oxygen.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Percolation"
+        },
+        {
+          "label": "B",
+          "text": "Precipitation"
+        },
+        {
+          "label": "C",
+          "text": "Putrefaction"
+        },
+        {
+          "label": "D",
+          "text": "Precision"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Putrefaction",
+      "explanation_long": "Putrefaction: Biological decomposition of organic matter with the production of illsmelling products, usually occurring when there is a deficiency of oxygen.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Putrefaction",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeairlockid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Sometimes called vapor lock, a condition in which a gas is entrapped between two liquid surfaces in a conduit causing a stoppage or impediment.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air lock"
+        },
+        {
+          "label": "B",
+          "text": "Air, free"
+        },
+        {
+          "label": "C",
+          "text": "Angle stop"
+        },
+        {
+          "label": "D",
+          "text": "Air, standard"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Air lock",
+      "explanation_long": "Air lock: Sometimes called vapor lock, a condition in which a gas is entrapped between two liquid surfaces in a conduit causing a stoppage or impediment.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Air lock",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeimpurityid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Any physical, chemical, or biological substance found in water that makes it unsuitable for the purpose intended or as a source of potable water.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inflow"
+        },
+        {
+          "label": "B",
+          "text": "Impurity"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration"
+        },
+        {
+          "label": "D",
+          "text": "Industrial waste"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Impurity",
+      "explanation_long": "Impurity: Any physical, chemical, or biological substance found in water that makes it unsuitable for the purpose intended or as a source of potable water.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Impurity",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedryweatherflowid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Drainage collected during periods of no rain that contains little or no groundwater by infiltra tion and no stormwater at the time of collection.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Domestic water"
+        },
+        {
+          "label": "B",
+          "text": "Double offset"
+        },
+        {
+          "label": "C",
+          "text": "Design point"
+        },
+        {
+          "label": "D",
+          "text": "Dryweather flow"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Dryweather flow",
+      "explanation_long": "Dryweather flow: Drainage collected during periods of no rain that contains little or no groundwater by infiltra tion and no stormwater at the time of collection.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Dryweather flow",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeprecipitationid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Water directly discharged from the clouds as snow, rain, hail, or sleet.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Precipitation"
+        },
+        {
+          "label": "B",
+          "text": "Putrefaction"
+        },
+        {
+          "label": "C",
+          "text": "Percolation"
+        },
+        {
+          "label": "D",
+          "text": "Precision"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Precipitation",
+      "explanation_long": "Precipitation: Water directly discharged from the clouds as snow, rain, hail, or sleet.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Precipitation",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspestrainid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Change in the shape or size of a body produced by the action of stress.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sewage"
+        },
+        {
+          "label": "B",
+          "text": "Strain"
+        },
+        {
+          "label": "C",
+          "text": "Stress"
+        },
+        {
+          "label": "D",
+          "text": "Soft"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Strain",
+      "explanation_long": "Strain: Change in the shape or size of a body produced by the action of stress.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Strain",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedesignpointid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? The specific point in a piping network where a pipe size is calculated.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Double disc"
+        },
+        {
+          "label": "B",
+          "text": "Double offset"
+        },
+        {
+          "label": "C",
+          "text": "Design point"
+        },
+        {
+          "label": "D",
+          "text": "Domestic water"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Design point",
+      "explanation_long": "Design point: The specific point in a piping network where a pipe size is calculated.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Design point",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeextraheavyid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Piping material, usually cast iron, that is thicker than standard pipe.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extra heavy"
+        },
+        {
+          "label": "B",
+          "text": "Eccentric fittings"
+        },
+        {
+          "label": "C",
+          "text": "Effluent"
+        },
+        {
+          "label": "D",
+          "text": "Erosion"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Extra heavy",
+      "explanation_long": "Extra heavy: Piping material, usually cast iron, that is thicker than standard pipe.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Extra heavy",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspesiunitsandsymbolsid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The International System of Units has three types of units, as follows.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Service hot water"
+        },
+        {
+          "label": "B",
+          "text": "Standard temperature and pressure"
+        },
+        {
+          "label": "C",
+          "text": "Standard dimensional ratio"
+        },
+        {
+          "label": "D",
+          "text": "SI Units and Symbols"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "SI Units and Symbols",
+      "explanation_long": "SI Units and Symbols: The International System of Units has three types of units, as follows.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | SI Units and Symbols",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspelabeledid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Equipment, products, or materials bearing a label of a listing agency.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Labeled"
+        },
+        {
+          "label": "B",
+          "text": "Leader"
+        },
+        {
+          "label": "C",
+          "text": "Listed"
+        },
+        {
+          "label": "D",
+          "text": "Light hazard"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Labeled",
+      "explanation_long": "Labeled: Equipment, products, or materials bearing a label of a listing agency.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Labeled",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspesanitaryid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? 1. When used for plumbing, any drainage system that carries human waste. 2. When used for pharma ceutical purposes, a system that is clean or sterile.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sanitary"
+        },
+        {
+          "label": "B",
+          "text": "Sewage"
+        },
+        {
+          "label": "C",
+          "text": "Strain"
+        },
+        {
+          "label": "D",
+          "text": "Stormwater"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Sanitary",
+      "explanation_long": "Sanitary: 1. When used for plumbing, any drainage system that carries human waste. 2. When used for pharma ceutical purposes, a system that is clean or sterile.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Sanitary",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspegroundwaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Water found at or below grade extending down to an impervious layer.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greaseladen waste"
+        },
+        {
+          "label": "B",
+          "text": "Groundwater"
+        },
+        {
+          "label": "C",
+          "text": "Calibration"
+        },
+        {
+          "label": "D",
+          "text": "Percolation"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Groundwater",
+      "explanation_long": "Groundwater: Water found at or below grade extending down to an impervious layer.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Groundwater",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspepotablewaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Water of sufficient purity suitable for human use and meeting the quality standards and regula tions of the public health authority having jurisdiction.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Precipitation"
+        },
+        {
+          "label": "B",
+          "text": "Putrefaction"
+        },
+        {
+          "label": "C",
+          "text": "Percolation"
+        },
+        {
+          "label": "D",
+          "text": "Potable water"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Potable water",
+      "explanation_long": "Potable water: Water of sufficient purity suitable for human use and meeting the quality standards and regula tions of the public health authority having jurisdiction.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Potable water",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refasperesidualpressureid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Water pressure less than static pressure that varies with flow rate.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Residual pressure"
+        },
+        {
+          "label": "B",
+          "text": "Rainfall intensity"
+        },
+        {
+          "label": "C",
+          "text": "Raw water"
+        },
+        {
+          "label": "D",
+          "text": "Significant digit"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Residual pressure",
+      "explanation_long": "Residual pressure: Water pressure less than static pressure that varies with flow rate.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Residual pressure",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspesoilpipeid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any pipe that conveys the discharge of human or animal bodily waste.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Soil pipe"
+        },
+        {
+          "label": "B",
+          "text": "Stop valve"
+        },
+        {
+          "label": "C",
+          "text": "Super flush"
+        },
+        {
+          "label": "D",
+          "text": "Significant digit"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Soil pipe",
+      "explanation_long": "Soil pipe: Any pipe that conveys the discharge of human or animal bodily waste.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Soil pipe",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedegreecelsiusformallycentigradec-id",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? An incremental value in metric units (SI) where the freezing point of water (0°C) and the boiling point of water (100°C) are divided into 100 divisions.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degree Celsius (formally Centigrade) (C)"
+        },
+        {
+          "label": "B",
+          "text": "Degree Fahrenheit (F)"
+        },
+        {
+          "label": "C",
+          "text": "Dryweather flow"
+        },
+        {
+          "label": "D",
+          "text": "Domestic water"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Degree Celsius (formally Centigrade) (C)",
+      "explanation_long": "Degree Celsius (formally Centigrade) (C): An incremental value in metric units (SI) where the freezing point of water (0°C) and the boiling point of water (100°C) are divided into 100 divisions.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Degree Celsius (formally Centigrade) (C)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedemandid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Estimated flow or use expected under specific operating conditions.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dampen"
+        },
+        {
+          "label": "B",
+          "text": "Demand"
+        },
+        {
+          "label": "C",
+          "text": "Durion"
+        },
+        {
+          "label": "D",
+          "text": "Drain"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Demand",
+      "explanation_long": "Demand: Estimated flow or use expected under specific operating conditions.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Demand",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeerosionid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The gradual destruction of metal or other material by the abrasive or electromechanical action of liquids, gases, solids, or mixtures of these materials.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Effluent"
+        },
+        {
+          "label": "B",
+          "text": "Exact"
+        },
+        {
+          "label": "C",
+          "text": "Erosion"
+        },
+        {
+          "label": "D",
+          "text": "Extra heavy"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Erosion",
+      "explanation_long": "Erosion: The gradual destruction of metal or other material by the abrasive or electromechanical action of liquids, gases, solids, or mixtures of these materials.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Erosion",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeadiabaticcompressionid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Air compression that allows an increase of temperature in the air.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activated sludge"
+        },
+        {
+          "label": "B",
+          "text": "Air, compressed"
+        },
+        {
+          "label": "C",
+          "text": "Adapter fitting"
+        },
+        {
+          "label": "D",
+          "text": "Adiabatic compression"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Adiabatic compression",
+      "explanation_long": "Adiabatic compression: Air compression that allows an increase of temperature in the air.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Adiabatic compression",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedegreefahrenheitf-id",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? An incremental value in English (IP) units, where the freezing point of water (32°F) and the boiling point of water (212°F) are divided into 180 divisions.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dryweather flow"
+        },
+        {
+          "label": "B",
+          "text": "Domestic water"
+        },
+        {
+          "label": "C",
+          "text": "Double offset"
+        },
+        {
+          "label": "D",
+          "text": "Degree Fahrenheit (F)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Degree Fahrenheit (F)",
+      "explanation_long": "Degree Fahrenheit (F): An incremental value in English (IP) units, where the freezing point of water (32°F) and the boiling point of water (212°F) are divided into 180 divisions.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Degree Fahrenheit (F)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedropid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Piping running to a lower elevation within the same floor level.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drop"
+        },
+        {
+          "label": "B",
+          "text": "Down"
+        },
+        {
+          "label": "C",
+          "text": "Drain"
+        },
+        {
+          "label": "D",
+          "text": "Digit"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Drop",
+      "explanation_long": "Drop: Piping running to a lower elevation within the same floor level.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Drop",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebranchid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any part of a piping system other than a main, riser, or stack.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branch"
+        },
+        {
+          "label": "B",
+          "text": "Bedding"
+        },
+        {
+          "label": "C",
+          "text": "Backfill"
+        },
+        {
+          "label": "D",
+          "text": "Bell"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Branch",
+      "explanation_long": "Branch: Any part of a piping system other than a main, riser, or stack.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Branch",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspemalleableid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Capable of being extended or shaped. Most metals are malleable.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Medical air"
+        },
+        {
+          "label": "C",
+          "text": "Medical gas alarm system"
+        },
+        {
+          "label": "D",
+          "text": "Malleable"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Malleable",
+      "explanation_long": "Malleable: Capable of being extended or shaped. Most metals are malleable.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Malleable",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspestressid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Reactions within a body resisting external forces acting on it.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sewage"
+        },
+        {
+          "label": "B",
+          "text": "Stress"
+        },
+        {
+          "label": "C",
+          "text": "Strain"
+        },
+        {
+          "label": "D",
+          "text": "Soft"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Stress",
+      "explanation_long": "Stress: Reactions within a body resisting external forces acting on it.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Stress",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeinducedsiphonageid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Loss of liquid from a fixture trap due to the pressure differential between the inlet and outlet of a trap, often caused by the discharge of another fixture.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Industrial waste"
+        },
+        {
+          "label": "B",
+          "text": "Infiltration"
+        },
+        {
+          "label": "C",
+          "text": "Induced siphonage"
+        },
+        {
+          "label": "D",
+          "text": "Impurity"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Induced siphonage",
+      "explanation_long": "Induced siphonage: Loss of liquid from a fixture trap due to the pressure differential between the inlet and outlet of a trap, often caused by the discharge of another fixture.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Induced siphonage",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refasperawwaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Nonpotable water used as the intake to any device or process, generally used to describe water supply from a natural source such as a river, lake, or stream.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Residual pressure"
+        },
+        {
+          "label": "B",
+          "text": "Rainfall intensity"
+        },
+        {
+          "label": "C",
+          "text": "Soil pipe"
+        },
+        {
+          "label": "D",
+          "text": "Raw water"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Raw water",
+      "explanation_long": "Raw water: Nonpotable water used as the intake to any device or process, generally used to describe water supply from a natural source such as a river, lake, or stream.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Raw water",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeextrahazardgroup-1-id",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Occupancies with little or no flammable or combustible liquids.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extra hazard group 2"
+        },
+        {
+          "label": "B",
+          "text": "Eccentric fittings"
+        },
+        {
+          "label": "C",
+          "text": "Extra heavy"
+        },
+        {
+          "label": "D",
+          "text": "Extra hazard group 1"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Extra hazard group 1",
+      "explanation_long": "Extra hazard group 1: Occupancies with little or no flammable or combustible liquids.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Extra hazard group 1",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspewasteanestheticgasdisposalwagdid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The process of capturing and carrying away gases vented from a patient breathing circuit during the normal operation of gas anesthesia or analgesia equipment.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Waste anesthetic gas disposal (WAGD)"
+        },
+        {
+          "label": "B",
+          "text": "Water supply system"
+        },
+        {
+          "label": "C",
+          "text": "Waterdistributing pipe"
+        },
+        {
+          "label": "D",
+          "text": "Degree Celsius (formally Centigrade) (C)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Waste anesthetic gas disposal (WAGD)",
+      "explanation_long": "Waste anesthetic gas disposal (WAGD): The process of capturing and carrying away gases vented from a patient breathing circuit during the normal operation of gas anesthesia or analgesia equipment.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Waste anesthetic gas disposal (WAGD)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeanaerobicid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? (re: bacteria) Living or active in the absence of free oxygen.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analysis"
+        },
+        {
+          "label": "B",
+          "text": "Approved"
+        },
+        {
+          "label": "C",
+          "text": "Anaerobic"
+        },
+        {
+          "label": "D",
+          "text": "Autoignition"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Anaerobic",
+      "explanation_long": "Anaerobic: (re: bacteria) Living or active in the absence of free oxygen.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Anaerobic",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebellid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Commonly called a hub, that portion of a pipe that is sufficiently enlarged to receive the mating spigot end of another pipe for the purpose of making a joint.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Btuh"
+        },
+        {
+          "label": "B",
+          "text": "Bell"
+        },
+        {
+          "label": "C",
+          "text": "Base"
+        },
+        {
+          "label": "D",
+          "text": "Branch"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Bell",
+      "explanation_long": "Bell: Commonly called a hub, that portion of a pipe that is sufficiently enlarged to receive the mating spigot end of another pipe for the purpose of making a joint.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Bell",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspemonitoringid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Observation, sampling, or testing at designated locations.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malleable"
+        },
+        {
+          "label": "B",
+          "text": "Monitoring"
+        },
+        {
+          "label": "C",
+          "text": "Medical air"
+        },
+        {
+          "label": "D",
+          "text": "Medical gas alarm system"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Monitoring",
+      "explanation_long": "Monitoring: Observation, sampling, or testing at designated locations.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Monitoring",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecoliformid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Organisms considered to be in the coli aerogenes group.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capacity"
+        },
+        {
+          "label": "B",
+          "text": "Coliform"
+        },
+        {
+          "label": "C",
+          "text": "Cryogenic"
+        },
+        {
+          "label": "D",
+          "text": "Condensate"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Coliform",
+      "explanation_long": "Coliform: Organisms considered to be in the coli aerogenes group.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Coliform",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeeffluentid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any substance entering or carried in a drainage system.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Effluent"
+        },
+        {
+          "label": "B",
+          "text": "Erosion"
+        },
+        {
+          "label": "C",
+          "text": "Exact"
+        },
+        {
+          "label": "D",
+          "text": "Extra heavy"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Effluent",
+      "explanation_long": "Effluent: Any substance entering or carried in a drainage system.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Effluent",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspenonpotablewaterid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Water not safe for drinking, personal, or culinary use.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonpotable water"
+        },
+        {
+          "label": "B",
+          "text": "Negative pressure"
+        },
+        {
+          "label": "C",
+          "text": "Clearwater waste"
+        },
+        {
+          "label": "D",
+          "text": "Activated sludge"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Nonpotable water",
+      "explanation_long": "Nonpotable water: Water not safe for drinking, personal, or culinary use.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Nonpotable water",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeaircompressedid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Air at any pressure greater than atmospheric pressure.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adapter fitting"
+        },
+        {
+          "label": "B",
+          "text": "Activated sludge"
+        },
+        {
+          "label": "C",
+          "text": "Air, standard"
+        },
+        {
+          "label": "D",
+          "text": "Air, compressed"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Air, compressed",
+      "explanation_long": "Air, compressed: Air at any pressure greater than atmospheric pressure.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Air, compressed",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeairstandardid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Air having a temperature of 60°F (15.6°C), with a pressure of 14.70 psia (101.4 kPa) and 0 percent humidity. These figures may be different outside the United States.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air, standard"
+        },
+        {
+          "label": "B",
+          "text": "Air, compressed"
+        },
+        {
+          "label": "C",
+          "text": "Adapter fitting"
+        },
+        {
+          "label": "D",
+          "text": "Activated sludge"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Air, standard",
+      "explanation_long": "Air, standard: Air having a temperature of 60°F (15.6°C), with a pressure of 14.70 psia (101.4 kPa) and 0 percent humidity. These figures may be different outside the United States.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Air, standard",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeaerobicid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Living or active only in the presence of free oxygen.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aerobic"
+        },
+        {
+          "label": "B",
+          "text": "Analysis"
+        },
+        {
+          "label": "C",
+          "text": "Approved"
+        },
+        {
+          "label": "D",
+          "text": "Alarm"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Aerobic",
+      "explanation_long": "Aerobic: Living or active only in the presence of free oxygen.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Aerobic",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeeccentricfittingsid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Fittings where the openings on either end are offset.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extra heavy"
+        },
+        {
+          "label": "B",
+          "text": "Effluent"
+        },
+        {
+          "label": "C",
+          "text": "Erosion"
+        },
+        {
+          "label": "D",
+          "text": "Eccentric fittings"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Eccentric fittings",
+      "explanation_long": "Eccentric fittings: Fittings where the openings on either end are offset.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Eccentric fittings",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeairfreeid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Air subject only to ambient atmospheric conditions.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air lock"
+        },
+        {
+          "label": "B",
+          "text": "Air, free"
+        },
+        {
+          "label": "C",
+          "text": "Angle stop"
+        },
+        {
+          "label": "D",
+          "text": "Air, standard"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Air, free",
+      "explanation_long": "Air, free: Air subject only to ambient atmospheric conditions.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Air, free",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeauthorityhavingjurisdictionahjid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The organization, office, or individual responsible for approving equipment, materials, installation, or procedure. 24 ASPE Plumbing Engineering Design Handbook Volume 1",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Availability of a sewer"
+        },
+        {
+          "label": "B",
+          "text": "Adiabatic compression"
+        },
+        {
+          "label": "C",
+          "text": "Authority having jurisdiction (AHJ)"
+        },
+        {
+          "label": "D",
+          "text": "Activated sludge"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Authority having jurisdiction (AHJ)",
+      "explanation_long": "Authority having jurisdiction (AHJ): The organization, office, or individual responsible for approving equipment, materials, installation, or procedure. 24 ASPE Plumbing Engineering Design Handbook Volume 1",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Authority having jurisdiction (AHJ)",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspesignificantdigitid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any digit necessary to define a value or quantity.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supplementary units"
+        },
+        {
+          "label": "B",
+          "text": "Super flush"
+        },
+        {
+          "label": "C",
+          "text": "Stop valve"
+        },
+        {
+          "label": "D",
+          "text": "Significant digit"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Significant digit",
+      "explanation_long": "Significant digit: Any digit necessary to define a value or quantity.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Significant digit",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspelighthazardid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Occupancies or portions of other occupancies where the quantity and/or combustibility of contents is low, and fires with relatively low rates of heat release are expected.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Labeled"
+        },
+        {
+          "label": "B",
+          "text": "Light hazard"
+        },
+        {
+          "label": "C",
+          "text": "Leader"
+        },
+        {
+          "label": "D",
+          "text": "Listed"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Light hazard",
+      "explanation_long": "Light hazard: Occupancies or portions of other occupancies where the quantity and/or combustibility of contents is low, and fires with relatively low rates of heat release are expected.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Light hazard",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebtuhid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Abbreviation for British thermal units per hour.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Btuh"
+        },
+        {
+          "label": "B",
+          "text": "Bell"
+        },
+        {
+          "label": "C",
+          "text": "Base"
+        },
+        {
+          "label": "D",
+          "text": "Branch"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Btuh",
+      "explanation_long": "Btuh: Abbreviation for British thermal units per hour.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Btuh",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecondensateid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Molecules that separate from a gas upon cooling.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cavitation"
+        },
+        {
+          "label": "B",
+          "text": "Calibration"
+        },
+        {
+          "label": "C",
+          "text": "Cryogenic"
+        },
+        {
+          "label": "D",
+          "text": "Condensate"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Condensate",
+      "explanation_long": "Condensate: Molecules that separate from a gas upon cooling.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Condensate",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeanalysisid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Separation and measurements of component parts.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Approved"
+        },
+        {
+          "label": "B",
+          "text": "Anaerobic"
+        },
+        {
+          "label": "C",
+          "text": "Aerobic"
+        },
+        {
+          "label": "D",
+          "text": "Analysis"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Analysis",
+      "explanation_long": "Analysis: Separation and measurements of component parts.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Analysis",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeapprovedid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Accepted or acceptable under an applicable specification or standard stated or cited for the proposed use under the procedures and authority of the administrative authority.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analysis"
+        },
+        {
+          "label": "B",
+          "text": "Approved"
+        },
+        {
+          "label": "C",
+          "text": "Anaerobic"
+        },
+        {
+          "label": "D",
+          "text": "Aerobic"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Approved",
+      "explanation_long": "Approved: Accepted or acceptable under an applicable specification or standard stated or cited for the proposed use under the procedures and authority of the administrative authority.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Approved",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspemedicalairid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Pharmaceutical air used for life support, supplied from cylinders, bulk containers, or medical air compressors or reconstituted from oxygen USP and oilfree, dry nitrogen NF.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Malleable"
+        },
+        {
+          "label": "C",
+          "text": "Medical air"
+        },
+        {
+          "label": "D",
+          "text": "Medical gas alarm system"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Medical air",
+      "explanation_long": "Medical air: Pharmaceutical air used for life support, supplied from cylinders, bulk containers, or medical air compressors or reconstituted from oxygen USP and oilfree, dry nitrogen NF.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Medical air",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspevelocityid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Flow rate measured in feet per second (m/sec).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Velocity"
+        },
+        {
+          "label": "B",
+          "text": "Vacuum"
+        },
+        {
+          "label": "C",
+          "text": "Vent, loop"
+        },
+        {
+          "label": "D",
+          "text": "Vertical pipe"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Velocity",
+      "explanation_long": "Velocity: Flow rate measured in feet per second (m/sec).",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Velocity",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebellandspigotjointid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Commonly called a hubandspigot joint for castiron soil pipe, a joint in which the spigot is inserted into the hub and the joint is then made tight by caulking or by a gasket.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bellandspigot joint"
+        },
+        {
+          "label": "B",
+          "text": "Bathroom group"
+        },
+        {
+          "label": "C",
+          "text": "Black pipe"
+        },
+        {
+          "label": "D",
+          "text": "Battery of fixtures"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Bellandspigot joint",
+      "explanation_long": "Bellandspigot joint: Commonly called a hubandspigot joint for castiron soil pipe, a joint in which the spigot is inserted into the hub and the joint is then made tight by caulking or by a gasket.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Bellandspigot joint",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedampenid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? 1. To check or reduce. 2. To deaden vibration.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Demand"
+        },
+        {
+          "label": "B",
+          "text": "Durion"
+        },
+        {
+          "label": "C",
+          "text": "Dampen"
+        },
+        {
+          "label": "D",
+          "text": "Drain"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Dampen",
+      "explanation_long": "Dampen: 1. To check or reduce. 2. To deaden vibration.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Dampen",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeturbulenceid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any deviation from parallel flow in a pipe.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tempered water"
+        },
+        {
+          "label": "B",
+          "text": "Turbulence"
+        },
+        {
+          "label": "C",
+          "text": "Condensate"
+        },
+        {
+          "label": "D",
+          "text": "Cavitation"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Turbulence",
+      "explanation_long": "Turbulence: Any deviation from parallel flow in a pipe.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Turbulence",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebatteryoffixturesid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Any group of two or more adjacent fixtures.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bellandspigot joint"
+        },
+        {
+          "label": "B",
+          "text": "Bathroom group"
+        },
+        {
+          "label": "C",
+          "text": "Battery of fixtures"
+        },
+        {
+          "label": "D",
+          "text": "British thermal unit (Btu)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Battery of fixtures",
+      "explanation_long": "Battery of fixtures: Any group of two or more adjacent fixtures.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Battery of fixtures",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeblackpipeid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Steel pipe that has not been galvanized.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bathroom group"
+        },
+        {
+          "label": "B",
+          "text": "Black pipe"
+        },
+        {
+          "label": "C",
+          "text": "Bellandspigot joint"
+        },
+        {
+          "label": "D",
+          "text": "Backfill"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Black pipe",
+      "explanation_long": "Black pipe: Steel pipe that has not been galvanized.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Black pipe",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedigitid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? One of the 10 arabic numerals (0 to 9).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drain"
+        },
+        {
+          "label": "B",
+          "text": "Demand"
+        },
+        {
+          "label": "C",
+          "text": "Down"
+        },
+        {
+          "label": "D",
+          "text": "Digit"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Digit",
+      "explanation_long": "Digit: One of the 10 arabic numerals (0 to 9).",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Digit",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecockid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Often used nomenclature for a faucet.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Code"
+        },
+        {
+          "label": "B",
+          "text": "Capacity"
+        },
+        {
+          "label": "C",
+          "text": "Cock"
+        },
+        {
+          "label": "D",
+          "text": "Coliform"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Cock",
+      "explanation_long": "Cock: Often used nomenclature for a faucet.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Cock",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedownid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any piping running to a lower level.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drop"
+        },
+        {
+          "label": "B",
+          "text": "Down"
+        },
+        {
+          "label": "C",
+          "text": "Drain"
+        },
+        {
+          "label": "D",
+          "text": "Digit"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Down",
+      "explanation_long": "Down: Any piping running to a lower level.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Down",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspewaterdistributingpipeid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Any pipe that conveys potable water.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Water supply system"
+        },
+        {
+          "label": "B",
+          "text": "Waste anesthetic gas disposal (WAGD)"
+        },
+        {
+          "label": "C",
+          "text": "Construction documents"
+        },
+        {
+          "label": "D",
+          "text": "Waterdistributing pipe"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Waterdistributing pipe",
+      "explanation_long": "Waterdistributing pipe: Any pipe that conveys potable water.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Waterdistributing pipe",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecapacityid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? 1. The maximum or minimum flow obtainable under given conditions of media, temperature, pressure, velocity, etc. 2. The volume of media that may be stored in a container or receptacle.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coliform"
+        },
+        {
+          "label": "B",
+          "text": "Capacity"
+        },
+        {
+          "label": "C",
+          "text": "Cryogenic"
+        },
+        {
+          "label": "D",
+          "text": "Condensate"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Capacity",
+      "explanation_long": "Capacity: 1. The maximum or minimum flow obtainable under given conditions of media, temperature, pressure, velocity, etc. 2. The volume of media that may be stored in a container or receptacle.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Capacity",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspehubdrainid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? 1. A drainage receptacle with a raised rim and without a strainer or grate. 2. A floor drain incapable of receiving surface drainage (commonly used for equipment condensation drainage).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydraulically remote"
+        },
+        {
+          "label": "B",
+          "text": "Hubless"
+        },
+        {
+          "label": "C",
+          "text": "Hard"
+        },
+        {
+          "label": "D",
+          "text": "Hub drain"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Hub drain",
+      "explanation_long": "Hub drain: 1. A drainage receptacle with a raised rim and without a strainer or grate. 2. A floor drain incapable of receiving surface drainage (commonly used for equipment condensation drainage).",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Hub drain",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeleaderid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Piping containing only stormwater.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Listed"
+        },
+        {
+          "label": "B",
+          "text": "Leader"
+        },
+        {
+          "label": "C",
+          "text": "Labeled"
+        },
+        {
+          "label": "D",
+          "text": "Light hazard"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Leader",
+      "explanation_long": "Leader: Piping containing only stormwater.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Leader",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspenegativepressureid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Pressure less than atmospheric.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Negative pressure"
+        },
+        {
+          "label": "B",
+          "text": "Nonpotable water"
+        },
+        {
+          "label": "C",
+          "text": "Residual pressure"
+        },
+        {
+          "label": "D",
+          "text": "Significant digit"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Negative pressure",
+      "explanation_long": "Negative pressure: Pressure less than atmospheric.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Negative pressure",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeopenairid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Free air outside any structure.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ordinary hazard group 1"
+        },
+        {
+          "label": "B",
+          "text": "Open air"
+        },
+        {
+          "label": "C",
+          "text": "Curb box"
+        },
+        {
+          "label": "D",
+          "text": "Air lock"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Open air",
+      "explanation_long": "Open air: Free air outside any structure.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Open air",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspecryogenicid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? The field of low temperature.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryogenic"
+        },
+        {
+          "label": "B",
+          "text": "Capacity"
+        },
+        {
+          "label": "C",
+          "text": "Condensate"
+        },
+        {
+          "label": "D",
+          "text": "Cavitation"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Cryogenic",
+      "explanation_long": "Cryogenic: The field of low temperature.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Cryogenic",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspevitrifiedclayid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Fired and glazed earthenware.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vertical pipe"
+        },
+        {
+          "label": "B",
+          "text": "Vent, loop"
+        },
+        {
+          "label": "C",
+          "text": "Vitrified clay"
+        },
+        {
+          "label": "D",
+          "text": "Velocity"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Vitrified clay",
+      "explanation_long": "Vitrified clay: Fired and glazed earthenware.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Vitrified clay",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeinfiltrationid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Liquid leaking into a sewer.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impurity"
+        },
+        {
+          "label": "B",
+          "text": "Infiltration"
+        },
+        {
+          "label": "C",
+          "text": "Inflow"
+        },
+        {
+          "label": "D",
+          "text": "Industrial waste"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Infiltration",
+      "explanation_long": "Infiltration: Liquid leaking into a sewer.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Infiltration",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeflammableid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Easy",
+      "prompt": "Which ASPE term matches this definition? Capable of being ignited.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flashing"
+        },
+        {
+          "label": "B",
+          "text": "Cryogenic"
+        },
+        {
+          "label": "C",
+          "text": "Flammable"
+        },
+        {
+          "label": "D",
+          "text": "Malleable"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Flammable",
+      "explanation_long": "Flammable: Capable of being ignited.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Flammable",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspesoftid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? These conversions denote the conversion to the SI unit value in the software only. The materials and products remain unchanged, and minimal rounding off to the nearest integer is usually applied.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sewage"
+        },
+        {
+          "label": "B",
+          "text": "Strain"
+        },
+        {
+          "label": "C",
+          "text": "Soft"
+        },
+        {
+          "label": "D",
+          "text": "Stress"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Soft",
+      "explanation_long": "Soft: These conversions denote the conversion to the SI unit value in the software only. The materials and products remain unchanged, and minimal rounding off to the nearest integer is usually applied.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Soft",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeordinaryhazardgroup-1-id",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Occupancies or portions of other occupancies where combustibility is low, the quan tity of combustibles does not exceed 8 feet (2.4 m), and fires with moderate rates of heat release are expected.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Open air"
+        },
+        {
+          "label": "B",
+          "text": "Availability of a sewer"
+        },
+        {
+          "label": "C",
+          "text": "Medical gas alarm system"
+        },
+        {
+          "label": "D",
+          "text": "Ordinary hazard group 1"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Ordinary hazard group 1",
+      "explanation_long": "Ordinary hazard group 1: Occupancies or portions of other occupancies where combustibility is low, the quan tity of combustibles does not exceed 8 feet (2.4 m), and fires with moderate rates of heat release are expected.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Ordinary hazard group 1",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspegreaseladenwasteid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Effluent discharge that is produced from food processing, food preparation, or other sources where grease, fats, and oils enter automatic dishwater prerinse stations, sinks, or other appurtenances.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Groundwater"
+        },
+        {
+          "label": "B",
+          "text": "Residual pressure"
+        },
+        {
+          "label": "C",
+          "text": "Significant digit"
+        },
+        {
+          "label": "D",
+          "text": "Greaseladen waste"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Greaseladen waste",
+      "explanation_long": "Greaseladen waste: Effluent discharge that is produced from food processing, food preparation, or other sources where grease, fats, and oils enter automatic dishwater prerinse stations, sinks, or other appurtenances.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Greaseladen waste",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspebackflowid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? 1. The flow of water or other liquids, mixtures, or substances into the distributing pipes of a potable supply from any source other than that intended. 2. The reversal of flow in drainage systems.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Backfill"
+        },
+        {
+          "label": "B",
+          "text": "Backflow"
+        },
+        {
+          "label": "C",
+          "text": "Bedding"
+        },
+        {
+          "label": "D",
+          "text": "Branch"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Backflow",
+      "explanation_long": "Backflow: 1. The flow of water or other liquids, mixtures, or substances into the distributing pipes of a potable supply from any source other than that intended. 2. The reversal of flow in drainage systems.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Backflow",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspemedicalgasalarmsystemid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? One of four distinct types of alarms in Category 1 and Category 2 medical gas sys temsmaster alarms, area alarms, local alarms, and Category 3 alarmsas recognized by NFPA 99: Healthcare Facilities Code.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Medical gas alarm system"
+        },
+        {
+          "label": "B",
+          "text": "Medical air"
+        },
+        {
+          "label": "C",
+          "text": "Monitoring"
+        },
+        {
+          "label": "D",
+          "text": "Malleable"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Medical gas alarm system",
+      "explanation_long": "Medical gas alarm system: One of four distinct types of alarms in Category 1 and Category 2 medical gas sys temsmaster alarms, area alarms, local alarms, and Category 3 alarmsas recognized by NFPA 99: Healthcare Facilities Code.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Medical gas alarm system",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspedurionid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Brand name for a highsilicon alloy that is resistant to practically all corrosive wastes, with a silicon content of approximately 14.5 percent and acid resistant throughout the entire thickness of the metal.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Demand"
+        },
+        {
+          "label": "B",
+          "text": "Dampen"
+        },
+        {
+          "label": "C",
+          "text": "Durion"
+        },
+        {
+          "label": "D",
+          "text": "Drain"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Durion",
+      "explanation_long": "Durion: Brand name for a highsilicon alloy that is resistant to practically all corrosive wastes, with a silicon content of approximately 14.5 percent and acid resistant throughout the entire thickness of the metal.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Durion",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspeflammablegasid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? Any substance that exists in the gaseous state at normal atmospheric temperature and pressure and is capable of being ignited and burned when mixed with the proper proportion of air, oxygen, or other oxidizers.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flashing"
+        },
+        {
+          "label": "B",
+          "text": "Vertical pipe"
+        },
+        {
+          "label": "C",
+          "text": "Flammable gas"
+        },
+        {
+          "label": "D",
+          "text": "Potable water"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Flammable gas",
+      "explanation_long": "Flammable gas: Any substance that exists in the gaseous state at normal atmospheric temperature and pressure and is capable of being ignited and burned when mixed with the proper proportion of air, oxygen, or other oxidizers.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Flammable gas",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "aspe-ref-derived__refaspewatersupplysystemid",
+      "topic": "Plumbing Terminology",
+      "subtopic": "ASPE Definitions",
+      "difficulty": "Medium",
+      "prompt": "Which ASPE term matches this definition? The building supply pipe, waterdistributing pipes, and necessary connecting pipes, fittings, control valves, and all appurtenances carrying or supplying potable water in, or adjacent to, a building or premises.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Water supply system"
+        },
+        {
+          "label": "B",
+          "text": "Waterdistributing pipe"
+        },
+        {
+          "label": "C",
+          "text": "Waste anesthetic gas disposal (WAGD)"
+        },
+        {
+          "label": "D",
+          "text": "Battery of fixtures"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Water supply system",
+      "explanation_long": "Water supply system: The building supply pipe, waterdistributing pipes, and necessary connecting pipes, fittings, control valves, and all appurtenances carrying or supplying potable water in, or adjacent to, a building or premises.",
+      "tags": [
+        "aspe",
+        "definition",
+        "definition-match",
+        "derived-mcq",
+        "identification",
+        "raw-reference"
+      ],
+      "source_ref": "ASPE PLUMBING TERMINOLOGY.pdf | Water supply system",
+      "quality_flag": "ok"
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

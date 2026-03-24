@@ -1,0 +1,2301 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "probable": 21,
+      "review": 9,
+      "candidate": 20
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-08",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 8.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:04:03.981642+00:00",
+    "classification": "publish_candidate",
+    "classification_reasons": [
+      "MCQ bank has enough volume with limited review-only items"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-08-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "What instrument is used to measure the humidity of air or some other gas?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrometer (an instrument used to determine the density or specific gravity of a"
+        },
+        {
+          "label": "B",
+          "text": "Hygrometer"
+        },
+        {
+          "label": "C",
+          "text": "Altimeter (an instrument used to measure the altitude of an object above a"
+        },
+        {
+          "label": "D",
+          "text": "Humidifier (designed to increase the moisture level in the air within a room or"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "liquid)",
+      "explanation_long": "liquid) tixed level) an enclosed space)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#1 | pages 2-3",
+      "quality_flag": "probable",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is equal to the sum of gauge pressure and atmospheric pressure corresponding to the barometer",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absolute Pressure"
+        },
+        {
+          "label": "B",
+          "text": "Total Pressure"
+        },
+        {
+          "label": "C",
+          "text": "Aggregate Pressure"
+        },
+        {
+          "label": "D",
+          "text": "Above Sea Pressure"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#2 | pages 4-5",
+      "quality_flag": "review",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "It is the decrease in the level of water in a well when water is being pumped",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cone of Depression (occurs when"
+        },
+        {
+          "label": "B",
+          "text": "Drawdown"
+        },
+        {
+          "label": "C",
+          "text": "Depression"
+        },
+        {
+          "label": "D",
+          "text": "Flowing Well (a type of well where water"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "groundwater is extracted froma well,",
+      "explanation_long": "groundwater is extracted froma well, creating a conical-shaped depression in the water table around the well) pressure in the aquifer causes the water levelis to rise above the ground surface, allowing water to flow without the need for pumping)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#3 | pages 6-7",
+      "quality_flag": "candidate",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "How does pollution that carry disease in water corrected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Filtration (for turbidity)"
+        },
+        {
+          "label": "B",
+          "text": "Sedimentation (settling of suspended solids due to"
+        },
+        {
+          "label": "C",
+          "text": "Chlorination"
+        },
+        {
+          "label": "D",
+          "text": "Coagulation (a chemical process that involves underground flow food preparation sewage nese laundry t odor alkaline content sodium hypo- chlorite or chlorine gas. filtration through manga- dizing filter thro activated carbon purifier filtration"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "gravity )",
+      "explanation_long": "gravity ) ce. Chlorination (PDE) adding an appropriate coagulant to the water) Hardness Corrosion Pollutton 1ONAL CONSULTANCY WATER QUALITY PROBLEMS AND THEIR CORRECTIONS IN PRIVATE WATER SYSTEM nesium salts from Calcium and mag- Clogging of pipes by scale, burning out of boilers and affects launary & Acidity, entrained Oxygen & carbon Dioxide (low pH) Closing of iron pipe by rust, destroy brass pipe Contamination by organic matter or Disease Color lron and manga- T Discoloration of Fixtures and Taste or | Organic matter Unpleasantness Jon Exchanger Zeolite process Raising the Chlorination by Precipitation by nese zeolite OxI- Fiwy",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#4 | pages 8-9",
+      "quality_flag": "probable",
+      "source_pages": [
+        8,
+        9
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "In slow sand filter, it is the layer of unpurified water above the sand bed",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supernatant"
+        },
+        {
+          "label": "B",
+          "text": "Schmutzdecke (german word for dirt"
+        },
+        {
+          "label": "C",
+          "text": "Raw Water (received from well and Supernatant"
+        },
+        {
+          "label": "D",
+          "text": "Surface Water (portion of rainfall above the nder-drainage"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "cover, a hypogeal biological layer formed",
+      "explanation_long": "cover, a hypogeal biological layer formed on the surface of a slow sand filter) Flow control (aN surface waters) which runs off over the surface of the ground instead of being absorbed into the earth) Slow Sand Filter Schmutzdecke Supporting gravel",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#5 | pages 10-11",
+      "quality_flag": "probable",
+      "source_pages": [
+        10,
+        11
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "A system of water mains is delivered pressure",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air Pressure (uses air pressure from suction tank for tall buildings which can’t be"
+        },
+        {
+          "label": "B",
+          "text": "Downfeed (by gravity from overhead tanks)"
+        },
+        {
+          "label": "C",
+          "text": "Direct"
+        },
+        {
+          "label": "D",
+          "text": "Upteed Air Pressure to low rise buildings bya normal water"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. . Downfeed Direct distribution where water 1ONAL CONSULTANCY from public water reached by normal water pressure)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#6 | pages 12-13",
+      "quality_flag": "probable",
+      "source_pages": [
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "It is the pipe that lets fresh water enter the water heater through the top of the tank",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sacrificial Rods (a long metal rod made of ___— Hot-Cold connections"
+        },
+        {
+          "label": "B",
+          "text": "Dip Tube Anode rod"
+        },
+        {
+          "label": "C",
+          "text": "Cold Water Valve"
+        },
+        {
+          "label": "D",
+          "text": "Inlet Pi pe =————— Cold water dip tube"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "magnesium or aluminum, “sacrificing” itself to prevent Water tank",
+      "explanation_long": "magnesium or aluminum, “sacrificing” itself to prevent Water tank corrosion of the tank) TP valve (S5 C e) | dWaterVa | ve Flue baffle [Heat exchanger Hot combustion gas Gas control valve Thermostat Heat transfer surface Air intake Combustion chamber Burner",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#7 | pages 14-15",
+      "quality_flag": "probable",
+      "source_pages": [
+        14,
+        15
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "The level of disease that occurs infrequently and irregularly . Endemic . Epidemic",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endemic (infection that is maintained"
+        },
+        {
+          "label": "B",
+          "text": "Epidemic (sudden increase in cases"
+        },
+        {
+          "label": "C",
+          "text": "Sporadic"
+        },
+        {
+          "label": "D",
+          "text": "Pandemic (has spread over several population) efu"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". Pandemic",
+      "explanation_long": ". Pandemic ata baseline level in a geographic area) = SORRY above of what is normally expected ina community or region) countries or continents, affecting a large (a) Endemic disease (b) Sporadic (c) Epidemic (d) Pandemic Key: = Normal range + = New case of disease",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#8 | pages 16-17",
+      "quality_flag": "probable",
+      "source_pages": [
+        16,
+        17
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "What is that device in a faucet in which water flow can be redirected back and forth between the faucet spout and to the shower spray?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diverter"
+        },
+        {
+          "label": "B",
+          "text": "Overflow"
+        },
+        {
+          "label": "C",
+          "text": "Pop-up"
+        },
+        {
+          "label": "D",
+          "text": "Deflector"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#9 | pages 18-19",
+      "quality_flag": "review",
+      "source_pages": [
+        18,
+        19
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Is any condition or act which increases or may cause an increase in the likelihood of a fire",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fire Trap (a building unsafe in case of fire because it will burn easily or because"
+        },
+        {
+          "label": "B",
+          "text": "Fire Hazard"
+        },
+        {
+          "label": "C",
+          "text": "Unsafe Act (refer to actions or behaviors that deviate from established safety"
+        },
+        {
+          "label": "D",
+          "text": "Unsafe Condition (refer to hazardous physical environments that can lead to"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "it lacks adequate exits or fire escapes)",
+      "explanation_long": "it lacks adequate exits or fire escapes) protocol) accidents or injuries)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#10 | pages 20-21",
+      "quality_flag": "probable",
+      "source_pages": [
+        20,
+        21
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Level of water supply that delivers water to average of 100 households",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Point Source (Level I- a protected well; serves around 15-25 households)"
+        },
+        {
+          "label": "B",
+          "text": "Communal Faucet System or Standposts (Leve/ 2)"
+        },
+        {
+          "label": "C",
+          "text": "Waterworks System (Level 3- system with a source, a reservoir, a piped"
+        },
+        {
+          "label": "D",
+          "text": "Individual House Connections (Level 3)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "distribution network and household taps)",
+      "explanation_long": "distribution network and household taps)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#11 | pages 22-23",
+      "quality_flag": "candidate",
+      "source_pages": [
+        22,
+        23
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Drain cleaner is what value in pH scale?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "9"
+        },
+        {
+          "label": "C",
+          "text": "13"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 14",
+      "explanation_long": ". 14",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#12 | pages 24-25",
+      "quality_flag": "candidate",
+      "source_pages": [
+        24,
+        25
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "lt is a type of corrosion where the breakdown of pipe material at uniform rate over its entire surface by direct chemical attack",
+      "choices": [
+        {
+          "label": "A",
+          "text": "General"
+        },
+        {
+          "label": "B",
+          "text": "Uniform"
+        },
+        {
+          "label": "C",
+          "text": "Localized (type of corrosion in which there is a high-rate intense attack at"
+        },
+        {
+          "label": "D",
+          "text": "Direct Generalized corrosion cere ee"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "localized areas on the metal surface)",
+      "explanation_long": "localized areas on the metal surface) Localized corrosion",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#13 | pages 26-27",
+      "quality_flag": "candidate",
+      "source_pages": [
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "A type of water hardness that can be easily removed by boiling the water",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Permanent (non-carbonate hardness, presence of sulfates and chlorides of"
+        },
+        {
+          "label": "B",
+          "text": "Temporary (presence of bicarbonates of calcium and magnesium)"
+        },
+        {
+          "label": "C",
+          "text": "Total (the sum of the calcium and magnesium concentrations expressed as"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "calcium and magnesium in water; can be corrected by ion exchanger zeolite process",
+      "explanation_long": "calcium and magnesium in water; can be corrected by ion exchanger zeolite process or by washing soda) calcium carbonate, in milligrams per liter (mg/L)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#14 | pages 28-29",
+      "quality_flag": "probable",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It produces biopure water that is free from particulate matter, minerals, organics and bacteria",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Filtration"
+        },
+        {
+          "label": "B",
+          "text": "Boiling"
+        },
+        {
+          "label": "C",
+          "text": "Distillation"
+        },
+        {
+          "label": "D",
+          "text": "lon Exchanger Zeolite Process (used for water softening)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#15 | pages 30-31",
+      "quality_flag": "probable",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: D -> (used for water softening)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "lt is a water purification process in which water is passed through a porous bed of filter medium by a basic force called biological action",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Slow Sand Filter"
+        },
+        {
+          "label": "B",
+          "text": "Rapid Sand Filter (commonly used in treating large quantities of water, it"
+        },
+        {
+          "label": "C",
+          "text": "Deep Bed Sand Filtration (when used on drinking water, these filters provide an"
+        },
+        {
+          "label": "D",
+          "text": "Fine Sand Filtration"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "depends primarily on mechanical straining rather than biological filtration)",
+      "explanation_long": "depends primarily on mechanical straining rather than biological filtration) effective barrier to many drinking water contaminants, with excellent removal of turbidity, metals, microorganisms and colour)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#16 | pages 32-33",
+      "quality_flag": "candidate",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "A water received from well and surface waters",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Raw Water"
+        },
+        {
+          "label": "B",
+          "text": "Mineral Water (is sourced from mineral springs and contains various naturally"
+        },
+        {
+          "label": "C",
+          "text": "Deionized Water (highly purified water that has had nearly all of its dissolved"
+        },
+        {
+          "label": "D",
+          "text": "Potable Water (water satisfactory for drinking, culinary and domestic purposes,"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "occurring minerals, offering potential health benefits)",
+      "explanation_long": "occurring minerals, offering potential health benefits) mineral ions removed through a process called ion exchange) meeting the requirements of the PNSDW)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#17 | pages 34-35",
+      "quality_flag": "probable",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is the ratio of water vapor mass to the total mass of air and water vapor",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Humidity (is the amount of water vapor in the air)"
+        },
+        {
+          "label": "B",
+          "text": "Specific Humidity"
+        },
+        {
+          "label": "C",
+          "text": "Relative Humidity (the ratio between the actual quantity of water vapor and the"
+        },
+        {
+          "label": "D",
+          "text": "Non- Relative Humidity"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "amount of water vapor that the air can hold ata given temperature)",
+      "explanation_long": "amount of water vapor that the air can hold ata given temperature)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#18 | pages 36-37",
+      "quality_flag": "candidate",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q019",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Also known as Muriatic Acid",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrochloric Acid"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen Sulfate (also used as a cleaning agent, a deodorant, and a sterilizing"
+        },
+        {
+          "label": "C",
+          "text": "Hydrogen Sulfide (a colorless, highly corrosive gas often found in water supplies"
+        },
+        {
+          "label": "D",
+          "text": "Sodium Hypochlorite (diluted with water to create bleach, used as an oxidizing"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "agent)",
+      "explanation_long": "agent) that imparts a strong odor of rotten egg) and disinfecting agent)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#19 | pages 38-39",
+      "quality_flag": "probable",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "lt refers to fluid flow in which fluid particles move in layers, in straight, parallel paths",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laminar"
+        },
+        {
+          "label": "B",
+          "text": "Turbulent (characterized by irregular and Laminar flow"
+        },
+        {
+          "label": "C",
+          "text": "Streamline"
+        },
+        {
+          "label": "D",
+          "text": "Both A and C"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "chaotic fluid motion)",
+      "explanation_long": "chaotic fluid motion)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#20 | pages 40-41",
+      "quality_flag": "candidate",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (characterized by irregular and Laminar flow"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is a colorless gas, used for illuminating and in welding and soldering?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LPG (Liquified Petroleum Gas)"
+        },
+        {
+          "label": "B",
+          "text": "Acetylene"
+        },
+        {
+          "label": "C",
+          "text": "Methane (colorless, odorless gas formed naturally by the decomposition of"
+        },
+        {
+          "label": "D",
+          "text": "Natural Gas"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "organic matter, it is the main component of natural gas)",
+      "explanation_long": "organic matter, it is the main component of natural gas)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#21 | pages 42-43",
+      "quality_flag": "candidate",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drop Elbow 90 deg"
+        },
+        {
+          "label": "B",
+          "text": "Winged Elbow 90 deg"
+        },
+        {
+          "label": "C",
+          "text": "Service Elbow 90 deg"
+        },
+        {
+          "label": "D",
+          "text": "Street Elbow 90 deg"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#22 | pages 44-45",
+      "quality_flag": "review",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Also known as Sluice Valve",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gate Valve"
+        },
+        {
+          "label": "B",
+          "text": "Butterfly Valve"
+        },
+        {
+          "label": "C",
+          "text": "Foot Valve"
+        },
+        {
+          "label": "D",
+          "text": "Pressure Relief Valve"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#23 | pages 46-47",
+      "quality_flag": "review",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "fire class that has a symbol of blue circle",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Class A"
+        },
+        {
+          "label": "B",
+          "text": "Class B"
+        },
+        {
+          "label": "C",
+          "text": "Class C"
+        },
+        {
+          "label": "D",
+          "text": "Class K"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Class A",
+      "explanation_long": "Class A Class B Class C Class K Class A: Ordinary Combustibles Class B: Flammable or combustible liquids of gases 1ONAL CONSULTANCY Fire Extinguisher Class Chart Wood, paper, cloth, trash, plastics, and other solids that are not metal Gasoline, oil, petroleum greases, tars, oils, oil-based paints, solvents, lacquers, alcohols, flammable gases Class C: Electrical Energized electrical equipment (plugged-in) Class D: Metals Class K: Combustible cooking Magnesium, titanium, zirconium, sodium, lithium, and potassium Grease or oil, such as vegetable oils, animal gil, of fats in cooking appliances",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#24 | pages 48-49",
+      "quality_flag": "candidate",
+      "source_pages": [
+        48,
+        49
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "1 FUisequivalenttoquartzperminute",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 5"
+        },
+        {
+          "label": "B",
+          "text": "2 2. 4 4"
+        },
+        {
+          "label": "C",
+          "text": "3 0"
+        },
+        {
+          "label": "D",
+          "text": "3 7. 4"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#25 | pages 50-51",
+      "quality_flag": "review",
+      "source_pages": [
+        50,
+        51
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "lt is the physical process that refers to the gentle mixing of water to form or larger and heavier particles",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coagulation (a chemical! process that involves adding an appropriate coagulant"
+        },
+        {
+          "label": "B",
+          "text": "Flocculation"
+        },
+        {
+          "label": "C",
+          "text": "Sedimentation Alumnation"
+        },
+        {
+          "label": "D",
+          "text": "Alumnation"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "to the water)",
+      "explanation_long": "to the water)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#26 | pages 52-53",
+      "quality_flag": "candidate",
+      "source_pages": [
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "As defined in PD 856, it is the distance measured from the liquid level line to the inside top of the septic tank",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air Space"
+        },
+        {
+          "label": "B",
+          "text": "Unwetted Space"
+        },
+        {
+          "label": "C",
+          "text": "Freeboard"
+        },
+        {
+          "label": "D",
+          "text": "Both A and C (PD 856)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "g. Freeboard or air space of a septic tank - The distance as measured from the liquid level line",
+      "explanation_long": "g. Freeboard or air space of a septic tank - The distance as measured from the liquid level line to the inside top of the septic tank.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#27 | pages 54-55",
+      "quality_flag": "candidate",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> Both A and C (PD 856)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "What is the specific heat capacity of water in J/g:°C",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4.184"
+        },
+        {
+          "label": "B",
+          "text": "4,184"
+        },
+        {
+          "label": "C",
+          "text": "334 (j/g; the amount of heat required to change ice into water)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". 144",
+      "explanation_long": ". 144 . 4,184 (j/kg; specific heat capacity of water) . 144 (in BTU; the amount of heat required to change ice into water) *Specific heat capacity is the amount of heat needed to raise one gram of a material by one degree celsius (C)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#28 | pages 56-57",
+      "quality_flag": "probable",
+      "source_pages": [
+        56,
+        57
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (j/g; the amount of heat required to change ice into water)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "pH scale is a measure of the acidity or alkalinity of a solution, what does PH means?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Power of Hydrogen"
+        },
+        {
+          "label": "C",
+          "text": "Property of Hydrogen"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Potential of Hydrogen",
+      "explanation_long": ". Potential of Hydrogen . Both A & B . Potential of Hydrogen . Both A & B",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#29 | pages 58-59",
+      "quality_flag": "candidate",
+      "source_pages": [
+        58,
+        59
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is a pump used to deliver water at a point higher than the position of the pump itself",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Force Pump (also called pressure pump)"
+        },
+        {
+          "label": "B",
+          "text": "Lift Pump (also called suction pump)"
+        },
+        {
+          "label": "C",
+          "text": "Sump Pump"
+        },
+        {
+          "label": "D",
+          "text": "Submersible Pump"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Submersible Pump",
+      "explanation_long": ". Submersible Pump",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#30 | pages 60-61",
+      "quality_flag": "candidate",
+      "source_pages": [
+        60,
+        61
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "A public sewerage system is a system serving persons or more",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Public sewerage system - A system serving twenty five persons or more."
+        },
+        {
+          "label": "B",
+          "text": "25"
+        },
+        {
+          "label": "C",
+          "text": "30"
+        },
+        {
+          "label": "D",
+          "text": "50"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#31 | pages 62-63",
+      "quality_flag": "review",
+      "source_pages": [
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is a natural or artificial basin where water is collected and used as a source of water supply",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dam (is a structure built across a river or stream to retain water and control its"
+        },
+        {
+          "label": "B",
+          "text": "Catch Basin (a receptacle in which liquids are retained for a sufficient period of"
+        },
+        {
+          "label": "C",
+          "text": "Reservoir"
+        },
+        {
+          "label": "D",
+          "text": "Lake (a large body of water surrounded by land)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "flow)",
+      "explanation_long": "flow) time to allow settleable material to deposit)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#32 | pages 64-65",
+      "quality_flag": "probable",
+      "source_pages": [
+        64,
+        65
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is defined as the ratio of the outer diameter of the pipe and the wall thickness of the pipe",
+      "choices": [
+        {
+          "label": "A",
+          "text": "OD-ID Ratio"
+        },
+        {
+          "label": "B",
+          "text": "Standard Dimension Ratio"
+        },
+        {
+          "label": "C",
+          "text": "ID-OD Ratio"
+        },
+        {
+          "label": "D",
+          "text": "Specific Dimension Ratio"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "*higher SDR indicates a thinner walled pipe at any given diameter",
+      "explanation_long": "*higher SDR indicates a thinner walled pipe at any given diameter",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#33 | pages 66-67",
+      "quality_flag": "candidate",
+      "source_pages": [
+        66,
+        67
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Also known as lye or caustic soda, and used as a drain cleaner",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sodium Hypochlorite (bleach diluted in water)"
+        },
+        {
+          "label": "B",
+          "text": "Sodium Chloride (edible sa/t)"
+        },
+        {
+          "label": "C",
+          "text": "Sodium Hydroxide"
+        },
+        {
+          "label": "D",
+          "text": "Sodium Carbonate (also called washing soda, used for softening water)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#34 | pages 68-69",
+      "quality_flag": "probable",
+      "source_pages": [
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "A sewage that contains little or no oxygen and is free from putrefaction",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stale"
+        },
+        {
+          "label": "B",
+          "text": "Septic (putrid in odor which is due to generation of H2S during anaerobic"
+        },
+        {
+          "label": "C",
+          "text": "Raw (refers to untreated sewage)"
+        },
+        {
+          "label": "D",
+          "text": "Domestic (liquid and waterborne wastes derived from the ordinary living processes,"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". Domestic",
+      "explanation_long": ". Domestic decomposition of organic matters) free from industrial wastes)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#35 | pages 70-71",
+      "quality_flag": "probable",
+      "source_pages": [
+        70,
+        71
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is also known as transite pipe and mostly discontinued due to health concerns it may cause",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asbestos Cement Pipe"
+        },
+        {
+          "label": "B",
+          "text": "Orangeburg Pipe"
+        },
+        {
+          "label": "C",
+          "text": "Lead Pipe"
+        },
+        {
+          "label": "D",
+          "text": "Bituminous Fiber Pipe"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Bituminous Fiber Pipe",
+      "explanation_long": ". Bituminous Fiber Pipe",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#36 | pages 72-73",
+      "quality_flag": "candidate",
+      "source_pages": [
+        72,
+        73
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "The formation of vapor bubbles in a liquid at low pressures in regions where the liquid has been accelerated to high speeds, such as in centrifugal pumps.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ca pl lla ry Action Pump Imploding air bubbles"
+        },
+        {
+          "label": "B",
+          "text": "Cavitation (adiabatic heat,"
+        },
+        {
+          "label": "C",
+          "text": "Vaporization Formation of “y & damage,"
+        },
+        {
+          "label": "D",
+          "text": "Pressurization entrained air vapor"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "- localized thermal oil",
+      "explanation_long": "- localized thermal oil vapor and e . microdieseling) Suction-line \" restriction (too : Cavitation narrow, too long) AL damage from From tank",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#37 | pages 74-75",
+      "quality_flag": "candidate",
+      "source_pages": [
+        74,
+        75
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Hard",
+      "prompt": "lt is an impairment of the quality of potable water which creates an actual hazard to the public health through poisoning or spread of disease by sewage, industrial fluids or waste. Also, defined as High Hazard.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hazardous"
+        },
+        {
+          "label": "B",
+          "text": "Pollution (an impairment of the quality of water to a degree which creates"
+        },
+        {
+          "label": "C",
+          "text": "Contamination"
+        },
+        {
+          "label": "D",
+          "text": "Risk"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "hazard to the public health and adversely affects the aesthetic and potable quality",
+      "explanation_long": "hazard to the public health and adversely affects the aesthetic and potable quality ot waters for domestic use. Defined as Low Hazard)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#38 | pages 76-77",
+      "quality_flag": "candidate",
+      "source_pages": [
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (an impairment of the quality of water to a degree which creates"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "It is used for cleaning, and polishing copper pipes prior to soldering",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deburring Tool"
+        },
+        {
+          "label": "B",
+          "text": "Sandpaper"
+        },
+        {
+          "label": "C",
+          "text": "Emery Cloth"
+        },
+        {
+          "label": "D",
+          "text": "Flux"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#39 | pages 78-79",
+      "quality_flag": "review",
+      "source_pages": [
+        78,
+        79
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "The installation of to increase water flow direct from the water distribution line of a water supply system where low-water pressure prevails is prohibited",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pressure Pump"
+        },
+        {
+          "label": "C",
+          "text": "Suction Pump"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Booster Pump",
+      "explanation_long": ". Booster Pump . Force Pump - Booster Pump . Force Pump",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#40 | pages 80-81",
+      "quality_flag": "candidate",
+      "source_pages": [
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "What is the type of gas vent that is only used as connectors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type B (only for listed, draft-hood equipped, gas-fired appliances)"
+        },
+        {
+          "label": "B",
+          "text": "Type L (venting approved oil-fired and natural gas appliances)"
+        },
+        {
+          "label": "C",
+          "text": "Type C"
+        },
+        {
+          "label": "D",
+          "text": "Type BW (venting listed gas-fired vented wall furnaces or gas fired vented"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "recessed heaters)",
+      "explanation_long": "recessed heaters)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#41 | pages 82-83",
+      "quality_flag": "probable",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Identify, it is used to retrieve rocks, tools and other objects that have fallen into the drain or pipe",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grappler Hook (Ridgid Catalogue)"
+        },
+        {
+          "label": "B",
+          "text": "Retrieving Claw"
+        },
+        {
+          "label": "C",
+          "text": "Grabbing Hook"
+        },
+        {
+          "label": "D",
+          "text": "Retrieving Hook"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#42 | pages 84-85",
+      "quality_flag": "probable",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (Ridgid Catalogue)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "TPI suitable for cutting thin, light-gauge hollow sections and tubing",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14 (large sizes, aluminum and other soft metals)"
+        },
+        {
+          "label": "B",
+          "text": "18 (general workshop cutting, cutting hanger rod)"
+        },
+        {
+          "label": "C",
+          "text": "24 (angle iron or steel plate)"
+        },
+        {
+          "label": "D",
+          "text": "52"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": ". 32 (thin, light-gauge hollow sections and tubing)",
+      "explanation_long": ". 32 (thin, light-gauge hollow sections and tubing)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#453 | pages 86-87",
+      "quality_flag": "probable",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "laboratory procedure that simulates coagulation/flocculation in water treatment plant",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Container Test"
+        },
+        {
+          "label": "B",
+          "text": "Jar Test"
+        },
+        {
+          "label": "C",
+          "text": "Lab Test"
+        },
+        {
+          "label": "D",
+          "text": "Cylinder Test"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#44 | pages 88-89",
+      "quality_flag": "review",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Equipment or materials bearing a label of a listing agency",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Labeled"
+        },
+        {
+          "label": "B",
+          "text": "Listed (equipment or materials included ina list published by a listing agency)"
+        },
+        {
+          "label": "C",
+          "text": "Marked"
+        },
+        {
+          "label": "D",
+          "text": "Regulated"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#45 | pages 90-91",
+      "quality_flag": "probable",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> (equipment or materials included ina list published by a listing agency)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Maximum service temperature of PP",
+      "choices": [
+        {
+          "label": "A",
+          "text": "I4OF"
+        },
+        {
+          "label": "B",
+          "text": "160F"
+        },
+        {
+          "label": "C",
+          "text": "180F"
+        },
+        {
+          "label": "D",
+          "text": "220F"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#46 | pages 92-93",
+      "quality_flag": "review",
+      "source_pages": [
+        92,
+        93
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "What is the SI unit of luminous intensity? . Lux",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lux (illuminance)"
+        },
+        {
+          "label": "B",
+          "text": "Lumen (luminous flux)"
+        },
+        {
+          "label": "C",
+          "text": "Candela"
+        },
+        {
+          "label": "D",
+          "text": "Tesla (magnetic flux density) meter kilogram second ampere kelvin candela mole"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". Tesla",
+      "explanation_long": ". Tesla Name of SI unit Symbol of SI unit Time Electric current Thermodynamic Temperature Luminous intensity Amount of substance",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#47 | pages 94-95",
+      "quality_flag": "probable",
+      "source_pages": [
+        94,
+        95
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "lt is a measurement of heat equivalent to 100,000 BTU",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Therm"
+        },
+        {
+          "label": "B",
+          "text": "Tons of Refrigeration (1 BTU = 8.33x10-*)"
+        },
+        {
+          "label": "C",
+          "text": "Joules (7 BTU = 1,055 joules)"
+        },
+        {
+          "label": "D",
+          "text": "Calories (1 BTU = 252 calories)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#48 | pages 96-97",
+      "quality_flag": "probable",
+      "source_pages": [
+        96,
+        97
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Medium",
+      "prompt": "Refers to the evaporation of water from plants occurring at the leaves",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Evapotranspiration (the sum of all processes by which water moves from the land"
+        },
+        {
+          "label": "B",
+          "text": "Transpiration"
+        },
+        {
+          "label": "C",
+          "text": "Dew (water in the form of droplets that appears on thin, exposed objects in the"
+        },
+        {
+          "label": "D",
+          "text": "Photosynthesis (the process by which green plants and certain other organisms"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Photosynthesis",
+      "explanation_long": ". Photosynthesis surface to the atmosphere through evaporation and transpiration) morning or evening due to condensation) transform light energy into chemical energy)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#49 | pages 98-99",
+      "quality_flag": "candidate",
+      "source_pages": [
+        98,
+        99
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-08-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "What is the study of water flow in aquifers and the characterization of aquifers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "R. SEAN A. DUPAYA, UAP, RMP"
+        },
+        {
+          "label": "B",
+          "text": "Hydrology (the science dealing with the properties, distribution, circulation and"
+        },
+        {
+          "label": "C",
+          "text": "Hydrologic Cycle (also known as Water Cycle)"
+        },
+        {
+          "label": "D",
+          "text": "Hydrodynamics (the study of the motion of fluids and the forces acted on solids"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "movement of water throughout the earth)",
+      "explanation_long": "movement of water throughout the earth) within these fluids in motion within them)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#50 | pages 100-101-102",
+      "quality_flag": "candidate",
+      "source_pages": [
+        100,
+        101,
+        102
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

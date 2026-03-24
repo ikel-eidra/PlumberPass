@@ -1,0 +1,2291 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "probable": 17,
+      "candidate": 31,
+      "review": 2
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-07",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 7.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:02:38.904393+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "MCQ bank still has too many unresolved answers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-07-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "What pipe material was’ introduced Philippines at the early part of 70's?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Copper"
+        },
+        {
+          "label": "B",
+          "text": "Brass"
+        },
+        {
+          "label": "C",
+          "text": "Plastic (PDE, Chapter 2, Plumbing Materials)"
+        },
+        {
+          "label": "D",
+          "text": "Cast Iron"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#1 | pages 2-3",
+      "quality_flag": "probable",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> (PDE, Chapter 2, Plumbing Materials)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "Identify “engagement Length",
+      "choices": [
+        {
+          "label": "A",
+          "text": "End to End Distance"
+        },
+        {
+          "label": "B",
+          "text": "Face to Face Distance"
+        },
+        {
+          "label": "C",
+          "text": "Face to Face Distance (PDE, Chapter 3, Measuring, Cutting"
+        },
+        {
+          "label": "D",
+          "text": "Developed Length (the length of a pipe along its centerline"
+        },
+        {
+          "label": "E",
+          "text": "ND TO CENTER CENTER TO CENTER ND TO END FACE TO FACE CENTER TO BACK CENTER TO THROAT"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "and Joining Pipes)",
+      "explanation_long": "and Joining Pipes) and fittings) + Yh —— | ' | ' Figure 2: Tube/pipe measurement diagram: laying length C-C-0V-GV (A), socket depth (B), face-to-face distance (C), pipe length (D), and center-to-center distance (E). aaa",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#2 | pages 4-5-6",
+      "quality_flag": "candidate",
+      "source_pages": [
+        4,
+        5,
+        6
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "To ensure’ tight and ~ rigid connection of galvanized steel pipes, the threads should be slightly so that turning of the fitting will be harder the deeper you screwed",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tapered (PDE, Chapter 3, cig te ope i fe a"
+        },
+        {
+          "label": "B",
+          "text": "Slanted"
+        },
+        {
+          "label": "C",
+          "text": "Lubricated threading operations. _"
+        },
+        {
+          "label": "D",
+          "text": "Cleaned"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "A . . . for one to know before hand z",
+      "explanation_long": "A . . . for one to know before hand z Measuring, Cutting and Joining Pipes) for one 10 ee Never hold threaded a During the process poh ca National Pipe Tapered (NPT) National Pipe Straight (NPS)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#3 | pages 7-8",
+      "quality_flag": "candidate",
+      "source_pages": [
+        7,
+        8
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the maximum allowed time for a fluxed joint to be exposed to air before soldering?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "| h our Soldering Copper Pipe Joints"
+        },
+        {
+          "label": "B",
+          "text": "2 hours"
+        },
+        {
+          "label": "C",
+          "text": "3 hours (PDE, Chapter 3, clothe or fine sand paper seal"
+        },
+        {
+          "label": "D",
+          "text": "4 hours"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "b . 2 h ours 1. Clean thoroughly both ends of the pipe to a bright”)",
+      "explanation_long": "b . 2 h ours 1. Clean thoroughly both ends of the pipe to a bright”) finish including the inside of the fittings with emery) Apply a tin coat of non-corrosive flux or soldering | M easurin g, Cuttin gan d paste to all cleaned surface of the pipe and fittings. Place the fitting up to the hub and rotate for several J oinin g P ip © s) times until the flux.is evenly spread. Wipe the excess flux around the fitting and solder d . 4 h Ours one operation only. With a propane torch, heat the fitting uniformly around the pipe. Never allow the fluxed joint to stand for more hours before soldering. _ a During the process of cooling, avoid disturbing the” pipe or the fitting for it might weaken or break the",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#4 | pages 9-10",
+      "quality_flag": "candidate",
+      "source_pages": [
+        9,
+        10
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "What is the oldest type of public sewer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sanitary . Storm"
+        },
+        {
+          "label": "C",
+          "text": "Combination (PDE, Chapter 4, Sewage Disposal System)"
+        },
+        {
+          "label": "D",
+          "text": "Intercepting"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Intercepting",
+      "explanation_long": ". Intercepting",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#5 | pages 11-12",
+      "quality_flag": "candidate",
+      "source_pages": [
+        11,
+        12
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "For condensers and sumps, what is the purpose of installing wearing plates or baffles in the tank?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "to protect the shell (RNPCP, Feo ron snaps proved indirect l l"
+        },
+        {
+          "label": "B",
+          "text": "to minimize leakage Coe 4 1"
+        },
+        {
+          "label": "C",
+          "text": "to eliminate hot water pressure"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "bitumious coating Vent",
+      "explanation_long": "bitumious coating Vent 2\" (50 mm) minimum Chapter 8, Section 810 - Steam Pte are prohibited. 3/4\" (20 mm) opening and Hot Water Drainage sce, ak ts ee ee | Condensers and Sumps) mer ane ne Y= ipa aes 5 5. Shall be provided all: rly i Drain Valve t . Cct e) e | mMnaTehoOTWwaTerpreSSUre Shall contain a volume of not less Miveor tran tah treceo ty than twice the volume of water removed from the boiler of boilers Condensor or sump e ep connected thereto when the normal Deep seal trap must extend to ; dNnONneOfthe [e| bOVe water level of such boiler or boilers isen woes tees oDof reduced not less than 4 inches (101.6 mm). FIGURE 810.1 HOT WATER CONDENSER inlets shall enter above the water line. Wearing plates or baffles shall be installed in the tank to protect the shell. The sizes of the blowoff line inlets, the water outlets and the vent shall be",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#6 | pages 13-14",
+      "quality_flag": "candidate",
+      "source_pages": [
+        13,
+        14
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the bacteria that functions even with or without free oxygen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaerobic The life process of Aerobic bacteria is in the pre ence"
+        },
+        {
+          "label": "B",
+          "text": "Aerobic"
+        },
+        {
+          "label": "C",
+          "text": "Facultative (PDE, Facultative bacteria also Punetione even oes ws a"
+        },
+        {
+          "label": "D",
+          "text": "Septic 1. Food Supply"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "of material oxygen. The Anaerobic bacteria on the",
+      "explanation_long": "of material oxygen. The Anaerobic bacteria on the p. Aerobic te functions in the absence of free oxygen. Likews ree en. These three types of bacteria have nO Fenn Chapter 4, Sewage retliseace, ‘They thrive naturally in sewage, and will fi Disposal System) tion when conditions are favorable in terms of. 2. Temperature 3. Moisture",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#7 | pages 15-16",
+      "quality_flag": "probable",
+      "source_pages": [
+        15,
+        16
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "What is the depth of liquid content necessary for an effective decomposition of the organic materials inside the septic tank?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.6 m"
+        },
+        {
+          "label": "B",
+          "text": "120 ecm (PDE, Chapter"
+        },
+        {
+          "label": "C",
+          "text": "150 cm"
+        },
+        {
+          "label": "D",
+          "text": "1.8 m"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "4, Sewage Disposal",
+      "explanation_long": "4, Sewage Disposal System)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#8 | pages 17-18",
+      "quality_flag": "probable",
+      "source_pages": [
+        17,
+        18
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 120 ecm (PDE, Chapter"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the most practical method determining the size of a house drain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unit System (PDE, Chapter 7, The House Drain)"
+        },
+        {
+          "label": "C",
+          "text": "International System seen teeny"
+        },
+        {
+          "label": "D",
+          "text": "Table System se Drain odto use"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". Sovent System",
+      "explanation_long": ". Sovent System . Table System to . Sovent System The Unit System is the most practical meth beet 7-2 Determining the Size of Hou in. It has aa nining the size of a house drain. * from tests conducted by the Uniform ‘Code Committee, a body consisting of management, labor and government",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#9 | pages 19-20",
+      "quality_flag": "probable",
+      "source_pages": [
+        19,
+        20
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "A cleanout shall be installed at every meters interval distance, and also at the base of all soil and waste stack.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15 m"
+        },
+        {
+          "label": "B",
+          "text": "20 m (PDE, Chapter 7, The House Drain)"
+        },
+        {
+          "label": "C",
+          "text": "25 m"
+        },
+        {
+          "label": "D",
+          "text": "30 m waste stack"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "15 m (RNPCP, intervals of cleanouts on each run of piping",
+      "explanation_long": "15 m (RNPCP, intervals of cleanouts on each run of piping more than 15m in total developed length) 7. A cleanout shall be installed at every 20 meters in terval distance, and also at the base of all gojj and",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#10 | pages 21-22",
+      "quality_flag": "candidate",
+      "source_pages": [
+        21,
+        22
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "As an experience plumber, what would be the minimum size of a floor drain p-trap?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "32 mm"
+        },
+        {
+          "label": "B",
+          "text": "38 mm"
+        },
+        {
+          "label": "C",
+          "text": "51 mm (RNPCP; min. tra than 75 mm diameter on floor drain. More so, W"
+        },
+        {
+          "label": "D",
+          "text": "75 mm (PDE. Chapter 7, ‘ra short distance floor drain an"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 58 mm",
+      "explanation_long": ". 58 mm Experienced plumber will not install A sbees “4 j 75 iitwi ‘ (:; Pbe installed underground or embedded in concrete slab. diameter for floor drai n) The difference in cost between a 50 and 75 eens | short; did P-Trap is immaterial, ( / P ’ compared with the risk and the inconvemences that will be The House Drain ) encountered in case of drain trouble, Experienced plumber specify floor drain not less than 75 mm.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#11 | pages 23-24",
+      "quality_flag": "candidate",
+      "source_pages": [
+        23,
+        24
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the length of indirect waste piped to be directly trapped, but not need to be vented?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.5 - 4.6 m (RNPCP, Chapter 8: Indirect Waste"
+        },
+        {
+          "label": "B",
+          "text": "less than 1.5 m"
+        },
+        {
+          "label": "C",
+          "text": "greater than 4.6 m"
+        },
+        {
+          "label": "D",
+          "text": "1.8 - 3.2 m"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". less than 1.5 m",
+      "explanation_long": ". less than 1.5 m Piping, Wet-vented Systems and Special Wastes) separately to the outside air. Indirect waste pipes exceeding 1.5 meters but less than 4.6 meters length shall be directly trapped, but such traps need not be vented.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#12 | pages 25-26",
+      "quality_flag": "candidate",
+      "source_pages": [
+        25,
+        26
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circuit Vent"
+        },
+        {
+          "label": "B",
+          "text": "Individual Vent (PDE, Chapter"
+        },
+        {
+          "label": "C",
+          "text": "Loop Vent"
+        },
+        {
+          "label": "D",
+          "text": "Wet Vent"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "I], Plumbing Ventilation)",
+      "explanation_long": "I], Plumbing Ventilation)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#13 | pages 27-28",
+      "quality_flag": "probable",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> Individual Vent (PDE, Chapter"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "Number of urinals to number of occupants for principal worship places",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1:50 . 1:100"
+        },
+        {
+          "label": "C",
+          "text": "1:150"
+        },
+        {
+          "label": "D",
+          "text": "1:300 1:50"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 1:100",
+      "explanation_long": ". 1:100 1:150 (RNPCP, Table 4-1: Minimum Plumbing Facilities)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#14 | pages 29-30",
+      "quality_flag": "candidate",
+      "source_pages": [
+        29,
+        30
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "WFSU of public stall urinal",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 (for flush urinal)"
+        },
+        {
+          "label": "B",
+          "text": "5 (RNPCP, Table 6-5: Equivalent Water Supply Fixture Units)"
+        },
+        {
+          "label": "C",
+          "text": "6 (for private water closet flushometer valve)"
+        },
+        {
+          "label": "D",
+          "text": "10 (for pedestal urinal)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#15 | pages 31-32",
+      "quality_flag": "candidate",
+      "source_pages": [
+        31,
+        32
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "Unless prohibited by structural conditions, what is the reference of each vertical pipes before offsetting horizontally to join the vent stack or stack vent.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixture tailpiece"
+        },
+        {
+          "label": "B",
+          "text": "Airgap of fixture"
+        },
+        {
+          "label": "C",
+          "text": "Invert of trap"
+        },
+        {
+          "label": "D",
+          "text": "Highest flood level rim"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Airgap of fixture",
+      "explanation_long": ". Airgap of fixture . Invert of trap . Highest flood level rim (RNPCP, Chapter 9: Vents and Venting) i = WOEIAL VnT 77 UMTARS Fe¢ TO SAUER kerk",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#16 | pages 33-34-35",
+      "quality_flag": "candidate",
+      "source_pages": [
+        33,
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "What is the color of a sprinkler glass bulb with a temperature rating of 135C?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Orange (infoupdate.org) Celcius Fahrenheit"
+        },
+        {
+          "label": "B",
+          "text": "Green (200C) Yellow"
+        },
+        {
+          "label": "C",
+          "text": "Yellow"
+        },
+        {
+          "label": "D",
+          "text": "Green"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Red (155C)",
+      "explanation_long": "Red (155C) _ Yellow (174C) 227 / 260",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#17 | pages 36-37",
+      "quality_flag": "candidate",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "What is the minimum residual pressure for Class 1 standpipes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6.9 bar (NFPA 14, Standard for the Installation of"
+        },
+        {
+          "label": "B",
+          "text": "4.8 bar (residual pressure for class Il or wet standpipes)"
+        },
+        {
+          "label": "C",
+          "text": "150 psi"
+        },
+        {
+          "label": "D",
+          "text": "95 psi"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Standpipe and Hose Systems)",
+      "explanation_long": "Standpipe and Hose Systems) Residual pressure refers to the pressure remaining in a pipe during flow conditions. Static pressure refers to the pressure in a pipe when there is no flow.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#18 | pages 38-39",
+      "quality_flag": "candidate",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q019",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "1ONAL CONSULTANCY What is the minimum thickness of plaster on the inside walls of sumps and condensers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1O. mm Ilmm"
+        },
+        {
+          "label": "C",
+          "text": "12 mm"
+        },
+        {
+          "label": "D",
+          "text": "13 mm (RNPCP, Chapter 8: Indirect Waste Piping,"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": ". 13 mm",
+      "explanation_long": ". 13 mm Wet-vented Systems and Special Wastes) Sumps, condensers or intercepting tanks constructed of concrete shall have walls and bottom not less than 102 mm thickness, and the inside shall be cement plastered not less than 13 mm in thickness. Condensers constructed of metal shall be not less than No. 12 U.S. Standard gauge (2.77 mm thickness) and all such metal condensers shall be protected from external corrosion by an approved bituminous coating.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#19 | pages 40-41",
+      "quality_flag": "probable",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> 13 mm (RNPCP, Chapter 8: Indirect Waste Piping,"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "The total capacity of fixtures discharging into a grease trap shall not exceed times than the flow rate of the grease trap?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.5"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "ec. 2.5 (RNPCP, Chapter 10: Traps and Interceptors,",
+      "explanation_long": "ec. 2.5 (RNPCP, Chapter 10: Traps and Interceptors, the total number of connected fixtures. The total capacity of fixtures discharging into any such grease trap shall not exceed two and one-half (2 %) times the certified liters per minute flowrate of the grease trap as per Table 10-2.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#20 | pages 42-43",
+      "quality_flag": "candidate",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "? Whatisthewaterdemandforasinkfaucet",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0. 7 5"
+        },
+        {
+          "label": "B",
+          "text": "2. 5"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#21 | pages 44-45",
+      "quality_flag": "review",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "What type of gas vent that is suitable only for listed, draft hood equipped, gas fired appliances?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type B"
+        },
+        {
+          "label": "B",
+          "text": "Type BW (intended for venting listed gas-fired vented"
+        },
+        {
+          "label": "C",
+          "text": "Type BH (suitable only for positive and negative pressure"
+        },
+        {
+          "label": "D",
+          "text": "Type L (intended for venting approved oil-fired and"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". Type BW",
+      "explanation_long": ". Type BW . Type L wall furnaces or gas-fired vented recessed heaters) venting gas appliances producing flue gases at Class | ( >135c to <245c) or Class II (135c or less) temperatures.) natural gas appliances)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#22 | pages 46-47",
+      "quality_flag": "probable",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "What do you call the 1 or 2 magnesium or aluminum anode rods inside a water heater tanks to protect exposed steel from corrosion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dip Tube"
+        },
+        {
+          "label": "B",
+          "text": "Sacrificial Rods (Anti-"
+        },
+        {
+          "label": "C",
+          "text": "Tank Rods"
+        },
+        {
+          "label": "D",
+          "text": "Overflow Anode Rods"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "corrosion Anode Rods)",
+      "explanation_long": "corrosion Anode Rods)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#23 | pages 48-49",
+      "quality_flag": "candidate",
+      "source_pages": [
+        48,
+        49
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (Anti"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "When new mains are installed, or old mains repaired, they should be filled with strong chlorine solution of 40-60 mg per liter for at least hours",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "18"
+        },
+        {
+          "label": "C",
+          "text": "24 (Chapter 13, Cold Water Supply in Building)"
+        },
+        {
+          "label": "D",
+          "text": "56 7. When new mains are nste"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "paired, they should be filled ¥",
+      "explanation_long": "paired, they should be filled ¥ solution of 40 to 60 mg, PS",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#24 | pages 50-51",
+      "quality_flag": "candidate",
+      "source_pages": [
+        50,
+        51
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What was the accreditation number from the PRC of NAMPAP when it was still the APO of master plumber?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4. 8"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "14"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 12",
+      "explanation_long": ". 12 . 14 Subsequently, the Association was accredited by the PRC on October 2, 1975 as the fourteenth accredited professional organization.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#25 | pages 52-53",
+      "quality_flag": "candidate",
+      "source_pages": [
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 (for urinals- washout, washdown or siphon jet)"
+        },
+        {
+          "label": "B",
+          "text": "3 (for urinals- wall mounted, integral trap, trap"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "FU for pedestal and blow-out urinal 10"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "arm only)",
+      "explanation_long": "arm only) ec. 6 (RNPCP, Table 7-2: Minimum Trap Diameters and Drainage Fixture Unit Values)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#26 | pages 54-55",
+      "quality_flag": "candidate",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "direct",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the minimum size of waste pipe and trap in any CW & VS in reference to the sizes required and tailpiece size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 pipe size larger"
+        },
+        {
+          "label": "B",
+          "text": "51 mm"
+        },
+        {
+          "label": "C",
+          "text": "2 pipe size larger (RNPCP, Chapter 8:"
+        },
+        {
+          "label": "D",
+          "text": "76 mm"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". Stmm",
+      "explanation_long": ". Stmm . 2 pipe size larger . 76 mm Indirect Waste Piping, Wet-vented Systems and Special Wastes) Each waste pipe and each trap in any CW & VS shall be at least two (2) pipe sizes larger than the sizes required by Chapter 7 of this Code and at least two (2) pipe sizes larger than any fixture tailpiece or connection.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#27 | pages 56-57",
+      "quality_flag": "probable",
+      "source_pages": [
+        56,
+        57
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 2 pipe size larger (RNPCP, Chapter 8:"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "The choice of materials for hot water installation is limited to, except",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Copper Tube"
+        },
+        {
+          "label": "B",
+          "text": "Stainless Steel Pipe ealvanized iron metal could withsta"
+        },
+        {
+          "label": "C",
+          "text": "The ch als for hot ter inst"
+        },
+        {
+          "label": "D",
+          "text": "GI Pipe"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ", Heat increases the corrosive ropert)",
+      "explanation_long": ", Heat increases the corrosive ropert) PVDC Plastic Pipe oice of materi pone Gl Pipe (Chapter 14, en Water supply sya om s of “nk and pipe connecti Hot Water Supply in Building)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#28 | pages 58-59",
+      "quality_flag": "candidate",
+      "source_pages": [
+        58,
+        59
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "What is that type of water heating system that operate on much higher temperature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydronic Hot Water Heating System"
+        },
+        {
+          "label": "B",
+          "text": "Hot Water Space Heating System (water is confined"
+        },
+        {
+          "label": "C",
+          "text": "Forced Hot Water Heating"
+        },
+        {
+          "label": "D",
+          "text": "Hot Water Supply System (Chapter 14, Hot Water Supply"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "within a system at low temperature, steam relief valve",
+      "explanation_long": "within a system at low temperature, steam relief valve protects the HWSHS) in Building ;temperature and pressure relief valve protects the HWSS)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#29 | pages 60-61",
+      "quality_flag": "candidate",
+      "source_pages": [
+        60,
+        61
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "Minimumtrapdiameterofsandinterceptorsand autowash",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 8 mm"
+        },
+        {
+          "label": "B",
+          "text": "51 mm (RNPCP, Table 7-2: Minimum Trap"
+        },
+        {
+          "label": "C",
+          "text": "7/6 mm"
+        },
+        {
+          "label": "D",
+          "text": "1 0 2 mm"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Diameters and Drainage Fixture Unit Values)",
+      "explanation_long": "Diameters and Drainage Fixture Unit Values)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#30 | pages 62-63",
+      "quality_flag": "probable",
+      "source_pages": [
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 51 mm (RNPCP, Table 7-2: Minimum Trap"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "above ground only"
+        },
+        {
+          "label": "B",
+          "text": "below ground only"
+        },
+        {
+          "label": "C",
+          "text": "PVC water pipe maybe used for hot and cold- in residence only"
+        },
+        {
+          "label": "D",
+          "text": "within a building (RNPCP, Chapter 6: Water"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "water distribution systems _",
+      "explanation_long": "water distribution systems _ . below ground only . within a building water distribution systems _. Supply and Distribution) distribution systems. CPVC water pipe and tubing may be used for hot and cold water distribution systems within a building. All materials used in the water supply system, except valves and similar devices, shall be of a like material, except where otherwise approved by the Administrative Authority.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#31 | pages 64-65",
+      "quality_flag": "candidate",
+      "source_pages": [
+        64,
+        65
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "Clear minimum horizontal distance of seepage pit or cesspool to disposal field",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.5 m (RNPCP, Appendix B, Table B-1: Location of"
+        },
+        {
+          "label": "B",
+          "text": "3.7 m (seepage pit/ cesspool to seepage pit/ cesspool)"
+        },
+        {
+          "label": "C",
+          "text": "15.2 m (/. streams to building sewer, septic tank,"
+        },
+        {
+          "label": "D",
+          "text": "30.5 m (/. water supply wells to disposal field; 2."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Sewage Disposal System)",
+      "explanation_long": "Sewage Disposal System) disposal field; 2. water supply wells to building sewer, septic tank) streams to seepage pit/ cesspool)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#32 | pages 66-67",
+      "quality_flag": "candidate",
+      "source_pages": [
+        66,
+        67
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "A soldered joint is obtained by joining metal parts with metallic mixtures or alloys which melt ata temperature",
+      "choices": [
+        {
+          "label": "A",
+          "text": "below 427 degrees centigrade and above 149 degrees centigrade"
+        },
+        {
+          "label": "B",
+          "text": "higher than 449 degrees centigrade (brazed joint)"
+        },
+        {
+          "label": "C",
+          "text": "higher than 427 degrees centigrade"
+        },
+        {
+          "label": "D",
+          "text": "below 449 degrees centigrade and above 149 degrees centigrade"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "centigrade (RNPCP, Chapter 2: Definitions)",
+      "explanation_long": "centigrade (RNPCP, Chapter 2: Definitions)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#33 | pages 68-69",
+      "quality_flag": "probable",
+      "source_pages": [
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (brazed joint)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the standard grade of asphalt- impregnated roofing felt for metallic shower sub- pans or liners",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3.2 kg"
+        },
+        {
+          "label": "C",
+          "text": "12 kg"
+        },
+        {
+          "label": "D",
+          "text": "0.9 kg"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 6.8 kg",
+      "explanation_long": ". 6.8 kg - 6.8 kg (RNPCP, Chapter 4: Plumbing Materials) . 12 kg . 0.9 kg No metallic shower sub-pans or linings may be built-up on the jobsite of not less than three (3) layers of standard grade 6.8 kg asphalt- impregnated roofing felt. The bottom layer shall be fitted to the formed",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#34 | pages 70-71",
+      "quality_flag": "candidate",
+      "source_pages": [
+        70,
+        71
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the fixture unit rating of clothes washer in groups of 3?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "53 FU"
+        },
+        {
+          "label": "B",
+          "text": "6 FU (RNPCP, Chapter 7: Excreta Drainage System)"
+        },
+        {
+          "label": "C",
+          "text": "9 FU"
+        },
+        {
+          "label": "D",
+          "text": "1O FU"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Drainage piping serving batteries of appliances cupable of producing continuous",
+      "explanation_long": "Drainage piping serving batteries of appliances cupable of producing continuous flows shall be adequately sized fo provide for peak loads Clothes washers in xroups of three (3) or more shall be rated at six (6) fixture units each for the common porizontal and vertical waste pipe Mr.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#35 | pages 72-73",
+      "quality_flag": "probable",
+      "source_pages": [
+        72,
+        73
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (RNPCP, Chapter 7: Excreta Drainage System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "A type of siphonage created when a rapid flow of water passes through a pipe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct . Self-Siphoning"
+        },
+        {
+          "label": "C",
+          "text": "Indirect or Momentum"
+        },
+        {
+          "label": "D",
+          "text": "IRECT OR SELF SIPHONAGE"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#36 | pages 74-75",
+      "quality_flag": "review",
+      "source_pages": [
+        74,
+        75
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "Aggregate offset angle to be provided with an additional cleanout?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "exceeding 135 deg (RNPCP, Chapter"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". more than 90 deg",
+      "explanation_long": ". more than 90 deg . less than 22 % deg . 90 deg : Excreta Drainage System) more than 90 deg _ kr . less than 22 h deg ce otter . 90 deg -_ An additional cleanout shall be provided on a horizontal line with an Bggregate Offsebengle of direction exceeding one hundred and thirty-five (135) degrees.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#37 | pages 76-77",
+      "quality_flag": "probable",
+      "source_pages": [
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (RNPCP, Chapter"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "What is the maximum size of clean stone, gravel, slag or similar filter material to be placed in the trench?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "% 1\" -1k\""
+        },
+        {
+          "label": "D",
+          "text": "2%” (RNPCP, Appendix B: Private Sewage Disposal System)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": ". 2%\"",
+      "explanation_long": ". 2%\" 1\" 34, “ ] Ya\"",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#38 | pages 78-79",
+      "quality_flag": "probable",
+      "source_pages": [
+        78,
+        79
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> 2%” (RNPCP, Appendix B: Private Sewage Disposal System)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "What is the minimum total net inlet area of roof drain with dome-type strainers",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1X the area of the outlet"
+        },
+        {
+          "label": "B",
+          "text": "1-1/2 X the area of the outlet"
+        },
+        {
+          "label": "C",
+          "text": "1-3/4 X the area of the outlet tre"
+        },
+        {
+          "label": "D",
+          "text": "2X the area of the outlet LEADER"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "(RNPCP, Chapter II: Storm and",
+      "explanation_long": "(RNPCP, Chapter II: Storm and Drainage System) SPANNER ‘",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#39 | pages 80-81",
+      "quality_flag": "candidate",
+      "source_pages": [
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "Allowable slope for drainage piping 8” or larger in diameter",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.5 % (RNPCP, Chapter 12: House Drains and House Sewers)"
+        },
+        {
+          "label": "B",
+          "text": "1 %"
+        },
+        {
+          "label": "C",
+          "text": "2 % sewer main."
+        },
+        {
+          "label": "D",
+          "text": "4%"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "fo)",
+      "explanation_long": "fo) d . 4 lo Building sewers shall be run in practical alignment at a uniform slope of not less than two (2) percent or 21 mm per meter toward the point of disposal, i.e. to the septic tank or to the street Exception: when approved by the Administrative Authority and when it is impractical, due to the depth of the street sewer or the structural features or due to adverse arrangement of any building or structure, to obtain a slope of two (2) percent or 21 mm per meter, any such pipe or piping 102 mm and 152.4 mm in diameter may have a slope of not less than s = 1%. (10.5 mm per meter) and any such piping 203 mm diameter and larger may have a slope of not less than 5 =0.5%, (5.3 mm per meter).",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#40 | pages 82-83",
+      "quality_flag": "candidate",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What will happen if a drainage piping is placed at slope of 10mm/m due to structural conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increase in DFU loading"
+        },
+        {
+          "label": "B",
+          "text": "Increase in piping length"
+        },
+        {
+          "label": "C",
+          "text": "Decrease in DFU loading (RNPCP, Table 7-5: Max. Fixture Unit"
+        },
+        {
+          "label": "D",
+          "text": "Decrease in piping length . Excluding trap arm."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. Increase in DFU loading . Increase in piping length Decrease in DFU loading . Decrease in piping length Loading and Max. Length of Excreta Drainage and Vent Piping; multiply by a factor of 0.8) ; Except sinks, urinals and dishwashers. Except 6 fixture unit traps or water closcts, Only four (4) water closets or © fixture unit traps ate allowed on any veitical pipe or stack; and not to exceed threé (3) water closets or six (S) fixkire unit traps on any horizontal branch or drain. Based on two (2) percent or 20.9 mm/m slope. For one (1) percent or 10.4 mm/m slope, multiply horizontal fixture units by a factor of 0.8.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#41 | pages 84-85",
+      "quality_flag": "candidate",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "Strainer plate of floor drains shall have the sum of its holes equal to",
+      "choices": [
+        {
+          "label": "A",
+          "text": "cross sectional area of the tailpiece (RNPCP, Chapter 4:"
+        },
+        {
+          "label": "B",
+          "text": "inside diameter of the tailpiece"
+        },
+        {
+          "label": "C",
+          "text": "its effective opening"
+        },
+        {
+          "label": "D",
+          "text": "outside diameter of the tailpiece paoeOe ooh 20 sE00 oN"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Plumbing Fixtures)",
+      "explanation_long": "Plumbing Fixtures) — AE Biase SFAN",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#42 | pages 86-87",
+      "quality_flag": "candidate",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the estimated sewage airport employees?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Check with equipment manufacturer Bowling alleys (snack bar only) 283.9 per lane Camps: Campground with central comfort stalion With flush toilets, no showers"
+        },
+        {
+          "label": "B",
+          "text": "Day camps (no meals served)"
+        },
+        {
+          "label": "C",
+          "text": "Summer and seasonal ....... 94.6 per person 56.8 per person 189.3 per person Churches (Sanctuary)"
+        },
+        {
+          "label": "D",
+          "text": "pons 18.9 per seat With kitchen waste te F seat Dance halls....... 18.9 per person Factaiivs No showers ..........-- “With showers"
+        },
+        {
+          "label": "E",
+          "text": "Calcteria, add , « 94.6 per employee 132.5 per employee 18.9 per employce Hospitals ... Kitchen waste only Laundry waste only 946.3 per bed 946 per bed 151.4 per bed Hotels (no kitchen waste) 227.1 per bed (2 persony Commercial .. « Per manufacturer's specifications Motel 189.3 per bed space With kitchen"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. . 18.9 Ipd 283.9 Ipd Cc. 56.8 Ipd (1/5 gpd) . 18.9 lpd (5 gpd;for airport passenger) 283.9 lod (75 gpd;bowling alleys- snack bar only) . 94.6 lod (25 gpd;for camps with flush toilets, no showers) 227.1 per bed space Offices i oeee 75.7 per employee Parks, mobile hones... Se 946.3 per space Picnic parks (toilets only) ........ 75,7 per parking space tecreational vehicles ~ without hook-up with water and sewer hook-up 378.5 per space Restaurants - cafeterias + 75.7 per employce Toilet 26.5 per customer Kitchen waste",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#453 | pages 88-89-90",
+      "quality_flag": "candidate",
+      "source_pages": [
+        88,
+        89,
+        90
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "Size of vent for a 25.4 mm boiler blow-off?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "olmm"
+        },
+        {
+          "label": "B",
+          "text": "64 mm (RNPCP, Table 8-1: TABLE #1"
+        },
+        {
+          "label": "C",
+          "text": "7/6 mm"
+        },
+        {
+          "label": "D",
+          "text": "1O2 mm"
+        },
+        {
+          "label": "E",
+          "text": "ECS | VO <-> pSST"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Pipe Connections in Blowoff PIPE CONNECTIONS IN BLOWOFF CONDENSERS AND SUMPS",
+      "explanation_long": "Pipe Connections in Blowoff PIPE CONNECTIONS IN BLOWOFF CONDENSERS AND SUMPS Condensers and Sumps) [Boiler Blowoff, mm | Water Oudlet, mm | Sue of Vent, mm_| ee | | RSE | CN (-/ A <I * To he used only with boilers of 9.29 mi of heating surface or less.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#44 | pages 91-92",
+      "quality_flag": "candidate",
+      "source_pages": [
+        91,
+        92
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "Which of the following shall not be used for urinal tailpiece or trap? . Brass . Plastic Pipe . AorB",
+      "choices": [
+        {
+          "label": "B",
+          "text": "Copper Cc. Plastic Pipe"
+        },
+        {
+          "label": "D",
+          "text": "AorB (RNPCP,Chapter 4: Plumbing Materials)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "not less than Gauge No. 20 B & S or 0.8 mm in thickness. Each such tailpiece,",
+      "explanation_long": "not less than Gauge No. 20 B & S or 0.8 mm in thickness. Each such tailpiece, continuous waste or waste and overflow shall not be less than 38 mm O.D. for sinks, dishwashers, laundry tubs, bathtubs, urinals and similar fixtures, and not less than 32 mm O.D. for lavatories, drinking fountains and similar small fixtures,",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#45 | pages 93-94",
+      "quality_flag": "probable",
+      "source_pages": [
+        93,
+        94
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Medium",
+      "prompt": "WFSUofpublicflushometervalve",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5 (WFSU for public wall and stall urinal)"
+        },
+        {
+          "label": "B",
+          "text": "6 (WFSU for private flushometer valve, public and private"
+        },
+        {
+          "label": "C",
+          "text": "1 0"
+        },
+        {
+          "label": "D",
+          "text": "25 (in mm; water supply size for flushometer valves, bedpan"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "mobile home park sewer)",
+      "explanation_long": "mobile home park sewer) ec. 10 (RNPCP, Table 6-5: Equivalent Water Supply Fixture Units) washer and pedestal urinal)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#46 | pages 95-96",
+      "quality_flag": "probable",
+      "source_pages": [
+        95,
+        96
+      ],
+      "extraction_methods": [
+        "direct",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Easy",
+      "prompt": "PDI means?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plumbing and Drainage Institute (Chapter 14, Table 14-3:"
+        },
+        {
+          "label": "B",
+          "text": "Plumbing and Drainage Institution"
+        },
+        {
+          "label": "C",
+          "text": "Philippine Drainage Institute"
+        },
+        {
+          "label": "D",
+          "text": "Philippine Drainage, Waste and Vent Institution"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Reference Specifications for Plumbing Materials)",
+      "explanation_long": "Reference Specifications for Plumbing Materials)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#47 | pages 97-98",
+      "quality_flag": "probable",
+      "source_pages": [
+        97,
+        98
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (Chapter 14, Table 14-3"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the minimum trap arm developed length?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "min. of one pipe diameter 7"
+        },
+        {
+          "label": "B",
+          "text": "min. of two pipe diameter ACK REE"
+        },
+        {
+          "label": "C",
+          "text": "min. of three pipe diameter"
+        },
+        {
+          "label": "D",
+          "text": "min. of four pipe diameter Cans"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "FOnRE ores WENT PE",
+      "explanation_long": "FOnRE ores WENT PE (RNPCP, Chapter 10: Traps and - POSIINE & KEGAT E a : KELAEE RELIEVED Interceptors) 4 et THEDISH VENT FFE ° wi Paap 0 a SPAONAG Fo TO DRAIN Each fixture trap shall have a protecting vent so located that the developed length of the trap arm from the trap weir to the inner edge of the vent shall be within the distance given in Table 10-1, but in no case less than two times the diameter of the trap arm.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#48 | pages 99-100",
+      "quality_flag": "probable",
+      "source_pages": [
+        99,
+        100
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "What is the cleanout size for a 2” diameter pipe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1%” (RNPCP, Table 7-6: Cleanouts)"
+        },
+        {
+          "label": "B",
+          "text": "2” 2 %\" min"
+        },
+        {
+          "label": "C",
+          "text": "2 %\""
+        },
+        {
+          "label": "D",
+          "text": "3 %”"
+        },
+        {
+          "label": "E",
+          "text": "Te"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "TABLE 7-4",
+      "explanation_long": "TABLE 7-4 Cc Vy\" d ° 5 V2 CLEANOUTS = of _— Size of Cleanout Se = es P~ 102 & larger ft 8 8 5",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#49 | pages 101-102",
+      "quality_flag": "candidate",
+      "source_pages": [
+        101,
+        102
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-07-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 7",
+      "difficulty": "Hard",
+      "prompt": "Flow control devices shall not be greater than the rated capacity of grease trap",
+      "choices": [
+        {
+          "label": "A",
+          "text": "True (RNPCP, Chapter 10: Cleanout"
+        },
+        {
+          "label": "B",
+          "text": "False"
+        },
+        {
+          "label": "C",
+          "text": "Allowed but in certain = Flow Control"
+        },
+        {
+          "label": "D",
+          "text": "Not state dintheCode such device or devices shall atno time be approved."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Traps and Interceptors)",
+      "explanation_long": "Traps and Interceptors) Opening conditions each such fixture. FIOW//eontrol devices shall be so designed that the flow through greater than the rated capacity of the grease trap. No flow control device having adjustable or removable parts shall be",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-07"
+      ],
+      "source_ref": "WEEK 7.pdf | Q#50 | pages 103-104-105",
+      "quality_flag": "candidate",
+      "source_pages": [
+        103,
+        104,
+        105
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

@@ -1,0 +1,770 @@
+{
+  "metadata": {
+    "generator": "scripts/publish_astm_mcqs.py",
+    "generated_at": "2026-03-22T08:13:05.712624+00:00",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\reference_materials_generated.json",
+    "promotion_strategy": "Derived MCQs from ASTM standards reference items",
+    "candidate_count": 21,
+    "question_count": 21
+  },
+  "questions": [
+    {
+      "id": "astm-derived__ref-astm-a106-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Seamless Carbon Steel Pipe for High-Temperature Service",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "B135"
+        },
+        {
+          "label": "C",
+          "text": "A252"
+        },
+        {
+          "label": "D",
+          "text": "A106"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "A106 covers this ASTM specification.",
+      "explanation_long": "A106: Standard Specification for Seamless Carbon Steel Pipe for High-Temperature Service",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A106",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-a123-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "B135"
+        },
+        {
+          "label": "C",
+          "text": "A252"
+        },
+        {
+          "label": "D",
+          "text": "A123"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "A123 covers this ASTM specification.",
+      "explanation_long": "A123: Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A123",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-a126-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Gray Iron Castings for Valves, Flanges, and Pipe Fittings",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "B135"
+        },
+        {
+          "label": "C",
+          "text": "A126"
+        },
+        {
+          "label": "D",
+          "text": "A252"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "A126 covers this ASTM specification.",
+      "explanation_long": "A126: Standard Specification for Gray Iron Castings for Valves, Flanges, and Pipe Fittings",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A126",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-a252-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Welded and Seamless Steel Pipe Piles",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "A252"
+        },
+        {
+          "label": "C",
+          "text": "B135"
+        },
+        {
+          "label": "D",
+          "text": "A888"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "A252 covers this ASTM specification.",
+      "explanation_long": "A252: Standard Specification for Welded and Seamless Steel Pipe Piles",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A252",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-a312-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Seamless, Welded, and Heavily Cold Worked Austenitic Stainless Steel Pipes",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "B135"
+        },
+        {
+          "label": "C",
+          "text": "A252"
+        },
+        {
+          "label": "D",
+          "text": "A312"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "A312 covers this ASTM specification.",
+      "explanation_long": "A312: Standard Specification for Seamless, Welded, and Heavily Cold Worked Austenitic Stainless Steel Pipes",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A312",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-a53-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A74"
+        },
+        {
+          "label": "B",
+          "text": "A53"
+        },
+        {
+          "label": "C",
+          "text": "B88"
+        },
+        {
+          "label": "D",
+          "text": "B43"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "A53 covers this ASTM specification.",
+      "explanation_long": "A53: Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A53",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-a74-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Cast Iron Soil Pipe and Fittings",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A53"
+        },
+        {
+          "label": "B",
+          "text": "B88"
+        },
+        {
+          "label": "C",
+          "text": "B43"
+        },
+        {
+          "label": "D",
+          "text": "A74"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "A74 covers this ASTM specification.",
+      "explanation_long": "A74: Standard Specification for Cast Iron Soil Pipe and Fittings",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A74",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-a888-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Hubless Cast Iron Soil Pipe and Fittings for Sanitary and Storm Drain, Waste, and Vent Piping Applications",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "A888"
+        },
+        {
+          "label": "C",
+          "text": "B135"
+        },
+        {
+          "label": "D",
+          "text": "A252"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "A888 covers this ASTM specification.",
+      "explanation_long": "A888: Standard Specification for Hubless Cast Iron Soil Pipe and Fittings for Sanitary and Storm Drain, Waste, and Vent Piping Applications",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | A888",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-b135-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Seamless Brass Tube",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B135"
+        },
+        {
+          "label": "B",
+          "text": "C700"
+        },
+        {
+          "label": "C",
+          "text": "A252"
+        },
+        {
+          "label": "D",
+          "text": "A888"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "B135 covers this ASTM specification.",
+      "explanation_long": "B135: Standard Specification for Seamless Brass Tube",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | B135",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-b43-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Seamless Red Brass Pipe, Standard Sizes",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A74"
+        },
+        {
+          "label": "B",
+          "text": "A53"
+        },
+        {
+          "label": "C",
+          "text": "B43"
+        },
+        {
+          "label": "D",
+          "text": "B88"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "B43 covers this ASTM specification.",
+      "explanation_long": "B43: Standard Specification for Seamless Red Brass Pipe, Standard Sizes",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | B43",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-b88-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Seamless Copper Water Tube",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A74"
+        },
+        {
+          "label": "B",
+          "text": "A53"
+        },
+        {
+          "label": "C",
+          "text": "B43"
+        },
+        {
+          "label": "D",
+          "text": "B88"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "B88 covers this ASTM specification.",
+      "explanation_long": "B88: Standard Specification for Seamless Copper Water Tube",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | B88",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-c700-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Vitrified Clay Pipe, Extra Strength, Standard Strength, and Perforated",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "B135"
+        },
+        {
+          "label": "C",
+          "text": "A252"
+        },
+        {
+          "label": "D",
+          "text": "A888"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "C700 covers this ASTM specification.",
+      "explanation_long": "C700: Standard Specification for Vitrified Clay Pipe, Extra Strength, Standard Strength, and Perforated",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | C700",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-d1785-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe, Schedules 40, 80, and 120",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D1785"
+        },
+        {
+          "label": "B",
+          "text": "D3350"
+        },
+        {
+          "label": "C",
+          "text": "D2729"
+        },
+        {
+          "label": "D",
+          "text": "D2564"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "D1785 covers this ASTM specification.",
+      "explanation_long": "D1785: Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe, Schedules 40, 80, and 120",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | D1785",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-d2235-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Solvent Cement for Acrylonitrile-Butadiene-Styrene (ABS) Plastic Pipe and Fittings",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D2235"
+        },
+        {
+          "label": "B",
+          "text": "D3350"
+        },
+        {
+          "label": "C",
+          "text": "D1785"
+        },
+        {
+          "label": "D",
+          "text": "D2729"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "D2235 covers this ASTM specification.",
+      "explanation_long": "D2235: Standard Specification for Solvent Cement for Acrylonitrile-Butadiene-Styrene (ABS) Plastic Pipe and Fittings",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | D2235",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-d2564-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Solvent Cements for Poly(Vinyl Chloride) (PVC) Plastic Piping Systems",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D2564"
+        },
+        {
+          "label": "B",
+          "text": "D3350"
+        },
+        {
+          "label": "C",
+          "text": "D1785"
+        },
+        {
+          "label": "D",
+          "text": "D2729"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "D2564 covers this ASTM specification.",
+      "explanation_long": "D2564: Standard Specification for Solvent Cements for Poly(Vinyl Chloride) (PVC) Plastic Piping Systems",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | D2564",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-d2729-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Poly(Vinyl Chloride) (PVC) Sewer Pipe and Fittings",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D3350"
+        },
+        {
+          "label": "B",
+          "text": "D2729"
+        },
+        {
+          "label": "C",
+          "text": "D1785"
+        },
+        {
+          "label": "D",
+          "text": "D2564"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "D2729 covers this ASTM specification.",
+      "explanation_long": "D2729: Standard Specification for Poly(Vinyl Chloride) (PVC) Sewer Pipe and Fittings",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | D2729",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-d2846-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Hot- and Cold-Water Distribution Systems",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D3350"
+        },
+        {
+          "label": "B",
+          "text": "D1785"
+        },
+        {
+          "label": "C",
+          "text": "D2729"
+        },
+        {
+          "label": "D",
+          "text": "D2846"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "D2846 covers this ASTM specification.",
+      "explanation_long": "D2846: Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Hot- and Cold-Water Distribution Systems",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | D2846",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-d3309-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Polybutylene (PB) Plastic Hot- and Cold-Water Distribution Systems",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D3350"
+        },
+        {
+          "label": "B",
+          "text": "D1785"
+        },
+        {
+          "label": "C",
+          "text": "D3309"
+        },
+        {
+          "label": "D",
+          "text": "D2729"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "D3309 covers this ASTM specification.",
+      "explanation_long": "D3309: Standard Specification for Polybutylene (PB) Plastic Hot- and Cold-Water Distribution Systems",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | D3309",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-d3350-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Polyethylene Plastics Pipe and Fittings Materials",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D3350"
+        },
+        {
+          "label": "B",
+          "text": "D1785"
+        },
+        {
+          "label": "C",
+          "text": "D2729"
+        },
+        {
+          "label": "D",
+          "text": "D2564"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "D3350 covers this ASTM specification.",
+      "explanation_long": "D3350: Standard Specification for Polyethylene Plastics Pipe and Fittings Materials",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | D3350",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-f2389-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Pressure-rated Polypropylene (PP) Piping Systems",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D3350"
+        },
+        {
+          "label": "B",
+          "text": "F2389"
+        },
+        {
+          "label": "C",
+          "text": "D1785"
+        },
+        {
+          "label": "D",
+          "text": "D2729"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "F2389 covers this ASTM specification.",
+      "explanation_long": "F2389: Standard Specification for Pressure-rated Polypropylene (PP) Piping Systems",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | F2389",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "astm-derived__ref-astm-f441-id",
+      "topic": "Materials & Standards",
+      "subtopic": "ASTM Standards",
+      "difficulty": "Easy",
+      "prompt": "Which ASTM standard covers this description? Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Pipe, Schedules 40 and 80",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C700"
+        },
+        {
+          "label": "B",
+          "text": "F441"
+        },
+        {
+          "label": "C",
+          "text": "B135"
+        },
+        {
+          "label": "D",
+          "text": "A252"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "F441 covers this ASTM specification.",
+      "explanation_long": "F441: Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Pipe, Schedules 40 and 80",
+      "tags": [
+        "astm",
+        "standards",
+        "definition-match",
+        "derived-mcq"
+      ],
+      "source_ref": "1. ASTM-NFPA.pdf | F441",
+      "quality_flag": "ok"
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

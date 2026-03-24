@@ -1,0 +1,2237 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "probable": 11,
+      "candidate": 27,
+      "review": 12
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-10",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 10.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:06:43.905864+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "MCQ bank still has too many unresolved answers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-10-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Solid angles are measured in",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mil (a unit of length that is equal to one thousandth of an inch)"
+        },
+        {
+          "label": "B",
+          "text": "Radians (SI unit of angular measure; 1 radian= 57.296 deg)"
+        },
+        {
+          "label": "C",
+          "text": "Steradians"
+        },
+        {
+          "label": "D",
+          "text": "Circular Mils (a unit of area, equal to the area of a circle with a diameter of one mil)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#1 | pages 2-3",
+      "quality_flag": "probable",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "How many degrees is 4800 mils",
+      "choices": [
+        {
+          "label": "A",
+          "text": "90 degrees"
+        },
+        {
+          "label": "B",
+          "text": "180 degrees"
+        },
+        {
+          "label": "C",
+          "text": "270 degrees (1 degree= 17.77 mils)"
+        },
+        {
+          "label": "D",
+          "text": "360 degrees (1 revolution= 360 degrees, 6400 mils, 400 gradians, 6.28 radians)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "90 degrees",
+      "explanation_long": "90 degrees 180 degrees 270 degrees 360 degrees 1ONAL CONSULTANCY",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#2 | pages 4-5",
+      "quality_flag": "probable",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "If eccentricity is less than one, then the curve is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circle (0) Ellipse increase."
+        },
+        {
+          "label": "B",
+          "text": "Ellipse (0<1)"
+        },
+        {
+          "label": "C",
+          "text": "Parabola (1)"
+        },
+        {
+          "label": "D",
+          "text": "Hyperbola (51) 5"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Eccentricity OF Conic Sections yx cuemany",
+      "explanation_long": "Eccentricity OF Conic Sections yx cuemany Eccentricity = 0.5 Fs Line Ifthe eccentricities are big, the curves are less. Thus we conclude that the curvatures of these conic sections decrease as their eccentricities * The eccentricity ofa circle =O * The eccentricity of an ellipse = between 0 and1 *® The eccentricity ofa parabola =1 * The eccentricity of ahyperbola > 1 The eccentricity of a line = infinity",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#3 | pages 6-7",
+      "quality_flag": "candidate",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "The product of force and displacement is called? . Energy . Power",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Energy (SI unit: joule)"
+        },
+        {
+          "label": "B",
+          "text": "Power (SI unit: watt=j/s)"
+        },
+        {
+          "label": "C",
+          "text": "Work (SI unit: joule)"
+        },
+        {
+          "label": "D",
+          "text": "Newton (SI unit of force)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Newton",
+      "explanation_long": ". Newton",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#4 | pages 8-9",
+      "quality_flag": "candidate",
+      "source_pages": [
+        8,
+        9
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "What is the SI unit of momentum",
+      "choices": [
+        {
+          "label": "A",
+          "text": "n-s (impulse)"
+        },
+        {
+          "label": "B",
+          "text": "Kg-m/s"
+        },
+        {
+          "label": "C",
+          "text": "slug/s"
+        },
+        {
+          "label": "D",
+          "text": "m/s (velocity)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#5 | pages 10-11",
+      "quality_flag": "review",
+      "source_pages": [
+        10,
+        11
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "In what quadrant is the cosine and secant positive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Q)"
+        },
+        {
+          "label": "B",
+          "text": "Q2"
+        },
+        {
+          "label": "C",
+          "text": "QO3"
+        },
+        {
+          "label": "D",
+          "text": "Q4"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Quadrant II | Quadrant!",
+      "explanation_long": "Quadrant II | Quadrant! sin 0, csc 0 cos 6, sec 8 tan 0, cot 6 sin 0, csc 6 Quadrant III | Quadrant IV tan 6@,cot@ | cos6@,sec@",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#6 | pages 12-13",
+      "quality_flag": "candidate",
+      "source_pages": [
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "What is the derivative of tan x?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "(sin x) = cosx 2) t dxa dd dxix"
+        },
+        {
+          "label": "B",
+          "text": "-sin (x)"
+        },
+        {
+          "label": "C",
+          "text": "sec%2 (x)"
+        },
+        {
+          "label": "D",
+          "text": "sec (x) tan (x)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "i x) = cos: —(csex)=-csexcotx",
+      "explanation_long": "i x) = cos: —(csex)=-csexcotx —(cosx)=-—sinx —(secx) =secx tan x ad + d + — ‘\\= “ —(|cotx)=-cse\"x x tan x) =sec* xa)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#7 | pages 14-15",
+      "quality_flag": "candidate",
+      "source_pages": [
+        14,
+        15
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (sin x) = cosx 2) t dxa dd dxix"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "What is the reciprocal of cos x?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "l/cse x"
+        },
+        {
+          "label": "B",
+          "text": "l/sec xCc"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". lf/cot x",
+      "explanation_long": ". lf/cot x . lf/sin x Cc. l/cse x . I/sec x l/cot x . lf/sin x",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#8 | pages 16-17",
+      "quality_flag": "candidate",
+      "source_pages": [
+        16,
+        17
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "lt is the space between intersecting rays",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Line"
+        },
+        {
+          "label": "B",
+          "text": "Grad"
+        },
+        {
+          "label": "C",
+          "text": "Radian"
+        },
+        {
+          "label": "D",
+          "text": "Angle"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#9 | pages 18-19",
+      "quality_flag": "review",
+      "source_pages": [
+        18,
+        19
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "The path of a projectile is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A parabola"
+        },
+        {
+          "label": "B",
+          "text": "An ellipse"
+        },
+        {
+          "label": "C",
+          "text": "Chord"
+        },
+        {
+          "label": "D",
+          "text": "Hyperbola 1ONAL CONSULTANCY"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "a parabola",
+      "explanation_long": "a parabola an ellipse hyperbola 1ONAL CONSULTANCY",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#10 | pages 20-21",
+      "quality_flag": "candidate",
+      "source_pages": [
+        20,
+        21
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "How many feet can one hp raise a weight of 33 Ibs within an hour?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "10 ft"
+        },
+        {
+          "label": "B",
+          "text": "10,000 ft"
+        },
+        {
+          "label": "C",
+          "text": "60 ft"
+        },
+        {
+          "label": "D",
+          "text": "60,000 ft"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#11 | pages 22-23",
+      "quality_flag": "review",
+      "source_pages": [
+        22,
+        23
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "The specific gravity of cast iron is 7.20. Find its density in lbs/ft3",
+      "choices": [
+        {
+          "label": "A",
+          "text": "449"
+        },
+        {
+          "label": "B",
+          "text": "720"
+        },
+        {
+          "label": "C",
+          "text": "500"
+        },
+        {
+          "label": "D",
+          "text": "450"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#12 | pages 24-25",
+      "quality_flag": "review",
+      "source_pages": [
+        24,
+        25
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Ratio of the volume stress to the volume strain",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bulk Modulus"
+        },
+        {
+          "label": "B",
+          "text": "Modulus of Elasticity (Young’s modulus)"
+        },
+        {
+          "label": "C",
+          "text": "Young’s Modulus (Modulus of Elasticity)"
+        },
+        {
+          "label": "D",
+          "text": "Poisson’s Ratio"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Poisson’s Ratio (defined as the ratio of the transverse strain to that of the axial",
+      "explanation_long": "Poisson’s Ratio (defined as the ratio of the transverse strain to that of the axial strain under the influence of the same force)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#13 | pages 26-27",
+      "quality_flag": "candidate",
+      "source_pages": [
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Medium",
+      "prompt": "1ONAL CONSULTANCY In what law of motion does F=MA applies",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1°' law of motion (law of inertia; if a body is at rest or moving at a constant speed ina"
+        },
+        {
+          "label": "B",
+          "text": "2\"? law of motion (the acceleration of an object is directly proportional to the net"
+        },
+        {
+          "label": "C",
+          "text": "3° law of motion (for every action there is always an equal and opposite reaction)"
+        },
+        {
+          "label": "D",
+          "text": "4'' law of motion"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "At law of motion",
+      "explanation_long": "At law of motion straight line, it will remain at rest or keep moving ina straight line at constant speed unless it is acted upon by a force) force acting on it and inversely proportional to its mass.)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#14 | pages 28-29",
+      "quality_flag": "candidate",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "The first term of ratio . Antecedent . Precedent",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antecedent"
+        },
+        {
+          "label": "B",
+          "text": "Precedent"
+        },
+        {
+          "label": "C",
+          "text": "Incident"
+        },
+        {
+          "label": "D",
+          "text": "Coincident 1ONAL CONSULTANCY"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". Coincident",
+      "explanation_long": ". Coincident 1ONAL CONSULTANCY",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#15 | pages 30-31",
+      "quality_flag": "candidate",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "lt is the maximum stress a material can withstand without undergoing permanent deformation, allowing it to return to its original shape once the stress is removed",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elastic Limit"
+        },
+        {
+          "label": "B",
+          "text": "Yield Point (is the stress level at which a material begins to deform plastically,"
+        },
+        {
+          "label": "C",
+          "text": "Breaking Point (refers to the point at which a material reaches its maximum stress"
+        },
+        {
+          "label": "D",
+          "text": "Proportional Limit (defines the uppermost level of stress at which a material can Ultmate stress point"
+        },
+        {
+          "label": "E",
+          "text": "B: Elastic limit Breaking point"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "marking the transition from elastic behavior to permanent deformation)",
+      "explanation_long": "marking the transition from elastic behavior to permanent deformation) and subsequently fails or fractures) retain its elastic behavior, adheres to hooke’s law) *Ultimate Stress- maximum stress that a material can Penmiteiereporionalicy endure before failure encetipont *Breaking Point- failure of material takes place Strain",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#16 | pages 32-33",
+      "quality_flag": "candidate",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Medium",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greek philosopher known’ for’ shouting “Eureka” = after Archimedes"
+        },
+        {
+          "label": "C",
+          "text": "Pascal"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "discovering a way to calculate the volume of an irregular solid by",
+      "explanation_long": "discovering a way to calculate the volume of an irregular solid by submerging it in water and measuring the volume of water it . Archimedes . Galileo . Pascal . Socrates discovering a way to calculate the volume of an irregular solid by submerging it in water and measuring the volume of water it . Galileo . Socrates",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#17 | pages 34-35",
+      "quality_flag": "candidate",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "What is the area of a rhombus with diagonals 8 and 10 inch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "258.06 sq. in"
+        },
+        {
+          "label": "B",
+          "text": "40 sq. cm"
+        },
+        {
+          "label": "C",
+          "text": "258.06 sq. cm"
+        },
+        {
+          "label": "D",
+          "text": "80 sq. in"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#18 | pages 36-37",
+      "quality_flag": "review",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q019",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Identify the are length of a circle with a central angle of 150 deg and diameter of 20 cm",
+      "choices": [
+        {
+          "label": "A",
+          "text": "26.18 cm"
+        },
+        {
+          "label": "B",
+          "text": "52.35 cm"
+        },
+        {
+          "label": "C",
+          "text": "18.26 cm"
+        },
+        {
+          "label": "D",
+          "text": "35.52 cm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 35.52 cm",
+      "explanation_long": ". 35.52 cm",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#19 | pages 38-39",
+      "quality_flag": "candidate",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Identify the area of a circle sector with a central angle of 150 deg and radius of 10 cm",
+      "choices": [
+        {
+          "label": "A",
+          "text": "89.13 sq. cm"
+        },
+        {
+          "label": "B",
+          "text": "130.89 sq. cm"
+        },
+        {
+          "label": "C",
+          "text": "523.6 sq. cm"
+        },
+        {
+          "label": "D",
+          "text": "60.52 sq. cm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#20 | pages 40-41",
+      "quality_flag": "review",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "What is the perimeter of a heptagon with an apothem of 10 cm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "67. 42 cm"
+        },
+        {
+          "label": "B",
+          "text": "42. 67 cm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc",
+      "explanation_long": "Cc . 134. 84 cm . 84.13 cm . 42. 67 cm . 134. 84 cm . 84. 13 cm",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#21 | pages 42-43",
+      "quality_flag": "candidate",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "What is the volume of a 20 inches ball?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2,188 cu.in"
+        },
+        {
+          "label": "B",
+          "text": "5,188 cu.in"
+        },
+        {
+          "label": "C",
+          "text": "4,188 cu. in"
+        },
+        {
+          "label": "D",
+          "text": "5,188 cu.in"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#22 | pages 44-45",
+      "quality_flag": "review",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "21 is equivalent to",
+      "choices": [
+        {
+          "label": "A",
+          "text": "90 deg"
+        },
+        {
+          "label": "B",
+          "text": "180 deg"
+        },
+        {
+          "label": "C",
+          "text": "360 deg"
+        },
+        {
+          "label": "D",
+          "text": "720 deg"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#23 | pages 46-47",
+      "quality_flag": "review",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Thousandth of an inch is called",
+      "choices": [
+        {
+          "label": "A",
+          "text": "| micro"
+        },
+        {
+          "label": "B",
+          "text": "| micrometer"
+        },
+        {
+          "label": "C",
+          "text": "1 mil"
+        },
+        {
+          "label": "D",
+          "text": "| millimeter"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#24 | pages 48-49",
+      "quality_flag": "review",
+      "source_pages": [
+        48,
+        49
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "What is the board feet needed for 35 pes of lumber with the following dimensions; Thickness= 2” Width-8” Length-8’",
+      "choices": [
+        {
+          "label": "A",
+          "text": "233"
+        },
+        {
+          "label": "B",
+          "text": "533"
+        },
+        {
+          "label": "C",
+          "text": "573"
+        },
+        {
+          "label": "D",
+          "text": "473"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#25 | pages 50-51",
+      "quality_flag": "review",
+      "source_pages": [
+        50,
+        51
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "How do you call the opposite of the prefix nano?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peta"
+        },
+        {
+          "label": "B",
+          "text": "Tera 1 000 000 000 000 000 000 000 000"
+        },
+        {
+          "label": "C",
+          "text": "Giga 1 000 000 000 000 000 000"
+        },
+        {
+          "label": "D",
+          "text": "Hexa 1 000 000 000 000 000"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". 1 000 000 000 000 000 000 000",
+      "explanation_long": ". 1 000 000 000 000 000 000 000 1 000 000 000 000 1 000 000 000 1 000 000 1000 100 0,000 001 0,000 000 001 0,000 000 000 001 0,000 000 000 000 001 0,000 000 000 000 000 001 0,000 000 000 000 000 000 001 0,000 000 000 000 000 000 000 001 SI Prefixes Table",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#26 | pages 52-53",
+      "quality_flag": "probable",
+      "source_pages": [
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "regular rhombus is also called",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Square"
+        },
+        {
+          "label": "B",
+          "text": "Parallelogram"
+        },
+        {
+          "label": "C",
+          "text": "Diamond"
+        },
+        {
+          "label": "D",
+          "text": "Kite"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#27 | pages 54-55",
+      "quality_flag": "review",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "How many sides does a regular polygon have with one interior angle of 120 deg",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6. 8"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 12",
+      "explanation_long": ". 12 . 10 . 12",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#28 | pages 56-57",
+      "quality_flag": "candidate",
+      "source_pages": [
+        56,
+        57
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "How many edges are there in an octahedron? A",
+      "choices": [
+        {
+          "label": "A",
+          "text": "YSs Og ape et"
+        },
+        {
+          "label": "B",
+          "text": "12"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "VV = bite",
+      "explanation_long": "VV = bite 4 Faces 6 Faces 8 Faces 20 Faces 4 Vertices 8 Vertices 6 Vertices 12 Vertices 6 Edges 12 Edges 12 Edges 30 Edges",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#29 | pages 58-59",
+      "quality_flag": "candidate",
+      "source_pages": [
+        58,
+        59
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "What is the supplementary angle of 60 deg?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30 (complementary angle of 60 deg)"
+        },
+        {
+          "label": "B",
+          "text": "120"
+        },
+        {
+          "label": "C",
+          "text": "90"
+        },
+        {
+          "label": "D",
+          "text": "60"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#30 | pages 60-61",
+      "quality_flag": "candidate",
+      "source_pages": [
+        60,
+        61
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> 30 (complementary angle of 60 deg)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "Find the root mean square of 12, 14 and 16",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14.09"
+        },
+        {
+          "label": "B",
+          "text": "15.09"
+        },
+        {
+          "label": "C",
+          "text": "16.09"
+        },
+        {
+          "label": "D",
+          "text": "17.09"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 17.09",
+      "explanation_long": ". 17.09",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#31 | pages 62-63",
+      "quality_flag": "candidate",
+      "source_pages": [
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "36 cm side hexahedron will generate a surface area of?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 7,776 sq. in",
+      "explanation_long": ". 7,776 sq. in . 5,888 sq. cm . 1,205 sq. in . 602.64 sq. cm . 7,776 sq. in . 5,888 sq. cm . 1,205 sq. in . 602.64 sq. cm",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#32 | pages 64-65",
+      "quality_flag": "candidate",
+      "source_pages": [
+        64,
+        65
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q033",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Minimum size 1 nautical mile is equal to ft",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5280 (1 statute mile = 5280 ft)"
+        },
+        {
+          "label": "B",
+          "text": "6080"
+        },
+        {
+          "label": "C",
+          "text": "5080"
+        },
+        {
+          "label": "D",
+          "text": "6280"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#33 | pages 66-67",
+      "quality_flag": "probable",
+      "source_pages": [
+        66,
+        67
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (1 statute mile = 5280 ft)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "What is the current if the light bulb is 200 volts and the power is 30 watts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.15 (amps= watts/volts)"
+        },
+        {
+          "label": "B",
+          "text": "7 ec. 15"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". 0.7",
+      "explanation_long": ". 0.7 7 15 . 0.7",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#34 | pages 68-69",
+      "quality_flag": "probable",
+      "source_pages": [
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (amps= watts/volts)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "What is the shape of the face of an icosahedron?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Triangle . Square YSs Og ape et"
+        },
+        {
+          "label": "B",
+          "text": "Square"
+        },
+        {
+          "label": "C",
+          "text": "Octagon"
+        },
+        {
+          "label": "D",
+          "text": "Pentagon"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "; Pentagon Platonic A group of three-dimensional shapes,",
+      "explanation_long": "; Pentagon Platonic A group of three-dimensional shapes, Solids | each with congruent faces made up of regular polygons. Tetrahedron Hexahedron Octahedron Dodecahedron lcosahedron VV = bite 4 Faces 6 Faces 8 Faces 20 Faces 4 Vertices 8 Vertices 6 Vertices 12 Vertices 6 Edges 12 Edges 12 Edges 30 Edges",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#35 | pages 70-71",
+      "quality_flag": "candidate",
+      "source_pages": [
+        70,
+        71
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "How many hectares are there in 10,291,996 sq. meters?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "102 ha"
+        },
+        {
+          "label": "B",
+          "text": "1029.2 ha"
+        },
+        {
+          "label": "C",
+          "text": "10,291 ha"
+        },
+        {
+          "label": "D",
+          "text": "102, 919 ha"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#36 | pages 72-73",
+      "quality_flag": "review",
+      "source_pages": [
+        72,
+        73
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Who is the father of numbers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hipparchus (he is considered the founder of trigonometry)"
+        },
+        {
+          "label": "B",
+          "text": "Arithmetic (branch of mathematics in which numbers, relations among numbers,"
+        },
+        {
+          "label": "C",
+          "text": "Pythagoras"
+        },
+        {
+          "label": "D",
+          "text": "Euclid (father of geometry)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "and observations on numbers are studied and used to solve problems)",
+      "explanation_long": "and observations on numbers are studied and used to solve problems)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#37 | pages 74-75",
+      "quality_flag": "probable",
+      "source_pages": [
+        74,
+        75
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "lf 3 cats kill 3 rats in 3 minutes, how long will it take 100 cats to kill 100 rats",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 mins"
+        },
+        {
+          "label": "B",
+          "text": "10 mins"
+        },
+        {
+          "label": "C",
+          "text": "100 mins"
+        },
+        {
+          "label": "D",
+          "text": "300 mins"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 10 mins",
+      "explanation_long": ". 10 mins . 100 mins . 300 mins",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#38 | pages 76-77",
+      "quality_flag": "candidate",
+      "source_pages": [
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "60-kg woman runs upstairs 2 floors (3 m high each floor) in 1 58.86 j/s (power formula)"
+        },
+        {
+          "label": "B",
+          "text": "86.58 j/s"
+        },
+        {
+          "label": "C",
+          "text": "68.85 j/s"
+        },
+        {
+          "label": "D",
+          "text": "88. 65 j/s"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "minute. How much power is used?",
+      "explanation_long": "minute. How much power is used? . 58.86 j/s . 86.58 j/s . 68.85 j/s 88. 65 j/s minute. How much power is used?",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#39 | pages 78-79",
+      "quality_flag": "probable",
+      "source_pages": [
+        78,
+        79
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 58.86 j/s (power formula)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "What force is exerted by the atmosphere over an area of 10 x 15 m at sea level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15,198,750 n (pressure formula)"
+        },
+        {
+          "label": "B",
+          "text": "151, 987 n"
+        },
+        {
+          "label": "C",
+          "text": "15, 987 n"
+        },
+        {
+          "label": "D",
+          "text": "1, 598 n"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". 1, 598 n",
+      "explanation_long": ". 1, 598 n",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#40 | pages 80-81",
+      "quality_flag": "probable",
+      "source_pages": [
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (pressure formula)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.5 kg wooden block with a length of 100mm and a width of 50mm the floor?"
+        },
+        {
+          "label": "B",
+          "text": "2,635 pa"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "rest on the floor. What is the pressure of wooden block exerted on",
+      "explanation_long": "rest on the floor. What is the pressure of wooden block exerted on . 1,563 pa . 2,943 pa . 9,423 pa rest on the floor. What is the pressure of wooden block exerted on . 1,563 pa . 2,635 pa . 2,943 pa (pressure formula) . 9,423 pa",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#41 | pages 82-83",
+      "quality_flag": "candidate",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "rate of 4.8m/s2. 15 A car accelerates from rest at a constant seconds later, what is its speed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "48 m/s"
+        },
+        {
+          "label": "B",
+          "text": "62 m/s"
+        },
+        {
+          "label": "C",
+          "text": "72 m/s"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". 84 m/s",
+      "explanation_long": ". 84 m/s ce. 72 m/s (kinematic equation, speed) . 84 m/s",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#42 | pages 84-85",
+      "quality_flag": "candidate",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "1ONAL CONSULTANCY A car accelerates from rest to 20m/s over a distance of 15m. What is its acceleration?",
+      "choices": [
+        {
+          "label": "B",
+          "text": "13.33 (kinematic equation, acceleration)"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": ". 1.3",
+      "explanation_long": ". 1.3 . 13.33 13 . ol] Cc . 13 . ol]",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#453 | pages 86-87",
+      "quality_flag": "candidate",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> 13.33 (kinematic equation, acceleration)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "A motorcycle travels from rest to a speed of 20m/s and stops after 25 seconds. What is the distance traveled? . 2.5 m",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2.5 m"
+        },
+        {
+          "label": "B",
+          "text": "25 m"
+        },
+        {
+          "label": "C",
+          "text": "250 m (kinematic equation, distance)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "ec. 250 m",
+      "explanation_long": "ec. 250 m . 500 m . 500 m",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#44 | pages 88-89",
+      "quality_flag": "candidate",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> 250 m (kinematic equation, distance)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "Roman numeral for 1069",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MLXIX"
+        },
+        {
+          "label": "B",
+          "text": "MXLX\\I"
+        },
+        {
+          "label": "C",
+          "text": "MLXVIITI"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "~ MLXIL",
+      "explanation_long": "~ MLXIL . MLXVIITI ROMAN NUMERALS IlIIWVVIVI VIII 2 3 4 5 6 7 8 IXXLCDM 9 10 50 100 500 1,000",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#45 | pages 90-91",
+      "quality_flag": "candidate",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Hard",
+      "prompt": "1ONAL CONSULTANCY How many zeros are there in prefix exa?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "18"
+        },
+        {
+          "label": "D",
+          "text": "2] 1000 000 z|=/E/Ola\\0/m|N\\<"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1 000 000 000 000 000 000 000 000",
+      "explanation_long": "1 000 000 000 000 000 000 000 000 1 000 000 000 000 000 000 000 1 000 000 000 000 000 000 1 000 000 000 000 000 1 000 000 000 000 1 000 000 000 1000 100 10 1 0,1 0,01 0,001 0,000 001 0,000 000 001 0,000 000 000 001 0,000 000 000 000 001 0,000 000 000 000 000 001 0,000 000 000 000 000 000 001 0,000 000 000 000 000 000 000 001 pT) <i jolstolair |g iojal,",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#46 | pages 92-93",
+      "quality_flag": "candidate",
+      "source_pages": [
+        92,
+        93
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "2.5 score is equivalent to how many years?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20"
+        },
+        {
+          "label": "B",
+          "text": "25"
+        },
+        {
+          "label": "C",
+          "text": "50 (1 score=20 years)"
+        },
+        {
+          "label": "D",
+          "text": "100"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#47 | pages 94-95",
+      "quality_flag": "probable",
+      "source_pages": [
+        94,
+        95
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> (1 score=20 years)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "A situation whereby a payment is made for work not done. It also applies to a case where more workers are used than is reasonable required for efficient operation",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Downtime pay"
+        },
+        {
+          "label": "B",
+          "text": "Moonlighting"
+        },
+        {
+          "label": "C",
+          "text": "Check-in pay"
+        },
+        {
+          "label": "D",
+          "text": "Featherbedding (looksfam, Feb 2025 MPLE )"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#48 | pages 96-97",
+      "quality_flag": "probable",
+      "source_pages": [
+        96,
+        97
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: D -> (looksfam, Feb 2025 MPLE )"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Semi-annually is equivalent to how many periods?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 8"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "_A",
+      "explanation_long": "_A 8 4 (quarterly) . 6 (bi-monthly)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#49 | pages 98-99",
+      "quality_flag": "candidate",
+      "source_pages": [
+        98,
+        99
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-10-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "polygon of 1000 sides is called",
+      "choices": [
+        {
+          "label": "A",
+          "text": "R. SEAN A. DUPAYA, UAP, RMP"
+        },
+        {
+          "label": "B",
+          "text": "Myriagon (10,000 sides)"
+        },
+        {
+          "label": "C",
+          "text": "Hectogon (100 sides)"
+        },
+        {
+          "label": "D",
+          "text": "Milliagon"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#50 | pages 100-101-102",
+      "quality_flag": "probable",
+      "source_pages": [
+        100,
+        101,
+        102
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only unannotated choice after explanation page: D"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

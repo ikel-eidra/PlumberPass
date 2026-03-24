@@ -1,0 +1,635 @@
+{
+  "metadata": {
+    "generator": "scripts/publish_curated_mcqs.py",
+    "generated_at": "2026-03-21T18:51:27.512491+00:00",
+    "promotion_strategy": "Manual shortlist from review_queue and publish_candidate Advance Q&A weeks 4, 6, and 8",
+    "source_files": [
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\published\\advance-qa__week-06__mcq__candidate__v1.json",
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\published\\advance-qa__week-08__mcq__candidate__v1.json",
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-04__mcq__candidate__v1.json",
+      "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\staging\\review\\advance-qa__week-10__mcq__candidate__v1.json"
+    ],
+    "question_count": 17,
+    "notes": [
+      "Each item was manually selected from the staged review queue.",
+      "Prompt and choice text were lightly cleaned for launch-safe use.",
+      "Only four-choice questions with confirmed answer keys were included."
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-04-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "What device is located at the bottom of a tank to flush a water closet or similar fixture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flush tank"
+        },
+        {
+          "label": "B",
+          "text": "Flush valve"
+        },
+        {
+          "label": "C",
+          "text": "Flushometer tank"
+        },
+        {
+          "label": "D",
+          "text": "Flushometer valve"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "The flush valve is the tank component that releases water into the fixture.",
+      "explanation_long": "A flush valve is located at the bottom of the tank and opens to discharge water into the water closet or similar fixture for flushing.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#5 | pages 14-15-16",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-04-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Easy",
+      "prompt": "What is the horizontal vent that connects one or more individual back vents with the vent stack or stack vent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branch vent"
+        },
+        {
+          "label": "B",
+          "text": "Branch"
+        },
+        {
+          "label": "C",
+          "text": "Loop vent"
+        },
+        {
+          "label": "D",
+          "text": "Circuit vent"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "A branch vent ties individual back vents into the main venting system.",
+      "explanation_long": "A branch vent is the horizontal vent line that connects one or more individual back vents to the vent stack or stack vent.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#10 | pages 25-26-27",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-04-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 4",
+      "difficulty": "Medium",
+      "prompt": "Where should a gravity grease interceptor not be installed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In any part of a building where food is handled"
+        },
+        {
+          "label": "B",
+          "text": "In a laundry area"
+        },
+        {
+          "label": "C",
+          "text": "On the second floor"
+        },
+        {
+          "label": "D",
+          "text": "In a public area"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Gravity grease interceptors should not be installed where food is handled.",
+      "explanation_long": "The cited grease-interceptor guidance states that a gravity grease interceptor shall not be installed in any part of a building where food is handled.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-04",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 4.pdf | Q#46 | pages 107-108",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "A dosing tank shall have a capacity equal to what percentage of the interior capacity of the pipe to be dosed at one time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30% to 50%"
+        },
+        {
+          "label": "B",
+          "text": "60% to 75%"
+        },
+        {
+          "label": "C",
+          "text": "80% to 95%"
+        },
+        {
+          "label": "D",
+          "text": "90% to 100%"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Dosing tanks are sized at 60% to 75% of the pipe capacity being dosed.",
+      "explanation_long": "Appendix guidance for disposal fields states that the dosing tank shall have a capacity equal to 60% to 75% of the interior capacity of the pipe to be dosed at one time.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#2 | pages 4-5",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "What valve shall be installed before each water-supplied appliance, slip-joint supply, and nonmetallic fixture or appliance supply piping?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fullway gate valve"
+        },
+        {
+          "label": "B",
+          "text": "Control gate valve"
+        },
+        {
+          "label": "C",
+          "text": "Single-control gate valve"
+        },
+        {
+          "label": "D",
+          "text": "Check valve"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Control gate valves are required ahead of these water-supplied connections.",
+      "explanation_long": "The referenced water-supply rule states that control gate valves shall be installed before each water-supplied appliance, slip-joint supply, and supply piping for nonmetallic fixtures and appliances.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#10 | pages 21-22",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "Horizontal drainage lines connecting with other horizontal drainage lines shall enter through all of the following except:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "45-degree wye branches"
+        },
+        {
+          "label": "B",
+          "text": "Combination wye and one-eighth bend branches"
+        },
+        {
+          "label": "C",
+          "text": "60-degree wye branches"
+        },
+        {
+          "label": "D",
+          "text": "Approved fittings of equivalent sweep"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "The code permits 45-degree wyes, combination wyes with one-eighth bends, or equivalent sweep fittings.",
+      "explanation_long": "Horizontal drainage lines entering other horizontal drainage lines must use 45-degree wye branches, combination wye and one-eighth bend branches, or other approved fittings of equivalent sweep. A 60-degree wye branch is the exception.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#15 | pages 33-34-35",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Hard",
+      "prompt": "What is the minimum net free opening required for the inlet section of a sand interceptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.1 m2"
+        },
+        {
+          "label": "B",
+          "text": "0.2 m2"
+        },
+        {
+          "label": "C",
+          "text": "0.3 m2"
+        },
+        {
+          "label": "D",
+          "text": "0.4 m2"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "A sand interceptor needs at least 0.2 m2 net free opening at the inlet section.",
+      "explanation_long": "The sand interceptor requirement states that the net free opening of the inlet section shall have a minimum area of 0.2 m2, with at least 610 mm depth under the invert of the outlet pipe.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#21 | pages 47-48",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "Each grease trap shall have an approved water seal of not less than what depth, or the diameter of its outlet, whichever is greater?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "26 mm"
+        },
+        {
+          "label": "B",
+          "text": "51 mm"
+        },
+        {
+          "label": "C",
+          "text": "64 mm"
+        },
+        {
+          "label": "D",
+          "text": "76 mm"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "The minimum grease-trap water seal is 51 mm.",
+      "explanation_long": "Each grease trap shall have an approved water seal not less than 51 mm in depth or not less than the diameter of its outlet, whichever is greater.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#22 | pages 49-50",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "At the lowest section of a conductor draining over a catch basin, storm drain, or storm sewer, what stronger material may be used for protection from damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Steel pipe"
+        },
+        {
+          "label": "B",
+          "text": "PVC pipe"
+        },
+        {
+          "label": "C",
+          "text": "Wrought iron pipe"
+        },
+        {
+          "label": "D",
+          "text": "Copper pipe"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "The lowest section may be protected with steel pipe or cast iron.",
+      "explanation_long": "The rule for rainwater conductors allows the lowest section to be protected from damage by connecting a stronger material such as steel pipe or cast iron.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#24 | pages 54-55",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "No building sewer shall be smaller than what diameter, and it shall not be less in size than the building drain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "75 mm"
+        },
+        {
+          "label": "B",
+          "text": "100 mm"
+        },
+        {
+          "label": "C",
+          "text": "125 mm"
+        },
+        {
+          "label": "D",
+          "text": "150 mm"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "The minimum size for a building sewer is 150 mm.",
+      "explanation_long": "The cited house-drain and house-sewer provision states that no building sewer shall be smaller than 150 mm in diameter and it must not be smaller than the building drain.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#28 | pages 63-64",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Medium",
+      "prompt": "Medical gas piping is most often joined by which method?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pressure-lock connection"
+        },
+        {
+          "label": "B",
+          "text": "Flared joints"
+        },
+        {
+          "label": "C",
+          "text": "Compression fittings"
+        },
+        {
+          "label": "D",
+          "text": "Silver brazing"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Medical gas copper piping is commonly joined by silver brazing.",
+      "explanation_long": "Copper-to-copper joints for medical gas pipework are commonly brazed using a silver-containing brazing filler metal, so silver brazing is the keyed method here.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#30 | pages 67-68",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "Which of the following is the exception to the rule that pipes shall be iron pipe size (IPS) with appropriate weight?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Steel"
+        },
+        {
+          "label": "C",
+          "text": "Lead"
+        },
+        {
+          "label": "D",
+          "text": "Copper"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Iron, steel, brass, and copper follow iron pipe size; lead does not.",
+      "explanation_long": "The material rule states that iron, steel, brass, and copper pipes shall be iron pipe size with appropriate weight. Lead is the exception among the listed choices.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#36 | pages 81-82",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-06-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 6",
+      "difficulty": "Easy",
+      "prompt": "How high shall a vent stack extend above the roof?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15 cm"
+        },
+        {
+          "label": "B",
+          "text": "12 in"
+        },
+        {
+          "label": "C",
+          "text": "15 in"
+        },
+        {
+          "label": "D",
+          "text": "10 ft"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "A vent stack shall terminate at least 15 cm above the roof.",
+      "explanation_long": "Each vent pipe or stack through the roof shall terminate vertically not less than 15 cm above the roof and not less than 0.3 m from any nearby vertical surface.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-06",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 6.pdf | Q#46 | pages 103-104",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-08-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "How is water pollution that carries disease organisms most commonly corrected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Filtration"
+        },
+        {
+          "label": "B",
+          "text": "Sedimentation"
+        },
+        {
+          "label": "C",
+          "text": "Chlorination"
+        },
+        {
+          "label": "D",
+          "text": "Coagulation"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Chlorination is the standard correction for disease-carrying contamination in water.",
+      "explanation_long": "The referenced water-quality correction table identifies chlorination as the correction for pollution or contamination in water that carries disease organisms.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#4 | pages 8-9",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-08-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 8",
+      "difficulty": "Easy",
+      "prompt": "Which term describes a disease that occurs infrequently and irregularly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endemic"
+        },
+        {
+          "label": "B",
+          "text": "Epidemic"
+        },
+        {
+          "label": "C",
+          "text": "Sporadic"
+        },
+        {
+          "label": "D",
+          "text": "Pandemic"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "A sporadic disease occurs infrequently and irregularly.",
+      "explanation_long": "Among the standard disease-occurrence terms, sporadic refers to a condition that appears infrequently and irregularly rather than maintaining a baseline pattern or spreading broadly.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-08",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 8.pdf | Q#8 | pages 16-17",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-10-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "Solid angles are measured in which unit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mil"
+        },
+        {
+          "label": "B",
+          "text": "Radians"
+        },
+        {
+          "label": "C",
+          "text": "Steradians"
+        },
+        {
+          "label": "D",
+          "text": "Circular mils"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "A steradian is the SI unit for measuring solid angles.",
+      "explanation_long": "Plane angles are measured in radians, while solid angles are measured in steradians.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#1 | pages 2-3",
+      "quality_flag": "verified"
+    },
+    {
+      "id": "advance-qa__week-10-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 10",
+      "difficulty": "Easy",
+      "prompt": "A value of 2.5 score is equivalent to how many years?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20 years"
+        },
+        {
+          "label": "B",
+          "text": "25 years"
+        },
+        {
+          "label": "C",
+          "text": "50 years"
+        },
+        {
+          "label": "D",
+          "text": "100 years"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "One score is equal to 20 years.",
+      "explanation_long": "A score means 20 years. Therefore, 2.5 score equals 2.5 x 20 = 50 years.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-10",
+        "advance-qa-curated",
+        "launch-batch-2"
+      ],
+      "source_ref": "WEEK 10.pdf | Q#47 | pages 94-95",
+      "quality_flag": "verified"
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

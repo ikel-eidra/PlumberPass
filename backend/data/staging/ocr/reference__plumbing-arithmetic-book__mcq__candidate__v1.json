@@ -1,0 +1,817 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 18
+    },
+    "notes": [
+      "OCR-heavy question bank."
+    ],
+    "source_slug": "reference__plumbing-arithmetic-book",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\REFERENCE BOOKS-20260126T193100Z-3-001\\10. Plumbing Arithmetic_.pdf",
+    "material_group": "reference-books",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:17:04.472591+00:00",
+    "classification": "ocr_queue",
+    "classification_reasons": [
+      "Source notes mark this file as OCR-heavy"
+    ]
+  },
+  "questions": [
+    {
+      "id": "reference__plumbing-arithmetic-book-q001",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Hard",
+      "prompt": "The interior of 1,275 feet of 60-inch pipe is uniformly coated with 2.75 inches of grease. How many gallons will this pipe hold when filled with water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "154,446"
+        },
+        {
+          "label": "B",
+          "text": "33,811"
+        },
+        {
+          "label": "C",
+          "text": "26,541,375"
+        },
+        {
+          "label": "D",
+          "text": "172,178"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#1 | pages 1",
+      "quality_flag": "review",
+      "source_pages": [
+        1
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q002",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "If flow through a 10-in, pipe is 722 gpm, what is the velocity in feet per second?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5 fi/sec"
+        },
+        {
+          "label": "B",
+          "text": "8 ft/sec"
+        },
+        {
+          "label": "C",
+          "text": "3 filsec"
+        },
+        {
+          "label": "D",
+          "text": "2 ft/sec"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#2 | pages 1",
+      "quality_flag": "review",
+      "source_pages": [
+        1
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q003",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "How many gallons are there in a pipe that is 18 in. in diameter and 216 ft long?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2,430 gal"
+        },
+        {
+          "label": "B",
+          "text": "2,854 gal"
+        },
+        {
+          "label": "C",
+          "text": "1,908 gal"
+        },
+        {
+          "label": "D",
+          "text": "2.561 gal"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#3 | pages 2",
+      "quality_flag": "review",
+      "source_pages": [
+        2
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q004",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "What is the pressure head at a fire hydrant in feet, if the pressure gauge reads 121 psi?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "itt"
+        },
+        {
+          "label": "B",
+          "text": "B) 86 ft () s2f"
+        },
+        {
+          "label": "D",
+          "text": "20 ft How many galions of 6.00% sodium hypochiorite solution are needed to disinfect a 1.0-ft diameter pipeline that Is 752 ft long. The required dosage Is 25.0 mg/L."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#4 | pages 2",
+      "quality_flag": "review",
+      "source_pages": [
+        2
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q005",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "What should the flow meter read in gallons per minute, if a 12-in. diameter main is to be flushed at 5.0 fps?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1,762 gpm"
+        },
+        {
+          "label": "B",
+          "text": "2,900 gpm"
+        },
+        {
+          "label": "C",
+          "text": "3,920 gpm"
+        },
+        {
+          "label": "D",
+          "text": "3,600 gpm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#5 | pages 3",
+      "quality_flag": "review",
+      "source_pages": [
+        3
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q006",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Hard",
+      "prompt": "The following flows were recorded for the months of February, March, and April: Feb = 197.3 cfs, March = 100,186.2 gpm, April = 255.7 mgd. What was the average daily flow for this three month period?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "127.3 mgd"
+        },
+        {
+          "label": "B",
+          "text": "175.8 mgd"
+        },
+        {
+          "label": "C",
+          "text": "47 mad"
+        },
+        {
+          "label": "D",
+          "text": "etermine the volume of water in gallons for the following distribution system: Distribution pipe “A” is 1,376 ft in length and 3.0 ft in diameter. Distribution pipe “B™ is 833 ft in length and 2.0 ft in diameter. Storage tank is"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#6 | pages 3",
+      "quality_flag": "review",
+      "source_pages": [
+        3
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q007",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "What is the area of a trench that Is 22.4 ftiong and 3.3 ft wide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "187 ft"
+        },
+        {
+          "label": "B",
+          "text": "26 ft"
+        },
+        {
+          "label": "C",
+          "text": "74 fe"
+        },
+        {
+          "label": "D",
+          "text": "143 8°"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#7 | pages 3",
+      "quality_flag": "review",
+      "source_pages": [
+        3
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q008",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Hard",
+      "prompt": "What capacity blower is required to ventilate a manhole 60\" in diameter and 53° deep, if 23 air change(s) are required every 36 minutes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "664 CFM"
+        },
+        {
+          "label": "B",
+          "text": "173 CFM"
+        },
+        {
+          "label": "C",
+          "text": "3,120 CFM"
+        },
+        {
+          "label": "D",
+          "text": "1,248 CFM"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#8 | pages 3",
+      "quality_flag": "review",
+      "source_pages": [
+        3
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q009",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Hard",
+      "prompt": "Root control chemical is added to the sewer at a dose of 51 mg/L. The sewer is 54-inches in diameter and 2,127 feet long. If the chemical contains 41% active ingredient, how many pounds of the chemical solution must be added to the sewer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "44 bs"
+        },
+        {
+          "label": "B",
+          "text": "293 Ibs"
+        },
+        {
+          "label": "C",
+          "text": "6,351 ibs"
+        },
+        {
+          "label": "D",
+          "text": "262 tbs ‘A sewer jet with a 1475 gallon tank has an 80 gpm pump. If the operator has to fill the truck 5 times in an 8 hour day, how much time is actually spent cleaning sewers during the day?"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#9 | pages 4",
+      "quality_flag": "review",
+      "source_pages": [
+        4
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q010",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "If a 24\" pipe and a 48” pipe are running full and meet at a manhole, what size outlet pipe will be required?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "72 in"
+        },
+        {
+          "label": "B",
+          "text": "60in"
+        },
+        {
+          "label": "C",
+          "text": "48in"
+        },
+        {
+          "label": "D",
+          "text": "54in"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#10 | pages 5",
+      "quality_flag": "review",
+      "source_pages": [
+        5
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q011",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "What is the percent lime in a slurry, if 12 Ib of lime are mixed in a 55-gal drum that contains 52 gal of water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "9.0 % () 54%"
+        },
+        {
+          "label": "C",
+          "text": "45%"
+        },
+        {
+          "label": "D",
+          "text": "27%"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#11 | pages 5",
+      "quality_flag": "review",
+      "source_pages": [
+        5
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q012",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "If the grade of a sanitary sewer has a slope of 0.10% for 1,200 feet, what is the rise of the pipe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1201.2 ft"
+        },
+        {
+          "label": "B",
+          "text": "001 ft"
+        },
+        {
+          "label": "C",
+          "text": "c) 120 ft"
+        },
+        {
+          "label": "D",
+          "text": "012 ft"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#12 | pages 5",
+      "quality_flag": "review",
+      "source_pages": [
+        5
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q013",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Hard",
+      "prompt": "What Is the motor horsepower (mhp) for a pump with the following parameters? Motor efficiency:87%, Total Head (TH): 107 ft, Pump efficiency: 79%, Flow: 2.544 mgd",
+      "choices": [
+        {
+          "label": "A",
+          "text": "87 mhp"
+        },
+        {
+          "label": "B",
+          "text": "79 mhp"
+        },
+        {
+          "label": "C",
+          "text": "25 mhp"
+        },
+        {
+          "label": "D",
+          "text": "69 mhp"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#13 | pages 6",
+      "quality_flag": "review",
+      "source_pages": [
+        6
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q014",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "What is the pounds per square inch pressure at the bottom of a tank, if the water level is 38.29 ft?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "53.9 psi"
+        },
+        {
+          "label": "B",
+          "text": "88.4 psi"
+        },
+        {
+          "label": "C",
+          "text": "16.6 psi"
+        },
+        {
+          "label": "D",
+          "text": "73 psi"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#14 | pages 7",
+      "quality_flag": "review",
+      "source_pages": [
+        7
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q015",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "What should the setting be on a chlorinator in pounds per day, if the dosage desired Is 2.90 mg/L and the pumping rate from the well is 975 gpm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "29 Ibiday"
+        },
+        {
+          "label": "B",
+          "text": "34. Ibiday"
+        },
+        {
+          "label": "C",
+          "text": "olored dye is dumped into a manhole. The first dye appears 3 minutes and 17 seconds later in a manhole located 1,850 feet downstream and disappears 21 minutes and 49 seconds after it was dumped into the first manhole. What is the velocity of flow in the sewer?"
+        },
+        {
+          "label": "D",
+          "text": "41 Ib/day"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#15 | pages 7",
+      "quality_flag": "review",
+      "source_pages": [
+        7
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q016",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "The interior of 750 ft of 24 in. pipe is uniformly coated with 1.5 inches of grease. How many gallons will this pipe hold when filled with water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15,482 gal."
+        },
+        {
+          "label": "B",
+          "text": "13,487 gal."
+        },
+        {
+          "label": "C",
+          "text": "17,165 gal."
+        },
+        {
+          "label": "D",
+          "text": "12,534 gal."
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#16 | pages 8",
+      "quality_flag": "review",
+      "source_pages": [
+        8
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q017",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "If a sewer must have a flow rate of 27 mgd with a velocity between 1.50 ft/sec and 2.75 f/sec, what mush the minimum size be?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "71in {B) 72in"
+        },
+        {
+          "label": "C",
+          "text": "53in"
+        },
+        {
+          "label": "D",
+          "text": "S2in What is the median value of the following data: 100, 300, 580, 250, 275, 335, 580"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#17 | pages 8",
+      "quality_flag": "review",
+      "source_pages": [
+        8
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    },
+    {
+      "id": "reference__plumbing-arithmetic-book-q018",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Reference Book",
+      "difficulty": "Easy",
+      "prompt": "1046 Pri? ve Velocity",
+      "choices": [
+        {
+          "label": "A",
+          "text": "rea _ _161 fils ~ 0.545 12 = 0.785d7h = (0.785)(0.667 ft)\" (250 ft) = 873i = —Volume_ Flow 653 25 gavimin = 26min x 04S3ps_ 44.3 pst igal 37a5L 499.3 galimin = —(gpm)(TOH, ft) (3,960)E,NEn) (499.3 300 ft} (3,9600.70) = 84"
+        },
+        {
+          "label": "B",
+          "text": "ie Volume iZFH 118 1890 & HP S4HR x = = 0.785 d\" = (0.785)0.833 ft)? = 0.545 f° = flow"
+        },
+        {
+          "label": "D",
+          "text": "746 KA $0.06 Flow = e73# xa THR 1A 653 gal"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Answer key not recovered from stacked question source.",
+      "explanation_long": "Answer key not recovered from stacked question source.",
+      "tags": [
+        "stacked-mcq",
+        "review-required",
+        "reference-books",
+        "reference__plumbing-arithmetic-book"
+      ],
+      "source_ref": "10. Plumbing Arithmetic_.pdf | Q#18 | pages 11",
+      "quality_flag": "review",
+      "source_pages": [
+        11
+      ],
+      "extraction_methods": [
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Parsed from stacked MCQ layout without answer key recovery."
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

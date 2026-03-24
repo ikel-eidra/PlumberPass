@@ -1,0 +1,2415 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "probable": 52
+    },
+    "notes": [
+      "OCR-heavy question bank."
+    ],
+    "source_slug": "plumbing-arithmetic__terms-02",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\PLUMBING ARITHMETIC-20260126T193107Z-3-001\\PA - TERMS 2.pdf",
+    "material_group": "plumbing-arithmetic",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T13:07:22.418505+00:00",
+    "classification": "ocr_queue",
+    "classification_reasons": [
+      "Source notes mark this file as OCR-heavy"
+    ]
+  },
+  "questions": [
+    {
+      "id": "plumbing-arithmetic__terms-02-q001",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "An artificial expenses that spreads purchase price of an asset or another property over number of years",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depreciation"
+        },
+        {
+          "label": "B",
+          "text": "Capital Loss"
+        },
+        {
+          "label": "C",
+          "text": "Capital Gain"
+        },
+        {
+          "label": "D",
+          "text": "Inflation"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for An artificial expenses that spreads purchase price of an asset or another property over number of years.",
+      "explanation_long": "Detected from highlighted answer slide for An artificial expenses that spreads purchase price of an asset or another property over number of years.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#1 | pages 2-3",
+      "quality_flag": "probable",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q002",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Consist of the actual counting or determination of the actual quantity of the materials on hand as of a given date.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inventory"
+        },
+        {
+          "label": "B",
+          "text": "Audit"
+        },
+        {
+          "label": "C",
+          "text": "Physical Inventory"
+        },
+        {
+          "label": "D",
+          "text": "Counting"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for Consist of the actual counting or determination of the actual quantity of the materials on hand as of a given date..",
+      "explanation_long": "Detected from highlighted answer slide for Consist of the actual counting or determination of the actual quantity of the materials on hand as of a given date..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#2 | pages 4-5",
+      "quality_flag": "probable",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q003",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The highest position in the corporation.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CEO"
+        },
+        {
+          "label": "B",
+          "text": "Board Member"
+        },
+        {
+          "label": "C",
+          "text": "COO"
+        },
+        {
+          "label": "D",
+          "text": "Chairman of the Boards"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for The highest position in the corporation..",
+      "explanation_long": "Detected from highlighted answer slide for The highest position in the corporation..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#3 | pages 6-7",
+      "quality_flag": "probable",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q004",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Type of ownership in business here individuals exercise and enjoy the right in their own interest.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Private"
+        },
+        {
+          "label": "B",
+          "text": "Public"
+        },
+        {
+          "label": "C",
+          "text": "PPT"
+        },
+        {
+          "label": "D",
+          "text": "Alimony"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for Type of ownership in business here individuals exercise and enjoy the right in their own interest..",
+      "explanation_long": "Detected from highlighted answer slide for Type of ownership in business here individuals exercise and enjoy the right in their own interest..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#4 | pages 8-9",
+      "quality_flag": "probable",
+      "source_pages": [
+        8,
+        9
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q005",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "An association of two or more individuals for the purpose of operating a business as co-owners for profit.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its Complicated"
+        },
+        {
+          "label": "B",
+          "text": "Situationship"
+        },
+        {
+          "label": "C",
+          "text": "Relationship"
+        },
+        {
+          "label": "D",
+          "text": "Partnership"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for An association of two or more individuals for the purpose of operating a business as co-owners for profit..",
+      "explanation_long": "Detected from highlighted answer slide for An association of two or more individuals for the purpose of operating a business as co-owners for profit..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#5 | pages 10-11",
+      "quality_flag": "probable",
+      "source_pages": [
+        10,
+        11
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q006",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The weight of the substance per unit volume",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Specific Weight"
+        },
+        {
+          "label": "B",
+          "text": "Void Ratio"
+        },
+        {
+          "label": "C",
+          "text": "Density"
+        },
+        {
+          "label": "D",
+          "text": "Saturation"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for The weight of the substance per unit volume.",
+      "explanation_long": "Detected from highlighted answer slide for The weight of the substance per unit volume.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#6 | pages 12-13",
+      "quality_flag": "probable",
+      "source_pages": [
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q007",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Grand total of the assets and operational capability of a corporation.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Risk"
+        },
+        {
+          "label": "B",
+          "text": "Investment"
+        },
+        {
+          "label": "C",
+          "text": "Subscribed Capital"
+        },
+        {
+          "label": "D",
+          "text": "Authorized Capital"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for Grand total of the assets and operational capability of a corporation..",
+      "explanation_long": "Detected from highlighted answer slide for Grand total of the assets and operational capability of a corporation..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#7 | pages 14-15",
+      "quality_flag": "probable",
+      "source_pages": [
+        14,
+        15
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q008",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The worth of the property equals to the original cost less depreciation..",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Market Value"
+        },
+        {
+          "label": "B",
+          "text": "Salvage Value"
+        },
+        {
+          "label": "C",
+          "text": "Book Value"
+        },
+        {
+          "label": "D",
+          "text": "Discount Value"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for The worth of the property equals to the original cost less depreciation...",
+      "explanation_long": "Detected from highlighted answer slide for The worth of the property equals to the original cost less depreciation...",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#8 | pages 16-17",
+      "quality_flag": "probable",
+      "source_pages": [
+        16,
+        17
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q009",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "This is a point where the concavity of a curve changes or when the slope of the curve is neither increasing nor decreasing. What is this point commonly called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Point of inflection"
+        },
+        {
+          "label": "B",
+          "text": "Maxima"
+        },
+        {
+          "label": "C",
+          "text": "Minima"
+        },
+        {
+          "label": "D",
+          "text": "Higher Derivative"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for This is a point where the concavity of a curve changes or when the slope of the curve is neither increasing nor decreasing. What is this point commonly called.",
+      "explanation_long": "Detected from highlighted answer slide for This is a point where the concavity of a curve changes or when the slope of the curve is neither increasing nor decreasing. What is this point commonly called.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#9 | pages 18-19",
+      "quality_flag": "probable",
+      "source_pages": [
+        18,
+        19
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q010",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Liquid assets such as cash and other assets that can be converted quickly into cash, such as accounts receivable and merchandise are called .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Current Asset"
+        },
+        {
+          "label": "B",
+          "text": "Frozen Asset"
+        },
+        {
+          "label": "C",
+          "text": "Estate Asset"
+        },
+        {
+          "label": "D",
+          "text": "Accumulated Asset"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for Liquid assets such as cash and other assets that can be converted quickly into cash, such as accounts receivable and merchandise are called ..",
+      "explanation_long": "Detected from highlighted answer slide for Liquid assets such as cash and other assets that can be converted quickly into cash, such as accounts receivable and merchandise are called ..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#10 | pages 20-21",
+      "quality_flag": "probable",
+      "source_pages": [
+        20,
+        21
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q011",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "A space that is devoid of matter and which the pressure is zero.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Andromeda"
+        },
+        {
+          "label": "B",
+          "text": "Outer Space"
+        },
+        {
+          "label": "C",
+          "text": "Space Bar"
+        },
+        {
+          "label": "D",
+          "text": "Vacuum"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for A space that is devoid of matter and which the pressure is zero..",
+      "explanation_long": "Detected from highlighted answer slide for A space that is devoid of matter and which the pressure is zero..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#11 | pages 22-23",
+      "quality_flag": "probable",
+      "source_pages": [
+        22,
+        23
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q012",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The provision in the contract that indicates the possible adjustment of material cost and labor cost.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary Clause"
+        },
+        {
+          "label": "B",
+          "text": "Secondary Clause"
+        },
+        {
+          "label": "C",
+          "text": "Escalatory Clause"
+        },
+        {
+          "label": "D",
+          "text": "Partnership Clause"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for The provision in the contract that indicates the possible adjustment of material cost and labor cost..",
+      "explanation_long": "Detected from highlighted answer slide for The provision in the contract that indicates the possible adjustment of material cost and labor cost..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#12 | pages 24-25",
+      "quality_flag": "probable",
+      "source_pages": [
+        24,
+        25
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q013",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "“When free competition exists the price of a product will be that value where supply is equal to the demand”",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Law of Demand"
+        },
+        {
+          "label": "B",
+          "text": "Law of Supply"
+        },
+        {
+          "label": "C",
+          "text": "Law of Supply and Demand"
+        },
+        {
+          "label": "D",
+          "text": "Law of Marketing"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for “When free competition exists the price of a product will be that value where supply is equal to the demand”.",
+      "explanation_long": "Detected from highlighted answer slide for “When free competition exists the price of a product will be that value where supply is equal to the demand”.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#13 | pages 26-27",
+      "quality_flag": "probable",
+      "source_pages": [
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q014",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Define as the future value minus the present value.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discount"
+        },
+        {
+          "label": "B",
+          "text": "Additive"
+        },
+        {
+          "label": "C",
+          "text": "Rate of Interest"
+        },
+        {
+          "label": "D",
+          "text": "Return of Investment"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for Define as the future value minus the present value..",
+      "explanation_long": "Detected from highlighted answer slide for Define as the future value minus the present value..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#14 | pages 28-29",
+      "quality_flag": "probable",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q015",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "It refer to the position relative to an ordering such as first, second, third etc.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exponential Number"
+        },
+        {
+          "label": "B",
+          "text": "Numerical"
+        },
+        {
+          "label": "C",
+          "text": "Ordinal Number"
+        },
+        {
+          "label": "D",
+          "text": "Cardinal Number"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for It refer to the position relative to an ordering such as first, second, third etc..",
+      "explanation_long": "Detected from highlighted answer slide for It refer to the position relative to an ordering such as first, second, third etc..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#15 | pages 30-31",
+      "quality_flag": "probable",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q016",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The path of the projectile is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ellipse"
+        },
+        {
+          "label": "B",
+          "text": "Parabola"
+        },
+        {
+          "label": "C",
+          "text": "Straight Line"
+        },
+        {
+          "label": "D",
+          "text": "Circular"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for The path of the projectile is:.",
+      "explanation_long": "Detected from highlighted answer slide for The path of the projectile is:.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#16 | pages 32-33",
+      "quality_flag": "probable",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q017",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "An angles which are non-right and non straight which are acute and obtuse angles is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute Angle"
+        },
+        {
+          "label": "B",
+          "text": "Oblique Angle"
+        },
+        {
+          "label": "C",
+          "text": "Right Angle"
+        },
+        {
+          "label": "D",
+          "text": "Undefined"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for An angles which are non-right and non straight which are acute and obtuse angles is.",
+      "explanation_long": "Detected from highlighted answer slide for An angles which are non-right and non straight which are acute and obtuse angles is.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#17 | pages 34-35",
+      "quality_flag": "probable",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q018",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The path of the projectile is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ellipse"
+        },
+        {
+          "label": "B",
+          "text": "Parabola"
+        },
+        {
+          "label": "C",
+          "text": "Straight Line"
+        },
+        {
+          "label": "D",
+          "text": "Circular"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for The path of the projectile is:.",
+      "explanation_long": "Detected from highlighted answer slide for The path of the projectile is:.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#18 | pages 36-37",
+      "quality_flag": "probable",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q019",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "A market whereby there is only one buyer of an item for which there are no goods substitute?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oligopoly"
+        },
+        {
+          "label": "B",
+          "text": "Monopsony"
+        },
+        {
+          "label": "C",
+          "text": "Monopoly"
+        },
+        {
+          "label": "D",
+          "text": "Oligopsony"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for A market whereby there is only one buyer of an item for which there are no goods substitute.",
+      "explanation_long": "Detected from highlighted answer slide for A market whereby there is only one buyer of an item for which there are no goods substitute.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#19 | pages 38-39",
+      "quality_flag": "probable",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q020",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "If two bodies of different masses, initially at rest, are acted upon by the same force for the same time, then what will be the same in both bodies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impulse"
+        },
+        {
+          "label": "B",
+          "text": "Momentum"
+        },
+        {
+          "label": "C",
+          "text": "Kinetic Energy"
+        },
+        {
+          "label": "D",
+          "text": "Potential Energy"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for If two bodies of different masses, initially at rest, are acted upon by the same force for the same time, then what will be the same in both bodies.",
+      "explanation_long": "Detected from highlighted answer slide for If two bodies of different masses, initially at rest, are acted upon by the same force for the same time, then what will be the same in both bodies.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#20 | pages 40-41",
+      "quality_flag": "probable",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q021",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Bond to which are attached coupons indicating the interest due and the date when such interest is to be paid.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Confidential Bond"
+        },
+        {
+          "label": "B",
+          "text": "Surely Bond"
+        },
+        {
+          "label": "C",
+          "text": "Coupon Bond"
+        },
+        {
+          "label": "D",
+          "text": "Manila Paper"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for Bond to which are attached coupons indicating the interest due and the date when such interest is to be paid..",
+      "explanation_long": "Detected from highlighted answer slide for Bond to which are attached coupons indicating the interest due and the date when such interest is to be paid..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#21 | pages 42-43",
+      "quality_flag": "probable",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q022",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The chord passing through the focus of the parabola and perpendicular to its axis.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Latus Rectum"
+        },
+        {
+          "label": "B",
+          "text": "Diameter"
+        },
+        {
+          "label": "C",
+          "text": "Radius"
+        },
+        {
+          "label": "D",
+          "text": "Directrix"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for The chord passing through the focus of the parabola and perpendicular to its axis..",
+      "explanation_long": "Detected from highlighted answer slide for The chord passing through the focus of the parabola and perpendicular to its axis..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#22 | pages 44-45",
+      "quality_flag": "probable",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q023",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Aline segment joining two points on a circle is called:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diameter"
+        },
+        {
+          "label": "B",
+          "text": "Radius"
+        },
+        {
+          "label": "C",
+          "text": "Chord"
+        },
+        {
+          "label": "D",
+          "text": "Arc"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for Aline segment joining two points on a circle is called:.",
+      "explanation_long": "Detected from highlighted answer slide for Aline segment joining two points on a circle is called:.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#23 | pages 46-47",
+      "quality_flag": "probable",
+      "source_pages": [
+        46,
+        47
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q024",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "What is the acid test ratio?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ratio of gross margin to operating, sales, administrative expenses. | | B. The ratio of owner’s equity to the current liabilities. |"
+        },
+        {
+          "label": "B",
+          "text": "The ratio of owner’s equity to the current liabilities."
+        },
+        {
+          "label": "C",
+          "text": "The ratio of current assets (exclusive of inventory) to the total current liabilities."
+        },
+        {
+          "label": "D",
+          "text": "The ratio of all assets to actual current liabilities."
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for What is the acid test ratio.",
+      "explanation_long": "Detected from highlighted answer slide for What is the acid test ratio.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#24 | pages 48-49",
+      "quality_flag": "probable",
+      "source_pages": [
+        48,
+        49
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q025",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The absorption of ink by blotting paper involves which phenomenon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ink Diffusion Phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "Siphonage Principle"
+        },
+        {
+          "label": "C",
+          "text": "Capillary action phenomenon"
+        },
+        {
+          "label": "D",
+          "text": "Absorption Phenomenon"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for The absorption of ink by blotting paper involves which phenomenon.",
+      "explanation_long": "Detected from highlighted answer slide for The absorption of ink by blotting paper involves which phenomenon.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#25 | pages 50-51",
+      "quality_flag": "probable",
+      "source_pages": [
+        50,
+        51
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q026",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Why metals are good conductors of electricity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The atoms are lightly packed"
+        },
+        {
+          "label": "B",
+          "text": "They have high melting point"
+        },
+        {
+          "label": "C",
+          "text": "They contain free electrons"
+        },
+        {
+          "label": "D",
+          "text": "All of the Above"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for Why metals are good conductors of electricity.",
+      "explanation_long": "Detected from highlighted answer slide for Why metals are good conductors of electricity.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#26 | pages 52-53",
+      "quality_flag": "probable",
+      "source_pages": [
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q027",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "How do you call the axis of the hyperbola that passes through the center, the foci and vertices?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diversion Axis"
+        },
+        {
+          "label": "B",
+          "text": "Latitude"
+        },
+        {
+          "label": "C",
+          "text": "Transverse axis"
+        },
+        {
+          "label": "D",
+          "text": "Conjugate Axis"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for How do you call the axis of the hyperbola that passes through the center, the foci and vertices.",
+      "explanation_long": "Detected from highlighted answer slide for How do you call the axis of the hyperbola that passes through the center, the foci and vertices.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#27 | pages 54-55",
+      "quality_flag": "probable",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q028",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The normal to a given plane is .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perpendicular to the Plane"
+        },
+        {
+          "label": "B",
+          "text": "On the same space"
+        },
+        {
+          "label": "C",
+          "text": "Congruent"
+        },
+        {
+          "label": "D",
+          "text": "Parallel to the Plane"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for The normal to a given plane is ..",
+      "explanation_long": "Detected from highlighted answer slide for The normal to a given plane is ..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#28 | pages 56-57",
+      "quality_flag": "probable",
+      "source_pages": [
+        56,
+        57
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q029",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "A plane section cut from a right circular cone by a plane perpendicular to the base of the cone.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parabola"
+        },
+        {
+          "label": "B",
+          "text": "Ellipse"
+        },
+        {
+          "label": "C",
+          "text": "Hyperbola"
+        },
+        {
+          "label": "D",
+          "text": "Hypersine"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for A plane section cut from a right circular cone by a plane perpendicular to the base of the cone..",
+      "explanation_long": "Detected from highlighted answer slide for A plane section cut from a right circular cone by a plane perpendicular to the base of the cone..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#29 | pages 58-59",
+      "quality_flag": "probable",
+      "source_pages": [
+        58,
+        59
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q030",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "A plane section cut from a right circular cone by a plane perpendicular to the base of the cone.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parabola"
+        },
+        {
+          "label": "B",
+          "text": "Ellipse"
+        },
+        {
+          "label": "C",
+          "text": "Hyperbola"
+        },
+        {
+          "label": "D",
+          "text": "Hypersine"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for A plane section cut from a right circular cone by a plane perpendicular to the base of the cone..",
+      "explanation_long": "Detected from highlighted answer slide for A plane section cut from a right circular cone by a plane perpendicular to the base of the cone..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#30 | pages 60-61",
+      "quality_flag": "probable",
+      "source_pages": [
+        60,
+        61
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q031",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The process when a solid (ice and snow) changes into water vapor (gas) without moving through the liquid phase.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Condensation"
+        },
+        {
+          "label": "B",
+          "text": "Precipitation"
+        },
+        {
+          "label": "C",
+          "text": "Sublimation"
+        },
+        {
+          "label": "D",
+          "text": "Evaporation"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for The process when a solid (ice and snow) changes into water vapor (gas) without moving through the liquid phase..",
+      "explanation_long": "Detected from highlighted answer slide for The process when a solid (ice and snow) changes into water vapor (gas) without moving through the liquid phase..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#31 | pages 62-63",
+      "quality_flag": "probable",
+      "source_pages": [
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q032",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Its is amount of energy needed to cool or heat 1 lb of water by one degree F.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Btu"
+        },
+        {
+          "label": "B",
+          "text": "Celsius"
+        },
+        {
+          "label": "C",
+          "text": "Kelvin"
+        },
+        {
+          "label": "D",
+          "text": "Cal"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for Its is amount of energy needed to cool or heat 1 lb of water by one degree F..",
+      "explanation_long": "Detected from highlighted answer slide for Its is amount of energy needed to cool or heat 1 lb of water by one degree F..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#32 | pages 64-65",
+      "quality_flag": "probable",
+      "source_pages": [
+        64,
+        65
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q033",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The process when a solid (ice and snow) changes into water vapor (gas) without moving through the liquid phase.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Condensation"
+        },
+        {
+          "label": "B",
+          "text": "Precipitation"
+        },
+        {
+          "label": "C",
+          "text": "Sublimation"
+        },
+        {
+          "label": "D",
+          "text": "Evaporation"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for The process when a solid (ice and snow) changes into water vapor (gas) without moving through the liquid phase..",
+      "explanation_long": "Detected from highlighted answer slide for The process when a solid (ice and snow) changes into water vapor (gas) without moving through the liquid phase..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#33 | pages 66-67",
+      "quality_flag": "probable",
+      "source_pages": [
+        66,
+        67
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q034",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "1 horsepower is equal to .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "746 watts"
+        },
+        {
+          "label": "B",
+          "text": "178.1 cal/s"
+        },
+        {
+          "label": "C",
+          "text": "550 ft-lb/s"
+        },
+        {
+          "label": "D",
+          "text": "All of the Above"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for 1 horsepower is equal to ..",
+      "explanation_long": "Detected from highlighted answer slide for 1 horsepower is equal to ..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#34 | pages 68-69",
+      "quality_flag": "probable",
+      "source_pages": [
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q035",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The standard acceleration due to gravity in the English unit",
+      "choices": [
+        {
+          "label": "A",
+          "text": "9.81 fps^2"
+        },
+        {
+          "label": "B",
+          "text": "4 fps^2"
+        },
+        {
+          "label": "C",
+          "text": "32.2 fps^2"
+        },
+        {
+          "label": "D",
+          "text": "106.25 fps^2"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for The standard acceleration due to gravity in the English unit.",
+      "explanation_long": "Detected from highlighted answer slide for The standard acceleration due to gravity in the English unit.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#35 | pages 70-71",
+      "quality_flag": "probable",
+      "source_pages": [
+        70,
+        71
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q036",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "One quarts is equal to .",
+      "choices": [
+        {
+          "label": "A",
+          "text": "57 gal"
+        },
+        {
+          "label": "B",
+          "text": "0.96 li"
+        },
+        {
+          "label": "C",
+          "text": "9 pints"
+        },
+        {
+          "label": "D",
+          "text": "None of the Above"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for One quarts is equal to ..",
+      "explanation_long": "Detected from highlighted answer slide for One quarts is equal to ..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#36 | pages 74-75",
+      "quality_flag": "probable",
+      "source_pages": [
+        74,
+        75
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q037",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "What do you a triangle having unequal sides?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obtuse Triangle"
+        },
+        {
+          "label": "B",
+          "text": "Scalene Triangle"
+        },
+        {
+          "label": "C",
+          "text": "Obscure Triangle"
+        },
+        {
+          "label": "D",
+          "text": "Impossible Triangle"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for What do you a triangle having unequal sides.",
+      "explanation_long": "Detected from highlighted answer slide for What do you a triangle having unequal sides.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#37 | pages 76-77",
+      "quality_flag": "probable",
+      "source_pages": [
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q038",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Each of the faces of a regular hexahedron is.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pentagon"
+        },
+        {
+          "label": "B",
+          "text": "Hexagon"
+        },
+        {
+          "label": "C",
+          "text": "Triangle"
+        },
+        {
+          "label": "D",
+          "text": "Square"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for Each of the faces of a regular hexahedron is..",
+      "explanation_long": "Detected from highlighted answer slide for Each of the faces of a regular hexahedron is..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#38 | pages 78-79",
+      "quality_flag": "probable",
+      "source_pages": [
+        78,
+        79
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q039",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "It occurs when a decrease in selling price result in a greater than proportionate increase in sales.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral Monopoly"
+        },
+        {
+          "label": "B",
+          "text": "Unitary elasticity of demand"
+        },
+        {
+          "label": "C",
+          "text": "Elastic demand"
+        },
+        {
+          "label": "D",
+          "text": "Inelastic demand"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for It occurs when a decrease in selling price result in a greater than proportionate increase in sales..",
+      "explanation_long": "Detected from highlighted answer slide for It occurs when a decrease in selling price result in a greater than proportionate increase in sales..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#39 | pages 80-81",
+      "quality_flag": "probable",
+      "source_pages": [
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q040",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "An instrument for measuring specific gravity of fluids.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Seismograph"
+        },
+        {
+          "label": "B",
+          "text": "Hydrometer"
+        },
+        {
+          "label": "C",
+          "text": "Manometer"
+        },
+        {
+          "label": "D",
+          "text": "Electric Meter"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for An instrument for measuring specific gravity of fluids..",
+      "explanation_long": "Detected from highlighted answer slide for An instrument for measuring specific gravity of fluids..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#40 | pages 82-83",
+      "quality_flag": "probable",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q041",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The fluid property which contributes cavitation.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Manometer"
+        },
+        {
+          "label": "B",
+          "text": "Suction head"
+        },
+        {
+          "label": "C",
+          "text": "atmospheric pressure"
+        },
+        {
+          "label": "D",
+          "text": "Vapor pressure"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for The fluid property which contributes cavitation..",
+      "explanation_long": "Detected from highlighted answer slide for The fluid property which contributes cavitation..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#41 | pages 84-85",
+      "quality_flag": "probable",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q042",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Polygon with infinite sides.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improper Polygon"
+        },
+        {
+          "label": "B",
+          "text": "Apeirogon"
+        },
+        {
+          "label": "C",
+          "text": "Infigon"
+        },
+        {
+          "label": "D",
+          "text": "Chilliagon"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for Polygon with infinite sides..",
+      "explanation_long": "Detected from highlighted answer slide for Polygon with infinite sides..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#42 | pages 86-87",
+      "quality_flag": "probable",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q043",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "A branch of mathematics dealing with integers and computation.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arithmetic"
+        },
+        {
+          "label": "B",
+          "text": "Algebra"
+        },
+        {
+          "label": "C",
+          "text": "Trigonometry"
+        },
+        {
+          "label": "D",
+          "text": "Geometry"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for A branch of mathematics dealing with integers and computation..",
+      "explanation_long": "Detected from highlighted answer slide for A branch of mathematics dealing with integers and computation..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#43 | pages 88-89",
+      "quality_flag": "probable",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q044",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Polygon with infinite sides.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improper Polygon"
+        },
+        {
+          "label": "B",
+          "text": "Apeirogon"
+        },
+        {
+          "label": "C",
+          "text": "Infigon"
+        },
+        {
+          "label": "D",
+          "text": "Chilliagon"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for Polygon with infinite sides..",
+      "explanation_long": "Detected from highlighted answer slide for Polygon with infinite sides..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#44 | pages 90-91",
+      "quality_flag": "probable",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q045",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Interest rate which specifies the actual rate of interest on the principal for one year as?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exact Interest"
+        },
+        {
+          "label": "B",
+          "text": "Effective Rate"
+        },
+        {
+          "label": "C",
+          "text": "Return of Investment"
+        },
+        {
+          "label": "D",
+          "text": "Nominal Rate"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for Interest rate which specifies the actual rate of interest on the principal for one year as.",
+      "explanation_long": "Detected from highlighted answer slide for Interest rate which specifies the actual rate of interest on the principal for one year as.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#45 | pages 92-93",
+      "quality_flag": "probable",
+      "source_pages": [
+        92,
+        93
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q046",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "Which of the following is not an extensive property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Weight"
+        },
+        {
+          "label": "B",
+          "text": "Mass"
+        },
+        {
+          "label": "C",
+          "text": "Volume"
+        },
+        {
+          "label": "D",
+          "text": "Density"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for Which of the following is not an extensive property.",
+      "explanation_long": "Detected from highlighted answer slide for Which of the following is not an extensive property.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#46 | pages 94-95",
+      "quality_flag": "probable",
+      "source_pages": [
+        94,
+        95
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q047",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "How do call an energy required to move 1 coulomb of charge through an element?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voltage"
+        },
+        {
+          "label": "B",
+          "text": "Current"
+        },
+        {
+          "label": "C",
+          "text": "Resistance"
+        },
+        {
+          "label": "D",
+          "text": "Power"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for How do call an energy required to move 1 coulomb of charge through an element.",
+      "explanation_long": "Detected from highlighted answer slide for How do call an energy required to move 1 coulomb of charge through an element.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#47 | pages 96-97",
+      "quality_flag": "probable",
+      "source_pages": [
+        96,
+        97
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q048",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "If the roots of an equation are zero, then, how do you classify the solutions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Darsho’s Solution"
+        },
+        {
+          "label": "B",
+          "text": "Schrodinger’s Number"
+        },
+        {
+          "label": "C",
+          "text": "Trivial Solution"
+        },
+        {
+          "label": "D",
+          "text": "Undefined"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for If the roots of an equation are zero, then, how do you classify the solutions.",
+      "explanation_long": "Detected from highlighted answer slide for If the roots of an equation are zero, then, how do you classify the solutions.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#48 | pages 98-99",
+      "quality_flag": "probable",
+      "source_pages": [
+        98,
+        99
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q049",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "In electricity, how do you call the rate of charge flow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voltage"
+        },
+        {
+          "label": "B",
+          "text": "Current"
+        },
+        {
+          "label": "C",
+          "text": "Resistance"
+        },
+        {
+          "label": "D",
+          "text": "Power"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Detected from highlighted answer slide for In electricity, how do you call the rate of charge flow.",
+      "explanation_long": "Detected from highlighted answer slide for In electricity, how do you call the rate of charge flow.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#49 | pages 100-101",
+      "quality_flag": "probable",
+      "source_pages": [
+        100,
+        101
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q050",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "The ratio of the volume of voids to the volume of the soil sample or specimen. It is simply the open space between the soil grains.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monopoly"
+        },
+        {
+          "label": "B",
+          "text": "Monopsony"
+        },
+        {
+          "label": "C",
+          "text": "Monarchy"
+        },
+        {
+          "label": "D",
+          "text": "Barter"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Detected from highlighted answer slide for The ratio of the volume of voids to the volume of the soil sample or specimen. It is simply the open space between the soil grains..",
+      "explanation_long": "Detected from highlighted answer slide for The ratio of the volume of voids to the volume of the soil sample or specimen. It is simply the open space between the soil grains..",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#50 | pages 102-103",
+      "quality_flag": "probable",
+      "source_pages": [
+        102,
+        103
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q051",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "This law in electrical circuits states, “The algebraic sum of currents entering a node (or a closed boundary) is zero”. How do you call this law?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Numerical Law"
+        },
+        {
+          "label": "B",
+          "text": "Schrodinger's Law"
+        },
+        {
+          "label": "C",
+          "text": "Kirchhoff’s voltage law"
+        },
+        {
+          "label": "D",
+          "text": "Kirchhoff’s current law"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "Detected from highlighted answer slide for This law in electrical circuits states, “The algebraic sum of currents entering a node (or a closed boundary) is zero”. How do you call this law.",
+      "explanation_long": "Detected from highlighted answer slide for This law in electrical circuits states, “The algebraic sum of currents entering a node (or a closed boundary) is zero”. How do you call this law.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#51 | pages 104-105",
+      "quality_flag": "probable",
+      "source_pages": [
+        104,
+        105
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    },
+    {
+      "id": "plumbing-arithmetic__terms-02-q052",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Terms 2",
+      "difficulty": "Easy",
+      "prompt": "This law in electrical circuits states, “The algebraic sum of all voltages around a closed path (or loop) is zero”. How do you call this law?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Numerical Law"
+        },
+        {
+          "label": "B",
+          "text": "Schrodinger's Law"
+        },
+        {
+          "label": "C",
+          "text": "Kirchoff’s voltage law"
+        },
+        {
+          "label": "D",
+          "text": "Kirchoff’s current law"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "Detected from highlighted answer slide for This law in electrical circuits states, “The algebraic sum of all voltages around a closed path (or loop) is zero”. How do you call this law.",
+      "explanation_long": "Detected from highlighted answer slide for This law in electrical circuits states, “The algebraic sum of all voltages around a closed path (or loop) is zero”. How do you call this law.",
+      "tags": [
+        "plumbing-arithmetic",
+        "ocr-slide-bank",
+        "plumbing-arithmetic__terms-02"
+      ],
+      "source_ref": "PA - TERMS 2.pdf | Q#52 | pages 106-107",
+      "quality_flag": "probable",
+      "source_pages": [
+        106,
+        107
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Answer key inferred from red highlight rectangle on paired answer page."
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

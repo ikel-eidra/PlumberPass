@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "probable": 3,
+      "review": 2
+    },
+    "notes": [],
+    "source_slug": "tables__useful-conversions",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\TABLES-20260126T193053Z-3-001\\5. USEFUL CONVERSIONS.pdf",
+    "material_group": "tables",
+    "converter": "facts",
+    "generated_at": "2026-03-21T13:09:48.156243+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "Reference extraction needs manual assessment"
+    ]
+  },
+  "questions": [],
+  "flashcards": [
+    {
+      "id": "fl-a32891078825",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "front": "What is the equivalent of 1 ATM (Atmosphere)?",
+      "back": "101.325 kpa kilopascal 101.325 kN/m² kilonewton/meter squared 101,325 pa pascal 101,325 N/m² newton/meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters of mercury 760 torr torr 76 cmHg centimeters of mercury 1 PSI (Pounds per Sq. Inch) = 2.31 ft. H2O foot of water 2.04 inHg inch of mercury 6.895 kpa kilopascal 1 BTU (British Thermal Unit) = 1,055 j joule 1.055 kj kilojoule 1 lb/ °F pounds/ deg.fahrenheit 252 cal calorie 0.25 kcal kilocalorie 0.00029307 kw/h kilowatt/ hour 778 ft-lbf foot-pound 1 X 10^-3 cfh cubic feet/ hour 8.33 X 10^-5 tor tons of refigeration",
+      "explanation_short": "101.325 kpa kilopascal 101.325 kN/m² kilonewton/meter squared 101,325 pa pascal 101,325 N/m² newton/meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters ",
+      "explanation_long": "1 ATM (Atmosphere) = 101.325 kpa kilopascal 101.325 kN/m² kilonewton/meter squared 101,325 pa pascal 101,325 N/m² newton/meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters of mercury 760 torr torr 76 cmHg centimeters of mercury 1 PSI (Pounds per Sq. Inch) = 2.31 ft. H2O foot of water 2.04 inHg inch of mercury 6.895 kpa kilopascal 1 BTU (British Thermal Unit) = 1,055 j joule 1.055 kj kilojoule 1 lb/ °F pounds/ deg.fahrenheit 252 cal calorie 0.25 kcal kilocalorie 0.00029307 kw/h kilowatt/ hour 778 ft-lbf foot-pound 1 X 10^-3 cfh cubic feet/ hour 8.33 X 10^-5 tor tons of refigeration",
+      "tags": [
+        "plumbing-arithmetic",
+        "conversion",
+        "tables",
+        "tables__useful-conversions",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-dfb607e4cb6a",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "front": "What is the equivalent of Density of Water @ 4°C/ 39°F?",
+      "back": "62.5 lbs/ cu.ft pounds/ cubic feet 8.34 lbs/ gal pounds/ gallon 1.94 slugs/ cu.ft slugs/ cu.ft 1000 kg/ cu.m kilogram/ cubic meter 1 g/ cu.cm gram/ cubic centimeter 1 g/ ml gram/ millilite 1 kg/ liter kilogram/ liter 0.0361 lbs/ cu.in pounds/ cubic inch",
+      "explanation_short": "62.5 lbs/ cu.ft pounds/ cubic feet 8.34 lbs/ gal pounds/ gallon 1.94 slugs/ cu.ft slugs/ cu.ft 1000 kg/ cu.m kilogram/ cubic meter 1 g/ cu.cm gram/ cubic centimeter 1 g/ ml gram/ m",
+      "explanation_long": "Density of Water @ 4°C/ 39°F = 62.5 lbs/ cu.ft pounds/ cubic feet 8.34 lbs/ gal pounds/ gallon 1.94 slugs/ cu.ft slugs/ cu.ft 1000 kg/ cu.m kilogram/ cubic meter 1 g/ cu.cm gram/ cubic centimeter 1 g/ ml gram/ millilite 1 kg/ liter kilogram/ liter 0.0361 lbs/ cu.in pounds/ cubic inch",
+      "tags": [
+        "plumbing-arithmetic",
+        "conversion",
+        "tables",
+        "tables__useful-conversions",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-8ea970363310",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "@ 4°c 39°f",
+      "front": "What is 9.81 kN/m3 SI 62.4?",
+      "back": "lb-f/ft3 E kilonewton/ cubic meter pound-force/ cubic foot",
+      "explanation_short": "lb-f/ft3 E kilonewton/ cubic meter pound-force/ cubic foot",
+      "explanation_long": "lb-f/ft3 E kilonewton/ cubic meter pound-force/ cubic foot",
+      "tags": [
+        "plumbing-arithmetic",
+        "definition",
+        "4-c-39-f",
+        "tables",
+        "tables__useful-conversions",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1 | @ 4°c 39°f",
+      "quality_flag": "review"
+    },
+    {
+      "id": "fl-e346c4239c94",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "@ 4°c 39°f",
+      "front": "What is the equivalent of Acceleration due to Gravity 9.81 m/ s² SI 32.2 ft/ s² E meter/ second squared foot/ second squared 1 HP (Horsepower)?",
+      "back": "746 w watts 0.746 kw kilowatts 550 ft-lbs/s foot- pounds/ second 33,000 ft-lbs/ m foot- pounds/ minute 1 N (Newton) = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force pound- force 1 J (Joule) = 10,000,000 erg erg 1 W (Watt) = 1 j/s joule/ second 1 kg.m²/s3 kilogram.meter squared / second cubed 1 n.m/ s newton.meter/second 1 Cal (Calorie) = 4.184 j joule",
+      "explanation_short": "746 w watts 0.746 kw kilowatts 550 ft-lbs/s foot- pounds/ second 33,000 ft-lbs/ m foot- pounds/ minute 1 N (Newton) = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force p",
+      "explanation_long": "Acceleration due to Gravity 9.81 m/ s² SI 32.2 ft/ s² E meter/ second squared foot/ second squared 1 HP (Horsepower) = 746 w watts 0.746 kw kilowatts 550 ft-lbs/s foot- pounds/ second 33,000 ft-lbs/ m foot- pounds/ minute 1 N (Newton) = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force pound- force 1 J (Joule) = 10,000,000 erg erg 1 W (Watt) = 1 j/s joule/ second 1 kg.m²/s3 kilogram.meter squared / second cubed 1 n.m/ s newton.meter/second 1 Cal (Calorie) = 4.184 j joule",
+      "tags": [
+        "plumbing-arithmetic",
+        "conversion",
+        "4-c-39-f",
+        "tables",
+        "tables__useful-conversions",
+        "flashcard"
+      ],
+      "difficulty": 3,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1 | @ 4°c 39°f",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "fl-f09a19710108",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversion",
+      "front": "What is ENERGY (joule)?",
+      "back": "FORCE (newton, lbs, dyne)",
+      "explanation_short": "FORCE (newton, lbs, dyne)",
+      "explanation_long": "FORCE (newton, lbs, dyne)",
+      "tags": [
+        "plumbing-arithmetic",
+        "definition",
+        "useful-conversion",
+        "tables",
+        "tables__useful-conversions",
+        "flashcard"
+      ],
+      "difficulty": 1,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1 | Useful Conversion",
+      "quality_flag": "review"
+    }
+  ],
+  "identification": [
+    {
+      "id": "id-1b5fa9ac3450",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "prompt": "What is the equivalent of 1 ATM (Atmosphere)?",
+      "accepted_answers": [
+        "101.325 kpa kilopascal 101.325 kN/m² kilonewton/meter squared 101,325 pa pascal 101,325 N/m² newton/meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters of mercury 760 torr torr 76 cmHg centimeters of mercury 1 PSI (Pounds per Sq. Inch) = 2.31 ft. H2O foot of water 2.04 inHg inch of mercury 6.895 kpa kilopascal 1 BTU (British Thermal Unit) = 1,055 j joule 1.055 kj kilojoule 1 lb/ °F pounds/ deg.fahrenheit 252 cal calorie 0.25 kcal kilocalorie 0.00029307 kw/h kilowatt/ hour 778 ft-lbf foot-pound 1 X 10^-3 cfh cubic feet/ hour 8.33 X 10^-5 tor tons of refigeration",
+        "101.325 kpa kilopascal 101.325 kN/m² kilonewton/meter squared 101,325 pa pascal 101,325 N/m² newton/meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters of mercury 760 torr torr 76 cmHg centimeters of mercury 1 PSI = 2.31 ft. H2O foot of water 2.04 inHg inch of mercury 6.895 kpa kilopascal 1 BTU = 1,055 j joule 1.055 kj kilojoule 1 lb/ °F pounds/ deg.fahrenheit 252 cal calorie 0.25 kcal kilocalorie 0.00029307 kw/h kilowatt/ hour 778 ft-lbf foot-pound 1 X 10^-3 cfh cubic feet/ hour 8.33 X 10^-5 tor tons of refigeration",
+        "101.325 kpa kilopascal 101.325 kN",
+        "m² kilonewton",
+        "meter squared 101,325 pa pascal 101,325 N",
+        "m² newton",
+        "meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters of mercury 760 torr torr 76 cmHg centimeters of mercury 1 PSI (Pounds per Sq. Inch) = 2.31 ft. H2O foot of water 2.04 inHg inch of mercury 6.895 kpa kilopascal 1 BTU (British Thermal Unit) = 1,055 j joule 1.055 kj kilojoule 1 lb",
+        "°F pounds",
+        "deg.fahrenheit 252 cal calorie 0.25 kcal kilocalorie 0.00029307 kw",
+        "h kilowatt",
+        "hour 778 ft-lbf foot-pound 1 X 10^-3 cfh cubic feet",
+        "hour 8.33 X 10^-5 tor tons of refigeration"
+      ],
+      "explanation_short": "101.325 kpa kilopascal 101.325 kN/m² kilonewton/meter squared 101,325 pa pascal 101,325 N/m² newton/meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters ",
+      "explanation_long": "1 ATM (Atmosphere) = 101.325 kpa kilopascal 101.325 kN/m² kilonewton/meter squared 101,325 pa pascal 101,325 N/m² newton/meter squared 14.7 psi pounds per square inch 1.01 bar bar 760 mmHg millimeters of mercury 760 torr torr 76 cmHg centimeters of mercury 1 PSI (Pounds per Sq. Inch) = 2.31 ft. H2O foot of water 2.04 inHg inch of mercury 6.895 kpa kilopascal 1 BTU (British Thermal Unit) = 1,055 j joule 1.055 kj kilojoule 1 lb/ °F pounds/ deg.fahrenheit 252 cal calorie 0.25 kcal kilocalorie 0.00029307 kw/h kilowatt/ hour 778 ft-lbf foot-pound 1 X 10^-3 cfh cubic feet/ hour 8.33 X 10^-5 tor tons of refigeration",
+      "tags": [
+        "plumbing-arithmetic",
+        "conversion",
+        "tables",
+        "tables__useful-conversions",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-c53efe233df5",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversions",
+      "prompt": "What is the equivalent of Density of Water @ 4°C/ 39°F?",
+      "accepted_answers": [
+        "62.5 lbs/ cu.ft pounds/ cubic feet 8.34 lbs/ gal pounds/ gallon 1.94 slugs/ cu.ft slugs/ cu.ft 1000 kg/ cu.m kilogram/ cubic meter 1 g/ cu.cm gram/ cubic centimeter 1 g/ ml gram/ millilite 1 kg/ liter kilogram/ liter 0.0361 lbs/ cu.in pounds/ cubic inch",
+        "62.5 lbs",
+        "cu.ft pounds",
+        "cubic feet 8.34 lbs",
+        "gal pounds",
+        "gallon 1.94 slugs",
+        "cu.ft slugs",
+        "cu.ft 1000 kg",
+        "cu.m kilogram",
+        "cubic meter 1 g",
+        "cu.cm gram",
+        "cubic centimeter 1 g",
+        "ml gram",
+        "millilite 1 kg",
+        "liter kilogram",
+        "liter 0.0361 lbs",
+        "cu.in pounds",
+        "cubic inch"
+      ],
+      "explanation_short": "62.5 lbs/ cu.ft pounds/ cubic feet 8.34 lbs/ gal pounds/ gallon 1.94 slugs/ cu.ft slugs/ cu.ft 1000 kg/ cu.m kilogram/ cubic meter 1 g/ cu.cm gram/ cubic centimeter 1 g/ ml gram/ m",
+      "explanation_long": "Density of Water @ 4°C/ 39°F = 62.5 lbs/ cu.ft pounds/ cubic feet 8.34 lbs/ gal pounds/ gallon 1.94 slugs/ cu.ft slugs/ cu.ft 1000 kg/ cu.m kilogram/ cubic meter 1 g/ cu.cm gram/ cubic centimeter 1 g/ ml gram/ millilite 1 kg/ liter kilogram/ liter 0.0361 lbs/ cu.in pounds/ cubic inch",
+      "tags": [
+        "plumbing-arithmetic",
+        "conversion",
+        "tables",
+        "tables__useful-conversions",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-7b0a99cba92c",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "@ 4°c 39°f",
+      "prompt": "What term matches this definition? lb-f/ft3 E kilonewton/ cubic meter pound-force/ cubic foot",
+      "accepted_answers": [
+        "9.81 kN/m3 SI 62.4",
+        "9.81 kN",
+        "m3 SI 62.4"
+      ],
+      "explanation_short": "9.81 kN/m3 SI 62.4",
+      "explanation_long": "9.81 kN/m3 SI 62.4: lb-f/ft3 E kilonewton/ cubic meter pound-force/ cubic foot",
+      "tags": [
+        "plumbing-arithmetic",
+        "definition",
+        "4-c-39-f",
+        "tables",
+        "tables__useful-conversions",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1 | @ 4°c 39°f",
+      "quality_flag": "review"
+    },
+    {
+      "id": "id-e5b63af3f4ed",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "@ 4°c 39°f",
+      "prompt": "What is the equivalent of Acceleration due to Gravity 9.81 m/ s² SI 32.2 ft/ s² E meter/ second squared foot/ second squared 1 HP (Horsepower)?",
+      "accepted_answers": [
+        "746 w watts 0.746 kw kilowatts 550 ft-lbs/s foot- pounds/ second 33,000 ft-lbs/ m foot- pounds/ minute 1 N (Newton) = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force pound- force 1 J (Joule) = 10,000,000 erg erg 1 W (Watt) = 1 j/s joule/ second 1 kg.m²/s3 kilogram.meter squared / second cubed 1 n.m/ s newton.meter/second 1 Cal (Calorie) = 4.184 j joule",
+        "746 w watts 0.746 kw kilowatts 550 ft-lbs/s foot- pounds/ second 33,000 ft-lbs/ m foot- pounds/ minute 1 N = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force pound- force 1 J = 10,000,000 erg erg 1 W = 1 j/s joule/ second 1 kg.m²/s3 kilogram.meter squared / second cubed 1 n.m/ s newton.meter/second 1 Cal = 4.184 j joule",
+        "746 w watts 0.746 kw kilowatts 550 ft-lbs",
+        "s foot- pounds",
+        "second 33,000 ft-lbs",
+        "m foot- pounds",
+        "minute 1 N (Newton) = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force pound- force 1 J (Joule) = 10,000,000 erg erg 1 W (Watt) = 1 j",
+        "s joule",
+        "second 1 kg.m²",
+        "s3 kilogram.meter squared",
+        "second cubed 1 n.m",
+        "s newton.meter",
+        "second 1 Cal (Calorie) = 4.184 j joule"
+      ],
+      "explanation_short": "746 w watts 0.746 kw kilowatts 550 ft-lbs/s foot- pounds/ second 33,000 ft-lbs/ m foot- pounds/ minute 1 N (Newton) = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force p",
+      "explanation_long": "Acceleration due to Gravity 9.81 m/ s² SI 32.2 ft/ s² E meter/ second squared foot/ second squared 1 HP (Horsepower) = 746 w watts 0.746 kw kilowatts 550 ft-lbs/s foot- pounds/ second 33,000 ft-lbs/ m foot- pounds/ minute 1 N (Newton) = 100,000 dyne 0.10 kg- force kilogram- force 0.2248 lb- force pound- force 1 J (Joule) = 10,000,000 erg erg 1 W (Watt) = 1 j/s joule/ second 1 kg.m²/s3 kilogram.meter squared / second cubed 1 n.m/ s newton.meter/second 1 Cal (Calorie) = 4.184 j joule",
+      "tags": [
+        "plumbing-arithmetic",
+        "conversion",
+        "4-c-39-f",
+        "tables",
+        "tables__useful-conversions",
+        "identification"
+      ],
+      "difficulty": 3,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1 | @ 4°c 39°f",
+      "quality_flag": "probable"
+    },
+    {
+      "id": "id-e05fa815683f",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Useful Conversion",
+      "prompt": "What term matches this definition? FORCE (newton, lbs, dyne)",
+      "accepted_answers": [
+        "ENERGY (joule)",
+        "ENERGY"
+      ],
+      "explanation_short": "ENERGY (joule)",
+      "explanation_long": "ENERGY (joule): FORCE (newton, lbs, dyne)",
+      "tags": [
+        "plumbing-arithmetic",
+        "definition",
+        "useful-conversion",
+        "tables",
+        "tables__useful-conversions",
+        "identification"
+      ],
+      "difficulty": 1,
+      "source_ref": "5. USEFUL CONVERSIONS.pdf | p.1 | Useful Conversion",
+      "quality_flag": "review"
+    }
+  ]
+}

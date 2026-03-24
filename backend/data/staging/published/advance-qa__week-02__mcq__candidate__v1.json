@@ -1,0 +1,2315 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "review": 8,
+      "probable": 21,
+      "candidate": 21
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-02",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 2.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T12:05:46.915128+00:00",
+    "classification": "publish_candidate",
+    "classification_reasons": [
+      "MCQ bank has enough volume with limited review-only items"
+    ]
+  },
+  "questions": [
+    {
+      "id": "week_2-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Terminology",
+      "difficulty": "Easy",
+      "prompt": "OS &? Ymeans",
+      "choices": [
+        {
+          "label": "A",
+          "text": "OuterSideYoke"
+        },
+        {
+          "label": "B",
+          "text": "OutsideScrewandYoke"
+        },
+        {
+          "label": "C",
+          "text": "OutletStemandYoke"
+        },
+        {
+          "label": "D",
+          "text": "OutletsideandYoke RisingStemwithOutsideScrewGateValve"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#1 | pages 2-3",
+      "quality_flag": "review",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "week_2-q002",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Water Supply",
+      "difficulty": "Hard",
+      "prompt": "Adischargecapacityof 0. 5 0 to 0. 9 5 lpsfor intermittentflowsshallconstitutetoabout",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 FU"
+        },
+        {
+          "label": "B",
+          "text": "2 FU (, RNPCPChapter 7)"
+        },
+        {
+          "label": "C",
+          "text": "4 FU"
+        },
+        {
+          "label": "D",
+          "text": "6 FU"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "* 1 FU (FixtureUnit) = 7. 4 8 GPM",
+      "explanation_long": "* 1 FU (FixtureUnit) = 7. 4 8 GPM *: IntermittentFlow 1 GPM = 0. 0 6 3 lps * ContinuousFlow (, sumppumpejectorand similardevices): 1 GPMor 0. 0 6 3 lps = 2 FU",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#2 | pages 4-5",
+      "quality_flag": "probable",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (, RNPCPChapter 7)"
+      ]
+    },
+    {
+      "id": "week_2-q003",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Materials",
+      "difficulty": "Hard",
+      "prompt": ", StandardSpecificationforVitrifiedClayPipe ,, ExtraStrengthStandardStrengthand Perforated",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ASTMD 1 78 5 (StandardSpecificationforPVC"
+        },
+        {
+          "label": "B",
+          "text": "ASTMB 1 3 5 (StandardSpecificationforSeamless"
+        },
+        {
+          "label": "C",
+          "text": "ASTMC 7 0 0"
+        },
+        {
+          "label": "D",
+          "text": "ASTMA 1 2 6 (StandardSpecificationforGrayIron"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". PlasticPipesSch 4 0, 8 0 and 1 2 0",
+      "explanation_long": ". PlasticPipesSch 4 0, 8 0 and 1 2 0 BrassTube , CastingsforValvesFlangesandPipeFittings)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#3 | pages 6-7",
+      "quality_flag": "candidate",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q004",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Materials",
+      "difficulty": "Easy",
+      "prompt": "Minimumthicknessofcopperpansorliners",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1. 6 mm"
+        },
+        {
+          "label": "B",
+          "text": "0. 8 mm"
+        },
+        {
+          "label": "C",
+          "text": "0. 5 mm (, RNPCPChapter 4)"
+        },
+        {
+          "label": "D",
+          "text": "1. 1 mm"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#4 | pages 8-9",
+      "quality_flag": "probable",
+      "source_pages": [
+        8,
+        9
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> (, RNPCPChapter 4)"
+      ]
+    },
+    {
+      "id": "week_2-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Dielectricunionsareusedto",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Connectplastictocopperpipes"
+        },
+        {
+          "label": "B",
+          "text": "Avoidwaterhammer"
+        },
+        {
+          "label": "C",
+          "text": "Preventcorrosion (preventscorrosionbetweendissimilar metalsinplumbing"
+        },
+        {
+          "label": "D",
+          "text": "Groundmetallicpipe"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#5 | pages 10-11",
+      "quality_flag": "candidate",
+      "source_pages": [
+        10,
+        11
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> (preventscorrosionbetweendissimilar metalsinplumbing"
+      ]
+    },
+    {
+      "id": "week_2-q006",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Water Supply",
+      "difficulty": "Hard",
+      "prompt": "Dischargefromasumppumpwith 7 gpmofflow iscomputedashowmanyfixtureunits",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0. 9 3 6 FU"
+        },
+        {
+          "label": "B",
+          "text": "3. 5 FU"
+        },
+        {
+          "label": "C",
+          "text": "2 1 FU"
+        },
+        {
+          "label": "D",
+          "text": "1 4 FU (, RNPCPChapter 7)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "* 1 FU (FixtureUnit) = 7. 4 8 GPM",
+      "explanation_long": "* 1 FU (FixtureUnit) = 7. 4 8 GPM *: IntermittentFlow 1 GPM = 0. 0 6 3 lps * ContinuousFlow (, sumppumpejectorand similardevices): 1 GPMor 0. 0 6 3 lps = 2 FU",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#6 | pages 12-13",
+      "quality_flag": "probable",
+      "source_pages": [
+        12,
+        13
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (, RNPCPChapter 7)"
+      ]
+    },
+    {
+      "id": "week_2-q007",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Materials",
+      "difficulty": "Hard",
+      "prompt": "Aschedule 4 0 pipehasanallowablestress (psi) of 1 1 2 5 0.? psiWhatisitsservicepressureinpsi",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 5 0 psi"
+        },
+        {
+          "label": "B",
+          "text": "4 0 0 psi"
+        },
+        {
+          "label": "C",
+          "text": "4 0 0 0 psi"
+        },
+        {
+          "label": "D",
+          "text": "4 5 0 psi"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Schedule = 1 0 0 0 (ServicePressure / AllowableStress)",
+      "explanation_long": "Schedule = 1 0 0 0 (ServicePressure / AllowableStress) 4 0 = 1 0 0 0 (X / 1 1 2 5 0 PSI) Shift + Solve = 4 5 0 PSI",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#7 | pages 14-15",
+      "quality_flag": "candidate",
+      "source_pages": [
+        14,
+        15
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q008",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Materials",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4 2 8 DFU"
+        },
+        {
+          "label": "B",
+          "text": "2 6 4 0 DFU"
+        },
+        {
+          "label": "C",
+          "text": "72 0 DFU"
+        },
+        {
+          "label": "D",
+          "text": "FU (DrainageFixtureUnit) loadofa 1 5 2 mm 5 76 DFU"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "horizontalpipewith 1 % or 1 0. 4 mm / mslope",
+      "explanation_long": "horizontalpipewith 1 % or 1 0. 4 mm / mslope horizontalpipewith 1 % or 1 0. 4 mm / mslope",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#8 | pages 16-17-18",
+      "quality_flag": "candidate",
+      "source_pages": [
+        16,
+        17,
+        18
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> FU (DrainageFixtureUnit) loadofa 1 5 2 mm 5 76 DFU"
+      ]
+    },
+    {
+      "id": "week_2-q009",
+      "topic": "Codes and Standards",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": ", AccordingtoRNPCPwhatisthestoragefactor forfullyequippedcommercialkitchen - 2 4 hourin? operation",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "1. 5"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "3 (, RNPCPAppendixB)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "RecommendedDesignCriteria",
+      "explanation_long": "RecommendedDesignCriteria",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#9 | pages 19-20",
+      "quality_flag": "probable",
+      "source_pages": [
+        19,
+        20
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (, RNPCPAppendixB)"
+      ]
+    },
+    {
+      "id": "week_2-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Laws and Codes",
+      "difficulty": "Hard",
+      "prompt": "Maximumgradientofaccessiblerampaccording totheamended 2 0 2 4 IRRofAccessibilitylaw",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1: 2 0"
+        },
+        {
+          "label": "B",
+          "text": "1: 1 2 (oldIRR) P 3 4 4 OldIRR"
+        },
+        {
+          "label": "C",
+          "text": "1: 2 4"
+        },
+        {
+          "label": "D",
+          "text": "1: 1 8"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#10 | pages 21-22",
+      "quality_flag": "probable",
+      "source_pages": [
+        21,
+        22
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> (oldIRR) P 3 4 4 OldIRR"
+      ]
+    },
+    {
+      "id": "week_2-q011",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Materials",
+      "difficulty": "Hard",
+      "prompt": "Accordingto 2 0 2 4, UniformPlumbingCode suctionfittingsonwhirlpoolbathtubsshall complywith",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ASMEA 1 1 2. 1 9. 7 / CSAB 4 5. 1 0"
+        },
+        {
+          "label": "B",
+          "text": "ASMES 1 1 2. 1 9. 7 / CSAB 2 0 2 4. 1 0"
+        },
+        {
+          "label": "C",
+          "text": "ASTMF 1 3 7 - 0 8 (StandardTestMethodforFlexibilityofResilient"
+        },
+        {
+          "label": "D",
+          "text": "ASTMF 8 7 9 (StandardSpecificationforStainlessSteelSocket"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "FlooringMaterialswithCylindricalMandrelApparatus)",
+      "explanation_long": "FlooringMaterialswithCylindricalMandrelApparatus) ButtonandFlatCountersunk)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#11 | pages 23-24",
+      "quality_flag": "candidate",
+      "source_pages": [
+        23,
+        24
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q012",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Drainage",
+      "difficulty": "Easy",
+      "prompt": "Thefirststeporprocessinwastewatertreatment",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GritRemoval (removalofsandandgravelbyflowingthe"
+        },
+        {
+          "label": "B",
+          "text": "BarScreening (removaloflargeitemsfromtheinfluent)"
+        },
+        {
+          "label": "C",
+          "text": "PrimaryClarifier (itallowsforthephysicalseparationof"
+        },
+        {
+          "label": "D",
+          "text": "Noneoftheabove"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "influentoverorthroughagritchamber)",
+      "explanation_long": "influentoverorthroughagritchamber) . solidsandgreasesfromthewastewater)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#12 | pages 25-26-27",
+      "quality_flag": "probable",
+      "source_pages": [
+        25,
+        26,
+        27
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "week_2-q013",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Terminology",
+      "difficulty": "Medium",
+      "prompt": "Madefromraworganicmaterials (suchascoconut shellsorcoal) thatisusedtoremovechemicals thatgiveobjectionableodorsortastetowater",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AnimalCharcoal (,, bonecharcoalusedasafiltrationmedia"
+        },
+        {
+          "label": "B",
+          "text": "DiatomaceousEarth (aspecialfiltrationprocessthatremoves particlesfromliquidsasitpassesthroughalayeroffossilized"
+        },
+        {
+          "label": "C",
+          "text": "Sandstone (actslikeanaturalspongetofilterssurface"
+        },
+        {
+          "label": "D",
+          "text": "GranularActivatedCarbon (;. CharcoalFilterswqaorg)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ", particularlyremovingfluoridearsenicandheavymetals)",
+      "explanation_long": ", particularlyremovingfluoridearsenicandheavymetals) remainsofmicroscopicwaterorganismcalleddiatoms) pollutants)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#13 | pages 28-29",
+      "quality_flag": "candidate",
+      "source_pages": [
+        28,
+        29
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q014",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Laws and Codes",
+      "difficulty": "Hard",
+      "prompt": ", AsaMasterPlumberyouaretaskedtodesigna ., malecomfortroomAsperrequirementsthe minimumrequiredwaterclosetis 1 2. Ifurinals , areprovidedwhatisthemaximumnumberof ? urinalscanbeplacedinsteadofawatercloset",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4 (8 waterclosetsand 4, urinals 2 / 3. oftheminrequired"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "1 2 WCis 8)",
+      "explanation_long": "1 2 WCis 8) . UniformPlumbingCodeb 8 , RNPCPChapter 4",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#14 | pages 30-31",
+      "quality_flag": "candidate",
+      "source_pages": [
+        30,
+        31
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (8 waterclosetsand 4, urinals 2 / 3. oftheminrequired"
+      ]
+    },
+    {
+      "id": "week_2-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Flowrate (high) ofemergencyshowers",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 0 0 gpm (. ASPEVol 4, Chapter 1)"
+        },
+        {
+          "label": "B",
+          "text": "2 5 gpm (lowflowrate)"
+        },
+        {
+          "label": "C",
+          "text": "5 0 gpm"
+        },
+        {
+          "label": "D",
+          "text": "2 0 0 gpm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#15 | pages 32-33",
+      "quality_flag": "review",
+      "source_pages": [
+        32,
+        33
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q016",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Laws and Codes",
+      "difficulty": "Medium",
+      "prompt": "Flangeuniongasketmaterialforoillines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sheetrubber (coldwaterpiping)"
+        },
+        {
+          "label": "B",
+          "text": "Rubber (hotwaterlines)"
+        },
+        {
+          "label": "C",
+          "text": "Metallicorasbestoscomposition (AUDELPlumbers"
+        },
+        {
+          "label": "D",
+          "text": "Leather (gaspiping)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ", PocketManualChapter 1 9)",
+      "explanation_long": ", PocketManualChapter 1 9)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#16 | pages 34-35",
+      "quality_flag": "candidate",
+      "source_pages": [
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "ContinuityCrisisManagement",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NFPA 2 1 1 (,,, StandardforChimneysFireplacesVentsand"
+        },
+        {
+          "label": "B",
+          "text": "NFPA 2 2 0 (StandardonTypesofBuildingConstruction)"
+        },
+        {
+          "label": "C",
+          "text": "NFPA 72 0 (StandardfortheInstallationofCarbonMonoxide"
+        },
+        {
+          "label": "D",
+          "text": "NFPA 1 6 0 0 (. nfpaorg)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "SolidFuel - BurningAppliances)",
+      "explanation_long": "SolidFuel - BurningAppliances) (CO) DetectionandWarningEquipment)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#17 | pages 36-37",
+      "quality_flag": "candidate",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q018",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Conversions",
+      "difficulty": "Hard",
+      "prompt": "5 GPMisequaltoliterspersecond",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0. 3 1 5"
+        },
+        {
+          "label": "B",
+          "text": "0. 0 6 3 (1 GPM = 0. 0 6 3 LPS)"
+        },
+        {
+          "label": "C",
+          "text": "1 8. 9 (5 GPM = 1 8. 9 LPM)"
+        },
+        {
+          "label": "D",
+          "text": "1, 1 3 4 (5 GPM = 1, 1 3 4 LPH)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "LPS - LitersperSecond",
+      "explanation_long": "LPS - LitersperSecond LPM - LitersperMinute LPH - LitersperHour 1 gallon = 3. 78 liters 1 FU = 7. 4 8 GPM",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#18 | pages 38-39",
+      "quality_flag": "probable",
+      "source_pages": [
+        38,
+        39
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "week_2-q019",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Medium",
+      "prompt": "Maximumsafechlorinelevelforpotablewater",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 ppm (, toolittleriskofincompletedisinfection)"
+        },
+        {
+          "label": "B",
+          "text": "2 ppm (;, samewithchoiceAtoolittleriskofincomplete"
+        },
+        {
+          "label": "C",
+          "text": "3 ppm (. enviroliteracyorg)"
+        },
+        {
+          "label": "D",
+          "text": "6 ppm (, toomuchchlorineunpleasanttodrinkand"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "disinfection)",
+      "explanation_long": "disinfection) potentiallyharmful)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#19 | pages 40-41",
+      "quality_flag": "candidate",
+      "source_pages": [
+        40,
+        41
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q020",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Conversions",
+      "difficulty": "Hard",
+      "prompt": "1 5 MGDisequivalenttoapproximately",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 0, 5 0 0 GPM (1 5 = X / 7 0 0; shift +; solveandequalsX = 1 0, 5 0 0)"
+        },
+        {
+          "label": "B",
+          "text": "1 0, 5 0 0 CFS"
+        },
+        {
+          "label": "C",
+          "text": "6, 7 3 5 GPM FS (CubicFeetperSecond) = GPM / 4 4 9"
+        },
+        {
+          "label": "D",
+          "text": "6, 7 3 5 CFS"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "MGD (Mega / MillionGallonsperDay) = GPM / 7 0 0",
+      "explanation_long": "MGD (Mega / MillionGallonsperDay) = GPM / 7 0 0 GPM (GallonsperMinute) = MGDX 7 0 0 GPM (GallonsperMinute) = CFSX 4 4 9",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#20 | pages 42-43",
+      "quality_flag": "candidate",
+      "source_pages": [
+        42,
+        43
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Materials",
+      "difficulty": "Easy",
+      "prompt": "Brassvalvesshouldnotbeusedforoperating temperaturesabove",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6 0 0 F"
+        },
+        {
+          "label": "B",
+          "text": "5 5 0 F"
+        },
+        {
+          "label": "C",
+          "text": "4 5 0 F (ASPEVolume 4, Chapter 3)"
+        },
+        {
+          "label": "D",
+          "text": "3 5 0 F"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#21 | pages 44-45",
+      "quality_flag": "probable",
+      "source_pages": [
+        44,
+        45
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> (ASPEVolume 4, Chapter 3)"
+      ]
+    },
+    {
+      "id": "week_2-q022",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Materials",
+      "difficulty": "Easy",
+      "prompt": "IdentificationofpipebycoloraccordingtoNBC AmendedRulesandRegulation - RuleXIII ElectricalandMechanicalRegulationsoflow - pressuresteam",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red"
+        },
+        {
+          "label": "B",
+          "text": "Yellow"
+        },
+        {
+          "label": "C",
+          "text": "White (high -; pressuresteamNBCRuleX - Mechanical"
+        },
+        {
+          "label": "D",
+          "text": "Buff (; exhaustsystemNBCRuleX - MechanicalRegulations)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Regulations)",
+      "explanation_long": "Regulations)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#22 | pages 46-47-48",
+      "quality_flag": "candidate",
+      "source_pages": [
+        46,
+        47,
+        48
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q023",
+      "topic": "Codes and Standards",
+      "subtopic": "Laws and Codes",
+      "difficulty": "Hard",
+      "prompt": "Accordingtothe 2 0 2 4 AmendedIRRofBP 3 4 4, AccessibilityLawwhatistheturningdiameter forwheelchairs",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1. 5 m (oldIRR)"
+        },
+        {
+          "label": "B",
+          "text": "1. 8 m"
+        },
+        {
+          "label": "C",
+          "text": "1. 7 m"
+        },
+        {
+          "label": "D",
+          "text": "2. 2 5 m"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#23 | pages 49-50",
+      "quality_flag": "candidate",
+      "source_pages": [
+        49,
+        50
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (oldIRR)"
+      ]
+    },
+    {
+      "id": "week_2-q024",
+      "topic": "Codes and Standards",
+      "subtopic": "Laws and Codes",
+      "difficulty": "Hard",
+      "prompt": ". Minimumstoragetanksizeincumofastructure havingabuildingfootprintof 7 5 0. sqm",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 0 (calculatedbydividingthetotalbuildingfootprint"
+        },
+        {
+          "label": "B",
+          "text": "1 5"
+        },
+        {
+          "label": "C",
+          "text": "7. 5"
+        },
+        {
+          "label": "D",
+          "text": "2 0"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "areaby 7 5;, ThePhilippineGreenBuildingCodeSection 1 1)",
+      "explanation_long": "areaby 7 5;, ThePhilippineGreenBuildingCodeSection 1 1)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#24 | pages 51-52",
+      "quality_flag": "candidate",
+      "source_pages": [
+        51,
+        52
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (calculatedbydividingthetotalbuildingfootprint"
+      ]
+    },
+    {
+      "id": "week_2-q025",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Maximumheightofwaterclosetforjuvenileuse",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 3 ” (, ASPEVol 4, Chapter 1)"
+        },
+        {
+          "label": "B",
+          "text": "1 4 ” (Standard)"
+        },
+        {
+          "label": "C",
+          "text": "1 0 ” (Children)"
+        },
+        {
+          "label": "D",
+          "text": "1 8 ” (PhysicallyChallenged)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#25 | pages 53-54",
+      "quality_flag": "review",
+      "source_pages": [
+        53,
+        54
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "? IAPMOstandsfor",
+      "choices": [
+        {
+          "label": "A",
+          "text": "InternationalAssociationofPlumbingandMechanicalOfficials"
+        },
+        {
+          "label": "B",
+          "text": "InternationalAdministrationofPlumbingandMechanicalOfficials InternationalAdministrationofPlumbingandMechanicalOfficial"
+        },
+        {
+          "label": "C",
+          "text": "InternationalAssociationofPlumbingandMechanicalOfficial"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#26 | pages 55-56",
+      "quality_flag": "review",
+      "source_pages": [
+        55,
+        56
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Howmanypubliclavatoriesaretherein 1 2? WFSU",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 2 (, RNPCPChapter 6; privatelavatory)"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#27 | pages 57-58",
+      "quality_flag": "probable",
+      "source_pages": [
+        57,
+        58
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (, RNPCPChapter 6; privatelavatory)"
+      ]
+    },
+    {
+      "id": "week_2-q028",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Drainage",
+      "difficulty": "Medium",
+      "prompt": ", Noartesiansdeeporshallowwellshallbe constructedwithinfromanysourceof pollution",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 5. 2 m (; RNPCPwatersupplywellsdistancefrombuilding"
+        },
+        {
+          "label": "B",
+          "text": "2 5 m (PD 8 5 6 -, CodeonSanitationofthePhilippines"
+        },
+        {
+          "label": "C",
+          "text": "3 0. 5 m (; RNPCPwatersupplywellsdistancefromdisposal"
+        },
+        {
+          "label": "D",
+          "text": "1 0 m"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "sewerandseptictank)",
+      "explanation_long": "sewerandseptictank) Chapter 2, Section 1 2) field)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#28 | pages 59-60",
+      "quality_flag": "probable",
+      "source_pages": [
+        59,
+        60
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "week_2-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "MinimumpointsforLEEDLeadershipinEnergyand EnvironmentalDesign - GoldLevel",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 6 - 3 2 points (Certified)"
+        },
+        {
+          "label": "B",
+          "text": "3 3 - 3 8 points (Silver)"
+        },
+        {
+          "label": "C",
+          "text": "3 9 - 5 1 points (ASPEVolume 1, Chapter 1 2)"
+        },
+        {
+          "label": "D",
+          "text": "5 2 + points (Platinum)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#29 | pages 61-62",
+      "quality_flag": "review",
+      "source_pages": [
+        61,
+        62
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q030",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Conversions",
+      "difficulty": "Hard",
+      "prompt": "Onascaleof 1: 1 0 0, meterswhatdoesit? represent",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 cmontheplanis 1 0 0 monthefield"
+        },
+        {
+          "label": "B",
+          "text": "1 cmontheplanis 1 0 0 0 cmonthefield"
+        },
+        {
+          "label": "C",
+          "text": "1 cmontheplanis 1 0 monthefield"
+        },
+        {
+          "label": "D",
+          "text": "1 cmontheplanis 1 0 0 cmonthefield (standard"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "; conversion 1 cmisequalsto 1 0 0 cm)",
+      "explanation_long": "; conversion 1 cmisequalsto 1 0 0 cm)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#30 | pages 63-64",
+      "quality_flag": "candidate",
+      "source_pages": [
+        63,
+        64
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (standard"
+      ]
+    },
+    {
+      "id": "week_2-q031",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Water Supply",
+      "difficulty": "Hard",
+      "prompt": "Apumpcapableofgenerating 1 5 0 feetheadof gasolinewouldprovideapressureof",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 5. 5 0 psig"
+        },
+        {
+          "label": "B",
+          "text": "4 5. 5 0 psig (1 psi = 2. 3 1.; fthead (1 5 0. fthead / 2. 3 1) *"
+        },
+        {
+          "label": "C",
+          "text": "5 5. 5 0 psig"
+        },
+        {
+          "label": "D",
+          "text": "6 0. 5 0 psig"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "(specificgravityofgasoline (0. 7 0)) = 4 5. 5 0 psig)",
+      "explanation_long": "(specificgravityofgasoline (0. 7 0)) = 4 5. 5 0 psig)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#31 | pages 65-66",
+      "quality_flag": "probable",
+      "source_pages": [
+        65,
+        66
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (1 psi = 2. 3 1.; fthead (1 5 0. fthead / 2. 3 1) *"
+      ]
+    },
+    {
+      "id": "week_2-q032",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Drainage",
+      "difficulty": "Medium",
+      "prompt": "“ StrongWaste ” referstowastewaterwhose initialBODvaluebeforetreatmentisequaltoor greaterthan",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 0 0 0 mg / l"
+        },
+        {
+          "label": "B",
+          "text": "2 5 0 0 mg / l"
+        },
+        {
+          "label": "C",
+          "text": "3 0 0 0 mg / l (DAO. No 3 5; Biochemicaloxygendemandor decomposeorganicmatterpresentinasampleofwaterata"
+        },
+        {
+          "label": "D",
+          "text": "3 5 0 0 mg / l"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "biologicaloxygendemand (BOD) isameasureoftheamountof",
+      "explanation_long": "biologicaloxygendemand (BOD) isameasureoftheamountof DissolvedOxygen (DO) requiredbyaerobicmicroorganismsto . certaintemperatureoverastudiedperiodBODvalueisusually expressedinmilligramsofoxygenperliterofwater (mg / L)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#32 | pages 67-68",
+      "quality_flag": "candidate",
+      "source_pages": [
+        67,
+        68
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (DAO. No 3 5; Biochemicaloxygendemandor decomposeorganicmatterpresentinasampleofwaterata"
+      ]
+    },
+    {
+      "id": "week_2-q033",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Waterwithlessthan 0. 5 partsperthousand dissolvedsaltconcentration",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Freshwater"
+        },
+        {
+          "label": "B",
+          "text": "Seawater (between 3 0 - 3 5 partsperthousandsalt"
+        },
+        {
+          "label": "C",
+          "text": "BrackishWater (between 0. 5 - 3 0 partsperthousandsalt"
+        },
+        {
+          "label": "D",
+          "text": "HypersalineWater (5 0 partsperthousandsaltconcentration)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "concentration)",
+      "explanation_long": "concentration) concentration)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#33 | pages 69-70",
+      "quality_flag": "probable",
+      "source_pages": [
+        69,
+        70
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "week_2-q034",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Terminology",
+      "difficulty": "Hard",
+      "prompt": ", Formofprecipitationandsometimescalledmists, consistsoftinyliquidwaterdropletsusually withdiameterbetween 0. 1 mmand 0. 5 0 mm",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rain (consistsofliquidwaterdropsmostlylargerthan 0. 5 0 mm"
+        },
+        {
+          "label": "B",
+          "text": "Hail (precipitationintheformofballsorirregularlumpsofice)"
+        },
+        {
+          "label": "C",
+          "text": "Drizzle"
+        },
+        {
+          "label": "D",
+          "text": "Glaze (, icecoatinggenerallyclearandsmoothbutusually"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "indiameter)",
+      "explanation_long": "indiameter) , containingsomeairpocketsformedonexposedsurfacesbythe freezingofsupercooledwaterdepositedbyrainordrizzle)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#34 | pages 71-72",
+      "quality_flag": "probable",
+      "source_pages": [
+        71,
+        72
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "week_2-q035",
+      "topic": "Plumbing Materials and Specifications",
+      "subtopic": "Materials",
+      "difficulty": "Easy",
+      "prompt": ". PEXpipesshouldbesupportedatleastevery",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 4 ”"
+        },
+        {
+          "label": "B",
+          "text": "3 0 ”"
+        },
+        {
+          "label": "C",
+          "text": "3 2 ” (. pexuniversecom)"
+        },
+        {
+          "label": "D",
+          "text": "4 8 ”"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "PEXpipeorPEXtubingismadeofacross - linked",
+      "explanation_long": "PEXpipeorPEXtubingismadeofacross - linked ,. polyethyleneplasticwhichisaflexibleplastic",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#35 | pages 73-74",
+      "quality_flag": "probable",
+      "source_pages": [
+        73,
+        74
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (. pexuniversecom)"
+      ]
+    },
+    {
+      "id": "week_2-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Nomorethanofflammableliquidscanbe storedinaroomoutsideofanapprovedstorage cabinet",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 0 gallons"
+        },
+        {
+          "label": "B",
+          "text": "3 0 gallons"
+        },
+        {
+          "label": "C",
+          "text": "1 5 gallons"
+        },
+        {
+          "label": "D",
+          "text": "2 5 gallons (OccupationalSafetyandHealth"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": ", AdministrationFlammableLiquids)",
+      "explanation_long": ", AdministrationFlammableLiquids)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#36 | pages 75-76",
+      "quality_flag": "candidate",
+      "source_pages": [
+        75,
+        76
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (OccupationalSafetyandHealth"
+      ]
+    },
+    {
+      "id": "week_2-q037",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Drainage",
+      "difficulty": "Easy",
+      "prompt": "Isthetypeofwastewaterdisinfectionthat destroythecell ’ sabilitytoreproduce",
+      "choices": [
+        {
+          "label": "A",
+          "text": "OxygenUptake"
+        },
+        {
+          "label": "B",
+          "text": "UV (, UltravioletDisinfectionkillsgermswithlight"
+        },
+        {
+          "label": "C",
+          "text": "Ozone (, anothertypeofwastewaterdisinfectionkillgerms"
+        },
+        {
+          "label": "D",
+          "text": "Chlorination (mostcommonandinexpensive)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ";. energyepagov)",
+      "explanation_long": ";. energyepagov) , asanoxidizerverystrongoxidantandvirucide)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#37 | pages 77-78",
+      "quality_flag": "probable",
+      "source_pages": [
+        77,
+        78
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "week_2-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SPEVol 4 -. GateValvesASPEVol 4 - GlobeValves"
+        },
+        {
+          "label": "B",
+          "text": "CompositionDiscGlobeValve (. ASPEVol 4)"
+        },
+        {
+          "label": "C",
+          "text": "ConventionalDiscGlobeValve"
+        },
+        {
+          "label": "D",
+          "text": "SplitWedgeGateValve"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#38 | pages 79-80-81",
+      "quality_flag": "review",
+      "source_pages": [
+        79,
+        80,
+        81
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q039",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Materials",
+      "difficulty": "Easy",
+      "prompt": "Insulatedwaterpipeheatloss",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8 0 % (, AUDELPlumbersPocketManualChapter 1)"
+        },
+        {
+          "label": "B",
+          "text": "8 5 %"
+        },
+        {
+          "label": "C",
+          "text": "9 0 %"
+        },
+        {
+          "label": "D",
+          "text": "7 5 %"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#39 | pages 82-83",
+      "quality_flag": "probable",
+      "source_pages": [
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (, AUDELPlumbersPocketManualChapter 1)"
+      ]
+    },
+    {
+      "id": "week_2-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Whengutterhassemi -, circularbottomthedepth ofequivalentareaofrectangulargutter",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0. 3 9 2 xdiameter (, RNPCPChapter 1 1)"
+        },
+        {
+          "label": "B",
+          "text": "0. 8 8 6 2 xdiameter"
+        },
+        {
+          "label": "C",
+          "text": "0. 7 76 2 xdiameter"
+        },
+        {
+          "label": "D",
+          "text": "0. 4 9 2 xdiameter"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#40 | pages 84-85",
+      "quality_flag": "probable",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (, RNPCPChapter 1 1)"
+      ]
+    },
+    {
+      "id": "week_2-q041",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Maximumvelocityofwaterforsizingsupply piping",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 m / sec (, RNPCPAppendixA)"
+        },
+        {
+          "label": "B",
+          "text": "5 m / sec"
+        },
+        {
+          "label": "C",
+          "text": "2 m / sec"
+        },
+        {
+          "label": "D",
+          "text": "1 m / sec"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#41 | pages 86-87",
+      "quality_flag": "probable",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: A -> (, RNPCPAppendixA)"
+      ]
+    },
+    {
+      "id": "week_2-q042",
+      "topic": "Plumbing Arithmetic",
+      "subtopic": "Conversions",
+      "difficulty": "Hard",
+      "prompt": "Minimumcompressivestrengthofbrickorblock inseepagepitconstruction",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 0 0 0 psi"
+        },
+        {
+          "label": "B",
+          "text": "1 9. 2 kpa (minimumearthloadcapacityoftheseepagepit"
+        },
+        {
+          "label": "C",
+          "text": "2 5 0 0 psi (1 7, 2 2 5;, kpaRNPCPAppendixB)"
+        },
+        {
+          "label": "D",
+          "text": "1 4. 4 kpa (minimumearthloadcapacityofseptictankcover)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "slabcover)",
+      "explanation_long": "slabcover) 1 PSI = 6. 8 9 5 KPA",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#42 | pages 88-89",
+      "quality_flag": "probable",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "week_2-q043",
+      "topic": "Codes and Standards",
+      "subtopic": "Laws and Codes",
+      "difficulty": "Hard",
+      "prompt": "ProtectionofProfessionalsinthePhilippines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 2 2 3 (CreationofProfessionalRegulationCommission)"
+        },
+        {
+          "label": "B",
+          "text": "LOI 1 0 0 0"
+        },
+        {
+          "label": "C",
+          "text": "PD 1 1 8 5 (; OldFireCodeofthePhilippinesRA 9 5 1 4 - NewFire"
+        },
+        {
+          "label": "D",
+          "text": "BP 2 2 0 (RulesforstandardforEconomicandSocialized"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "CodeofthePhilippines)",
+      "explanation_long": "CodeofthePhilippines) HousingProjects) LOI 1 0 0 0 -. LetterofInstructionNo 1 0 0 0",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#43 | pages 90-91",
+      "quality_flag": "probable",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "week_2-q044",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Water Supply",
+      "difficulty": "Medium",
+      "prompt": ", Achamberforsewagereceptionandprocessing consistingofanuppersedimentationchamber andalowerdigestionchamber",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ImhoffTank (. wikipediaorg)"
+        },
+        {
+          "label": "B",
+          "text": "Schmutzdecke (abiologicallayeronthesurfaceofaslowsand . filterthatpurifieswaterItconsistsofvariousorganismssuchas"
+        },
+        {
+          "label": "C",
+          "text": "SepticTank (anundergroundsedimentationtankinawastewater"
+        },
+        {
+          "label": "D",
+          "text": "DosingTank (watertighttankplacedbetweentheseptictankand"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ",,, bacteriafungiprotozoaalgaeandinsects)",
+      "explanation_long": ",,, bacteriafungiprotozoaalgaeandinsects) treatmentsystem) distributionboxequippedwithapumpoautomaticsiphondesign)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#44 | pages 92-93-94",
+      "quality_flag": "candidate",
+      "source_pages": [
+        92,
+        93,
+        94
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Hard",
+      "prompt": "AtwhattemperaturewilltheCelsiusand ? Fahrenheitdegreesreadingbeequal",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8 8. 8 8 C"
+        },
+        {
+          "label": "B",
+          "text": "6 0 C"
+        },
+        {
+          "label": "D",
+          "text": "0 C"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". c – 4 0 C",
+      "explanation_long": ". c – 4 0 C . c – 4 0 C ° C = (° F - 3 2) × 5 / 9 ° F = (° C × 1. 8) + 3 2 TemperatureReferencePointsIn ° Cand ° F",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#45 | pages 95-96",
+      "quality_flag": "candidate",
+      "source_pages": [
+        95,
+        96
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q046",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Lightandordinaryhazardsprinklerheadspacing",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3. 7 m (extrahazard)"
+        },
+        {
+          "label": "B",
+          "text": "4. 6 m (NFPA 1 3 - StandardfortheInstallationofSprinkler"
+        },
+        {
+          "label": "C",
+          "text": "2. 8 m"
+        },
+        {
+          "label": "D",
+          "text": "2. 5"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Systems)",
+      "explanation_long": "Systems)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#46 | pages 97-98",
+      "quality_flag": "candidate",
+      "source_pages": [
+        97,
+        98
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q047",
+      "topic": "Codes and Standards",
+      "subtopic": "Laws and Codes",
+      "difficulty": "Hard",
+      "prompt": "Theoriginalplumbingpermitfeeis 1 0, 0 0 0, PHPin ,? caseofarenewalhowmuchistherenewalfee",
+      "choices": [
+        {
+          "label": "A",
+          "text": "7, 5 0 0 PHP"
+        },
+        {
+          "label": "B",
+          "text": "1 5, 0 0 0 PHP"
+        },
+        {
+          "label": "C",
+          "text": "5, 0 0 0 PHP (5 0 % oftheoriginalfeeshallbepaidincaseof"
+        },
+        {
+          "label": "D",
+          "text": "2, 5 0 0 PHP"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ";, renewalRNPCPChapter 1)",
+      "explanation_long": ";, renewalRNPCPChapter 1)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#47 | pages 99-100",
+      "quality_flag": "candidate",
+      "source_pages": [
+        99,
+        100
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (5 0 % oftheoriginalfeeshallbepaidincaseof"
+      ]
+    },
+    {
+      "id": "week_2-q048",
+      "topic": "Fire Protection and Safety",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Thephasechangefromgasdirectlytosolid",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition"
+        },
+        {
+          "label": "B",
+          "text": "Sublimation (SolidtoGas)"
+        },
+        {
+          "label": "C",
+          "text": "Condensation (GastoLiquid)"
+        },
+        {
+          "label": "D",
+          "text": "Evaporation (LiquidtoGas)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#48 | pages 101-102",
+      "quality_flag": "probable",
+      "source_pages": [
+        101,
+        102
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "week_2-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": ", AccordingtoPDEbyMaxFajardowhatisthe ? maximumintervaldistanceofmanhole",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 5 0 m"
+        },
+        {
+          "label": "B",
+          "text": "7 5 m (minimumintervaldistance)"
+        },
+        {
+          "label": "C",
+          "text": "1 0 0 m"
+        },
+        {
+          "label": "D",
+          "text": "9 1 m (, RNPCPChapter 1 2)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#49 | pages 103-104",
+      "quality_flag": "review",
+      "source_pages": [
+        103,
+        104
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "week_2-q050",
+      "topic": "Sanitary and Plumbing Systems",
+      "subtopic": "Advance Q&A Week 2",
+      "difficulty": "Easy",
+      "prompt": "Sanitation, Plumbing Design and Installation THANK YOU!",
+      "choices": [
+        {
+          "label": "A",
+          "text": "R. SEAN A. DUPAYA, UAP, RMP"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-02"
+      ],
+      "source_ref": "WEEK 2.pdf | Q#50 | pages 105-106-107",
+      "quality_flag": "review",
+      "source_pages": [
+        105,
+        106,
+        107
+      ],
+      "extraction_methods": [
+        "direct",
+        "direct",
+        "direct"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

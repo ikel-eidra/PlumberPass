@@ -1,0 +1,806 @@
+{
+  "metadata": {
+    "generator": "scripts/publish_laws_mcqs.py",
+    "generated_at": "2026-03-22T21:39:25.707684+00:00",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\PlumberPass\\backend\\data\\reference_materials_generated.json",
+    "promotion_strategy": "Derived MCQs from structured law/code references",
+    "candidate_count": 22,
+    "question_count": 22
+  },
+  "questions": [
+    {
+      "id": "laws-derived__ref-law-bp-220-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Economic and Socialized Housing",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BP 344"
+        },
+        {
+          "label": "B",
+          "text": "PD 198"
+        },
+        {
+          "label": "C",
+          "text": "PD 296"
+        },
+        {
+          "label": "D",
+          "text": "BP 220"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "BP 220 matches this law or code reference.",
+      "explanation_long": "BP 220: Economic and Socialized Housing",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | BP 220",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-bp-344-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Accessibility Law",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BP 344"
+        },
+        {
+          "label": "B",
+          "text": "BP 220"
+        },
+        {
+          "label": "C",
+          "text": "PD 198"
+        },
+        {
+          "label": "D",
+          "text": "PD 296"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "BP 344 matches this law or code reference.",
+      "explanation_long": "BP 344: Accessibility Law",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | BP 344",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-loi-1000-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Protection of Professionals",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 9275"
+        },
+        {
+          "label": "B",
+          "text": "LOI 1000"
+        },
+        {
+          "label": "C",
+          "text": "PD 1185"
+        },
+        {
+          "label": "D",
+          "text": "PD 1152"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "LOI 1000 matches this law or code reference.",
+      "explanation_long": "LOI 1000: Protection of Professionals",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | LOI 1000",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-1067-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Water Code of the Philippines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 1185"
+        },
+        {
+          "label": "B",
+          "text": "PD 1152"
+        },
+        {
+          "label": "C",
+          "text": "PD 1096"
+        },
+        {
+          "label": "D",
+          "text": "PD 1067"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "PD 1067 matches this law or code reference.",
+      "explanation_long": "PD 1067: Water Code of the Philippines",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 1067",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-1096-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? National Building Code of the PH",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 1185"
+        },
+        {
+          "label": "B",
+          "text": "PD 1096"
+        },
+        {
+          "label": "C",
+          "text": "PD 1152"
+        },
+        {
+          "label": "D",
+          "text": "PD 1067"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "PD 1096 matches this law or code reference.",
+      "explanation_long": "PD 1096: National Building Code of the PH",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 1096",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-1152-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Philippine Environment Code",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 1185"
+        },
+        {
+          "label": "B",
+          "text": "PD 1152"
+        },
+        {
+          "label": "C",
+          "text": "PD 1096"
+        },
+        {
+          "label": "D",
+          "text": "PD 1067"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "PD 1152 matches this law or code reference.",
+      "explanation_long": "PD 1152: Philippine Environment Code",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 1152",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-1185-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Old Fire Code",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 1152"
+        },
+        {
+          "label": "B",
+          "text": "PD 1185"
+        },
+        {
+          "label": "C",
+          "text": "PD 1096"
+        },
+        {
+          "label": "D",
+          "text": "PD 1067"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "PD 1185 matches this law or code reference.",
+      "explanation_long": "PD 1185: Old Fire Code",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 1185",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-198-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Provincial Water Utilities Act",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 296"
+        },
+        {
+          "label": "B",
+          "text": "PD 856"
+        },
+        {
+          "label": "C",
+          "text": "PD 223"
+        },
+        {
+          "label": "D",
+          "text": "PD 198"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "PD 198 matches this law or code reference.",
+      "explanation_long": "PD 198: Provincial Water Utilities Act",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 198",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-223-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? PRC",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 198"
+        },
+        {
+          "label": "B",
+          "text": "PD 296"
+        },
+        {
+          "label": "C",
+          "text": "PD 856"
+        },
+        {
+          "label": "D",
+          "text": "PD 223"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "PD 223 matches this law or code reference.",
+      "explanation_long": "PD 223: PRC",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 223",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-296-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Waterways Enroachment",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 198"
+        },
+        {
+          "label": "B",
+          "text": "PD 856"
+        },
+        {
+          "label": "C",
+          "text": "PD 223"
+        },
+        {
+          "label": "D",
+          "text": "PD 296"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "PD 296 matches this law or code reference.",
+      "explanation_long": "PD 296: Waterways Enroachment",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 296",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-pd-856-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Code on Sanitation",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PD 856"
+        },
+        {
+          "label": "B",
+          "text": "PD 198"
+        },
+        {
+          "label": "C",
+          "text": "PD 296"
+        },
+        {
+          "label": "D",
+          "text": "PD 223"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "PD 856 matches this law or code reference.",
+      "explanation_long": "PD 856: Code on Sanitation",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | PD 856",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-1364-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Sanitary Engineering Law",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 1364"
+        },
+        {
+          "label": "B",
+          "text": "RA 9275"
+        },
+        {
+          "label": "C",
+          "text": "RA 6541"
+        },
+        {
+          "label": "D",
+          "text": "RA 9514"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "RA 1364 matches this law or code reference.",
+      "explanation_long": "RA 1364: Sanitary Engineering Law",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 1364",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-1378-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Plumbing Law",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 9275"
+        },
+        {
+          "label": "B",
+          "text": "RA 1378"
+        },
+        {
+          "label": "C",
+          "text": "RA 6541"
+        },
+        {
+          "label": "D",
+          "text": "RA 9514"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "RA 1378 matches this law or code reference.",
+      "explanation_long": "RA 1378: Plumbing Law",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 1378",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-386-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Civil Code",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 386"
+        },
+        {
+          "label": "B",
+          "text": "RA 545"
+        },
+        {
+          "label": "C",
+          "text": "RA 544"
+        },
+        {
+          "label": "D",
+          "text": "RA 9275"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "RA 386 matches this law or code reference.",
+      "explanation_long": "RA 386: Civil Code",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 386",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-544-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Practice of Civil Engineering (Old)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 545"
+        },
+        {
+          "label": "B",
+          "text": "RA 386"
+        },
+        {
+          "label": "C",
+          "text": "RA 544"
+        },
+        {
+          "label": "D",
+          "text": "RA 9275"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "RA 544 matches this law or code reference.",
+      "explanation_long": "RA 544: Practice of Civil Engineering (Old)",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 544",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-545-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Architecture Practice (Old)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 544"
+        },
+        {
+          "label": "B",
+          "text": "RA 386"
+        },
+        {
+          "label": "C",
+          "text": "RA 9275"
+        },
+        {
+          "label": "D",
+          "text": "RA 545"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "RA 545 matches this law or code reference.",
+      "explanation_long": "RA 545: Architecture Practice (Old)",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 545",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-6541-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Old Building Code",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 6541"
+        },
+        {
+          "label": "B",
+          "text": "RA 9275"
+        },
+        {
+          "label": "C",
+          "text": "RA 9514"
+        },
+        {
+          "label": "D",
+          "text": "RA 7920"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "RA 6541 matches this law or code reference.",
+      "explanation_long": "RA 6541: Old Building Code",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 6541",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-7920-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? New Electrical Engineering Law",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 7920"
+        },
+        {
+          "label": "B",
+          "text": "RA 9275"
+        },
+        {
+          "label": "C",
+          "text": "RA 6541"
+        },
+        {
+          "label": "D",
+          "text": "RA 9514"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "RA 7920 matches this law or code reference.",
+      "explanation_long": "RA 7920: New Electrical Engineering Law",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 7920",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-8495-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Mechanical Engineering Act",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 8495"
+        },
+        {
+          "label": "B",
+          "text": "RA 9275"
+        },
+        {
+          "label": "C",
+          "text": "RA 6541"
+        },
+        {
+          "label": "D",
+          "text": "RA 9514"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "RA 8495 matches this law or code reference.",
+      "explanation_long": "RA 8495: Mechanical Engineering Act",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 8495",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-8749-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Clean Air Act",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 8749"
+        },
+        {
+          "label": "B",
+          "text": "RA 9275"
+        },
+        {
+          "label": "C",
+          "text": "RA 6541"
+        },
+        {
+          "label": "D",
+          "text": "RA 9514"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "RA 8749 matches this law or code reference.",
+      "explanation_long": "RA 8749: Clean Air Act",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 8749",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-9275-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Clean Water Act",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 9275"
+        },
+        {
+          "label": "B",
+          "text": "RA 6541"
+        },
+        {
+          "label": "C",
+          "text": "RA 9514"
+        },
+        {
+          "label": "D",
+          "text": "RA 7920"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "RA 9275 matches this law or code reference.",
+      "explanation_long": "RA 9275: Clean Water Act",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 9275",
+      "quality_flag": "ok"
+    },
+    {
+      "id": "laws-derived__ref-law-ra-9514-id",
+      "topic": "Plumbing Code",
+      "subtopic": "Laws, Rules and Regulations",
+      "difficulty": "Easy",
+      "prompt": "Which law or code corresponds to this description? Fire Code of the Philippines",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RA 9275"
+        },
+        {
+          "label": "B",
+          "text": "RA 9514"
+        },
+        {
+          "label": "C",
+          "text": "RA 6541"
+        },
+        {
+          "label": "D",
+          "text": "RA 7920"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "RA 9514 matches this law or code reference.",
+      "explanation_long": "RA 9514: Fire Code of the Philippines",
+      "tags": [
+        "laws",
+        "regulations",
+        "code-reference",
+        "derived-mcq"
+      ],
+      "source_ref": "2. LAWS, RULES AND REGULATIONS AFFECTING THE PLUMBING PROFESSION.pdf | RA 9514",
+      "quality_flag": "ok"
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}

@@ -1,0 +1,2166 @@
+{
+  "metadata": {
+    "quality_summary": {
+      "candidate": 31,
+      "probable": 15,
+      "review": 2
+    },
+    "notes": [],
+    "source_slug": "advance-qa__week-03",
+    "source_file": "D:\\projects\\PliumberPass - KImi 02-17-26\\materials\\ADVANCE Q&A-20260126T193115Z-3-001\\WEEK 3.pdf",
+    "material_group": "advance-qa",
+    "converter": "mcq",
+    "generated_at": "2026-03-21T12:55:53.354665+00:00",
+    "classification": "review_queue",
+    "classification_reasons": [
+      "MCQ bank still has too many unresolved answers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "advance-qa__week-03-q001",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "Whatshallbethehangerrodsizesfora 5 ” – 8 ”? pipesize",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3/8\" TABLE 313.6"
+        },
+        {
+          "label": "B",
+          "text": "Ya” (UPC, Chapter 3) HANGER ROD SIZES"
+        },
+        {
+          "label": "C",
+          "text": "5 / 8 (inches) (inches)"
+        },
+        {
+          "label": "D",
+          "text": "%\""
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": ". b ½ ”",
+      "explanation_long": ". b ½ ” . d ¾ ” PIPE AND TUBE SIZE ROD SIZE A—4 ¥% 5-8 4 10-12 % For SI units: | inch = 25.4 mm Uniform Plumbing Code",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#1 | pages 2-3",
+      "quality_flag": "candidate",
+      "source_pages": [
+        2,
+        3
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q002",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "The wetted perimeter and cross-sectional area of a channel is 5 m and 3 sq. m respectively. What is the hydraulic radius of the channel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.6 m (hydraulic radius formula)"
+        },
+        {
+          "label": "B",
+          "text": "1.67 m"
+        },
+        {
+          "label": "C",
+          "text": "2.26 m A= cross section area of the flow AR= 3/5"
+        },
+        {
+          "label": "D",
+          "text": "107m P= wetted perimeter hR- 0.6m"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "FORMULA: hR= A/P",
+      "explanation_long": "FORMULA: hR= A/P ° ° hR= hydraulic radius Hydraulic Radius or the Hydraulic Mean Depth of Flow- the ratio of the cross-sectional area of the flow to the wetted perimeter of a pipe surface",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#2 | pages 4-5",
+      "quality_flag": "probable",
+      "source_pages": [
+        4,
+        5
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: B"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q003",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "WWA means"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". American Water Works Association",
+      "explanation_long": ". American Water Works Association . Association of Water Workers of America . American Water and Waste Administration . Association of Water and Waste of America -. American Water Works Association . Association of Water Workers of America . American Water and Waste Administration . Association of Water and Waste of America",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#3 | pages 6-7",
+      "quality_flag": "probable",
+      "source_pages": [
+        6,
+        7
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> WWA means"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q004",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "Identify £2re.",
+      "choices": [],
+      "answer_key": null,
+      "explanation_short": ". Wash Sink",
+      "explanation_long": ". Wash Sink . Overhead Gang Shower (Plan) . Wash Sink . Overhead Gang Shower (Elevation) - Wash Sink (Wall- Type) . Overhead Gang Shower (Plan) . Wash Sink . Overhead Gang Shower (Elevation)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#4 | pages 8-9-10",
+      "quality_flag": "candidate",
+      "source_pages": [
+        8,
+        9,
+        10
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q005",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "",
+      "choices": [
+        {
+          "label": "A",
+          "text": "25mm diameter water pipe can carry water pipe? 3"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "equivalent to how many 12mm diameter water",
+      "explanation_long": "equivalent to how many 12mm diameter water equivalent to how many 12mm diameter water",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#5 | pages 11-12",
+      "quality_flag": "candidate",
+      "source_pages": [
+        11,
+        12
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q006",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "? Whatisthecoppercontentinabrassfitting",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8 0 %"
+        },
+        {
+          "label": "B",
+          "text": "8 5 %"
+        },
+        {
+          "label": "C",
+          "text": "9 0 %"
+        },
+        {
+          "label": "D",
+          "text": "9 5 %"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#6 | pages 13-14",
+      "quality_flag": "review",
+      "source_pages": [
+        13,
+        14
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q007",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "A small pump can discharge 17 liters of water every two days. Calculate that in liters’ per minute",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.7 lom"
+        },
+        {
+          "label": "B",
+          "text": "0.0012 lpm"
+        },
+        {
+          "label": "C",
+          "text": "0.0024 lom"
+        },
+        {
+          "label": "D",
+          "text": "0.00059 Ipm"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1 day= 1440 minutes",
+      "explanation_long": "1 day= 1440 minutes",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#7 | pages 15-16",
+      "quality_flag": "candidate",
+      "source_pages": [
+        15,
+        16
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q008",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "What is the most practical method of repairing or correcting leak of a water supply plastic pipe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cut and insert a coupling"
+        },
+        {
+          "label": "B",
+          "text": "Put an elastomeric sealant (not a correct way)"
+        },
+        {
+          "label": "C",
+          "text": "Cut and provide bushing (bushing- a pipe fitting"
+        },
+        {
+          "label": "D",
+          "text": "Replace the pipe (not practical)"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "used to join two pipes of different sizes and it is",
+      "explanation_long": "used to join two pipes of different sizes and it is threaded inside and out)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#8 | pages 17-18",
+      "quality_flag": "probable",
+      "source_pages": [
+        17,
+        18
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: A"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q009",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "Howmanygallonsareinan 8 ”, pipe 9 5 0 ’? long",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 8 9 4 gallons"
+        },
+        {
+          "label": "B",
+          "text": "2 4 0 0 gallons"
+        },
+        {
+          "label": "C",
+          "text": "2 4 8 0 gallons"
+        },
+        {
+          "label": "D",
+          "text": "2 0 8 0 gallons"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1 cuft = 7. 2 8 gallons",
+      "explanation_long": "1 cuft = 7. 2 8 gallons 1 gal = 2 3 1. cuin",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#9 | pages 19-20",
+      "quality_flag": "candidate",
+      "source_pages": [
+        19,
+        20
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q010",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "A chemical solution contains 2.5 lbs per Imperial gallon. What is this in g/L?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "25 g/l 2.5 g/|"
+        },
+        {
+          "label": "C",
+          "text": "250 g/I|"
+        },
+        {
+          "label": "D",
+          "text": "300 g/|"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1 Imperial Gallon = 4.55 liters",
+      "explanation_long": "1 Imperial Gallon = 4.55 liters 1 US Gallon= 3.785 liters 1 lb= 453.60 grams",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#10 | pages 21-22",
+      "quality_flag": "candidate",
+      "source_pages": [
+        21,
+        22
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q011",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "Ifapressuregaugeonafirehydrantreads 1 2 0,? m whatisthepressureheadinkPa",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 0 6 9 kPa"
+        },
+        {
+          "label": "B",
+          "text": "2 7 1 7 kPa"
+        },
+        {
+          "label": "C",
+          "text": "6 2 74 kPa"
+        },
+        {
+          "label": "D",
+          "text": "1 1 7 7 kPa (1 m = 9. 8 1 kPa)"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "1 m = 9. 8 1 kPa",
+      "explanation_long": "1 m = 9. 8 1 kPa 1 psi = 2. 3 1 ft",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#11 | pages 23-24",
+      "quality_flag": "probable",
+      "source_pages": [
+        23,
+        24
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> (1 m = 9. 8 1 kPa)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q012",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "In standard temperature, what is the density of water in pounds per cubic inch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8.34 (density of water in lbs per gallon)"
+        },
+        {
+          "label": "B",
+          "text": "62. 5 (density of water in /!bs per cu. ff)"
+        },
+        {
+          "label": "C",
+          "text": "| (specific gravity of water)"
+        },
+        {
+          "label": "D",
+          "text": "0.0361"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "1 cu ft= 1728 cu. inch",
+      "explanation_long": "1 cu ft= 1728 cu. inch 1 ecu ft= 7.28 gallons",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#12 | pages 25-26",
+      "quality_flag": "probable",
+      "source_pages": [
+        25,
+        26
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q013",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Identity = er",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Grease Outlet"
+        },
+        {
+          "label": "B",
+          "text": "Tee"
+        },
+        {
+          "label": "C",
+          "text": "Gas Outlet"
+        },
+        {
+          "label": "D",
+          "text": "Gauge Pressure"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1ONAL CONSULTANCY",
+      "explanation_long": "1ONAL CONSULTANCY",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#13 | pages 27-28",
+      "quality_flag": "candidate",
+      "source_pages": [
+        27,
+        28
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q014",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "A closed cylindrical container is filled with a fluid that has a specific gravity of 1.7. What is the pressure exerted by this fluid at a depth of 15m?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "250,155 Pa (P= density* acceleration due to"
+        },
+        {
+          "label": "B",
+          "text": "209,000 Pa"
+        },
+        {
+          "label": "C",
+          "text": "240,000 Pa"
+        },
+        {
+          "label": "D",
+          "text": "203,700 Pa"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "gravity* height)",
+      "explanation_long": "gravity* height) Density of Substance= Density of Water (kg/m3) X Specific Gravity Acceleration due to Gravity (g",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#14 | pages 29-30",
+      "quality_flag": "candidate",
+      "source_pages": [
+        29,
+        30
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (P= density* acceleration due to"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q015",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "If flow through 12” pipe is 830 gpm. What is the velocity in feet per second? 2.35 tt/s 3 ft/s",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2.35 ft/s (Volumetric Flow Rate Formula ; Q=VA)"
+        },
+        {
+          "label": "B",
+          "text": "2.80 ft/s om"
+        },
+        {
+          "label": "C",
+          "text": "3 ft/s"
+        },
+        {
+          "label": "D",
+          "text": "2 ft/s"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": ". 2.80 ft/s",
+      "explanation_long": ". 2.80 ft/s Q= Volumetric Flow Rate v= Flow Velocity A= Cross Sectional Vector Area",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#15 | pages 31-32",
+      "quality_flag": "candidate",
+      "source_pages": [
+        31,
+        32
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> 2.35 ft/s (Volumetric Flow Rate Formula ; Q=VA)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q016",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "This type of water meter is common to residential and small commercial installation and adaptable for remote readout systems",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ultrasonic (uses ultrasound to measure the speed of the fluid)"
+        },
+        {
+          "label": "B",
+          "text": "Electromagnetic (uses electromagnetic coil which generates a"
+        },
+        {
+          "label": "C",
+          "text": "Velocity (measures water flow velocity through the device with an"
+        },
+        {
+          "label": "D",
+          "text": "Positive Displacement (contains mechanical parts; an oscillating"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Electromagnetic",
+      "explanation_long": "Electromagnetic Positive Displacement magnetic field and electrodes which capture voltage) understood internal capacity) piston, that are displaced, or moved, as water flows through the meter’s main chamber)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#16 | pages 33-34-35",
+      "quality_flag": "candidate",
+      "source_pages": [
+        33,
+        34,
+        35
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q017",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "The OSHA permissible exposure limit to antimony is",
+      "choices": [
+        {
+          "label": "A",
+          "text": "15 mg Sb/ cum"
+        },
+        {
+          "label": "B",
+          "text": "12 mg Sb/ cum"
+        },
+        {
+          "label": "C",
+          "text": "0.5 mg Sb/ cum (OSHA, Permissible Exposure"
+        },
+        {
+          "label": "D",
+          "text": "0.8 mg Sb/cum effects"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Limits Table)",
+      "explanation_long": "Limits Table) Antimony - exposure to antimony can cause respiratory issues, gastrointestinal problems, skin and eye irritation and cardiovascular",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#17 | pages 36-37",
+      "quality_flag": "candidate",
+      "source_pages": [
+        36,
+        37
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q018",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "Allowed joint for soft water copper tube",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brazing (for hard drawn copper; uses metallic alloys"
+        },
+        {
+          "label": "B",
+          "text": "Soldering (for hard drawn copper; uses metallic alloys"
+        },
+        {
+          "label": "C",
+          "text": "Capillary Fittings (for hard drawn copper)"
+        },
+        {
+          "label": "D",
+          "text": "Flaring (uses flared and compression fittings)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "which melt at a temperature higher than 449C but lower",
+      "explanation_long": "which melt at a temperature higher than 449C but lower than the melting temperature of the parts to be joined) which melt at a temperature below 427C & above I49C)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#18 | pages 38-39-40",
+      "quality_flag": "candidate",
+      "source_pages": [
+        38,
+        39,
+        40
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q020",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "The most practical way to remove blockage in the shower head holes that restrict water flow . Change shower head . Prick shower holes with pins . Spray the shower holes with vinegar and baking",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Change shower head"
+        },
+        {
+          "label": "B",
+          "text": "Prick shower holes with pins"
+        },
+        {
+          "label": "C",
+          "text": "Install a water softener"
+        },
+        {
+          "label": "D",
+          "text": "Spray the shower holes with"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "S",
+      "explanation_long": "S oda mixture. vinegar and baking soda mixture.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#20 | pages 43-44",
+      "quality_flag": "probable",
+      "source_pages": [
+        43,
+        44
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q021",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "A pump has a capacity of 8500 gpm and lifts wastewater against a total head of 39 feet. If the pump efficiency is 85%, what size KW motor is required",
+      "choices": [
+        {
+          "label": "A",
+          "text": "95 KW"
+        },
+        {
+          "label": "B",
+          "text": "194 HP"
+        },
+        {
+          "label": "C",
+          "text": "74 KW"
+        },
+        {
+          "label": "D",
+          "text": "162 HP"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1 HP= 746 watts",
+      "explanation_long": "1 HP= 746 watts 1 kW= 1000 watts",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#21 | pages 45-46",
+      "quality_flag": "candidate",
+      "source_pages": [
+        45,
+        46
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q022",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "What is the number of horsepower required to lift 10,000 gallons of water per hour to a height of 90 ft? Assume the weight of the water to be 8 1/3 lbs per gallon",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5.6 HP"
+        },
+        {
+          "label": "B",
+          "text": "3.5 HP"
+        },
+        {
+          "label": "C",
+          "text": "3.8 HP"
+        },
+        {
+          "label": "D",
+          "text": "2.5 HP"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "1 horsepower is equivalent to doing work ata",
+      "explanation_long": "1 horsepower is equivalent to doing work ata rate of 33,000 Ilbs/min",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#22 | pages 47-48",
+      "quality_flag": "candidate",
+      "source_pages": [
+        47,
+        48
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q023",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "A type of pump that uses an impeller mounted on a rotating shaft. The rotating impeller increases the velocity of the water",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gear Pump (a positive displacement pump that moves fluids by"
+        },
+        {
+          "label": "B",
+          "text": "Rotary Vane Pump (a positive displacement that moves fluids"
+        },
+        {
+          "label": "C",
+          "text": "Piston Pump (a positive displacement pump- reciprocating type"
+        },
+        {
+          "label": "D",
+          "text": "Centrifugal Pump"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "the meshing of a pair of gears)",
+      "explanation_long": "the meshing of a pair of gears) with vanes mounted toa rotor that rotates inside a cylindrical housing) that operates by a piston pushing back -and-forth)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#23 | pages 49-50-51",
+      "quality_flag": "probable",
+      "source_pages": [
+        49,
+        50,
+        51
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q024",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Identify",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Victaulic Rigid Coupling (“Victaulic” a pipe joining company;"
+        },
+        {
+          "label": "B",
+          "text": "Closing Flange"
+        },
+        {
+          "label": "C",
+          "text": "Fire Coupling"
+        },
+        {
+          "label": "D",
+          "text": "Pipe Clamps (are widely used for supporting suspended pipes)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "joins roll or cut grooved pipe, grooved fittings, valves, and",
+      "explanation_long": "joins roll or cut grooved pipe, grooved fittings, valves, and accessories)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#24 | pages 52-53",
+      "quality_flag": "candidate",
+      "source_pages": [
+        52,
+        53
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q025",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "In fire protection system, ITC means",
+      "choices": [],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. Immediate Termination Control Internal Threaded Coupling International Testing Commission Inspector Test Connection Cc. Immediate Termination Control Internal Threaded Coupling International Testing Commission . Inspector Test Connection",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#25 | pages 54-55",
+      "quality_flag": "candidate",
+      "source_pages": [
+        54,
+        55
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q026",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Identify a",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flaring Tool"
+        },
+        {
+          "label": "B",
+          "text": "Flaring Tool (Hammer- Type)"
+        },
+        {
+          "label": "C",
+          "text": "Deburring Tool"
+        },
+        {
+          "label": "D",
+          "text": "Pipe Reamer"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#26 | pages 56-57-58",
+      "quality_flag": "candidate",
+      "source_pages": [
+        56,
+        57,
+        58
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: B -> Flaring Tool (Hammer- Type)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q027",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "What is needed to resist the force induced by the water in a piping network?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thrust Support"
+        },
+        {
+          "label": "B",
+          "text": "Thrust Block"
+        },
+        {
+          "label": "C",
+          "text": "Steel Support"
+        },
+        {
+          "label": "D",
+          "text": "Steel Block According to RNPCP-Chapter 6, thrust blocks shall be"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "installed at all:",
+      "explanation_long": "installed at all: i. Changes in direction, as at tees and bends; ii. Changes in size, as at reducers; iii. Stops, as at dead ends; and iv. Valves, where thrusts may be expected.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#27 | pages 59-60-61",
+      "quality_flag": "probable",
+      "source_pages": [
+        59,
+        60,
+        61
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: D -> According to RNPCP-Chapter 6, thrust blocks shall be"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q028",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Minimum thickness of metal condensers",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GA 12 (RNPCP, Chapter 8; also for steel septic tanks)"
+        },
+        {
+          "label": "B",
+          "text": "GA 16 (restaurant kitchen and other special- use sinks"
+        },
+        {
+          "label": "C",
+          "text": "GA 20 (continuous waste and fixture tailpiece-"
+        },
+        {
+          "label": "D",
+          "text": "GA 24 (copper pans or liners)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "bonderized and galvanized sheet steel)",
+      "explanation_long": "bonderized and galvanized sheet steel) seamless drawn brass)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#28 | pages 62-63",
+      "quality_flag": "candidate",
+      "source_pages": [
+        62,
+        63
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q029",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "Used in no-hub cast iron soil pipe installation",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allen Wrench (a driver tool used for turning bolts"
+        },
+        {
+          "label": "B",
+          "text": "Torque Wrench"
+        },
+        {
+          "label": "C",
+          "text": "Chain Wrench (a wrench with a sprocket chain and"
+        },
+        {
+          "label": "D",
+          "text": "Internal Wrench (used to install or extract I”"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Internal Wrench",
+      "explanation_long": "Internal Wrench or screws that have internal hexagonal sockets) double jaw which provides fast, ratchet-like action in either direction) through 2” nipples)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#29 | pages 64-65-66",
+      "quality_flag": "candidate",
+      "source_pages": [
+        64,
+        65,
+        66
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q030",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "What is considered a plumber’s friend?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Force Cup Journeyman"
+        },
+        {
+          "label": "C",
+          "text": "Apprentice"
+        },
+        {
+          "label": "D",
+          "text": "Pipe Wrench"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Pipe Wrench",
+      "explanation_long": "Pipe Wrench",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#30 | pages 67-68-69",
+      "quality_flag": "candidate",
+      "source_pages": [
+        67,
+        68,
+        69
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q031",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "No more than water closets or other fixtures shall be allowed on any circuit or looped vent",
+      "choices": [
+        {
+          "label": "A",
+          "text": "8 (PDE by Max Fajardo)"
+        },
+        {
+          "label": "B",
+          "text": "14-16"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "answer_key": "A",
+      "explanation_short": "Code says that: “No mo:",
+      "explanation_long": "Code says that: “No mo: Fixtures shall be allowec “re are 14 or 16 wat Pleces of 100 mmpi On Circuit Vent for a battery",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#31 | pages 70-71",
+      "quality_flag": "probable",
+      "source_pages": [
+        70,
+        71
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: A -> (PDE by Max Fajardo)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q032",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": ". Galvanized Steel Nipple . Brass Nipple . Stainless Steel Nipple . Galvanized Wrought Iron Nipple",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galvanized Steel Nipple oaen & © anf"
+        },
+        {
+          "label": "B",
+          "text": "Brass Nipple aefite"
+        },
+        {
+          "label": "C",
+          "text": "Stainless Steel Nipple"
+        },
+        {
+          "label": "D",
+          "text": "Galvanized Wrought Iron Nipple"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Union",
+      "explanation_long": "Union Nipole FIGURE 2-32 GALVANIZED STEEL PIPE FITTINGS",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#32 | pages 72-73",
+      "quality_flag": "candidate",
+      "source_pages": [
+        72,
+        73
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q034",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "According to PNSDW, what is the mercury limits (mg/L) in potable water according to PNSDW of 2007?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.01 (Lead; may be present in water primarily from"
+        },
+        {
+          "label": "B",
+          "text": "0.02 (Antimony; is a contaminant from pipe and fitting"
+        },
+        {
+          "label": "C",
+          "text": "0.07 (Cyanide; are occasionally found in drinking water"
+        },
+        {
+          "label": "D",
+          "text": "0.001"
+        }
+      ],
+      "answer_key": "D",
+      "explanation_short": "plumbing systems containing lead pipes, solder, fittings or",
+      "explanation_long": "plumbing systems containing lead pipes, solder, fittings or the service connections to the homes) materials. It is not a raw water contaminant) primarily as a consequence of industrial contamination.)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#34 | pages 76-77",
+      "quality_flag": "probable",
+      "source_pages": [
+        76,
+        77
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: D"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q035",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Singleladderslongerthanfeetshallnotbe used",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20 (maximum length of a portable ladder)"
+        },
+        {
+          "label": "B",
+          "text": "3 0"
+        },
+        {
+          "label": "C",
+          "text": "4 0"
+        },
+        {
+          "label": "D",
+          "text": "60 (maximum length of a extension ladder)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#35 | pages 78-79-80",
+      "quality_flag": "review",
+      "source_pages": [
+        78,
+        79,
+        80
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q036",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "In flushing performance test of a water closet, “in diameter is how many polypropylene balls, % utilized? ie)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "75 (must flush an average of 75§ on three"
+        },
+        {
+          "label": "B",
+          "text": "100 (the balls are used to simulate the density of"
+        },
+        {
+          "label": "C",
+          "text": "250"
+        },
+        {
+          "label": "D",
+          "text": "250"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "different flushes)",
+      "explanation_long": "different flushes) human feces)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#36 | pages 81-82-83",
+      "quality_flag": "probable",
+      "source_pages": [
+        81,
+        82,
+        83
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q037",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Minimumtrapdiameterforwashbasin (lavatory) single",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 1 mm"
+        },
+        {
+          "label": "B",
+          "text": "3 2 mm (, RNPCPTable 7. 2 DFUandMinimumTrap"
+        },
+        {
+          "label": "C",
+          "text": "3 8 mm"
+        },
+        {
+          "label": "D",
+          "text": "5 1 mm"
+        }
+      ],
+      "answer_key": "B",
+      "explanation_short": "Diameters)",
+      "explanation_long": "Diameters)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#37 | pages 84-85",
+      "quality_flag": "probable",
+      "source_pages": [
+        84,
+        85
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "hybrid"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: B -> (, RNPCPTable 7. 2 DFUandMinimumTrap"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q038",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "Closetringsorclosetflangesshallhaveofhow ? manybolts",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4 (RNPCP, Chapter 14)"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "12 178mm APPROX,"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "178 mm O- approximate diameter",
+      "explanation_long": "178 mm O- approximate diameter 38 mm- width of closet ring or flange 6.4 mm-— minimum thickness of caulked-on closet rings or flanges 73h 51 mm- minimum overall depth of caulked on closet rings or flanges RNPCP-Closet Flange Provisions",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#38 | pages 86-87",
+      "quality_flag": "candidate",
+      "source_pages": [
+        86,
+        87
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q039",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "What is the minimum wall thickness of a threaded plastic pipe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Schedule 40"
+        },
+        {
+          "label": "B",
+          "text": "Schedule 60"
+        },
+        {
+          "label": "C",
+          "text": "Schedule 80 (RNPCP, Chapter 1/3)"
+        },
+        {
+          "label": "D",
+          "text": "Schedule 120"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "2. Threaded Joints - for iron pipe size (IPS) pipe and fittings shall be standard taper pipe",
+      "explanation_long": "2. Threaded Joints - for iron pipe size (IPS) pipe and fittings shall be standard taper pipe threads. Threads on plastic pipe shall be factory cut or molded. Threaded plastic pipe shall be Schedule 20 minimum wall thickness. Tubing threads shall conform to fine tubing thread standards, When a pipe joint material is used, it shall be applied only on the male threads and such materials shall be approved type, insoluble in water and nontoxic. Cleanout plugs and caps shall be lubricated with water-insoluble, mon-hardening material. Tape is acceptable for usé on male threads, only if screwed pipe joint.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#39 | pages 88-89",
+      "quality_flag": "probable",
+      "source_pages": [
+        88,
+        89
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only annotated choice: C -> (RNPCP, Chapter 1/3)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q040",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "What are the two most commonly flushometer valves?",
+      "choices": [],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. Piston and Vacuum Piston and Hydraulic Piston and Diaphragm Vacuum and Hydraulic Note: Familiarize on the parts of a Flushometer Valve. Diaphragm Flushometer Valve > Piston Flushometer Valve",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#40 | pages 90-91",
+      "quality_flag": "candidate",
+      "source_pages": [
+        90,
+        91
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q041",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "Which of the following is not plumbing unit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Water Meter Plumbing unit- a minimum standard quantity of plumbing"
+        },
+        {
+          "label": "B",
+          "text": "Floor Drain mclinciinc: ec. Urinal"
+        },
+        {
+          "label": "C",
+          "text": "Urinal"
+        },
+        {
+          "label": "D",
+          "text": "Laundry Tray 1 water closet"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": ". Floor Drain",
+      "explanation_long": ". Floor Drain . Laundry Tray included fixtures that discharge wastes into a plumbing installation 1 water meter 1 lavatory 1 shower head and drain tor a bathtub or shower stall 1 kitchen sink 1 laundry tray 3 floor drains 4 faucets/hose bibb",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#41 | pages 92-93",
+      "quality_flag": "probable",
+      "source_pages": [
+        92,
+        93
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q042",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "What is the chemical name of Teflon?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tritluorothane"
+        },
+        {
+          "label": "B",
+          "text": "Polyethylene"
+        },
+        {
+          "label": "C",
+          "text": "Polytetrafluoroethylene"
+        },
+        {
+          "label": "D",
+          "text": "Pentafluorocarbon"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Teflon tape -properly known as “thread seal",
+      "explanation_long": "Teflon tape -properly known as “thread seal tape,” is used in the plumbing industry to seal the threads at the end of a pipe",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#42 | pages 94-95",
+      "quality_flag": "candidate",
+      "source_pages": [
+        94,
+        95
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q453",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "What is the maximum water consumption per flush of a blowout water closets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1.0 gpt (maximum flush rate for urinals)"
+        },
+        {
+          "label": "B",
+          "text": "1.6 gpt (maximum flush rate for water closets)"
+        },
+        {
+          "label": "C",
+          "text": "10 gpft"
+        },
+        {
+          "label": "D",
+          "text": "7 gpf (ASPE, Volume 4)"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "5 and 7 gallons of water. The greatest water use, 7 ppf,",
+      "explanation_long": "5 and 7 gallons of water. The greatest water use, 7 ppf, was by blowout water closets. Ultra-low-flow WCs now Note: flush as little as 0.4 gpf (1.5 Ipf). Dual-flush models Familiarize on the parts of a water closet. also are available. These give the user the option to flush the full 1.6 gallons for solid waste or one-third less for liquid waste.",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#453 | pages 96-97",
+      "quality_flag": "probable",
+      "source_pages": [
+        96,
+        97
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Only unannotated choice after explanation page: C"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q044",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Fire prevention month?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "March"
+        },
+        {
+          "label": "B",
+          "text": "April Cc"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "May",
+      "explanation_long": "May June",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#44 | pages 98-99",
+      "quality_flag": "candidate",
+      "source_pages": [
+        98,
+        99
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q045",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "What do you call the vertical distance between the top dip and the crown weir?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overtlow"
+        },
+        {
+          "label": "B",
+          "text": "Crown"
+        },
+        {
+          "label": "C",
+          "text": "LEANOUT"
+        },
+        {
+          "label": "D",
+          "text": "Trap Seal"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Parts of a P-Trap",
+      "explanation_long": "Parts of a P-Trap",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#45 | pages 100-101",
+      "quality_flag": "candidate",
+      "source_pages": [
+        100,
+        101
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q046",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Where could we find a pop-up waste?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Water Closet; afA"
+        },
+        {
+          "label": "B",
+          "text": "Lavatory’:"
+        },
+        {
+          "label": "C",
+          "text": "Bathtub is"
+        },
+        {
+          "label": "D",
+          "text": "Band C"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc",
+      "explanation_long": "Cc Lavatory . Bathtub .-BandcC Lavatory Pop-Up Bathtub Pop-Up Waste Waste",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#46 | pages 102-103",
+      "quality_flag": "candidate",
+      "source_pages": [
+        102,
+        103
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Single annotated choice looked like a caption, not answer evidence"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q047",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Easy",
+      "prompt": "Maximumspacingforrainwaterleaders (downspouts)",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5 0 ft"
+        },
+        {
+          "label": "B",
+          "text": "6 0 ft"
+        },
+        {
+          "label": "C",
+          "text": "75 ft (Aude! Plumbers Pocket Manual!)"
+        },
+        {
+          "label": "D",
+          "text": "8 5 ft"
+        }
+      ],
+      "answer_key": "C",
+      "explanation_short": "",
+      "explanation_long": "",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#47 | pages 104-105",
+      "quality_flag": "candidate",
+      "source_pages": [
+        104,
+        105
+      ],
+      "extraction_methods": [
+        "hybrid",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "No explanation text extracted",
+        "Only annotated choice: C -> 75 ft (Aude! Plumbers Pocket Manual!)"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q048",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Hard",
+      "prompt": "Number of full-time safety man per 200-100 workers for hazardous workplace",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 (PH Labor Code, Rule 1030: Training of Personnel in"
+        },
+        {
+          "label": "B",
+          "text": "2 Hazardous Workplace"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "2",
+      "explanation_long": "2 4 Occupational Safety & Health) Number of Workers No. of Safety Man om 4 200 and below One (1) part-time safety man over 200 to 1000 One (1) full-time safety man d . 4 for every 1000 workers One (1) full-time safety man Non-hazardous Workplace less than I 000 One (1) part-time safety man for every I 000 One (1) full-time safety man",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#48 | pages 106-107",
+      "quality_flag": "candidate",
+      "source_pages": [
+        106,
+        107
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q049",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "The provision of design, construction and operation of deep wells for the abstraction of ground water must follow the",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clean Water Act (RA 9275)"
+        },
+        {
+          "label": "B",
+          "text": "Provincial Water Utilities Act (PD 198)"
+        },
+        {
+          "label": "C",
+          "text": "Revised National Plumbing Code of the Philippines"
+        },
+        {
+          "label": "D",
+          "text": "Water Code of the Philippines (PD 1067)"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "Cc.",
+      "explanation_long": "Cc. Clean Water Act . Provincial Water Utilities Act Revised National Plumbing Code of the Philippines (RA 1378)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#49 | pages 108-109",
+      "quality_flag": "candidate",
+      "source_pages": [
+        108,
+        109
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    },
+    {
+      "id": "advance-qa__week-03-q050",
+      "topic": "Sanitation, Plumbing Design and Installation",
+      "subtopic": "Advance Q&A Week 3",
+      "difficulty": "Medium",
+      "prompt": "A flange used on a pipe to cover a hole or opening in a floor or wall through which the pipe passes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SS plate"
+        },
+        {
+          "label": "B",
+          "text": "Escutcheon"
+        },
+        {
+          "label": "C",
+          "text": "Spud (a short connection fitting between a"
+        },
+        {
+          "label": "D",
+          "text": "Cap (a fitting, screwed or caulked over the end"
+        }
+      ],
+      "answer_key": null,
+      "explanation_short": "supply line and a fixture)",
+      "explanation_long": "supply line and a fixture) of the pipe for closing the end of a pipe or fitting that has male threads)",
+      "tags": [
+        "advance-qa",
+        "advance-qa__week-03"
+      ],
+      "source_ref": "WEEK 3.pdf | Q#50 | pages 110-111-112",
+      "quality_flag": "candidate",
+      "source_pages": [
+        110,
+        111,
+        112
+      ],
+      "extraction_methods": [
+        "ocr",
+        "ocr",
+        "ocr"
+      ],
+      "confidence_notes": [
+        "Could not confirm answer from explanation text",
+        "Could not infer answer from annotated choices"
+      ]
+    }
+  ],
+  "flashcards": [],
+  "identification": []
+}
