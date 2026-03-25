@@ -1,3 +1,4 @@
+import { Capacitor } from "@capacitor/core";
 import { useEffect, useMemo, useRef, useState } from "react";
 import MistakeLibrary from "./components/MistakeLibrary";
 import ModeToggle from "./components/ModeToggle";
@@ -175,10 +176,12 @@ const previewScreenMap: Record<string, Screen> = {
   upgrade: "Upgrade",
 };
 
+const EXPLICIT_API_BASE = import.meta.env.VITE_API_URL?.trim() ?? "";
+const IS_NATIVE_RUNTIME = Capacitor.isNativePlatform();
+
 const resolveApiBase = () => {
-  const explicitBase = import.meta.env.VITE_API_URL;
-  if (explicitBase) {
-    return explicitBase;
+  if (EXPLICIT_API_BASE) {
+    return EXPLICIT_API_BASE;
   }
 
   if (import.meta.env.DEV && typeof window !== "undefined") {
@@ -191,12 +194,17 @@ const resolveApiBase = () => {
 };
 
 const API_BASE = resolveApiBase();
+const API_RUNTIME_ENABLED = !IS_NATIVE_RUNTIME || Boolean(EXPLICIT_API_BASE) || import.meta.env.DEV;
 let apiAvailabilityPromise: Promise<boolean> | null = null;
 const SUBSCRIPTION_STORAGE_KEY = "pp_subscription_tier_v1";
 const BILLING_DEVICE_STORAGE_KEY = "pp_billing_device_id_v1";
 const THEME_STORAGE_KEY = "pp_ui_theme_v1";
 
 const fetchApiJson = async <T,>(path: string, fallback: T): Promise<T> => {
+  if (!API_RUNTIME_ENABLED) {
+    return fallback;
+  }
+
   try {
     const response = await fetch(`${API_BASE}${path}`);
     if (!response.ok) {
@@ -221,6 +229,10 @@ const fetchPublicJson = async <T,>(path: string, fallback: T): Promise<T> => {
 };
 
 const postApiJson = async <T, B>(path: string, body: B): Promise<T | null> => {
+  if (!API_RUNTIME_ENABLED) {
+    return null;
+  }
+
   try {
     const response = await fetch(`${API_BASE}${path}`, {
       method: "POST",
@@ -239,6 +251,11 @@ const postApiJson = async <T, B>(path: string, body: B): Promise<T | null> => {
 };
 
 const canReachApi = async (forceRefresh = false): Promise<boolean> => {
+  if (!API_RUNTIME_ENABLED) {
+    apiAvailabilityPromise = null;
+    return false;
+  }
+
   if (forceRefresh) {
     apiAvailabilityPromise = null;
   }

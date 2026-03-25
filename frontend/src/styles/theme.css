@@ -102,6 +102,15 @@
     radial-gradient(circle, rgba(181, 111, 66, 0.1), transparent 72%);
 }
 
+:root[data-runtime="native"] {
+  --theme-page-bg: linear-gradient(180deg, #08131b 0%, #0d1b25 46%, #112532 100%);
+  --theme-surface: rgba(10, 20, 28, 0.94);
+  --theme-surface-strong: rgba(13, 26, 36, 0.96);
+  --theme-topbar-bg: rgba(8, 19, 27, 0.96);
+  --theme-shadow: 0 16px 28px rgba(2, 7, 13, 0.24);
+  --theme-shadow-soft: 0 10px 18px rgba(2, 7, 13, 0.18);
+}
+
 html,
 body,
 #root {
@@ -112,6 +121,61 @@ body {
   background: var(--theme-page-bg);
   color: var(--theme-text);
   transition: background 220ms ease, color 220ms ease;
+}
+
+:root[data-runtime="native"] .theme-toggle,
+:root[data-runtime="native"] .illustration-card,
+:root[data-runtime="native"] .illustration-panel,
+:root[data-runtime="native"] .phone-preview,
+:root[data-runtime="native"] .landing-trust div,
+:root[data-runtime="native"] .dashboard-mobile__nav,
+:root[data-runtime="native"] .active-study__header,
+:root[data-runtime="native"] .active-study__footer,
+:root[data-runtime="native"] .mistake-library__topbar,
+:root[data-runtime="native"] .mistake-library__footer,
+:root[data-runtime="native"] .mastery-report__topbar,
+:root[data-runtime="native"] .mastery-report__footer,
+:root[data-runtime="native"] .visual-review-header,
+:root[data-runtime="native"] .visual-review-nav,
+:root[data-runtime="native"] .screen-toggle,
+:root[data-runtime="native"] .app-header {
+  backdrop-filter: none !important;
+}
+
+:root[data-runtime="native"] .landing-shell::before,
+:root[data-runtime="native"] .app-shell::before,
+:root[data-runtime="native"] .dashboard-mobile::before {
+  mask-image: none !important;
+  opacity: 0.34;
+}
+
+:root[data-runtime="native"] .landing-bg::before,
+:root[data-runtime="native"] .landing-bg::after,
+:root[data-runtime="native"] .landing-diagram,
+:root[data-runtime="native"] .landing-hero::before,
+:root[data-runtime="native"] .landing-hero::after {
+  filter: none !important;
+  mix-blend-mode: normal !important;
+}
+
+:root[data-runtime="native"] .landing-bg::before,
+:root[data-runtime="native"] .landing-bg::after,
+:root[data-runtime="native"] .landing-diagram {
+  opacity: 0.04 !important;
+}
+
+:root[data-runtime="native"] .dashboard-mobile__dial {
+  background: rgba(8, 19, 27, 0.82) !important;
+  border: 10px solid rgba(124, 232, 214, 0.18);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.06), 0 18px 28px rgba(2, 7, 13, 0.22);
+}
+
+:root[data-runtime="native"] .pipe,
+:root[data-runtime="native"] .bubble,
+:root[data-runtime="native"] .flow-lines,
+:root[data-runtime="native"] .signal-ring,
+:root[data-runtime="native"] .signal-core {
+  animation: none !important;
 }
 
 .theme-toggle {
@@ -798,6 +862,86 @@ body {
 [data-theme="paper"] .mistake-library__footer,
 [data-theme="paper"] .active-study__footer {
   background: linear-gradient(180deg, rgba(245, 239, 229, 0) 0%, var(--theme-topbar-bg) 42%) !important;
+}
+
+.app-error-shell {
+  min-height: 100vh;
+  padding: 24px;
+  display: grid;
+  place-items: center;
+  background: var(--theme-page-bg);
+  color: var(--theme-text);
+}
+
+.app-error-card {
+  width: min(100%, 480px);
+  display: grid;
+  gap: 16px;
+  padding: 24px;
+  border-radius: 28px;
+  background: var(--theme-surface-strong);
+  border: 1px solid var(--theme-border);
+  box-shadow: var(--theme-shadow);
+}
+
+.app-error-eyebrow {
+  margin: 0;
+  color: var(--theme-accent);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.app-error-card h1,
+.app-error-copy {
+  margin: 0;
+}
+
+.app-error-card h1 {
+  font-size: clamp(28px, 7vw, 40px);
+  line-height: 1;
+}
+
+.app-error-copy,
+.app-error-detail span {
+  color: var(--theme-text-muted);
+  line-height: 1.6;
+}
+
+.app-error-detail {
+  display: grid;
+  gap: 6px;
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: var(--theme-chip-bg);
+  border: 1px solid var(--theme-border);
+}
+
+.app-error-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.app-error-actions button {
+  border: 0;
+  min-height: 48px;
+  padding: 0 18px;
+  border-radius: 999px;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  background: var(--theme-primary-bg);
+  color: var(--theme-primary-text);
+  box-shadow: var(--theme-primary-shadow);
+}
+
+.app-error-actions button.ghost {
+  background: var(--theme-ghost-bg);
+  color: var(--theme-ghost-text);
+  border: 1px solid var(--theme-border);
+  box-shadow: none;
 }
 
 @media (max-width: 720px) {
