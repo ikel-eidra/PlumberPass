@@ -178,6 +178,115 @@ body {
   animation: none !important;
 }
 
+:root[data-runtime="native"] .landing-bg,
+:root[data-runtime="native"] .landing-shell::before,
+:root[data-runtime="native"] .app-shell::before,
+:root[data-runtime="native"] .dashboard-mobile::before,
+:root[data-runtime="native"] .landing-hero::before,
+:root[data-runtime="native"] .landing-hero::after,
+:root[data-runtime="native"] .dashboard-mobile__hero::after,
+:root[data-runtime="native"] .dashboard-mobile__signal,
+:root[data-runtime="native"] .pipe-field,
+:root[data-runtime="native"] .landing-diagram,
+:root[data-runtime="native"] .landing-bg::before,
+:root[data-runtime="native"] .landing-bg::after {
+  display: none !important;
+}
+
+:root[data-runtime="native"] .landing-shell,
+:root[data-runtime="native"] .app-shell,
+:root[data-runtime="native"] .dashboard-mobile,
+:root[data-runtime="native"] .active-study,
+:root[data-runtime="native"] .visual-review-shell,
+:root[data-runtime="native"] .upgrade-screen,
+:root[data-runtime="native"] .mistake-library,
+:root[data-runtime="native"] .mastery-report {
+  background: linear-gradient(180deg, #08131b 0%, #0d1a25 44%, #112532 100%) !important;
+}
+
+:root[data-runtime="native"] .landing-header,
+:root[data-runtime="native"] .landing-hero,
+:root[data-runtime="native"] .dashboard-mobile__topbar,
+:root[data-runtime="native"] .dashboard-mobile__hero,
+:root[data-runtime="native"] .dashboard-mobile__coach,
+:root[data-runtime="native"] .dashboard-mobile__exam-map,
+:root[data-runtime="native"] .dashboard-mobile__checklist,
+:root[data-runtime="native"] .active-study__header,
+:root[data-runtime="native"] .active-study__dashboard article,
+:root[data-runtime="native"] .active-study__card-shell,
+:root[data-runtime="native"] .active-study__coach,
+:root[data-runtime="native"] .visual-review-header,
+:root[data-runtime="native"] .visual-review-hero,
+:root[data-runtime="native"] .visual-review-card,
+:root[data-runtime="native"] .visual-review-meta,
+:root[data-runtime="native"] .upgrade-screen__hero,
+:root[data-runtime="native"] .upgrade-card,
+:root[data-runtime="native"] .upgrade-screen__payments,
+:root[data-runtime="native"] .upgrade-screen__payment-grid article,
+:root[data-runtime="native"] .mistake-library__topbar,
+:root[data-runtime="native"] .mistake-library__summary article,
+:root[data-runtime="native"] .mistake-library__search-row,
+:root[data-runtime="native"] .mistake-card,
+:root[data-runtime="native"] .mastery-report__topbar,
+:root[data-runtime="native"] .mastery-report__overview,
+:root[data-runtime="native"] .mastery-report__dispatch-card,
+:root[data-runtime="native"] .mastery-report__coach-card,
+:root[data-runtime="native"] .mastery-report__blueprint-card,
+:root[data-runtime="native"] .mastery-report__topic-card,
+:root[data-runtime="native"] .screen-toggle,
+:root[data-runtime="native"] .app-header,
+:root[data-runtime="native"] .quick-actions,
+:root[data-runtime="native"] .exam-brief,
+:root[data-runtime="native"] .question-card,
+:root[data-runtime="native"] .voice-panel,
+:root[data-runtime="native"] .nav-row button,
+:root[data-runtime="native"] .phone-preview__frame,
+:root[data-runtime="native"] .illustration-card,
+:root[data-runtime="native"] .illustration-panel,
+:root[data-runtime="native"] .landing-trust div,
+:root[data-runtime="native"] .quick-card,
+:root[data-runtime="native"] .dashboard-card,
+:root[data-runtime="native"] .blueprint-card,
+:root[data-runtime="native"] .checklist-card,
+:root[data-runtime="native"] .coach-card {
+  background: rgba(11, 22, 31, 0.96) !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
+
+:root[data-runtime="native"] .dashboard-mobile__nav,
+:root[data-runtime="native"] .active-study__footer,
+:root[data-runtime="native"] .mistake-library__footer,
+:root[data-runtime="native"] .mastery-report__footer,
+:root[data-runtime="native"] .visual-review-nav {
+  position: static !important;
+  inset: auto !important;
+  bottom: auto !important;
+  top: auto !important;
+  margin-top: 12px !important;
+}
+
+:root[data-runtime="native"] .active-study__header,
+:root[data-runtime="native"] .mistake-library__topbar,
+:root[data-runtime="native"] .mastery-report__topbar {
+  position: static !important;
+  top: auto !important;
+}
+
+:root[data-runtime="native"] .dashboard-mobile__mission-grid,
+:root[data-runtime="native"] .dashboard-mobile__hero-actions,
+:root[data-runtime="native"] .dashboard-mobile__quick-grid,
+:root[data-runtime="native"] .dashboard-mobile__blueprint-grid,
+:root[data-runtime="native"] .dashboard-mobile__cards,
+:root[data-runtime="native"] .mastery-report__meta,
+:root[data-runtime="native"] .mastery-report__coach-actions,
+:root[data-runtime="native"] .upgrade-screen__payment-grid,
+:root[data-runtime="native"] .landing-actions,
+:root[data-runtime="native"] .voice-row,
+:root[data-runtime="native"] .nav-row {
+  gap: 10px !important;
+}
+
 .theme-toggle {
   display: inline-flex;
   align-items: center;
