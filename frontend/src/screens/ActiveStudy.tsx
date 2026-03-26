@@ -1,3 +1,4 @@
+import { Capacitor } from "@capacitor/core";
 import { useEffect, useMemo, useState } from "react";
 import type { Flashcard, IdentificationItem } from "../App";
 import ThemeToggle, { type UiTheme } from "../components/ThemeToggle";
@@ -185,6 +186,7 @@ export default function ActiveStudy({
   flashcards,
   identifications,
 }: ActiveStudyProps) {
+  const nativeRuntime = Capacitor.isNativePlatform();
   const recallItems = useMemo(
     () => buildRecallItems(flashcards, identifications),
     [flashcards, identifications],
@@ -340,16 +342,21 @@ export default function ActiveStudy({
     setPendingAssessment(null);
     setHasRatedCurrent(false);
     setRevealed(false);
-    stopAudio();
+
+    if (nativeRuntime) {
+      return;
+    }
+
+    void stopAudio();
 
     if (isSpeechSupported) {
       speakPrompt();
     }
 
     return () => {
-      stopAudio();
+      void stopAudio();
     };
-  }, [item?.id]);
+  }, [clearTranscript, isSpeechSupported, item?.id, nativeRuntime, stopAudio]);
 
   const appendReplay = (currentItem: RecallItem) => {
     setSessionDeck((prev) => {

@@ -268,7 +268,9 @@ body {
 
 :root[data-runtime="native"] .active-study__header,
 :root[data-runtime="native"] .mistake-library__topbar,
-:root[data-runtime="native"] .mastery-report__topbar {
+:root[data-runtime="native"] .mastery-report__topbar,
+:root[data-runtime="native"] .screen-toggle,
+:root[data-runtime="native"] .app-header {
   position: static !important;
   top: auto !important;
 }

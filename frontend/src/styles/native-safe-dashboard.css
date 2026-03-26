@@ -1,0 +1,140 @@
+.native-safe-dashboard {
+  min-height: 100vh;
+  padding: 20px 16px calc(28px + env(safe-area-inset-bottom));
+  background: linear-gradient(180deg, #08131b 0%, #0d1a25 42%, #112532 100%);
+  color: #f4fbff;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.native-safe-dashboard__header,
+.native-safe-dashboard__card,
+.native-safe-dashboard__stats article,
+.native-safe-dashboard__actions button,
+.native-safe-dashboard__note {
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(11, 22, 31, 0.96);
+  box-shadow: none;
+}
+
+.native-safe-dashboard__header,
+.native-safe-dashboard__card,
+.native-safe-dashboard__note {
+  padding: 18px;
+}
+
+.native-safe-dashboard__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.native-safe-dashboard__header h1 {
+  margin: 6px 0 4px;
+  font-size: 30px;
+  line-height: 1.05;
+}
+
+.native-safe-dashboard__eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 11px;
+  color: #9fc0cf;
+  font-weight: 700;
+}
+
+.native-safe-dashboard__subline {
+  display: block;
+  color: #c5d9e2;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.native-safe-dashboard__card {
+  display: grid;
+  gap: 6px;
+}
+
+.native-safe-dashboard__card strong {
+  font-size: 22px;
+}
+
+.native-safe-dashboard__card span,
+.native-safe-dashboard__note span {
+  color: #c7dce4;
+}
+
+.native-safe-dashboard__card p,
+.native-safe-dashboard__note p {
+  margin: 0;
+  color: #d9ebf1;
+  line-height: 1.55;
+}
+
+.native-safe-dashboard__stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.native-safe-dashboard__stats article {
+  padding: 16px;
+  display: grid;
+  gap: 6px;
+}
+
+.native-safe-dashboard__stats strong {
+  font-size: 24px;
+}
+
+.native-safe-dashboard__stats span {
+  color: #bed3dc;
+  font-size: 14px;
+}
+
+.native-safe-dashboard__actions {
+  display: grid;
+  gap: 10px;
+}
+
+.native-safe-dashboard__actions button {
+  width: 100%;
+  padding: 16px 18px;
+  color: #f4fbff;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: left;
+}
+
+.native-safe-dashboard__actions button:first-child {
+  background: linear-gradient(135deg, rgba(124, 232, 214, 0.18), rgba(44, 200, 216, 0.2));
+  border-color: rgba(124, 232, 214, 0.28);
+}
+
+.native-safe-dashboard__note {
+  display: grid;
+  gap: 8px;
+}
+
+.native-safe-dashboard__note p {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #7ce8d6;
+  font-weight: 700;
+}
+
+@media (min-width: 720px) {
+  .native-safe-dashboard {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .native-safe-dashboard__stats {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}

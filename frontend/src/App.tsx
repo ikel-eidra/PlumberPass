@@ -25,6 +25,7 @@ import {
 import Dashboard from "./screens/Dashboard";
 import MasteryReport from "./screens/MasteryReport";
 import MistakeLibraryScreen from "./screens/MistakeLibraryScreen";
+import NativeSafeDashboard from "./screens/NativeSafeDashboard";
 import SettingsScreen from "./screens/SettingsScreen";
 import UpgradeScreen from "./screens/UpgradeScreen";
 import VisualReview from "./screens/VisualReview";
@@ -590,6 +591,7 @@ const buildMockSegments = (
 
 export default function App() {
   const nativeBetaPremiumOverride = isNativeBetaPremiumOverrideEnabled();
+  const nativeSafeUi = IS_NATIVE_RUNTIME;
   const [mode, setMode] = useState<Mode>("Voice");
   const [theme, setTheme] = useState<UiTheme>(readStoredTheme);
   const [screen, setScreen] = useState<Screen>(resolveInitialScreen);
@@ -732,6 +734,13 @@ export default function App() {
     setSelectedAnswer(null);
   };
 
+  const stopAudioForNavigation = () => {
+    if (IS_NATIVE_RUNTIME && screen === "Landing") {
+      return;
+    }
+    void stopAudio();
+  };
+
   const refreshEntitlement = async () => {
     const apiAvailable = await canReachApi(true);
     if (!apiAvailable) {
@@ -830,7 +839,7 @@ export default function App() {
   };
 
   const openUpgrade = (gate: PremiumGate = "premium") => {
-    stopAudio();
+    stopAudioForNavigation();
     setUpgradeGate(gate);
     setBillingError(null);
     setBillingMessage(null);
@@ -838,12 +847,12 @@ export default function App() {
   };
 
   const openSettings = () => {
-    stopAudio();
+    stopAudioForNavigation();
     setScreen("Settings");
   };
 
   const startStandardReview = () => {
-    stopAudio();
+    stopAudioForNavigation();
     resetReviewCard();
     setSelectedTopicName(null);
     setIsMistakeReview(false);
@@ -862,7 +871,7 @@ export default function App() {
       return;
     }
 
-    stopAudio();
+    stopAudioForNavigation();
     resetReviewCard();
     setSelectedTopicName(topicName);
     setIsMistakeReview(false);
@@ -876,7 +885,7 @@ export default function App() {
   };
 
   const startMistakeReplay = (questionId?: string) => {
-    stopAudio();
+    stopAudioForNavigation();
     resetReviewCard();
     setSelectedTopicName(null);
     setIsMistakeReview(true);
@@ -902,7 +911,7 @@ export default function App() {
       return;
     }
 
-    stopAudio();
+    stopAudioForNavigation();
     resetReviewCard();
     setSelectedTopicName(null);
     setIsMistakeReview(false);
@@ -921,7 +930,7 @@ export default function App() {
       return;
     }
 
-    stopAudio();
+    stopAudioForNavigation();
     setSelectedTopicName(null);
     setIsMistakeReview(false);
     setIsMockExam(false);
@@ -1318,16 +1327,31 @@ export default function App() {
       question.id === fallbackQuestion.id ||
       (isMockExam && mockCompletedAt !== null)
     ) {
-      stopAudio();
+      void stopAudio();
+      return;
+    }
+
+    if (nativeSafeUi) {
       return;
     }
 
     readQuestion(question, mode === "Voice" ? () => startListening(handleTranscript) : null);
 
     return () => {
-      stopAudio();
+      void stopAudio();
     };
-  }, [activeIndex, isMistakeReview, isMockExam, mockCompletedAt, mode, question.id, screen]);
+  }, [
+    activeIndex,
+    isMistakeReview,
+    isMockExam,
+    mockCompletedAt,
+    mode,
+    nativeSafeUi,
+    question.id,
+    screen,
+    startListening,
+    stopAudio,
+  ]);
 
   if (screen === "Landing") {
     return (
@@ -1535,6 +1559,40 @@ export default function App() {
   }
 
   if (screen === "Dashboard") {
+    if (nativeSafeUi) {
+      return (
+        <NativeSafeDashboard
+          theme={theme}
+          onThemeChange={setTheme}
+          onOpenSettings={openSettings}
+          onStartSession={startStandardReview}
+          onStartRecallLab={() => {
+            stopAudioForNavigation();
+            setIsMistakeReview(false);
+            setIsMockExam(false);
+            setMockStartedAt(null);
+            setMockCompletedAt(null);
+            setMockAnswers({});
+            setScreen("ActiveStudy");
+          }}
+          onStartMockExam={startMockExamSession}
+          onStartVisualReview={startVisualReview}
+          onViewReport={() => setScreen("MasteryReport")}
+          onViewMistakes={() => setScreen("MistakeLibrary")}
+          onOpenUpgrade={() => openUpgrade("premium")}
+          subscriptionTier={subscriptionTier}
+          questionCount={questions.length}
+          mockQuestionCount={mockQuestions.length}
+          flashcardCount={flashcards.length}
+          identificationCount={identifications.length}
+          visualReviewCount={visualReviewItems.length}
+          dueCount={stats.dueCount}
+          accuracy={stats.accuracy}
+          daysToExam={daysToExam}
+        />
+      );
+    }
+
     return (
       <Dashboard
         theme={theme}
