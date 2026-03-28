@@ -1327,7 +1327,9 @@ export default function App() {
       question.id === fallbackQuestion.id ||
       (isMockExam && mockCompletedAt !== null)
     ) {
-      void stopAudio();
+      if (isListening || isSpeaking) {
+        void stopAudio();
+      }
       return;
     }
 
@@ -1347,8 +1349,10 @@ export default function App() {
     mockCompletedAt,
     mode,
     nativeSafeUi,
+    isListening,
     question.id,
     screen,
+    isSpeaking,
     startListening,
     stopAudio,
   ]);

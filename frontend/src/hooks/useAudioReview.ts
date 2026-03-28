@@ -448,6 +448,7 @@ export function useAudioReview() {
   const answerHandlerRef = useRef<((value: string) => void) | null>(null);
   const browserRecognitionRef = useRef<BrowserSpeechRecognition | null>(null);
   const nativeListenerHandlesRef = useRef<PluginListenerHandle[]>([]);
+  const nativeListenersReadyRef = useRef(false);
   const manualStopRef = useRef(false);
   const lastDeliveredTranscriptRef = useRef("");
   const speakTicketRef = useRef(0);
@@ -536,8 +537,61 @@ export function useAudioReview() {
     answerHandlerRef.current?.(nextValue);
   };
 
+  const ensureNativeListenersRegistered = async () => {
+    if (!nativePlatform || nativeListenersReadyRef.current) {
+      return;
+    }
+
+    try {
+      const handles = await Promise.all([
+        SpeechRecognition.addListener("partialResults", (event) => {
+          const bestMatch = pickBestMatch(event.matches);
+          if (bestMatch) {
+            emitTranscript(bestMatch);
+          }
+        }),
+        SpeechRecognition.addListener("segmentResults", (event) => {
+          const bestMatch = pickBestMatch(event.matches);
+          if (bestMatch) {
+            emitTranscript(bestMatch, true);
+          }
+        }),
+        SpeechRecognition.addListener("listeningState", (event) => {
+          const started = event.status === "started";
+          setIsListening(started);
+
+          if (started) {
+            setStatus("Listening for A to E or the option text.");
+            return;
+          }
+
+          if (manualStopRef.current) {
+            manualStopRef.current = false;
+            return;
+          }
+
+          setStatus(
+            lastDeliveredTranscriptRef.current
+              ? "Listening finished."
+              : "No answer was captured. Try speaking only the letter, like B.",
+          );
+        }),
+      ]);
+
+      nativeListenerHandlesRef.current = handles;
+      nativeListenersReadyRef.current = true;
+    } catch {
+      setStatus("Native voice listeners failed to initialize.");
+    }
+  };
+
   const stopRecognitionOnly = async () => {
     manualStopRef.current = true;
+
+    if (!isListening) {
+      setIsListening(false);
+      return;
+    }
 
     if (nativePlatform) {
       try {
@@ -559,6 +613,11 @@ export function useAudioReview() {
   const stopSpeechOnly = async () => {
     speakTicketRef.current += 1;
     clearAfterSpeakTimeout();
+
+    if (!isSpeaking) {
+      setIsSpeaking(false);
+      return;
+    }
 
     if (nativePlatform) {
       try {
@@ -705,6 +764,8 @@ export function useAudioReview() {
 
     if (nativePlatform) {
       try {
+        await ensureNativeListenersRegistered();
+
         const permission = await SpeechRecognition.requestPermissions();
         if (permission.speechRecognition !== "granted") {
           setIsRecognitionSupported(false);
@@ -850,12 +911,7 @@ export function useAudioReview() {
   useEffect(() => {
     const initializeRecognition = async () => {
       if (nativePlatform) {
-        try {
-          const availability = await SpeechRecognition.available();
-          setIsRecognitionSupported(availability.available);
-        } catch {
-          setIsRecognitionSupported(false);
-        }
+        setIsRecognitionSupported(true);
         return;
       }
 
@@ -868,30 +924,8 @@ export function useAudioReview() {
   useEffect(() => {
     const loadVoices = async () => {
       if (nativePlatform) {
-        let nextVoices: VoiceOption[] = [];
-        let nextSpeechSupport = false;
-
-        try {
-          const languages = await TextToSpeech.getSupportedLanguages();
-          nextSpeechSupport = languages.languages.length > 0;
-        } catch {
-          nextSpeechSupport = false;
-        }
-
-        try {
-          const voiceResponse = await TextToSpeech.getSupportedVoices();
-          const nativeVoices = buildNativeVoiceOptions(voiceResponse.voices);
-          nextVoices = nativeVoices;
-          nextSpeechSupport = nextSpeechSupport || nativeVoices.length > 0;
-        } catch {
-          nextVoices = [AUTO_VOICE_OPTION];
-        }
-
-        if (nextVoices.length === 0) {
-          nextVoices = [AUTO_VOICE_OPTION];
-        }
-        setAvailableVoices(nextVoices);
-        setIsSpeechSupported(nextSpeechSupport);
+        setAvailableVoices([AUTO_VOICE_OPTION]);
+        setIsSpeechSupported(true);
         return;
       }
 
@@ -950,62 +984,10 @@ export function useAudioReview() {
       return;
     }
 
-    let disposed = false;
-
-    const registerNativeListeners = async () => {
-      try {
-        const handles = await Promise.all([
-          SpeechRecognition.addListener("partialResults", (event) => {
-            const bestMatch = pickBestMatch(event.matches);
-            if (bestMatch) {
-              emitTranscript(bestMatch);
-            }
-          }),
-          SpeechRecognition.addListener("segmentResults", (event) => {
-            const bestMatch = pickBestMatch(event.matches);
-            if (bestMatch) {
-              emitTranscript(bestMatch, true);
-            }
-          }),
-          SpeechRecognition.addListener("listeningState", (event) => {
-            const started = event.status === "started";
-            setIsListening(started);
-
-            if (started) {
-              setStatus("Listening for A to E or the option text.");
-              return;
-            }
-
-            if (manualStopRef.current) {
-              manualStopRef.current = false;
-              return;
-            }
-
-            setStatus(
-              lastDeliveredTranscriptRef.current
-                ? "Listening finished."
-                : "No answer was captured. Try speaking only the letter, like B.",
-            );
-          }),
-        ]);
-
-        if (disposed) {
-          await Promise.all(handles.map((handle) => handle.remove()));
-          return;
-        }
-
-        nativeListenerHandlesRef.current = handles;
-      } catch {
-        setStatus("Native voice listeners failed to initialize.");
-      }
-    };
-
-    void registerNativeListeners();
-
     return () => {
-      disposed = true;
       const handles = nativeListenerHandlesRef.current;
       nativeListenerHandlesRef.current = [];
+      nativeListenersReadyRef.current = false;
       void Promise.all(handles.map((handle) => handle.remove()));
     };
   }, []);
