@@ -1,8 +1,8 @@
 .native-safe-dashboard {
   min-height: 100vh;
   padding: 20px 16px calc(28px + env(safe-area-inset-bottom));
-  background: linear-gradient(180deg, #08131b 0%, #0d1a25 42%, #112532 100%);
-  color: #f4fbff;
+  background: var(--theme-page-bg);
+  color: var(--theme-text);
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -14,9 +14,9 @@
 .native-safe-dashboard__actions button,
 .native-safe-dashboard__note {
   border-radius: 20px;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  background: rgba(11, 22, 31, 0.96);
-  box-shadow: none;
+  border: 1px solid var(--theme-border);
+  background: var(--theme-surface);
+  box-shadow: var(--theme-shadow-soft);
 }
 
 .native-safe-dashboard__header,
@@ -43,13 +43,13 @@
   text-transform: uppercase;
   letter-spacing: 0.18em;
   font-size: 11px;
-  color: #9fc0cf;
+  color: var(--theme-text-soft);
   font-weight: 700;
 }
 
 .native-safe-dashboard__subline {
   display: block;
-  color: #c5d9e2;
+  color: var(--theme-text-muted);
   font-size: 14px;
   line-height: 1.5;
 }
@@ -65,13 +65,13 @@
 
 .native-safe-dashboard__card span,
 .native-safe-dashboard__note span {
-  color: #c7dce4;
+  color: var(--theme-text-muted);
 }
 
 .native-safe-dashboard__card p,
 .native-safe-dashboard__note p {
   margin: 0;
-  color: #d9ebf1;
+  color: var(--theme-text);
   line-height: 1.55;
 }
 
@@ -92,7 +92,7 @@
 }
 
 .native-safe-dashboard__stats span {
-  color: #bed3dc;
+  color: var(--theme-text-muted);
   font-size: 14px;
 }
 
@@ -104,15 +104,17 @@
 .native-safe-dashboard__actions button {
   width: 100%;
   padding: 16px 18px;
-  color: #f4fbff;
+  color: var(--theme-text-strong);
   font-weight: 700;
   font-size: 16px;
   text-align: left;
 }
 
 .native-safe-dashboard__actions button:first-child {
-  background: linear-gradient(135deg, rgba(124, 232, 214, 0.18), rgba(44, 200, 216, 0.2));
-  border-color: rgba(124, 232, 214, 0.28);
+  background: var(--theme-primary-bg);
+  border-color: var(--theme-border);
+  color: var(--theme-primary-text);
+  box-shadow: var(--theme-primary-shadow);
 }
 
 .native-safe-dashboard__note {
@@ -124,7 +126,7 @@
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: #7ce8d6;
+  color: var(--theme-accent);
   font-weight: 700;
 }
 
